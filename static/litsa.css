@@ -1,0 +1,582 @@
+@import url("./font/literata.css");
+
+@font-face{
+  font-family:"LITSA Display";
+  src:url("./font/LITSADisplay.woff2") format("woff2");
+  font-weight:400; font-style:normal; font-display:swap;
+}
+
+/* ============================================================ TOKENS === */
+:root{
+  --ink:#18212F; --ink-2:#3A4657; --ink-3:#657282;
+  --line:#D5DBE3; --line-soft:#E6EAEF;
+  --paper:#F7F8FA; --paper-2:#FFFFFF;
+  --blue:#1769E0; --blue-deep:#0F4FAB;
+  --gold:#E5AD2D;
+
+  --display:"LITSA Display","Helvetica Neue",Arial,sans-serif;
+  --body:"Literata",Georgia,"Times New Roman",serif;
+
+  /* 12 14 16 18 21 26 33 44 60 82 */
+  --t-xs:12px; --t-sm:14px; --t-base:16px; --t-md:18px; --t-lg:21px;
+  --t-xl:26px; --t-2xl:33px; --t-3xl:44px; --t-4xl:60px; --t-5xl:82px;
+
+  --s1:4px; --s2:8px; --s3:12px; --s4:16px; --s5:24px; --s6:32px;
+  --s7:48px; --s8:64px; --s9:96px; --s10:128px; --s11:192px;
+
+  --wrap:1180px;
+  --rail:172px;
+  --gap:56px;
+  --measure:58ch;
+}
+
+/* ============================================================= RESET === */
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:var(--body); font-size:var(--t-md); line-height:1.62;
+  font-synthesis-weight:none;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+  text-rendering:optimizeLegibility;
+}
+img,svg{display:block; max-width:100%;}
+img{height:auto; border-radius:0;}
+h1,h2,h3,h4,p,ul,ol,figure,blockquote{margin:0;}
+ul,ol{padding:0; list-style:none;}
+a{color:var(--blue); text-decoration:none; text-underline-offset:3px;
+  text-decoration-thickness:1px;}
+a:hover{text-decoration:underline;}
+:focus-visible{outline:2px solid var(--blue); outline-offset:2px; border-radius:0;}
+::selection{background:var(--ink); color:var(--paper);}
+* {border-radius:0 !important;}          /* the governing rule, enforced */
+html,body{overflow-x:clip; max-width:100%;}
+h1,h2,h3,h4,p,li,figcaption{overflow-wrap:anywhere; max-width:100%;}
+
+/* ========================================================== SKIP LINK === */
+.skip{position:absolute; left:-9999px; top:0; z-index:99;
+  background:var(--ink); color:var(--paper); padding:var(--s3) var(--s5);
+  font-family:var(--display); font-size:var(--t-sm); letter-spacing:.06em;}
+.skip:focus{left:0;}
+
+/* ============================================================ LAYOUT === */
+.wrap{max-width:var(--wrap); margin:0 auto; padding-inline:var(--s6);}
+.rail{
+  display:grid; grid-template-columns:var(--rail) minmax(0,1fr);
+  column-gap:var(--gap);
+}
+.rail > .rail-label{
+  font-family:var(--display); font-size:11px; line-height:1.5;
+  letter-spacing:.14em; text-transform:uppercase; color:var(--ink-3);
+  padding-top:9px;
+}
+.rail > .rail-label .u{display:block; color:var(--gold); margin-top:var(--s2);
+  font-size:10px; letter-spacing:.1em;}
+.prose{max-width:min(var(--measure),100%);}
+.prose p + p{margin-top:var(--s5);}
+.prose p{hanging-punctuation:first last;}
+
+section{padding-block:var(--s9);}
+section.tight{padding-block:var(--s8);}
+
+/* ====================================================== STEP DIVIDER === */
+/* The identity's own move: a stroke that steps rather than joins. */
+.step{display:block; width:100%; height:14px; overflow:hidden;}
+.step svg{width:100%; height:14px;}
+
+/* ============================================================== TYPE === */
+.display{font-family:var(--display); font-weight:400;}
+.eyebrow{
+  font-family:var(--display); font-size:var(--t-xs); letter-spacing:.16em;
+  text-transform:uppercase; color:var(--ink-3);
+}
+h1,.h1{
+  font-family:var(--display); font-size:clamp(42px,6.4vw,var(--t-5xl));
+  line-height:1.04; letter-spacing:.012em; font-weight:400;
+  text-wrap:balance;
+}
+h2,.h2{
+  font-family:var(--display); font-size:clamp(28px,3.4vw,var(--t-2xl));
+  line-height:1.1; letter-spacing:.015em; font-weight:400; text-wrap:balance;
+}
+h3,.h3{
+  font-family:var(--display); font-size:var(--t-lg); line-height:1.2;
+  letter-spacing:.02em; font-weight:400;
+}
+.lede{font-size:var(--t-lg); line-height:1.55; color:var(--ink-2);
+  max-width:min(var(--measure),100%);}
+.small{font-size:var(--t-sm); color:var(--ink-3); line-height:1.55;}
+.num{font-variant-numeric:tabular-nums;}
+
+
+/* Buttons: shared by the home hero and the "Getting in" slabs. */
+.btn{font-family:var(--display); font-size:var(--t-sm); letter-spacing:.1em;
+  text-transform:uppercase; padding:14px 22px; display:inline-block;}
+.btn--solid{background:var(--blue); color:var(--paper);}
+.btn--solid:hover{background:var(--blue-deep); text-decoration:none;}
+.btn--ghost{color:var(--ink); box-shadow:inset 0 0 0 1.5px var(--ink);}
+.btn--ghost:hover{background:var(--ink); color:var(--paper); text-decoration:none;}
+.slab .btn--ghost{color:var(--paper); box-shadow:inset 0 0 0 1.5px var(--paper);}
+.slab .btn--ghost:hover{background:var(--paper); color:var(--ink);}
+
+/* ============================================================ HEADER === */
+.masthead{border-bottom:1px solid var(--line-soft); background:var(--paper);}
+.masthead .bar{display:flex; align-items:center; gap:var(--s6);
+  padding-block:var(--s4); min-height:64px;
+  /* The grade-bar further down this file is also .bar and sets height:14px
+     with overflow:hidden. Without these two the masthead nav is clipped and
+     overlaps the page on narrow viewports. */
+  height:auto; overflow:visible;}
+.masthead .mark{display:flex; align-items:center; gap:var(--s3);
+  flex:0 0 auto;}
+.masthead .mark svg.torch{height:36px; width:auto; flex:0 0 auto;}
+.masthead .mark svg.word{width:146px; height:auto;}
+.masthead nav{margin-left:auto; display:flex; align-items:center;
+  gap:var(--s4); flex-wrap:nowrap;}
+.masthead nav a{
+  font-family:var(--display); font-size:var(--t-xs); letter-spacing:.11em; white-space:nowrap;
+  text-transform:uppercase; color:var(--ink-2);
+}
+.masthead nav a:hover{color:var(--ink); text-decoration:none;}
+.masthead nav a[aria-current="page"]{color:var(--ink);
+  box-shadow:inset 0 -2px 0 var(--ink);}
+.masthead nav a.cta{color:var(--paper); background:var(--blue);
+  padding:9px 14px;}
+.masthead nav a.cta:hover{background:var(--blue-deep);}
+.masthead .mcta, .masthead .mnav{display:none;}
+/* Below 1180px (where the full list stops fitting): the logo, Join, and a Menu button; the full list opens under the bar. */
+@media (max-width:1180px){
+  .masthead .bar{position:relative; gap:var(--s3);}
+  .masthead .bar > nav{display:none;}
+  .masthead .mcta{display:inline-block; margin-left:auto;}
+  .masthead .mnav{display:block;}
+}
+.masthead a.mcta{font-family:var(--display); font-size:var(--t-xs); letter-spacing:.13em;
+  text-transform:uppercase; color:var(--paper); background:var(--blue); padding:9px 14px;}
+.masthead .mnav summary{font-family:var(--display); font-size:var(--t-xs); letter-spacing:.13em;
+  text-transform:uppercase; color:var(--ink); cursor:pointer; list-style:none;
+  padding:8px 12px; box-shadow:inset 0 0 0 1.5px var(--ink);}
+.masthead .mnav summary::-webkit-details-marker{display:none;}
+.masthead .mnav[open] summary{background:var(--ink); color:var(--paper);}
+.masthead .mnav nav{position:absolute; left:0; right:0; top:100%; background:var(--paper);
+  border-bottom:1px solid var(--line); display:flex; flex-direction:column; align-items:stretch;
+  gap:0; padding:var(--s2) var(--s5) var(--s4); margin:0;}
+.masthead .mnav nav a{padding:var(--s3) 0; border-bottom:1px solid var(--line-soft);}
+
+/* ============================================================ FOOTER === */
+.foot{border-top:1px solid var(--line-soft); margin-top:var(--s10);
+  padding-block:var(--s8) var(--s9); font-size:var(--t-sm);
+  color:var(--ink-3);}
+.foot a{color:var(--ink-2);}
+.foot .cols{display:grid; grid-template-columns:2fr repeat(4, 1fr); gap:var(--s6);}
+.foot .fh{font-family:var(--display); font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--ink); margin-bottom:var(--s4);}
+.foot li + li{margin-top:var(--s2);}
+
+/* ============================================================= INK BLOCK */
+.slab{background:var(--ink); color:var(--paper);}
+.slab .eyebrow{color:var(--gold);}
+.slab a{color:#8FC0FF;}
+.slab .lede{color:#C3CCD8;}
+
+/* ============================================================== TAGS === */
+.tag{
+  display:inline-block; font-family:var(--display); font-size:10.5px;
+  letter-spacing:.1em; text-transform:uppercase; padding:4px 8px;
+  border:1.5px solid currentColor; white-space:nowrap;
+}
+.tag--none{color:#0F7A5A;} .tag--some{color:#8C6A12;} .tag--code{color:var(--blue);}
+
+/* ============================================================ FIGURES == */
+figure{margin:0;}
+figcaption{font-size:var(--t-xs); color:var(--ink-3); margin-top:var(--s3);
+  line-height:1.5; max-width:52ch;}
+figcaption b{color:var(--ink-2); font-weight:600;}
+.editorial-scene{margin-top:var(--s7); border-top:2px solid var(--gold); padding-top:var(--s3);}
+.editorial-scene img{display:block; width:100%; height:auto; image-rendering:auto;}
+.editorial-scene figcaption{max-width:72ch; line-height:1.55;}
+.rail > .editorial-scene{grid-column:2;}
+
+/* ============================================================= MOTION == */
+@media (prefers-reduced-motion:no-preference){
+  .step svg rect{opacity:0; animation:stepIn .5s ease forwards;}
+  .step svg rect:nth-child(1){animation-delay:.00s;}
+  .step svg rect:nth-child(2){animation-delay:.06s;}
+  .step svg rect:nth-child(3){animation-delay:.12s;}
+}
+@keyframes stepIn{to{opacity:1;}}
+
+/* ========================================================== RESPONSIVE = */
+@media (max-width:900px){
+  :root{--gap:24px; --rail:120px;}
+  .foot .cols{grid-template-columns:repeat(4, 1fr);} .foot .cols > div:first-child{grid-column:1 / -1;}
+}
+@media (max-width:680px){
+  :root{--s9:56px; --s10:72px; --t-lg:18px; --t-md:17px;}
+  .wrap{padding-inline:var(--s5);}
+  .masthead .mark svg.word{width:118px;}
+  .rail{grid-template-columns:1fr; row-gap:var(--s4);}
+  .rail > .editorial-scene{grid-column:1;}
+  .rail > .rail-label{padding-top:0;}
+
+  .foot .cols{grid-template-columns:1fr 1fr; gap:var(--s6);}
+}
+
+/* ================================================== DELIGHTS ========== */
+
+/* 01 — stepped link underline, drawn on hover */
+a:not(.btn):not(.cta):not(.mark):not(.skip){
+  position:relative; text-decoration:none;
+}
+a:not(.btn):not(.cta):not(.mark):not(.skip)::after{
+  content:""; position:absolute; left:0; bottom:-2px; height:2px; width:0;
+  background:var(--blue); transition:width .22s steps(4);
+}
+a:not(.btn):not(.cta):not(.mark):not(.skip):hover::after{width:100%;}
+
+/* 02 — stepped focus ring */
+:focus-visible{outline:2px solid var(--blue); outline-offset:3px;}
+
+/* 03 — the measurement grid overlay, the thesis made visible */
+#grid{position:fixed; inset:0; z-index:80; pointer-events:none; display:none;}
+body.grid-on #grid{display:block;}
+#grid .col{position:absolute; top:0; bottom:0; width:1px; background:rgba(23,105,224,.16);}
+#grid .u{position:absolute; left:0; right:0; height:1px; background:rgba(229,173,45,.22);}
+#grid .badge{position:fixed; right:14px; bottom:14px; background:var(--ink);
+  color:var(--paper); font-family:var(--display); font-size:10px;
+  letter-spacing:.12em; padding:7px 10px;}
+
+/* 04 — stepped scroll progress */
+#prog{position:fixed; top:0; left:0; height:4px; background:var(--gold);
+  width:0; z-index:90; transition:width .1s linear;}
+
+/* 05 — masthead torch lights on hover */
+.masthead .mark svg.torch rect[fill="#e5ad2d"]{transition:fill .18s steps(3);}
+.masthead .mark:hover svg.torch rect[fill="#e5ad2d"]{fill:#FFC63D;}
+
+/* 06 — giant cropped wordmark in the footer */
+.foot .bigmark{margin-top:var(--s8); overflow:hidden; height:76px;}
+.foot .bigmark svg{width:132%; height:auto; margin-left:-4%;}
+.foot .bigmark svg rect{fill:#E2E7ED;}
+
+/* 07 — section initial, a huge display letter behind a heading */
+.initial{position:relative;}
+.initial::before{content:attr(data-initial); position:absolute; left:-0.14em;
+  top:-0.30em; font-family:var(--display); font-size:5.6em; line-height:1;
+  color:rgba(23,33,47,.045); z-index:0; pointer-events:none;}
+.initial > *{position:relative; z-index:1;}
+
+/* 08 — stepped corner notch on domain cards */
+.dom{position:relative;}
+.dom::after{content:""; position:absolute; right:0; top:-2px; width:14px;
+  height:6px; background:var(--paper); }
+.dom::before{content:""; position:absolute; right:14px; top:-2px; width:9px;
+  height:2px; background:var(--gold);}
+
+/* 09 — proportional tally bar */
+.bar{display:flex; height:14px; margin-top:var(--s5); overflow:hidden;}
+.bar span{display:block;}
+.bar .b-none{background:#0F7A5A;} .bar .b-some{background:#8C6A12;}
+.bar .b-code{background:var(--blue);}
+
+/* 10 — filter state on the field page */
+.dom.dim{opacity:.26; transition:opacity .2s;}
+.filter{cursor:pointer; background:none; border:1.5px solid currentColor;
+  font:inherit;}
+.filter[aria-pressed="true"]{background:currentColor;}
+.filter[aria-pressed="true"] i{color:var(--paper); font-style:normal;}
+
+/* 11 — route icons built from the module grid */
+.ico{width:34px; height:34px; flex:0 0 auto;}
+.ico rect{fill:var(--gold);}
+.route .hd{display:flex; gap:var(--s4); align-items:flex-start;}
+
+/* 12 — keyboard hint */
+.kbd{font-family:var(--display); font-size:10px; letter-spacing:.08em;
+  border:1px solid var(--line); padding:2px 6px; color:var(--ink-3);}
+
+/* 13 — history spine */
+.act{position:relative;}
+.act::before{content:""; position:absolute; left:calc(var(--rail) + var(--gap)/2 - 1px);
+  top:0; bottom:0; width:2px; background:var(--line-soft);}
+.act .yr{position:relative;}
+.act .yr::after{content:""; position:absolute; right:calc(-1 * var(--gap)/2 - 4px);
+  top:.42em; width:10px; height:10px; background:var(--gold);}
+@media (max-width:680px){.act::before,.act .yr::after{display:none;}}
+
+/* 14 — minor beats on the timeline */
+.beats{margin-top:var(--s6); border-top:1px solid var(--line-soft);}
+.beat{display:grid; grid-template-columns:78px minmax(0,1fr); gap:var(--s4);
+  padding-block:var(--s4); border-bottom:1px solid var(--line-soft);}
+.beat b{font-family:var(--display); font-size:var(--t-base); letter-spacing:.02em;
+  color:var(--ink-2);}
+.beat p{font-size:var(--t-base); color:var(--ink-2); line-height:1.5;}
+
+/* 15 — citation block */
+.cite{margin-top:var(--s7); border-left:3px solid var(--gold);
+  padding:var(--s4) 0 var(--s4) var(--s5); font-size:var(--t-sm);
+  color:var(--ink-3); line-height:1.6;}
+.cite code{font-family:var(--display); font-size:12px; letter-spacing:.03em;
+  color:var(--ink-2);}
+
+/* 16 — the A+ as a graphic, not a footnote */
+.grade{display:flex; align-items:flex-start; gap:var(--s5); margin-top:var(--s7);}
+.grade .mk{font-family:var(--display); font-size:clamp(64px,9vw,116px);
+  line-height:.82; letter-spacing:.005em; color:var(--ink);}
+.grade .mk em{font-style:normal; color:var(--gold);}
+.grade .txt{font-size:var(--t-base); color:var(--ink-2); max-width:32ch;
+  padding-top:.5em; line-height:1.5;}
+
+/* 17 — pull quote */
+.pull{font-family:var(--display); font-size:clamp(24px,3vw,var(--t-xl));
+  line-height:1.22; letter-spacing:.015em; color:var(--ink);
+  border-left:4px solid var(--gold); padding-left:var(--s5);
+  margin-block:var(--s7); max-width:26ch;}
+
+/* 18 — hanging punctuation + tabular numerals */
+p,li{hanging-punctuation:first last;}
+.num,time,td,.beat b{font-variant-numeric:tabular-nums;}
+
+/* 19 — anchored year permalinks */
+.act .yr a{color:inherit; background:none;}
+.act .yr a::after{content:" ¶"; opacity:0; font-size:.4em; vertical-align:super;
+  color:var(--gold);}
+.act:hover .yr a::after{opacity:1;}
+
+/* 20 — print */
+@media print{
+  .masthead nav,.skip,#grid,#prog,.foot .bigmark{display:none !important;}
+  body{background:#fff; font-size:11pt;}
+  .slab{background:#fff !important; color:#000 !important;}
+  .slab .lede,.slab .rail-label{color:#333 !important;}
+  a{color:#000 !important; background:none !important;}
+  a[href^="http"]::after{content:" (" attr(href) ")"; font-size:8pt; color:#555;}
+  section{padding-block:18pt; break-inside:avoid;}
+  .step svg rect{fill:#000 !important;}
+}
+
+/* 21 — reduced motion honoured for every delight */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none !important; transition:none !important;}
+  .step svg rect{opacity:1 !important;}
+}
+
+/* --- the torch, burning ------------------------------------------------ */
+.live .fr{opacity:0;}
+.live .fr0{opacity:1;}
+@media (prefers-reduced-motion:no-preference){
+  .live .fr{animation:flick 640ms steps(1,end) infinite;}
+  .live .fr0{animation-delay:0ms;}  .live .fr1{animation-delay:160ms;}
+  .live .fr2{animation-delay:320ms;} .live .fr3{animation-delay:480ms;}
+}
+@keyframes flick{
+  0%,24.99%{opacity:1;}
+  25%,100%{opacity:0;}
+}
+.hero .bleed .live{width:100%; height:auto;}
+
+/* --- hover peek: courses, and the bands on the tally bar --------------- */
+.peek{position:relative; border-bottom:2px dotted var(--gold); cursor:help;}
+.peek .pop{position:absolute; left:0; top:calc(100% + 10px); width:min(420px,84vw);
+  background:var(--ink); color:var(--paper); padding:16px 18px; z-index:60;
+  font-family:var(--body); font-size:14px; line-height:1.5; display:none;}
+.peek:hover .pop, .peek:focus .pop, .peek:focus-within .pop{display:block;}
+.peek .pop b{display:block; font-family:var(--display); font-size:10.5px;
+  letter-spacing:.13em; text-transform:uppercase; color:var(--gold);
+  margin:0 0 6px;}
+.peek .pop b + *, .peek .pop b:not(:first-child){margin-top:12px;}
+.bar span{cursor:pointer; transition:filter .15s;}
+.bar span:hover, .bar span:focus{filter:brightness(1.18); outline:none;}
+.barout{margin-top:12px; font-size:15px; color:var(--ink-2); min-height:3.2em;
+  max-width:62ch; line-height:1.5;}
+.barout b{font-family:var(--display); font-size:12px; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--ink); display:block; margin-bottom:4px;}
+
+/* --- delights, second pass -------------------------------------------- */
+::-webkit-scrollbar{width:12px;height:12px;}
+::-webkit-scrollbar-track{background:var(--paper);}
+::-webkit-scrollbar-thumb{background:var(--ink-3); border:3px solid var(--paper);}
+::-webkit-scrollbar-thumb:hover{background:var(--ink-2);}
+html{scrollbar-color:var(--ink-3) var(--paper); scroll-behavior:smooth;}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto;}}
+
+:target{scroll-margin-top:90px;}
+:target .yr, :target > .yr{box-shadow:inset 0 -3px 0 var(--gold);}
+
+.slab ::selection{background:var(--gold); color:var(--ink);}
+.stamp{display:inline-block; margin-left:14px; color:var(--ink-3);}
+
+.beat:hover{background:#EFF2F6;}
+.beat:hover b{color:var(--ink);}
+
+/* copy-link affordance on headings */
+.anchor{opacity:0; margin-left:.4em; font-size:.5em; vertical-align:middle;
+  color:var(--gold); text-decoration:none; transition:opacity .15s;}
+h2:hover .anchor, h3:hover .anchor, .anchor:focus{opacity:1;}
+
+/* compact masthead once you scroll */
+.masthead{position:sticky; top:0; z-index:70; transition:padding .2s;}
+body.scrolled .masthead .bar{padding-block:8px; min-height:52px;}
+body.scrolled .masthead .mark svg.torch{height:30px;}
+body.scrolled .masthead .mark svg.word{width:104px;}
+body.scrolled .masthead{border-bottom-color:var(--line);}
+
+/* back to top, stepped */
+#totop{position:fixed; right:20px; bottom:80px; z-index:75; display:none;
+  background:var(--ink); color:var(--paper); border:0; cursor:pointer;
+  font-family:var(--display); font-size:10px; letter-spacing:.12em;
+  padding:10px 12px;}
+body.scrolled #totop{display:block;}
+#totop:hover{background:var(--blue);}
+
+/* keyboard shortcut sheet */
+#keys{position:fixed; inset:0; background:rgba(24,33,47,.86); z-index:95;
+  display:none; align-items:center; justify-content:center;}
+body.keys-on #keys{display:flex;}
+#keys .card{background:var(--paper); padding:32px 36px; max-width:460px;}
+#keys h3{margin-bottom:16px;}
+#keys dl{display:grid; grid-template-columns:auto 1fr; gap:10px 18px;
+  font-size:15px; align-items:baseline;}
+#keys dt{font-family:var(--display); font-size:11px; letter-spacing:.1em;
+  border:1px solid var(--line); padding:3px 8px; text-align:center;}
+#keys dd{margin:0; color:var(--ink-2);}
+
+/* reading time */
+.readtime{font-family:var(--display); font-size:11px; letter-spacing:.12em;
+  text-transform:uppercase; color:var(--ink-3); margin-top:10px;}
+
+/* scroll-spy rail on history */
+.spy{position:sticky; top:96px; font-family:var(--display); font-size:11px;
+  letter-spacing:.1em; text-transform:uppercase; line-height:2;}
+.spy a{display:block; color:var(--ink-3);}
+.spy a.on{color:var(--ink); box-shadow:inset 2px 0 0 var(--gold); padding-left:8px;}
+
+/* stepped rule for long prose */
+.hr-step{display:block; width:96px; height:8px; margin:var(--s7) 0;}
+
+.lane .rows .lab{font-family:var(--display); font-size:var(--t-xs);
+  letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3);
+  margin-bottom:var(--s2);}
+.foot .fh{font-family:var(--display); font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--ink); margin-bottom:var(--s4);}
+
+/* ===================== VISUAL PASS ==================================== */
+
+/* V1 — ink slabs begin with a staircase, not a straight edge */
+.slab{
+  clip-path:polygon(
+    0 18px, 14% 18px, 14% 12px, 28% 12px, 28% 6px, 42% 6px, 42% 0,
+    100% 0, 100% 100%, 0 100%);
+  padding-top:calc(var(--s9) + 18px);
+}
+
+/* V2 — module dither along the top of every ink slab */
+.slab::before{
+  content:""; position:absolute; left:0; right:0; top:0; height:52px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Crect width='4' height='4' x='0' y='0' fill='%23E5AD2D' fill-opacity='0.30'/%3E%3Crect width='4' height='4' x='8' y='8' fill='%23E5AD2D' fill-opacity='0.16'/%3E%3C/svg%3E");
+  background-size:16px 16px; pointer-events:none;
+  -webkit-mask-image:linear-gradient(#000,transparent);
+  mask-image:linear-gradient(#000,transparent);
+}
+.slab{position:relative; overflow:hidden;}
+
+/* V3 — drop cap, set in the display face */
+.dropcap::first-letter{
+  font-family:var(--display); font-size:3.1em; line-height:.86; float:left;
+  padding:.04em .1em 0 0; color:var(--ink);
+}
+@media (max-width:680px){.dropcap::first-letter{font-size:2.5em;}}
+
+/* V4 — ghosted year behind each act on the timeline */
+.act{position:relative;}
+.act > .yr{overflow:hidden;}
+.act > .yr::before{
+  content:attr(data-ghost); position:absolute; left:-4px; top:-.30em;
+  font-family:var(--display); font-size:2.5em; line-height:1;
+  color:rgba(23,33,47,.05); z-index:0; pointer-events:none; letter-spacing:.01em;
+  white-space:nowrap;
+}
+.act > .yr{z-index:1;}
+
+/* V5 — crop marks at the corners of the content column */
+.wrap{position:relative;}
+section > .wrap::before, section > .wrap::after{
+  content:""; position:absolute; width:11px; height:11px; pointer-events:none;
+  border-color:var(--line); border-style:solid;
+}
+section > .wrap::before{left:6px; top:-16px; border-width:1px 0 0 1px;}
+section > .wrap::after{right:6px; bottom:-16px; border-width:0 1px 1px 0;}
+
+/* V6 — family plates on the field page */
+.fam{position:relative; padding-left:0;}
+.fam > h2{display:flex; align-items:center; gap:14px;}
+.fam .plate{flex:0 0 auto; width:30px; height:30px;}
+.fam .plate rect{fill:var(--gold);}
+
+/* V7 — stepped pixel edge on the archival portrait */
+figure.plate img{
+  clip-path:polygon(
+    0 0, calc(100% - 18px) 0, calc(100% - 18px) 9px, calc(100% - 9px) 9px,
+    calc(100% - 9px) 18px, 100% 18px, 100% 100%,
+    18px 100%, 18px calc(100% - 9px), 9px calc(100% - 9px),
+    9px calc(100% - 18px), 0 calc(100% - 18px));
+}
+
+/* V8 — module bullets */
+main ul:not(.spy):not(.foot ul) li{position:relative; padding-left:22px;}
+main ul li::before{
+  content:""; position:absolute; left:0; top:.62em; width:8px; height:8px;
+  background:var(--gold);
+}
+.foot ul li{padding-left:0;} .foot ul li::before{display:none;}
+#keys dl + p{padding-left:0;}
+
+/* V9 — measured tick rail beside the section label */
+.rail-label{position:relative;}
+.rail-label::before{
+  content:""; position:absolute; left:-16px; top:2px; width:6px; height:74px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6' height='12'%3E%3Crect width='6' height='1.5' y='0' fill='%23657282'/%3E%3Crect width='3' height='1.5' y='6' fill='%23657282'/%3E%3C/svg%3E");
+  background-size:6px 12px; opacity:.55;
+}
+@media (max-width:680px){.rail-label::before{display:none;}}
+
+/* V10 — a torch watermark, cropped differently on every page */
+.mark-wm{position:absolute; pointer-events:none; z-index:0;}
+.mark-wm svg{width:100%; height:auto;}
+.mark-wm rect{fill:#EEF1F5;}
+section{position:relative;}
+section > .wrap{position:relative; z-index:1;}
+@media (max-width:900px){.mark-wm{display:none;}}
+#toast{position:fixed; left:50%; bottom:36px; transform:translateX(-50%);
+  background:var(--ink); color:var(--gold); z-index:96;
+  font-family:var(--display); font-size:13px; letter-spacing:.1em;
+  text-transform:uppercase; padding:14px 22px;}
+
+
+/* ======================================================= ASK / ASSISTANT ===
+   Persistent entry point to the Suffolk assistant. Injected by resources.js,
+   so with JS off there is simply no button and the page is unaffected. */
+#ask{
+  position:fixed; right:20px; bottom:20px; z-index:60;
+  display:flex; align-items:center; gap:10px;
+  background:var(--ink); color:var(--paper);
+  padding:11px 16px 11px 12px;
+  border:1px solid var(--ink);
+  font-family:var(--display); font-size:var(--t-xs); letter-spacing:.1em;
+  text-transform:uppercase; text-decoration:none;
+  box-shadow:0 2px 0 var(--gold);
+}
+#ask:hover{background:var(--paper-2); color:var(--ink); text-decoration:none;
+  box-shadow:0 2px 0 var(--ink);}
+#ask .ask-i{
+  display:grid; place-items:center; width:22px; height:22px;
+  background:var(--gold); color:var(--ink);
+  font-size:13px; letter-spacing:0; flex:0 0 auto;
+}
+#ask:focus-visible{outline:2px solid var(--blue); outline-offset:3px;}
+@media (max-width:620px){
+  #ask{right:12px; bottom:12px; padding:9px 12px 9px 9px;}
+  #totop{right:12px; bottom:62px;}
+  #ask .ask-t{display:none;}
+}
+@media print{#ask{display:none;}}

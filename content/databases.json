@@ -1,0 +1,2134 @@
+{
+ "source": "https://lawguides.suffolk.edu/az/databases",
+ "verified": "2026-08-27",
+ "count": 101,
+ "items": [
+  {
+   "id": "81411126",
+   "title": "ABA Law Library Collection Periodicals",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=aba",
+   "subjects": [],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Every current and historical ABA periodical, including 44 titles normally locked to section members.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65876779",
+   "title": "Academic OneFile",
+   "url": "https://ezproxysuf.flo.org/login?url=https://go.gale.com/ps/start.do?p=AONE&u=mlin_b_suffuniv",
+   "subjects": [
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Health Law",
+    "Multidisciplinary",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "journals",
+    "periodicals",
+    "podcasts"
+   ],
+   "vendors": [
+    "Gale"
+   ],
+   "access": "proxy",
+   "description": "Eight thousand peer-reviewed journals plus newspapers and reference works. Good for the non-law half of an interdisciplinary paper.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81339734",
+   "title": "Academic Search Complete",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h",
+   "subjects": [
+    "Multidisciplinary",
+    "Social Science"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "The general scholarly database. Reach for it when your topic runs past law into medicine, education or social policy.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65876933",
+   "title": "Academic Video Online",
+   "url": "https://ezproxysuf.flo.org/login?url=https://video.alexanderstreet.com/channels?https%3A%2F%2Fvideo.alexanderstreet.com%2Fwayf%3Fdestination=channels",
+   "subjects": [
+    "Film & Video",
+    "Multidisciplinary",
+    "Social Science"
+   ],
+   "types": [
+    "audiovisual material",
+    "streaming",
+    "videos"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Sixty-seven thousand films and documentaries. Occasionally the fastest way to understand an unfamiliar industry.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411137",
+   "title": "Bar Journals",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=barjournals",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "blog",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Roughly 160 state and city bar journals. Practitioners write here about problems before the law reviews notice them.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877017",
+   "title": "Boston Business Journal",
+   "url": "https://www.bizjournals.com/boston/",
+   "subjects": [
+    "Business",
+    "News"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Local business news, useful for tracking the companies your summer employer works with. You set up the login yourself.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "82920734",
+   "title": "Boston Globe",
+   "url": "https://suffolk.libguides.com/c.php?g=1054444",
+   "subjects": [
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "newspapers"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Three ways in: as a secondary source inside Westlaw or Lexis+, through the Sawyer guide, or in print at the library going back two months.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877037",
+   "title": "CALI Lessons",
+   "url": "https://www.cali.org/",
+   "subjects": [
+    "Bar Exam",
+    "Exam Prep",
+    "Study Aids"
+   ],
+   "types": [
+    "Study Aids",
+    "e-books",
+    "periodicals"
+   ],
+   "vendors": [
+    "CALI"
+   ],
+   "access": "account",
+   "description": "Hundreds of interactive lessons across 40-plus subjects, covering every 1L course, with real-time feedback. Get the authorization code from the research desk.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "76657577",
+   "title": "Caselaw Access Project",
+   "url": "https://case.law/",
+   "subjects": [
+    "Case Research",
+    "Indigenous Issues"
+   ],
+   "types": [
+    "cases"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Six and a half million decisions from every state, federal and territorial court, free and open. No login, no seat limit.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887725",
+   "title": "Checkpoint Edge",
+   "url": "https://ezproxysuf.flo.org/login?url=https://checkpoint.riag.com/login?iploc=SuffUniversLawLibrarry",
+   "subjects": [
+    "Business",
+    "Intellectual Property",
+    "Tax & Accounting"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "Thomson Reuters"
+   ],
+   "access": "proxy",
+   "description": "RIA's tax research service, covering federal, state, international and IFRS, plus Catalyst for comparative tax planning.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877066",
+   "title": "Chronicle of Higher Education",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.chronicle.com",
+   "subjects": [
+    "Multidisciplinary",
+    "News",
+    "Social Science"
+   ],
+   "types": [
+    "journals",
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Higher education news and data back to 1989. The standard source for education law work.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81724491",
+   "title": "CLBB NeuroLaw Library",
+   "url": "https://clbbneurolawlibrary.com/",
+   "subjects": [
+    "Criminal Law",
+    "Health Law",
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "audiovisual material",
+    "briefs",
+    "government documents",
+    "journals",
+    "periodicals",
+    "videos"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Curated neuroscience-and-law scholarship, amicus briefs and affidavits, free to anyone. Niche, but nothing else collects it.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888678",
+   "title": "Code of Federal Regulations",
+   "url": "https://www.ecfr.gov/",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The official codified text of federal agency regulations. Start here rather than a vendor's copy when the exact wording matters.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888740",
+   "title": "Compilation of Presidential Documents",
+   "url": "https://www.govinfo.gov/app/collection/CPD/",
+   "subjects": [
+    "Federal Documents",
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "briefs",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Everything the White House Press Secretary releases, officially published. Proclamations, executive orders, remarks.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888611",
+   "title": "Congress.gov",
+   "url": "http://www.congress.gov/",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "audiovisual material",
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The official record of federal legislation. Bill text, status, sponsors, committee reports, and the Congressional Record.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888280",
+   "title": "CourtLink",
+   "url": "https://advance.lexis.com/courtlinkhome?crid=09ee3f24-3bf0-43cb-8406-d04c3d7caa1c",
+   "subjects": [
+    "Case Research"
+   ],
+   "types": [
+    "briefs",
+    "cases"
+   ],
+   "vendors": [
+    "Lexis+"
+   ],
+   "access": "account",
+   "description": "Federal and state dockets and filed documents inside Lexis. This is what you use instead of PACER, which the library does not provide.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "76657548",
+   "title": "CourtListener",
+   "url": "https://www.courtlistener.com/",
+   "subjects": [
+    "Case Research",
+    "Legislative History"
+   ],
+   "types": [
+    "audiovisual material",
+    "cases"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Three million opinions, free, plus the RECAP archive of PACER documents other people have already paid for.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81339813",
+   "title": "Criminal Justice Abstracts",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=i3h",
+   "subjects": [
+    "Criminal Law",
+    "Secondary Sources"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Scholarship on criminology, corrections, policing and criminal procedure. The empirical literature behind the doctrine.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877565",
+   "title": "Current Index to Legal Periodicals",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=cilp",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "bibliography",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "A weekly index of new law review articles, published by the University of Washington for close to ninety years. Good for a literature check before you commit to a note topic.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "76657534",
+   "title": "Decisis",
+   "url": "https://www.decisis.com/",
+   "subjects": [
+    "Case Research",
+    "Federal Documents",
+    "News"
+   ],
+   "types": [
+    "cases",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "account",
+   "description": "A citator and research platform, free to Massachusetts Bar Association members. Student MBA membership gets you in.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877700",
+   "title": "EBSCOHost",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost",
+   "subjects": [
+    "Business",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Health Law",
+    "International Law",
+    "Land Use & Zoning",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "e-books",
+    "government documents",
+    "journals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "The EBSCO platform itself, searching up to 53 databases at once. Broad, and blunt.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81340120",
+   "title": "Educational Resource Information Center",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eric",
+   "subjects": [
+    "Education Law",
+    "Multidisciplinary",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "e-books",
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Education research, curriculum materials, dissertations and conference papers. The evidence base for education law arguments.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81417157",
+   "title": "Elgaronline",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/browse?access=user&level=all&pageSize=10&sort=datedescending&t=LawACA_Main_ID&type_4=journal&type_7=book",
+   "subjects": [
+    "International Law"
+   ],
+   "types": [
+    "e-books",
+    "journals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Edward Elgar's ebooks and research handbooks, weighted toward international and comparative law.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411151",
+   "title": "English Reports",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=engrep",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "e-books",
+    "government documents",
+    "statutes"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Page images of the original English Reports, the Statutes of the Realm from 1235, and pre-1865 law reports. For legal history and for common-law origin questions.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877784",
+   "title": "Environmental Law Reporter",
+   "url": "https://ezproxysuf.flo.org/login?url=https://elr.info/",
+   "subjects": [
+    "Environmental Law",
+    "News"
+   ],
+   "types": [
+    "journals",
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Monthly analysis of environmental law and policy, written for practitioners rather than academics.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888671",
+   "title": "Federal Register",
+   "url": "https://www.govinfo.gov/app/collection/FR/",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "bibliography",
+    "briefs",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The daily journal of the federal government, carrying proposed rules, final rules and notices. Where a regulation lives before it reaches the CFR.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877916",
+   "title": "Foreign Law Guide",
+   "url": "https://ezproxysuf.flo.org/login?url=https://referenceworks.brillonline.com/browse/foreign-law-guide",
+   "subjects": [
+    "International Law"
+   ],
+   "types": [
+    "bibliography",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "How to find the law of about 190 jurisdictions, with citations to primary sources. Start here before you start guessing.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888603",
+   "title": "General Court of the Commonwealth of Massachusetts",
+   "url": "https://malegislature.gov/",
+   "subjects": [
+    "Legislative History",
+    "Trial Courts"
+   ],
+   "types": [
+    "government documents",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Massachusetts statutes, session laws and bill history, straight from the legislature.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888292",
+   "title": "Google Scholar",
+   "url": "https://scholar.google.com/",
+   "subjects": [
+    "Case Research",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "cases",
+    "e-books",
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Free and broad. Turn on library links in preferences so results route through Suffolk's subscriptions.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888617",
+   "title": "GovInfo",
+   "url": "https://www.govinfo.gov/",
+   "subjects": [
+    "Case Research",
+    "Federal Documents",
+    "Legislative History",
+    "News"
+   ],
+   "types": [
+    "audiovisual material",
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The GPO's own archive of federal regulations, presidential documents, court opinions and congressional material. Authenticated and citable.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81340259",
+   "title": "GreenFILE",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=8gh",
+   "subjects": [
+    "Environmental Law"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Scholarship on human impact on the environment, spanning law, science and policy.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877991",
+   "title": "HeinOnline",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Welcome",
+   "subjects": [
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Federal Documents",
+    "Health Law",
+    "Housing",
+    "Human Rights",
+    "Indigenous Issues",
+    "Intellectual Property",
+    "International Law",
+    "Land Use & Zoning",
+    "Legislative History",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science",
+    "Tax & Accounting",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "bibliography",
+    "cases",
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Nearly 200 million pages of law reviews, government documents and historical material. Suffolk licenses twelve collections. The best archive of legal scholarship anywhere.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65880460",
+   "title": "Index to Foreign Legal Periodicals",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=iflp&set_as_cursor=clear",
+   "subjects": [
+    "International Law"
+   ],
+   "types": [
+    "bibliography",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "A subject index to international and comparative law journals and essay collections.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65880707",
+   "title": "Index to Legal Periodicals (1981-present)",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=ns229675&profile=ehost&defaultdb=lpb",
+   "subjects": [
+    "Business",
+    "Environmental Law",
+    "Health Law",
+    "Indigenous Issues",
+    "Multidisciplinary",
+    "Social Science"
+   ],
+   "types": [
+    "e-books",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Indexes legal periodicals and books from 1981 forward. Use it alongside HeinOnline when you need coverage rather than full text.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65880794",
+   "title": "Index to Legal Periodicals Retrospective: 1908-1981",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=ns229675&profile=ehost&defaultdb=lpr",
+   "subjects": [
+    "Federal Documents",
+    "Indigenous Issues",
+    "International Law",
+    "Land Use & Zoning",
+    "Multidisciplinary"
+   ],
+   "types": [
+    "e-books",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Indexes over 750 legal periodicals from 1908 to 1981. The only practical way into pre-1981 scholarship by subject.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81483726",
+   "title": "Indian Claims Insight",
+   "url": "https://ezproxysuf.flo.org/login?url=https://indianclaims.proquest.com/indianclaims/search/basic/IciBasicSearch?accountid=44557",
+   "subjects": [
+    "Case Research",
+    "Federal Documents",
+    "Indigenous Issues"
+   ],
+   "types": [
+    "cases",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Court documents, treaties, congressional publications and maps covering the Indian Claims Commission and its history.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "69631543",
+   "title": "Indigenous Peoples of the Americas: History, Culture & Law",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline-org.ezproxysuf.flo.org/HOL/Index?collection=amindian",
+   "subjects": [
+    "Indigenous Issues",
+    "International Law",
+    "Multidisciplinary",
+    "Social Science"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Treaties, federal statutes and regulations, case law, tribal codes and constitutions, plus rare historical material.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "85258389",
+   "title": "Inside Higher Ed",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.insidehighered.com/",
+   "subjects": [
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "unknown",
+   "description": "Daily news and analysis on higher education. Pairs with the Chronicle.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411166",
+   "title": "Intellectual Property Law Collection",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=intprop",
+   "subjects": [
+    "Business",
+    "Federal Documents",
+    "Intellectual Property",
+    "Secondary Sources"
+   ],
+   "types": [
+    "government documents",
+    "periodicals",
+    "statutes",
+    "treatises"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Legislative histories, treatises and periodicals on copyright, patent and trademark, plus FCC material.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65881939",
+   "title": "Investor-State Law Guide",
+   "url": "https://ezproxysuf.flo.org/login?url=https://app.investorstatelawguide.com/Dashboard",
+   "subjects": [
+    "Business",
+    "International Law",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "audiovisual material",
+    "cases",
+    "government documents"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Rules, conventions, bilateral investment treaties and awards for investment treaty arbitration, which is an expensive subscription anywhere else.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65881960",
+   "title": "Journal of the American Medical Association",
+   "url": "https://ezproxysuf.flo.org/login?url=https://jamanetwork.com/journals/jama",
+   "subjects": [
+    "Health Law"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "JAMA in full, for health law work that turns on clinical evidence.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65882100",
+   "title": "JSTOR",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.jstor.org/action/showAdvancedSearch?acc=on&wc=on.",
+   "subjects": [
+    "Health Law",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Academic journals, books and primary sources across every discipline, with deep back-runs.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65882213",
+   "title": "Kanopy",
+   "url": "https://ezproxysuf.flo.org/login?url=https://suffolk.kanopystreaming.com/",
+   "subjects": [
+    "Film & Video"
+   ],
+   "types": [
+    "audiovisual material",
+    "streaming",
+    "videos"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "account",
+   "description": "Streaming documentaries and films. Access is limited and faculty course requests take priority.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81371712",
+   "title": "Law Journal Collection",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=journals",
+   "subjects": [
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Over 3,400 scholarly journals from first issue to current. Broad multidisciplinary coverage.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65882435",
+   "title": "Law360",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.law360.com/",
+   "subjects": [
+    "Business",
+    "News",
+    "Tax & Accounting"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [
+    "Lexis+"
+   ],
+   "access": "account",
+   "description": "Daily legal news across eleven bureaus. Also reachable free inside your Lexis account under News.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "76657559",
+   "title": "LawArXiv",
+   "url": "https://osf.io/preprints/lawarxiv",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Open access preprints of legal scholarship, run by law librarians and scholars. Where articles appear before publication.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65882469",
+   "title": "Legislative Insight",
+   "url": "https://ezproxysuf.flo.org/login?url=https://congressional.proquest.com/legislativeinsight?accountid=44557",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "briefs",
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Compiled federal legislative histories with the underlying documents attached. Saves days of reconstruction work.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65882824",
+   "title": "Lexis+",
+   "url": "https://signin.lexisnexis.com/lnaccess/app/signin?back=https%3A%2F%2Fadvance.lexis.com%3A443%2F&aci=la",
+   "subjects": [
+    "Business",
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Federal Documents",
+    "Health Law",
+    "Housing",
+    "International Law",
+    "Land Use & Zoning",
+    "Landlord & Tenant",
+    "Legislative History",
+    "Secondary Sources"
+   ],
+   "types": [
+    "cases",
+    "government documents",
+    "journals",
+    "newspapers",
+    "periodicals",
+    "statutes",
+    "treatises"
+   ],
+   "vendors": [
+    "Lexis+"
+   ],
+   "access": "account",
+   "description": "One of the two major research platforms, and where Lexis+ AI (Protege) and Practical Guidance live. Register with your Suffolk address.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411176",
+   "title": "LGBTQ+ Rights",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=lgbtq",
+   "subjects": [
+    "Multidisciplinary"
+   ],
+   "types": [
+    "cases",
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Subject-coded materials tracing the gay rights movement in America and the law that came out of it.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "83021249",
+   "title": "Library Catalog",
+   "url": "https://library.law.suffolk.edu/",
+   "subjects": [
+    "Bar Exam",
+    "Business",
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Exam Prep",
+    "Family Law",
+    "Federal Documents",
+    "Film & Video",
+    "Health Law",
+    "Human Rights",
+    "Indigenous Issues",
+    "Intellectual Property",
+    "International Law",
+    "Land Use & Zoning",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science",
+    "Study Aids",
+    "Tax & Accounting",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "Study Aids",
+    "audiovisual material",
+    "bibliography",
+    "e-books",
+    "journals",
+    "periodicals",
+    "streaming",
+    "treatises",
+    "videos"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The law library's own catalog. Search here for course reserves, print study aids and anything physical.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81417243",
+   "title": "LLMC Digital",
+   "url": "https://ezproxysuf.flo.org/login?url=https://discover.llmc.com",
+   "subjects": [
+    "Federal Documents",
+    "International Law",
+    "Secondary Sources"
+   ],
+   "types": [
+    "briefs",
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "A large archive of historical legal documents from around the world, including material long out of print.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65883082",
+   "title": "Massachusetts Criminal Practice",
+   "url": "https://www.suffolk.edu/law/faculty-research/faculty/faculty-forms-and-resources/massachusetts-criminal-practice",
+   "subjects": [
+    "Criminal Law"
+   ],
+   "types": [
+    "e-books"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "A research aid on Massachusetts criminal law. Check the publication date on individual chapters before relying on them.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "83827301",
+   "title": "Massachusetts Docket Search",
+   "url": "https://www.mass.gov/search-court-dockets-calendars-and-case-information",
+   "subjects": [
+    "Case Research"
+   ],
+   "types": [
+    "cases",
+    "government documents"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Basic case information and scheduled court dates from the Massachusetts trial courts, free to the public.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65883120",
+   "title": "Massachusetts Lawyers Weekly",
+   "url": "https://ezproxysuf.flo.org/login?url=https://masslawyersweekly.com/",
+   "subjects": [
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Appellate and trial court decisions, verdicts and settlements, and court rule changes. Paywalled to everyone else.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65883240",
+   "title": "Massachusetts Prosecutor's Guide",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.massprosecutorsguide.com/guide/welcome",
+   "subjects": [
+    "Criminal Law"
+   ],
+   "types": [
+    "e-books",
+    "government documents"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Judge Stearns' full-text guide to Massachusetts criminal practice, updated through the year and linked to masscases.com.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "84902836",
+   "title": "Massachusetts Supreme Judicial Court: Oral Arguments",
+   "url": "https://boston.suffolk.edu/sjc/",
+   "subjects": [
+    "Case Research",
+    "Federal Documents"
+   ],
+   "types": [
+    "audiovisual material"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "unknown",
+   "description": "Recorded oral arguments from the SJC. Listen to one before you moot.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888632",
+   "title": "Massachusetts Trial Court Law Libraries",
+   "url": "http://www.mass.gov/courts/case-legal-res/law-lib/",
+   "subjects": [
+    "Business",
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Health Law",
+    "Housing",
+    "Land Use & Zoning",
+    "Landlord & Tenant",
+    "Secondary Sources",
+    "Tax & Accounting",
+    "Trial Courts"
+   ],
+   "types": [
+    "bibliography",
+    "briefs",
+    "cases",
+    "e-books",
+    "government documents",
+    "periodicals",
+    "statutes"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The best free starting point for Massachusetts research, with subject guides written by court librarians.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65883002",
+   "title": "MCLE OnlinePass",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/",
+   "subjects": [
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Film & Video",
+    "Intellectual Property",
+    "Land Use & Zoning",
+    "Multidisciplinary",
+    "Secondary Sources",
+    "Tax & Accounting"
+   ],
+   "types": [
+    "audiovisual material",
+    "e-books",
+    "government documents",
+    "periodicals",
+    "videos"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "MCLE's practice manuals, over 400 ebooks, streaming CLE, and Massachusetts agency decisions. Practicing attorneys pay real money for this.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81340298",
+   "title": "MEDLINE",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=mnh",
+   "subjects": [
+    "Health Law",
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "The medical literature. Health law and any case turning on standard of care.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81417377",
+   "title": "NAACP Papers",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.proquest.com/hvcivilrights/fromDatabasesLayer?accountid=28735",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History",
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "government documents",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "NAACP records, federal government files and personal papers documenting the twentieth-century Black freedom struggle.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81122448",
+   "title": "National Indian Law Library",
+   "url": "https://narf.org/nill/",
+   "subjects": [
+    "Case Research",
+    "Environmental Law",
+    "Federal Documents",
+    "Indigenous Issues",
+    "Land Use & Zoning",
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "briefs",
+    "cases",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The Native American Rights Fund's library, devoted to federal Indian and tribal law. Free.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65885329",
+   "title": "New York Times",
+   "url": "https://www.nytimes.com/activate-access/edu-access",
+   "subjects": [
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals",
+    "podcasts"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Full digital access, free with your Suffolk email. Re-register every year or it lapses quietly.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65885409",
+   "title": "OECD Library",
+   "url": "https://www.oecd-ilibrary.org/",
+   "subjects": [
+    "International Law",
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "e-books",
+    "government documents",
+    "journals",
+    "periodicals",
+    "podcasts"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "OECD books, papers, statistics and indicators. Comparative economic and regulatory data.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65885537",
+   "title": "Oxford English Dictionary",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.oed.com/",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "e-books"
+   ],
+   "vendors": [
+    "Oxford"
+   ],
+   "access": "proxy",
+   "description": "Historical meanings with dated citations. Reach for it when a statute turns on what a word meant when it was enacted.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65885753",
+   "title": "Oxford Journals Online",
+   "url": "https://ezproxysuf.flo.org/login?url=https://academic.oup.com/journals",
+   "subjects": [
+    "Business",
+    "Education Law",
+    "Environmental Law",
+    "Health Law",
+    "Human Rights",
+    "Indigenous Issues",
+    "International Law",
+    "Multidisciplinary",
+    "Secondary Sources",
+    "Social Science",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "e-books",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "Oxford"
+   ],
+   "access": "proxy",
+   "description": "Three hundred journals from Oxford University Press across law and the social sciences.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65885968",
+   "title": "Oxford Scholarship Online: Law Collection",
+   "url": "https://ezproxysuf.flo.org/login?url=https://academic.oup.com/oxford-scholarship-online/search-results?q=&tax=AcademicSubjects/LAW00010",
+   "subjects": [
+    "Criminal Law",
+    "Environmental Law",
+    "Health Law",
+    "Human Rights",
+    "Indigenous Issues",
+    "International Law",
+    "Multidisciplinary",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "e-books",
+    "periodicals"
+   ],
+   "vendors": [
+    "Oxford"
+   ],
+   "access": "proxy",
+   "description": "Oxford's legal monographs in full text. Book-length treatment when an article is not enough.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "83828207",
+   "title": "PACER",
+   "url": "https://pacer.uscourts.gov/",
+   "subjects": [
+    "Case Research"
+   ],
+   "types": [
+    "briefs",
+    "cases",
+    "government documents"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Federal court records, priced per page. The library does not cover it, so use CourtLink or the RECAP archive first.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81371596",
+   "title": "Past Faculty Exams",
+   "url": "https://www.suffolk.edu/law/faculty-research/library-services/selected-previous-faculty-exams",
+   "subjects": [
+    "Exam Prep",
+    "Study Aids"
+   ],
+   "types": [
+    "Study Aids",
+    "government documents"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "proxy",
+   "description": "Real exams from Suffolk professors, searchable, and not the same set as what sits on Canvas. Ask your professor first about theirs.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65886041",
+   "title": "Practical Law",
+   "url": "https://1.next.westlaw.com/Browse/Home/PracticalLaw?transitionType=Default&contextData=(sc.Default)&tabName=Practice%20Areas",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "government documents"
+   ],
+   "vendors": [
+    "Thomson Reuters"
+   ],
+   "access": "account",
+   "description": "Checklists, standard documents and practice notes inside Westlaw. How a transaction is actually done, rather than the theory.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887628",
+   "title": "Project Syndicate",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.project-syndicate.org",
+   "subjects": [
+    "Business",
+    "News"
+   ],
+   "types": [
+    "audiovisual material",
+    "government documents",
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Commentary from economists, policymakers and scholars. Useful for framing a policy argument.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887695",
+   "title": "ProView",
+   "url": "https://ezproxysuf.flo.org/login?url=https://proview.thomsonreuters.com/launchapp/library?sponsor=000678883-1",
+   "subjects": [
+    "Secondary Sources"
+   ],
+   "types": [
+    "e-books"
+   ],
+   "vendors": [
+    "Thomson Reuters"
+   ],
+   "access": "proxy",
+   "description": "Thomson Reuters treatises as ebooks, searchable by title, subject and jurisdiction.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81660578",
+   "title": "PsycArticles",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=pdh",
+   "subjects": [
+    "Health Law",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "Full-text psychology scholarship from the APA. Relevant to competency, eyewitness and juvenile work.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81660399",
+   "title": "PsycINFO",
+   "url": "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=psyh",
+   "subjects": [
+    "Health Law",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "EBSCO"
+   ],
+   "access": "proxy",
+   "description": "The largest index of behavioral science and mental health literature.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81340444",
+   "title": "Regulations.gov",
+   "url": "https://www.regulations.gov/",
+   "subjects": [
+    "Federal Documents"
+   ],
+   "types": [
+    "briefs",
+    "government documents"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Track federal rulemaking and read the public comments. Where you find out who opposed a rule and why.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81574396",
+   "title": "Regulatory Insight",
+   "url": "https://ezproxysuf.flo.org/login?url=https://regulatoryinsight-proquest-com.ezproxysuf.flo.org/regulatoryinsight/search/basicsearch?accountid=44557",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Compiled regulatory histories, tracing a rule from proposal to final text.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81122630",
+   "title": "SCOTUSblog",
+   "url": "https://www.scotusblog.com/",
+   "subjects": [
+    "Case Research",
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "briefs",
+    "government documents",
+    "periodicals",
+    "podcasts"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Supreme Court coverage before argument, after argument, and after decision. Free, and better than the news.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887733",
+   "title": "Social Law Library",
+   "url": "https://ezproxysuf.flo.org/login?url=https://socialaw.com/secure",
+   "subjects": [
+    "Case Research",
+    "Federal Documents",
+    "Land Use & Zoning",
+    "Legislative History",
+    "Secondary Sources"
+   ],
+   "types": [
+    "audiovisual material",
+    "cases",
+    "government documents",
+    "statutes"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Massachusetts administrative decisions from the ABCC, Appellate Tax Board, DEP, DIA, DLR, MCAD and the Ethics Commission. Often the only place they exist.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81340503",
+   "title": "SSRN",
+   "url": "https://www.ssrn.com/index.cfm/en/",
+   "subjects": [
+    "Business",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Health Law",
+    "Human Rights",
+    "International Law",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science"
+   ],
+   "types": [],
+   "vendors": [],
+   "access": "open",
+   "description": "Working papers and preprints across law and the social sciences. Where scholarship appears first.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887741",
+   "title": "State House News Service",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.statehousenews.com/",
+   "subjects": [
+    "News",
+    "Secondary Sources"
+   ],
+   "types": [
+    "audiovisual material",
+    "government documents",
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Wire coverage of Massachusetts state government, filed daily. Normally institutional-only.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81574623",
+   "title": "Statistical Abstract of the United States",
+   "url": "https://ezproxysuf.flo.org/login?url=https://statabs-proquest-com.ezproxysuf.flo.org/statab/sa/index.html",
+   "subjects": [
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Federal Documents",
+    "Health Law",
+    "International Law",
+    "Land Use & Zoning"
+   ],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Social, political and economic statistics from 1878 forward. A fast way to source a number.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81574879",
+   "title": "Statistical Insight",
+   "url": "https://ezproxysuf.flo.org/login?url=https://statistical-proquest-com.ezproxysuf.flo.org/statisticalinsight",
+   "subjects": [
+    "Business",
+    "Federal Documents",
+    "International Law",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Indexed statistics from federal, state, private and international sources, with the underlying tables.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81574988",
+   "title": "Supreme Court Insight",
+   "url": "https://ezproxysuf.flo.org/login?url=https://supremecourt.proquest.com/supremecourt/search/basicsearch?accountid=44557",
+   "subjects": [
+    "Case Research",
+    "Federal Documents"
+   ],
+   "types": [
+    "briefs",
+    "cases",
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Supreme Court dockets, briefs, joint appendices and oral argument transcripts back to 1955.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "84175430",
+   "title": "Taylor & Francis Journal Database",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www-tandfonline-com.ezproxysuf.flo.org/action/showPublications?pubType=journal&ejf=on",
+   "subjects": [
+    "Criminal Law",
+    "Environmental Law",
+    "Health Law",
+    "Human Rights",
+    "Indigenous Issues",
+    "Intellectual Property",
+    "International Law",
+    "Multidisciplinary",
+    "Psychology",
+    "Social Science",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "journals"
+   ],
+   "vendors": [],
+   "access": "open",
+   "description": "Peer-reviewed articles across the Taylor and Francis, Routledge and Dove Medical imprints.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887749",
+   "title": "Transnational Dispute Management",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.transnational-dispute-management.com/",
+   "subjects": [
+    "Business",
+    "International Law",
+    "Secondary Sources",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "audiovisual material",
+    "government documents",
+    "journals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "A peer-reviewed journal on international arbitration, weighted toward investment arbitration.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81575076",
+   "title": "Trends and Policy",
+   "url": "https://ezproxysuf.flo.org/login?url=https://trendspolicy.proquest.com/trendspolicy/search/basic/basicsearch?accountid=44557",
+   "subjects": [
+    "Federal Documents"
+   ],
+   "types": [
+    "government documents"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Timelines of federal law and policy by subject, showing how a regime developed.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81575172",
+   "title": "U.K. Parliamentary Papers",
+   "url": "https://ezproxysuf.flo.org/login?url=https://parlipapers.proquest.com/parlipapers/search/advanced/hcppadvanced?accountid=44557&groupid=47048",
+   "subjects": [
+    "International Law",
+    "Secondary Sources"
+   ],
+   "types": [
+    "cases",
+    "government documents",
+    "journals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "British parliamentary material, including select committee reports and command papers. For comparative and historical work.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411214",
+   "title": "U.S. Congressional Documents",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=congrec",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "The bound Congressional Record and its predecessor titles, plus the daily edition back to 1980.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65877482",
+   "title": "U.S. Federal Legislative and Executive Materials",
+   "url": "https://ezproxysuf.flo.org/login?url=https://congressional.proquest.com/congressional/search/basic/basicsearch",
+   "subjects": [
+    "Federal Documents",
+    "Legislative History"
+   ],
+   "types": [
+    "government documents",
+    "periodicals"
+   ],
+   "vendors": [
+    "ProQuest"
+   ],
+   "access": "proxy",
+   "description": "Congressional documents from 1789 to the present, in one collection.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887755",
+   "title": "United Nations Treaty Collection",
+   "url": "https://treaties.un.org/Pages/ParticipationStatus.aspx",
+   "subjects": [
+    "Environmental Law",
+    "Health Law",
+    "Human Rights",
+    "Indigenous Issues",
+    "International Law"
+   ],
+   "types": [
+    "government documents"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Full text of international treaties, including everything deposited with the Secretary-General, and each country's ratification status.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888759",
+   "title": "United States Code",
+   "url": "https://www.govinfo.gov/app/collection/uscode/",
+   "subjects": [
+    "Federal Documents"
+   ],
+   "types": [
+    "government documents"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "The official codification of federal statutes by subject. Cite this rather than a vendor's version.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81417414",
+   "title": "Wall Street Journal",
+   "url": "https://wsj.com/Suffolk",
+   "subjects": [
+    "Business",
+    "News"
+   ],
+   "types": [
+    "newspapers",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Full text, free. Sign up at Suffolk's own URL rather than the public one.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887782",
+   "title": "Washington Post",
+   "url": "https://www.washingtonpost.com/subscribe/signup",
+   "subjects": [
+    "News"
+   ],
+   "types": [
+    "audiovisual material",
+    "blog",
+    "newspapers"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Free through Suffolk with your own account.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81371632",
+   "title": "West Academic Assessment",
+   "url": "https://eproducts.westacademic.com/lawschool",
+   "subjects": [
+    "Bar Exam",
+    "Exam Prep",
+    "Study Aids"
+   ],
+   "types": [
+    "Study Aids",
+    "e-books"
+   ],
+   "vendors": [],
+   "access": "account",
+   "description": "Multiple choice, short answer and essay questions keyed to your actual casebook, with sample answers and commentary. Separate from the study aid library and easy to miss.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887797",
+   "title": "West Academic Study Aids",
+   "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/",
+   "subjects": [
+    "Bar Exam",
+    "Exam Prep",
+    "Study Aids"
+   ],
+   "types": [
+    "Study Aids",
+    "e-books"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "The whole subscription library: Nutshells, Hornbooks, Examples and Explanations, Black Letter Outlines, Gilbert, Exam Pro, plus audiobooks and recorded lectures. Suffolk's entire commercial study aid spend is here.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887838",
+   "title": "Westlaw Advantage",
+   "url": "https://signon.thomsonreuters.com/?productid=CBT&viewproductid=CBTINDIGO&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0309221605020oc7wpppFFuVAC6AyLTJlmOTLfVj2ijYrvFWKl13Y5XQWTaJMLqDZuJQCGLnmmQOlJv6cKWES50k7oF1F_ZjocRSon0Jobz7XiIyIURRDM9wKbz7h-D8Tc5dFRvSLTI5BNZCiAnMPH25jg4aUhY4NtqZ1cvcdQ-FqeYFEDIJRm8XTD1b-wE9Why2raSEryhiuFDNULqfwoaZrneL0V7ccvhVTQmpP3GNYr6P8nRbR-oNzRKxBJL7nhkryzkmYep5iTJGy2ZV1XmiuoNycQRKIFzcyfbmi09BWVvKK7m2N3XRCMfq3rZy4k8bLXQMPfgEqXxfZ-W3gwVTgkEzwwOP6Q88do-KVHS-zily7yAdcYh9cAcBHdcSOsQoOncY8bA0m&bhcp=1",
+   "subjects": [
+    "Case Research",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Federal Documents",
+    "Housing",
+    "International Law",
+    "Land Use & Zoning",
+    "Landlord & Tenant",
+    "Legislative History",
+    "Secondary Sources"
+   ],
+   "types": [
+    "cases",
+    "e-books",
+    "government documents",
+    "journals",
+    "newspapers",
+    "periodicals",
+    "statutes",
+    "treatises"
+   ],
+   "vendors": [
+    "Thomson Reuters"
+   ],
+   "access": "account",
+   "description": "The other major platform, and where CoCounsel and Practical Law live. Register with your Suffolk address.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887965",
+   "title": "Westlaw Campus Research",
+   "url": "https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=005816482-2100&transitionType=Default&contextData=(sc.Default)&bhcp=1",
+   "subjects": [
+    "Case Research",
+    "Federal Documents",
+    "Housing"
+   ],
+   "types": [
+    "cases",
+    "government documents",
+    "statutes"
+   ],
+   "vendors": [
+    "Thomson Reuters"
+   ],
+   "access": "platform",
+   "description": "A lighter Westlaw for alumni and anyone without an active academic account.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65887989",
+   "title": "Wiley Online Library",
+   "url": "https://ezproxysuf.flo.org/login?url=https://onlinelibrary.wiley.com/advanced/search",
+   "subjects": [
+    "Business",
+    "Criminal Law",
+    "Education Law",
+    "Environmental Law",
+    "Family Law",
+    "Health Law",
+    "Human Rights",
+    "Intellectual Property",
+    "Multidisciplinary",
+    "Psychology",
+    "Secondary Sources",
+    "Social Science",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "e-books",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Journals, reference works and ebooks. Suffolk's subscription does not cover everything you will see listed.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81719706",
+   "title": "WIPO Lex",
+   "url": "https://www.wipo.int/en/web/wipolex",
+   "subjects": [
+    "Business",
+    "Federal Documents",
+    "Indigenous Issues",
+    "Intellectual Property",
+    "International Law"
+   ],
+   "types": [
+    "briefs",
+    "cases",
+    "government documents",
+    "periodicals",
+    "statutes",
+    "treatises"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "National IP statutes, treaties and WIPO-administered instruments from around the world.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "81411231",
+   "title": "World Constitutions Illustrated: Contemporary & Historical Documents and Resources",
+   "url": "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=cow",
+   "subjects": [
+    "International Law"
+   ],
+   "types": [
+    "government documents"
+   ],
+   "vendors": [
+    "HeinOnline"
+   ],
+   "access": "proxy",
+   "description": "Every country's current constitution in the original language with an English translation, plus substantial constitutional history.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "82832966",
+   "title": "WorldCat",
+   "url": "https://search.worldcat.org/",
+   "subjects": [
+    "Multidisciplinary",
+    "Secondary Sources"
+   ],
+   "types": [
+    "e-books",
+    "journals",
+    "periodicals"
+   ],
+   "vendors": [
+    "Free"
+   ],
+   "access": "open",
+   "description": "Finds which library holds a physical item. Pair it with interlibrary loan when Suffolk does not have the book.",
+   "verified": "2026-08-27"
+  },
+  {
+   "id": "65888006",
+   "title": "WorldTradeLaw.net",
+   "url": "https://ezproxysuf.flo.org/login?url=https://www.worldtradelaw.net/",
+   "subjects": [
+    "Business",
+    "International Law",
+    "News",
+    "Trade & Arbitration"
+   ],
+   "types": [
+    "cases",
+    "government documents"
+   ],
+   "vendors": [],
+   "access": "proxy",
+   "description": "Trade news and a subscription service summarising every WTO dispute settlement decision.",
+   "verified": "2026-08-27"
+  }
+ ],
+ "descriptions": "written for LITSA; vendor copy discarded"
+}

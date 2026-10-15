@@ -1,0 +1,3365 @@
+{
+ "source": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/",
+ "verified": "2026-08-27",
+ "note": "Suffolk publishes no working index of concentrations; the jd-program/concentrations path returns the 404 body.",
+ "universal": {
+  "min_credits_floor": 14,
+  "gpa_in_concentration": 3.25,
+  "no_grade_below": 2.0,
+  "one_at_a_time": true,
+  "eligible": "after completing 1L in good standing",
+  "completion_form": "November 1 (January graduates) / March 1 (May graduates)",
+  "distinction": "concentration thesis, or 3.50 cumulative in concentration courses",
+  "rules_url": "https://www.suffolk.edu/law/academics-clinics/student-life/policies-rules/academic-rules-regulations"
+ },
+ "items": [
+  {
+   "key": "legal-innovation-technology",
+   "name": "Legal Innovation & Technology",
+   "slug": "legal-innovation-technology",
+   "credits_required": 17,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/legal-innovation-technology/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/legal-innovation-technology/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "At least three (3) of the total four (4) core courses, as listed under the Concentration’s Courses section",
+    "An externship or clinical requirement that may be satisfied by: An approved, three (3) credit externship related to Legal Innovation and Technology though the Externship Program",
+    "An approved non-credit summer or semester externship in a placement related to Legal Innovation and Technology",
+    "Participation in the Legal Innovation and Technology Clinic or Online Dispute Resolution Innovation Clinic",
+    "An approved externship waiver for qualifying students as approved by the LIT Concentration Director, such as part-time students with a full-time position already relating to Legal Innovation and Technology",
+    "At least three (3) Concentration elective courses, totaling at least seven (7) credits, as listed in the Concentration’s Courses section",
+    "At least seventeen (17) required total credits from the approved Concentration and elective courses and the required externship by the time of graduation",
+    "Obtaining the Concentration Faculty Director's approval of the student's plan for completing the Concentration's writing/project requirement"
+   ],
+   "courses": [
+    {
+     "title": "Twenty-First Century Legal Profession",
+     "credits": 2.0,
+     "group": "Core Courses",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Kelli Proia"
+     ]
+    },
+    {
+     "title": "Process Improvement and Legal Project Management",
+     "credits": 2.0,
+     "group": "Core Courses",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Catherine MacDonagh"
+     ]
+    },
+    {
+     "title": "Legal Technology for Small Firm Practice",
+     "credits": 3.0,
+     "group": "Core Courses",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Kelli Proia",
+      "Quinten Steenhuis"
+     ]
+    },
+    {
+     "title": "Generative AI & the Delivery of Legal Services",
+     "credits": 2.0,
+     "group": "Core Courses",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Dyane O'Leary",
+      "Tom Martin"
+     ]
+    },
+    {
+     "title": "Artificial Intelligence & the Law",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "David Colarusso"
+     ]
+    },
+    {
+     "title": "Blockchain, Cryptocurrency, and the Law",
+     "credits": 1.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Business of Practice: Hit the Ground Running",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Andrew Garcia"
+     ]
+    },
+    {
+     "title": "Business Planning",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Gregory Pickard",
+      "Karl Hartmann"
+     ]
+    },
+    {
+     "title": "Cybersecurity Law and Policy",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Seusing"
+     ]
+    },
+    {
+     "title": "Decision Making and Choice Management",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Marc Lauritsen"
+     ]
+    },
+    {
+     "title": "Design Thinking for Lawyers & Business Professionals",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Alexander Gavis",
+      "Philippe Mauldin"
+     ]
+    },
+    {
+     "title": "Digital Evidence",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christina Miller"
+     ]
+    },
+    {
+     "title": "E-Discovery Law",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Emerging AI Regulatory Frameworks",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Ann LaFrance"
+     ]
+    },
+    {
+     "title": "Emerging Issues in Law: Information Technology & Transnational Business",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Law Practice Planning: Law As a Career and an Enterprise",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Lisle Baker"
+     ]
+    },
+    {
+     "title": "Lawyers as Leaders",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Kathy Vinson"
+     ]
+    },
+    {
+     "title": "Legal Operations and Management of Legal Services",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Catherine MacDonagh"
+     ]
+    },
+    {
+     "title": "Modern LPS: Legal Innovation & Technology",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Dyane O'Leary"
+     ]
+    },
+    {
+     "title": "Negotiating Business Transactions: A Simulation Course",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "ODR",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Privacy/Data Security Requirements",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Problem Solving: Legal Writing and Research for Practice",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Race, Ethical AI, and Cyber Civil Rights",
+     "credits": 2.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Maurice Dyson"
+     ]
+    },
+    {
+     "title": "Transactional Skills",
+     "credits": 3.0,
+     "group": "Elective Course Requirements",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson",
+      "Nicole Pardo",
+      "Steven Ferrey"
+     ]
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section How to Enroll Enrollment in the Legal Innovation & Technology Concentration is accomplished by filing a Notice of Concentration Enrollment form online with the Office of Academic Services. Concentration enrollment may occur as soon as a student completes the first year in law school in good standing. Submitting a Notice of Concentration Enrollment form does not obligate you in any way to complete the Concentration; you may change your mind at any time during your studies. Students may also elect to enroll in the LIT Concentration after they have already started or completed some of the LIT courses. The latest date students may enroll in a Concentration is October 1 for students graduating in January, and February 1 for students graduating in May. Formal enrollment in the Concentration is not complete until the Notice of Enrollment form is filed. Once enrolled in the Concentration, students will be invited to participate in a variety of programs and special events of interest in the area of legal innovation and technology. Students may also find it useful to join Suffolk’s Legal Innovation & Technology Student Association (LITSA). Contact Dyane O'Leary, LIT Concentration Director, for more information. Requirements Continued enrollment in the Legal Innovation & Technology Concentration is contingent upon the student completing: At least three (3) of the total four (4) core courses, as listed under the Concentration’s Courses section An externship or clinical requirement that may be satisfied by: An approved, three (3) credit externship related to Legal Innovation and Technology though the Externship Program An approved non-credit summer or semester externship in a placement related to Legal Innovation and Technology Participation in the Legal Innovation and Technology Clinic or Online Dispute Resolution Innovation Clinic An approved externship waiver for qualifying students as approved by the LIT Concentration Director, such as part-time students with a full-time position already relating to Legal Innovation and Technology At least three (3) Concentration elective courses, totaling at least seven (7) credits, as listed in the Concentration’s Courses section At least seventeen (17) required total credits from the approved Concentration and elective courses and the required externship by the time of graduation Obt",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 25,
+    "offered_2026_27": 19,
+    "not_offered_2026_27": 6,
+    "fall_only": [
+     "Business Planning",
+     "Decision Making and Choice Management",
+     "Design Thinking for Lawyers & Business Professionals",
+     "Legal Operations and Management of Legal Services"
+    ],
+    "spring_only": [
+     "Twenty-First Century Legal Profession",
+     "Process Improvement and Legal Project Management",
+     "Business of Practice: Hit the Ground Running",
+     "Cybersecurity Law and Policy",
+     "Digital Evidence",
+     "Emerging AI Regulatory Frameworks",
+     "Law Practice Planning: Law As a Career and an Enterprise",
+     "Lawyers as Leaders",
+     "Modern LPS: Legal Innovation & Technology",
+     "Negotiating Business Transactions: A Simulation Course",
+     "Race, Ethical AI, and Cyber Civil Rights"
+    ],
+    "missing": [
+     "Blockchain, Cryptocurrency, and the Law",
+     "E-Discovery Law",
+     "Emerging Issues in Law: Information Technology & Transnational Business",
+     "ODR",
+     "Privacy/Data Security Requirements",
+     "Problem Solving: Legal Writing and Research for Practice"
+    ]
+   }
+  },
+  {
+   "key": "intellectual-property",
+   "name": "Intellectual Property",
+   "slug": "intellectual-property",
+   "credits_required": 18,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/intellectual-property/ip-area-of-focus-and-concentration/enrollment-and-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/intellectual-property/ip-area-of-focus-and-concentration/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "Completing the three (3) required core courses;",
+    "Completing at least one (1) Concentration Skills/Experiential Learning course;",
+    "Completing at least one (1) Advanced Intellectual Property Concentration elective course;",
+    "Completing such other Concentration Skills/Experiential Learning and Advanced Intellectual Property Concentration elective credits so that it is possible to complete the required eighteen (18) credits in approved Intellectual Property Law Concentration courses by the time the student graduates;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services; and",
+    "Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement."
+   ],
+   "courses": [
+    {
+     "title": "Intellectual Property Survey",
+     "credits": 3.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "2216",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Jennifer Karnakis",
+      "Stacey Lantagne"
+     ]
+    },
+    {
+     "title": "Copyright Law",
+     "credits": 3.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "2618",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Peter Karol",
+      "Rebecca Curtin"
+     ]
+    },
+    {
+     "title": "Patent Law",
+     "credits": 3.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "2298",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Philip Swain"
+     ]
+    },
+    {
+     "title": "Trade Secrets",
+     "credits": 2.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "2373",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Trademark Law",
+     "credits": 3.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "2362",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Brian Focarino",
+      "Peter Karol"
+     ]
+    },
+    {
+     "title": "Transactional Skills in Commercial & IP Practice",
+     "credits": 2.0,
+     "group": "1. Introductory Sequence",
+     "course_id": "8092",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Bhamati Viswanathan"
+     ]
+    },
+    {
+     "title": "Advanced Legal Writing: Intellectual Property Litigation",
+     "credits": 3.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2265",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Biotechnology and the Law",
+     "credits": 3.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2441",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Bruce Leicher"
+     ]
+    },
+    {
+     "title": "Directed Study in Intellectual Property",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Externship in an Intellectual Property Field",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Giles Rich Patent Law Moot Court Competition",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0059",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Intellectual Property and Entrepreneurship Clinic",
+     "credits": 5.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2471",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Intellectual Property or Patent Law Thesis",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2381",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Journal of High Technology Law",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0009",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Patent Litigation Practice",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2831",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Philip Swain"
+     ]
+    },
+    {
+     "title": "Patent Prosecution I: Drafting",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2301",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Patent Prosecution II: PTO Practice",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2944",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Research Assistant",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0020",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Saul Lefkowitz Trademark Moot Court Competition",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "0093",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Trademark Practice: PTO",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2457",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Transactional Skills",
+     "credits": 3.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2986",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson",
+      "Nicole Pardo",
+      "Steven Ferrey"
+     ]
+    },
+    {
+     "title": "Transactional Skills: Intellectual Property",
+     "credits": 2.0,
+     "group": "2. Skills/Experiential Learning Courses",
+     "course_id": "2736",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Bhamati Viswanathan",
+      "Rebecca Curtin"
+     ]
+    },
+    {
+     "title": "Antitrust",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2038",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Elbert Robertson"
+     ]
+    },
+    {
+     "title": "Biomedical Law and Public Policy",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2057",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Marc Rodwin"
+     ]
+    },
+    {
+     "title": "Design Law",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "756",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Darrell Mottley"
+     ]
+    },
+    {
+     "title": "Directed Study Project",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "E-Discovery Law",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2951",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Emerging Issues in Law: Information Technology and Transnational Business",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2170",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Entertainment Law",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2155",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Stacey Lantagne"
+     ]
+    },
+    {
+     "title": "European Union",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2698",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Sara Dillon"
+     ]
+    },
+    {
+     "title": "Intellectual Property and Social Justice",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2104",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Dalindyebo Shabalala"
+     ]
+    },
+    {
+     "title": "Intellectual Property Thesis",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2381",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "International Business Transactions",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2224",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "International Intellectual Property",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2907",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Dalindyebo Shabalala"
+     ]
+    },
+    {
+     "title": "International Trade Law",
+     "credits": 3.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2221",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Sara Dillon"
+     ]
+    },
+    {
+     "title": "Interviewing and Counseling",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2225",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Cara Libman",
+      "Martsyl Joseph",
+      "Richard Pizzano"
+     ]
+    },
+    {
+     "title": "Law and Visual Arts",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "8049",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Peter Karol"
+     ]
+    },
+    {
+     "title": "Negotiation",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2283",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Darren Braham",
+      "Diana Chiang",
+      "Gabriel Teninbaum"
+     ]
+    },
+    {
+     "title": "Sports Law",
+     "credits": 2.0,
+     "group": "B. Advanced IP Electives Menu",
+     "course_id": "2874",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Chidi Oteh"
+     ]
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section How to enroll Enrollment in the Intellectual Property Law Concentration is accomplished by filing Notice of Enrollment form . Concentration enrollment may occur as soon as a student completes the first year in law school in good standing. The latest date students may enroll in a Concentration is October 1st for students graduating in January, and February 1 for students graduating in May. Formal enrollment in the Intellectual Property Law Concentration is not complete until the Notice of Enrollment form is filed. Once enrolled in the Concentration, students will be invited to participate in a variety of programs and special events of interest to intellectual property law practitioners. Qualified students may pursue a specialized Patent Law Specialization certificate within the Intellectual Property Law Concentration. Requirements Continued enrollment in the Intellectual Property Law Concentration is contingent upon the student: Completing the three (3) required core courses; Completing at least one (1) Concentration Skills/Experiential Learning course; Completing at least one (1) Advanced Intellectual Property Concentration elective course; Completing such other Concentration Skills/Experiential Learning and Advanced Intellectual Property Concentration elective credits so that it is possible to complete the required eighteen (18) credits in approved Intellectual Property Law Concentration courses by the time the student graduates; Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services; and Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement. Upon completion of the required courses, skills course, elective courses, the writing requirement and total credit hours required by the Intellectual Property Law Concentration, students must complete and file Notice of Concentration Completion form with the Office of Academic Services. The latest date students may file Concentration Completion forms is November 1 for January graduates, and March 1 for May graduates.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 39,
+    "offered_2026_27": 22,
+    "not_offered_2026_27": 17,
+    "fall_only": [
+     "Patent Law",
+     "Transactional Skills in Commercial & IP Practice",
+     "Biotechnology and the Law",
+     "European Union",
+     "Intellectual Property and Social Justice",
+     "International Business Transactions",
+     "International Intellectual Property"
+    ],
+    "spring_only": [
+     "Patent Litigation Practice",
+     "Transactional Skills: Intellectual Property",
+     "Biomedical Law and Public Policy",
+     "Design Law",
+     "Entertainment Law",
+     "International Trade Law",
+     "Law and Visual Arts",
+     "Sports Law"
+    ],
+    "missing": [
+     "Trade Secrets",
+     "Advanced Legal Writing: Intellectual Property Litigation",
+     "Directed Study in Intellectual Property",
+     "Externship in an Intellectual Property Field",
+     "Giles Rich Patent Law Moot Court Competition",
+     "Intellectual Property and Entrepreneurship Clinic",
+     "Intellectual Property or Patent Law Thesis",
+     "Journal of High Technology Law",
+     "Patent Prosecution I: Drafting",
+     "Patent Prosecution II: PTO Practice",
+     "Research Assistant",
+     "Saul Lefkowitz Trademark Moot Court Competition",
+     "Trademark Practice: PTO",
+     "Directed Study Project",
+     "E-Discovery Law",
+     "Emerging Issues in Law: Information Technology and Transnational Business",
+     "Intellectual Property Thesis"
+    ]
+   }
+  },
+  {
+   "key": "international-law",
+   "name": "International Law",
+   "slug": "international-law",
+   "credits_required": 18,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/international-law/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/international-law/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "Completing the two required core courses ;",
+    "Completing such other Concentration skills and elective credits so that it is possible to complete the required 18 credits in approved International Law Concentration courses by the time the student graduates;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services.",
+    "Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement.",
+    "Human Rights and Indigenous Peoples Clinic"
+   ],
+   "courses": [
+    {
+     "title": "International Law",
+     "credits": 3.0,
+     "group": "All students must take:",
+     "course_id": "2220",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Sara Dillon"
+     ]
+    },
+    {
+     "title": "International Business Transactions or International Trade Law",
+     "credits": 3.0,
+     "group": "All students must take:",
+     "course_id": "2224",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Admiralty Law",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2025",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "John Bromley"
+     ]
+    },
+    {
+     "title": "Advanced Immigration",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2429",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Ragini Shah"
+     ]
+    },
+    {
+     "title": "Advanced Legal Writing: International Advocacy",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2265",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "The Law of Democracy: Comparative Constitutions",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "8157",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Directed Study",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Emerging Issues in Law: Information Technology and Transnational Business",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2170",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "European Union Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2698",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Externship - Domestic",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Externship - International",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Externship: Ireland",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Federal Indian Law and the Rights of Indigenous Peoples in the U.S",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2386",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Nicole Friederichs"
+     ]
+    },
+    {
+     "title": "Foreign Direct Investment Moot Court Competition",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0023",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Human Rights Law Survey",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "8170",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Christy Fujio"
+     ]
+    },
+    {
+     "title": "Human Rights Project",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0082",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Lorie Graham"
+     ]
+    },
+    {
+     "title": "Human Rights Protection in Europe",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2407",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Immigration: Business",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2989",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Matthew Maiona"
+     ]
+    },
+    {
+     "title": "Immigrant Justice Clinic",
+     "credits": 5.0,
+     "group": "B. Elective Courses",
+     "course_id": "2467",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Immigration Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2218",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Alexandra Peredo Carroll"
+     ]
+    },
+    {
+     "title": "Human Rights and Indigenous Peoples Clinic",
+     "credits": 5.0,
+     "group": "B. Elective Courses",
+     "course_id": "2469",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Nicole Friederichs"
+     ]
+    },
+    {
+     "title": "International Business Transactions",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2224",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "International and Comparative Legal Research",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2331",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Richard Buckingham"
+     ]
+    },
+    {
+     "title": "International Environmental Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2738",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Dalindyebo Shabalala"
+     ]
+    },
+    {
+     "title": "International Intellectual Property Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2907",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Dalindyebo Shabalala"
+     ]
+    },
+    {
+     "title": "International Investment Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2424",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "International Law Concentration Thesis",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "International Tax Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2887",
+     "offered": [
+      "spring"
+     ],
+     "instructors": []
+    },
+    {
+     "title": "International Trade Law",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2221",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Sara Dillon"
+     ]
+    },
+    {
+     "title": "Islamic Law and Legal Systems",
+     "credits": 3.0,
+     "group": "B. Elective Courses",
+     "course_id": "2942",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Ali Khadem"
+     ]
+    },
+    {
+     "title": "Jessup International Moot Court Competition",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0057",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Military Law",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2814",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Brad Tully"
+     ]
+    },
+    {
+     "title": "The Laws of War",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "2339",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Transnational Law Review",
+     "credits": 2.0,
+     "group": "B. Elective Courses",
+     "course_id": "0035",
+     "offered": [],
+     "instructors": []
+    }
+   ],
+   "requirements_text": "Requirements Continued enrollment in the International Law Concentration is contingent upon the student: Completing the two required core courses ; Completing such other Concentration skills and elective credits so that it is possible to complete the required 18 credits in approved International Law Concentration courses by the time the student graduates; Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services. Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement. Upon completion of the required courses, elective courses, the writing requirement and total credit hours required by the International Law Concentration, students must complete and file a Notice of Concentration Completion form with the Office of Academic Services. The latest date students may file Concentration Completion forms is November 1 for January graduates, and March 1 for May graduates. Internships Three (3) course credits will be given for participation in the International Internship Program. No more than three (3) internship credits and no more than a total of five (5) credits of ungraded activities (including any internship) may be used towards satisfying the elective course requirements of the Concentration. Internships must be approved by the internship director, the administrative director of concentrations, and the International Law Concentration faculty director(s). Clinics The current Clinical Programs which may be used International Law Concentration credit are: Immigrant Justice Clinic Human Rights and Indigenous Peoples Clinic Participation in these clinics requires application and acceptance prior to the academic semester during which the clinical program will be taken. Please take note of the clinic eligibility requirements. Students may apply up to five (5) credits from participation in these Clinics toward the elective course requirements of the Concentration.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 34,
+    "offered_2026_27": 18,
+    "not_offered_2026_27": 16,
+    "fall_only": [
+     "International Law",
+     "Admiralty Law",
+     "Human Rights Law Survey",
+     "Human Rights Project",
+     "Immigration: Business",
+     "Immigration Law",
+     "International Business Transactions",
+     "International Intellectual Property Law",
+     "Military Law"
+    ],
+    "spring_only": [
+     "Advanced Immigration",
+     "Federal Indian Law and the Rights of Indigenous Peoples in the U.S",
+     "International and Comparative Legal Research",
+     "International Environmental Law",
+     "International Investment Law",
+     "International Tax Law",
+     "International Trade Law",
+     "Islamic Law and Legal Systems"
+    ],
+    "missing": [
+     "International Business Transactions or International Trade Law",
+     "Advanced Legal Writing: International Advocacy",
+     "The Law of Democracy: Comparative Constitutions",
+     "Directed Study",
+     "Emerging Issues in Law: Information Technology and Transnational Business",
+     "European Union Law",
+     "Externship - Domestic",
+     "Externship - International",
+     "Externship: Ireland",
+     "Foreign Direct Investment Moot Court Competition",
+     "Human Rights Protection in Europe",
+     "Immigrant Justice Clinic",
+     "International Law Concentration Thesis",
+     "Jessup International Moot Court Competition",
+     "The Laws of War",
+     "Transnational Law Review"
+    ]
+   }
+  },
+  {
+   "key": "health-biomedical-law",
+   "name": "Health & Biomedical Law",
+   "slug": "health-biomedical-law",
+   "credits_required": 20,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/health-biomedical-law/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/health-biomedical-law/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "Completing the five (5) credits of required core courses and at least fifteen (15) credits in elective courses so that it is possible to complete the required twenty (20) credits in approved Health and Biomedical Law Concentration courses by the time the student graduates;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director and/or the Assistant Dean for Academic Services.",
+    "Obtaining one of the Concentration Faculty Director's approval of the student's plan for completing the Concentration's writing requirement."
+   ],
+   "courses": [
+    {
+     "title": "Health Law",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": "2243",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Marc Rodwin"
+     ]
+    },
+    {
+     "title": "Biomedical Law and Public Policy",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": "2057",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Marc Rodwin"
+     ]
+    },
+    {
+     "title": "Cannabis Law",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2420",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Laury Lucien"
+     ]
+    },
+    {
+     "title": "Directed Study in Health Law",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Externships Relating to Health Law",
+     "credits": 4.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "FDA & Pharma Law",
+     "credits": 3.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2349",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Food Law",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2172",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Health and Biomedical Law Thesis",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Health Law Clinic",
+     "credits": 5.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2465",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Journal of Health & Biomedical Law",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "0012",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Medical Malpractice",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2286",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Carol Kelly"
+     ]
+    },
+    {
+     "title": "Medicare and Medicaid Law and Policy",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2303",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Thomas Barker"
+     ]
+    },
+    {
+     "title": "Mental Health Law",
+     "credits": 3.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2843",
+     "offered": [
+      "spring"
+     ],
+     "instructors": []
+    },
+    {
+     "title": "National Health Law Moot Court Team",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "0088",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Privacy/Data Security",
+     "credits": 3.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2911",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Christopher Seusing"
+     ]
+    },
+    {
+     "title": "Public Health Law",
+     "credits": 2.0,
+     "group": "Tier 1 - Health Electives",
+     "course_id": "2847",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Administrative Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2020",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Erin Braatz",
+      "Renee Landers"
+     ]
+    },
+    {
+     "title": "Antitrust",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2038",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Elbert Robertson"
+     ]
+    },
+    {
+     "title": "Basic Federal Income Taxation",
+     "credits": 4.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2200",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Anthony Polito",
+      "Erika Isabella Scuderi",
+      "Meredith Conway"
+     ]
+    },
+    {
+     "title": "Business Entity Fundamentals",
+     "credits": 4.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2136",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Adam Eckart",
+      "Anthony Polito",
+      "Christopher Gibson",
+      "Dalindyebo Shabalala",
+      "Jim An",
+      "Richard Pizzano",
+      "Roger Pao"
+     ]
+    },
+    {
+     "title": "Compliance Practice Seminar",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2972",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Barbara-Ann Boehler"
+     ]
+    },
+    {
+     "title": "Corporate Taxation",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2619",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "ERISA and Retirement Plans",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2679",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Negotiating Business Transactions: A Simulation Course",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2987",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "Negotiation",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2283",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Darren Braham",
+      "Diana Chiang",
+      "Gabriel Teninbaum"
+     ]
+    },
+    {
+     "title": "Online Dispute Resolution for ADR",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2445",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Employment Discrimination Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2153",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Naiara Souto"
+     ]
+    },
+    {
+     "title": "Employment Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2154",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "David Yamada"
+     ]
+    },
+    {
+     "title": "Labor Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2240",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Katie Lev",
+      "Thomas Henry"
+     ]
+    },
+    {
+     "title": "Intellectual Property Survey",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2216",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Jennifer Karnakis",
+      "Stacey Lantagne"
+     ]
+    },
+    {
+     "title": "Patent Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2298",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Philip Swain"
+     ]
+    },
+    {
+     "title": "Patent Litigation Practice",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2831",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Philip Swain"
+     ]
+    },
+    {
+     "title": "Patent Prosecution: Drafting",
+     "credits": 2.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2301",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Trusts and Estates",
+     "credits": 4.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2500",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Rebecca Curtin",
+      "Sheila Scheuerman"
+     ]
+    },
+    {
+     "title": "Biotechnology and the Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2441",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Bruce Leicher"
+     ]
+    },
+    {
+     "title": "Clinical Research Law",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2433",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Atosa Ahmadi"
+     ]
+    },
+    {
+     "title": "Compliance Life Sciences Regulation and Recognition",
+     "credits": 3.0,
+     "group": "Tier 2 - Other Electives",
+     "course_id": "2871",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Stephanie Macholtz"
+     ]
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section How to Enroll Enrollment in the Health and Biomedical Law Concentration is accomplished by filing a Notice of Enrollment form . Concentration enrollment may occur as soon as a student completes the first year in law school in good standing. The latest date students may enroll in a Concentration is October 1st for students graduating in January, and Feb. 1 for students graduating in May. Formal enrollment in the Health and Biomedical Law Concentration is not complete until the Notice of Enrollment form is filed. Once enrolled in the Concentration, students will be invited to participate in a variety of programs and special events of interest to health and biomedical law practitioners. Requirements Continued enrollment in the Health and Biomedical Law Concentration is contingent upon the student: Completing the five (5) credits of required core courses and at least fifteen (15) credits in elective courses so that it is possible to complete the required twenty (20) credits in approved Health and Biomedical Law Concentration courses by the time the student graduates; Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director and/or the Assistant Dean for Academic Services. Obtaining one of the Concentration Faculty Director's approval of the student's plan for completing the Concentration's writing requirement. Upon completion of the required courses, elective courses, the writing requirement and total credit hours required by the Health and Biomedical Law Concentration, students must complete and file a Notice of Concentration Completion form with the Office of Academic Services. The latest date students may file Concentration Completion forms is Nov. 1 for January graduates, and March 1 for May graduates.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 37,
+    "offered_2026_27": 24,
+    "not_offered_2026_27": 13,
+    "fall_only": [
+     "Cannabis Law",
+     "Medical Malpractice",
+     "Privacy/Data Security",
+     "Labor Law",
+     "Patent Law",
+     "Biotechnology and the Law"
+    ],
+    "spring_only": [
+     "Biomedical Law and Public Policy",
+     "Medicare and Medicaid Law and Policy",
+     "Mental Health Law",
+     "Compliance Practice Seminar",
+     "Negotiating Business Transactions: A Simulation Course",
+     "Employment Discrimination Law",
+     "Employment Law",
+     "Patent Litigation Practice",
+     "Clinical Research Law",
+     "Compliance Life Sciences Regulation and Recognition"
+    ],
+    "missing": [
+     "Directed Study in Health Law",
+     "Externships Relating to Health Law",
+     "FDA & Pharma Law",
+     "Food Law",
+     "Health and Biomedical Law Thesis",
+     "Health Law Clinic",
+     "Journal of Health & Biomedical Law",
+     "National Health Law Moot Court Team",
+     "Public Health Law",
+     "Corporate Taxation",
+     "ERISA and Retirement Plans",
+     "Online Dispute Resolution for ADR",
+     "Patent Prosecution: Drafting"
+    ]
+   }
+  },
+  {
+   "key": "business-law-financial-services",
+   "name": "Business Law & Financial Services",
+   "slug": "business-law-financial-services",
+   "credits_required": 21,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/business-law-financial-services/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/business-law-financial-services/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "Completing the four (4) required core courses (13 - 14 credits)",
+    "An approved externship with a business, corporate, finance or tax placement OR a Concentration Practicum course, or an exemption from the externship or Concentration Practicum requirement, as granted by the Concentration Director and/or the Administrative Director of Concentrations",
+    "Completing at least six (6 credits) additional elective course credits so that it is possible to complete the required 21 credits in approved Business Law and Financial Services Concentration courses by the time the student graduates;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with the Concentration Faculty Director and/or the Office of Academic Services; and",
+    "Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement.",
+    "Meeting the GPA Requirements for the Concentration"
+   ],
+   "courses": [
+    {
+     "title": "Basic Federal Income Tax",
+     "credits": 4.0,
+     "group": "A. Core Courses",
+     "course_id": "2200",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Business Entity Fundamentals",
+     "credits": 4.0,
+     "group": "A. Core Courses",
+     "course_id": "2136",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Adam Eckart",
+      "Anthony Polito",
+      "Christopher Gibson",
+      "Dalindyebo Shabalala",
+      "Jim An",
+      "Richard Pizzano",
+      "Roger Pao"
+     ]
+    },
+    {
+     "title": "Securities Regulation",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": "2350",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Joseph Franco"
+     ]
+    },
+    {
+     "title": "Transactional Skills OR Transactional Skills: Intellectual Property OR Transactional Skills in Commercial & IP Practice",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": "2986",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Business Law or Financial Services externships (placement requires pre-approval by Administrative Director and a Faculty Director)",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Business of Practice: Hit the Ground Running",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2945",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Andrew Garcia"
+     ]
+    },
+    {
+     "title": "Business Planning",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2555",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Gregory Pickard",
+      "Karl Hartmann"
+     ]
+    },
+    {
+     "title": "Compliance Practice Seminar",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2972",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Barbara-Ann Boehler"
+     ]
+    },
+    {
+     "title": "Design Thinking for Lawyers & Business Professionals",
+     "credits": 3.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2066",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Alexander Gavis",
+      "Philippe Mauldin"
+     ]
+    },
+    {
+     "title": "Intellectual Property Law and Entrepreneurship Clinic",
+     "credits": 5.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2471",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Mediation",
+     "credits": 3.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2288",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Beth Aarons"
+     ]
+    },
+    {
+     "title": "Negotiating Business Transactions - Simulation",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2987",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "Negotiation",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2283",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Darren Braham",
+      "Diana Chiang",
+      "Gabriel Teninbaum"
+     ]
+    },
+    {
+     "title": "Online Dispute Resolution for ADR",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2445",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Securities Law Moot Court Team",
+     "credits": 2.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "0064",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Transactional Law Clinic",
+     "credits": 5.0,
+     "group": "B. Business Practicum Courses and Externships",
+     "course_id": "2486",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Business Law & Financial Services",
+     "credits": 6.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Accounting for Lawyers",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2005",
+     "offered": [
+      "spring"
+     ],
+     "instructors": []
+    },
+    {
+     "title": "Antitrust",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2038",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Elbert Robertson"
+     ]
+    },
+    {
+     "title": "Banking Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2544",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Dario Hernandez"
+     ]
+    },
+    {
+     "title": "Bankruptcy",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2545",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Bankruptcy Moot Court Team",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Bankruptcy Reorganizations",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2096",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Biotechnology and the Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2441",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Bruce Leicher"
+     ]
+    },
+    {
+     "title": "Business Law or Financial Services Thesis (topic requires pre-approval by Administrative Director and a Faculty Director)",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2681",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Commercial Law Survey",
+     "credits": 4.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2101",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Michael Rustad",
+      "Stephen McJohn"
+     ]
+    },
+    {
+     "title": "Compliance Life Sciences Regulation and Recognition",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2871",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Stephanie Macholtz"
+     ]
+    },
+    {
+     "title": "Corporate Finance",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2620",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Anthony Polito"
+     ]
+    },
+    {
+     "title": "Corporate Taxation",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2619",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Directed Study (topic requires pre-approval by Administrative Director and a Faculty Director)",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Emerging Issues in Law: Information Technology and Transnational Business",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2170",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Employment Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2154",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "David Yamada"
+     ]
+    },
+    {
+     "title": "ERISA and Retirement Plans",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2679",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "In-House Counsel: Ethical Practice",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "8086",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Neal Goldman"
+     ]
+    },
+    {
+     "title": "In-House Counsel Immersion",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "8087",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Bill Gabovitch"
+     ]
+    },
+    {
+     "title": "In-House Intl Commercial Practice",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "8085",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Neal Goldman"
+     ]
+    },
+    {
+     "title": "International Business Transactions",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2224",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "International Investment Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2424",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "International Tax Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2887",
+     "offered": [
+      "spring"
+     ],
+     "instructors": []
+    },
+    {
+     "title": "International Trade Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2221",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Sara Dillon"
+     ]
+    },
+    {
+     "title": "Investment Management Regulation",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2913",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Labor Law",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2240",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Katie Lev",
+      "Thomas Henry"
+     ]
+    },
+    {
+     "title": "Law and Economics",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2252",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Elbert Robertson"
+     ]
+    },
+    {
+     "title": "Mergers and Acquisitions",
+     "credits": 4.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2051",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Joseph Franco"
+     ]
+    },
+    {
+     "title": "Real Estate Transactions and Conveyancing",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2130",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Secured Transactions",
+     "credits": 3.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2345",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Taxation of Sports and Entertainment",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "8088",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Drew Logue"
+     ]
+    },
+    {
+     "title": "Tax Due Diligence in Mergers and Acquisitions",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "8089",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Kirsten Price"
+     ]
+    },
+    {
+     "title": "Tax Law Moot Court Team",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "0061",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Taxation of Mergers/Acquisition",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2995",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Meredith Conway"
+     ]
+    },
+    {
+     "title": "Taxation Practice and Procedure",
+     "credits": 2.0,
+     "group": "C. Elective Course Requirements:",
+     "course_id": "2360",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Carlton King",
+      "Patrick Gallagher"
+     ]
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section How to Enroll Enrollment in the Business Law and Financial Services Concentration is accomplished by filing Notice of Enrollment form . Concentration enrollment may occur as soon as a student completes the first year in law school in good standing. The latest date students may enroll in a Concentration is October 1st for students graduating in January, and Feb. 1 for students graduating in May. Formal enrollment in the Business Law and Financial Services Concentration is not complete until the Notice of Enrollment form is filed. Once enrolled in the Concentration, students will be invited to participate in a variety of programs and special events of interest to business, corporate, finance and tax practitioners. Requirements Continued enrollment in the Business Law and Financial Services Concentration is contingent upon the student: Completing the four (4) required core courses (13 - 14 credits) An approved externship with a business, corporate, finance or tax placement OR a Concentration Practicum course, or an exemption from the externship or Concentration Practicum requirement, as granted by the Concentration Director and/or the Administrative Director of Concentrations Completing at least six (6 credits) additional elective course credits so that it is possible to complete the required 21 credits in approved Business Law and Financial Services Concentration courses by the time the student graduates; Periodically reviewing the student's progress in attaining the requisite grade point averages with the Concentration Faculty Director and/or the Office of Academic Services; and Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement. Meeting the GPA Requirements for the Concentration Notice of Completion Upon completion of the required courses, externship, clinical or Practicum course elective courses, the writing requirement and total credit hours required by the Business Law and Financial Services Concentration, students must complete and file a Notice of Concentration Completion form with the Office of Academic Services. The latest date students may file Concentration Completion forms is Nov. 1 for January graduates, and March 1 for May graduates.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 51,
+    "offered_2026_27": 31,
+    "not_offered_2026_27": 20,
+    "fall_only": [
+     "Business Planning",
+     "Design Thinking for Lawyers & Business Professionals",
+     "Banking Law",
+     "Biotechnology and the Law",
+     "In-House Counsel: Ethical Practice",
+     "In-House Counsel Immersion",
+     "International Business Transactions",
+     "Labor Law",
+     "Law and Economics",
+     "Taxation of Sports and Entertainment",
+     "Tax Due Diligence in Mergers and Acquisitions",
+     "Taxation of Mergers/Acquisition",
+     "Taxation Practice and Procedure"
+    ],
+    "spring_only": [
+     "Securities Regulation",
+     "Business of Practice: Hit the Ground Running",
+     "Compliance Practice Seminar",
+     "Mediation",
+     "Negotiating Business Transactions - Simulation",
+     "Accounting for Lawyers",
+     "Compliance Life Sciences Regulation and Recognition",
+     "Corporate Finance",
+     "Employment Law",
+     "In-House Intl Commercial Practice",
+     "International Investment Law",
+     "International Tax Law",
+     "International Trade Law",
+     "Mergers and Acquisitions"
+    ],
+    "missing": [
+     "Basic Federal Income Tax",
+     "Transactional Skills OR Transactional Skills: Intellectual Property OR Transactional Skills in Commercial & IP Practice",
+     "Business Law or Financial Services externships (placement requires pre-approval by Administrative Director and a Faculty Director)",
+     "Intellectual Property Law and Entrepreneurship Clinic",
+     "Online Dispute Resolution for ADR",
+     "Securities Law Moot Court Team",
+     "Transactional Law Clinic",
+     "Business Law & Financial Services",
+     "Bankruptcy",
+     "Bankruptcy Moot Court Team",
+     "Bankruptcy Reorganizations",
+     "Business Law or Financial Services Thesis (topic requires pre-approval by Administrative Director and a Faculty Director)",
+     "Corporate Taxation",
+     "Directed Study (topic requires pre-approval by Administrative Director and a Faculty Director)",
+     "Emerging Issues in Law: Information Technology and Transnational Business",
+     "ERISA and Retirement Plans",
+     "Investment Management Regulation",
+     "Real Estate Transactions and Conveyancing",
+     "Secured Transactions",
+     "Tax Law Moot Court Team"
+    ]
+   }
+  },
+  {
+   "key": "trial-appellate-advocacy",
+   "name": "Trial & Appellate Advocacy",
+   "slug": "trial-appellate-advocacy",
+   "credits_required": 23,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/trial-appellate-advocacy/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/trial-appellate-advocacy/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "Completing the five (5) required core courses;",
+    "Completing an externship with a litigation placement or a Clinical Program; and",
+    "Completing at least three (3) additional elective courses so that it is possible to complete the required twenty-three (23) credits in approved Trial and Appellate Advocacy Concentration courses by the time the student graduates;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director and/or the Assistant Dean for Academic Services.",
+    "Obtaining the Concentration Faculty Director's approval of the student's plan for completing the Concentration's writing requirement."
+   ],
+   "courses": [
+    {
+     "title": "Evidence",
+     "credits": 4.0,
+     "group": "1. One (1) Evidence course:",
+     "course_id": "2166",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Isaac Borenstein",
+      "Maurice Dyson",
+      "Rosanna Cavallaro",
+      "Serge Georges",
+      "Timothy Wilton"
+     ]
+    },
+    {
+     "title": "Federal Criminal Advocacy",
+     "credits": 2.0,
+     "group": "2. One (1) Pretrial course:",
+     "course_id": "2075",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Gustavo Gelpi"
+     ]
+    },
+    {
+     "title": "Complex Litigation and Counseling",
+     "credits": 2.0,
+     "group": "2. One (1) Pretrial course:",
+     "course_id": "2065",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Kevin Adam"
+     ]
+    },
+    {
+     "title": "Pretrial Civil Litigation",
+     "credits": 3.0,
+     "group": "2. One (1) Pretrial course:",
+     "course_id": "2304",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Brian Kelly"
+     ]
+    },
+    {
+     "title": "State Criminal Practice",
+     "credits": 2.0,
+     "group": "2. One (1) Pretrial course:",
+     "course_id": "2357",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Eddie Jenkins"
+     ]
+    },
+    {
+     "title": "Federal Criminal Practice Seminar",
+     "credits": 2.0,
+     "group": "2. One (1) Pretrial course:",
+     "course_id": "2960",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Appellate Practice and Advocacy",
+     "credits": 3.0,
+     "group": "3. An Appellate course:",
+     "course_id": "2518",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Mediation",
+     "credits": 3.0,
+     "group": "4. An Alternative Dispute Resolution course:",
+     "course_id": "2288",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Beth Aarons"
+     ]
+    },
+    {
+     "title": "Negotiation",
+     "credits": 2.0,
+     "group": "4. An Alternative Dispute Resolution course:",
+     "course_id": "2283",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Darren Braham",
+      "Diana Chiang",
+      "Gabriel Teninbaum"
+     ]
+    },
+    {
+     "title": "Online Dispute Resolution for ADR",
+     "credits": 2.0,
+     "group": "4. An Alternative Dispute Resolution course:",
+     "course_id": "2445",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Trial Advocacy",
+     "credits": 2.0,
+     "group": "5. A Trial Advocacy course:",
+     "course_id": "2009",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Donald Cabell",
+      "Linda Giles",
+      "Michael Bolden",
+      "Serge Georges",
+      "Timothy Wilton"
+     ]
+    },
+    {
+     "title": "Trial Advocacy - Intensive",
+     "credits": 3.0,
+     "group": "5. A Trial Advocacy course:",
+     "course_id": "2363",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Dearborn"
+     ]
+    },
+    {
+     "title": "Accelerator-to-Practice Program",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2483",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Family Advocacy Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2463",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Health Law Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2465",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Immigrant Justice Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2467",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Human Rights & Indigenous People Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2469",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Intellectual Property & Entrepreneurship Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2471",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Litigation Related Externship",
+     "credits": 2.0,
+     "group": "At least 1 course:",
+     "course_id": "0022",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Juvenile Defender Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2473",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Suffolk Defenders Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2475",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Suffolk Prosecutors Clinic",
+     "credits": 5.0,
+     "group": "At least 1 course:",
+     "course_id": "2477",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Access to Justice",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "8116",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Danielle Johnson"
+     ]
+    },
+    {
+     "title": "Administrative Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2020",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Erin Braatz",
+      "Renee Landers"
+     ]
+    },
+    {
+     "title": "Advanced Civil Procedure",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2580",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Linda Sandstrom Simard"
+     ]
+    },
+    {
+     "title": "Advanced Criminal Law: Substance Abuse",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2439",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Advanced Immigration Law",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2429",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Ragini Shah"
+     ]
+    },
+    {
+     "title": "Advanced Legal Writing",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2265",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Ann Santos",
+      "Chelsea Kendall",
+      "Michael Ilin",
+      "Sara Jane Del Carmen"
+     ]
+    },
+    {
+     "title": "Advanced Practice Skills",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2400",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Benjamin Carroll"
+     ]
+    },
+    {
+     "title": "Advanced Topics in Constitutional Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2423",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Rene Reyes"
+     ]
+    },
+    {
+     "title": "Advanced Torts",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2035",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Michael Rustad"
+     ]
+    },
+    {
+     "title": "Cannabis Law",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2420",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Laury Lucien"
+     ]
+    },
+    {
+     "title": "Civil Rights Litigation: Police Misconduct",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "4004",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Robert Cunha"
+     ]
+    },
+    {
+     "title": "Constitutional Law Moot Court Team",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "0063",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Criminal Procedure",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2605",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "James Rehnquist",
+      "Michael Ricciuti",
+      "Rene Reyes",
+      "Stephen Cody",
+      "Stephen Piotrkowski"
+     ]
+    },
+    {
+     "title": "Digital Evidence",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2660",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christina Miller"
+     ]
+    },
+    {
+     "title": "Directed Study ii",
+     "credits": 1.0,
+     "group": "At least 3 courses:",
+     "course_id": "0005",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "E-Discovery Law",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2951",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Family Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2185",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Sheila Scheuerman"
+     ]
+    },
+    {
+     "title": "Federal Courts",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2192",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Forensics",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2976",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Ann Santos"
+     ]
+    },
+    {
+     "title": "Housing Discrimination Law, Theory and Practice: Brainstorming & Implementing Solutions to Discrimination",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2957",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Immigration Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2218",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Alexandra Peredo Carroll"
+     ]
+    },
+    {
+     "title": "International Investment Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2424",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Gibson"
+     ]
+    },
+    {
+     "title": "Interviewing and Counseling",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2225",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Cara Libman",
+      "Martsyl Joseph",
+      "Richard Pizzano"
+     ]
+    },
+    {
+     "title": "Labor Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2240",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Katie Lev",
+      "Thomas Henry"
+     ]
+    },
+    {
+     "title": "Medical Malpractice",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2286",
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Carol Kelly"
+     ]
+    },
+    {
+     "title": "Mental Health Law",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2843",
+     "offered": [
+      "spring"
+     ],
+     "instructors": []
+    },
+    {
+     "title": "National Trial Team",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "0017",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Patent Litigation Practice",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2831",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Philip Swain"
+     ]
+    },
+    {
+     "title": "Patent Prosecution II: PTO Practice",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2944",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Public Interest Lawyering",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "4003",
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Julien Mundele",
+      "Reyna Ramirez"
+     ]
+    },
+    {
+     "title": "Trial & Appellate Advocacy Concentration Thesis",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Workers Compensation",
+     "credits": 2.0,
+     "group": "At least 3 courses:",
+     "course_id": "2895",
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Zealous Advocacy",
+     "credits": 3.0,
+     "group": "At least 3 courses:",
+     "course_id": "2084",
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Nicole Oribhabor",
+      "Peter O'Karma"
+     ]
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section How to Enroll Enrollment in the Trial and Appellate Advocacy Concentration is accomplished by filing a Notice of Enrollment form with the Office of Academic Services. Concentration enrollment may occur as soon as a student completes the first year in law school in good standing. The latest date students may enroll in a Concentration is October 1st for students graduating in January, and Feb. 1 for students graduating in May. Formal enrollment in the Trial and Appellate Advocacy Concentration is not complete until the Notice of Enrollment form is filed. Once enrolled in the Concentration, students will be invited to participate in a variety of programs and special events of interest to litigation practitioners. Requirements Continued enrollment in the Trial and Appellate Advocacy Concentration is contingent upon the student: Completing the five (5) required core courses; Completing an externship with a litigation placement or a Clinical Program; and Completing at least three (3) additional elective courses so that it is possible to complete the required twenty-three (23) credits in approved Trial and Appellate Advocacy Concentration courses by the time the student graduates; Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director and/or the Assistant Dean for Academic Services. Obtaining the Concentration Faculty Director's approval of the student's plan for completing the Concentration's writing requirement. Upon completion of the required courses, elective courses, the writing requirement and total credit hours required by the Trial and Appellate Advocacy Concentration, students must complete and file the Notice of Concentration Completion form online. The latest date students may file Concentration Completion forms is November 1st for January graduates, and March 1st for May graduates.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 55,
+    "offered_2026_27": 32,
+    "not_offered_2026_27": 23,
+    "fall_only": [
+     "Federal Criminal Advocacy",
+     "Complex Litigation and Counseling",
+     "Pretrial Civil Litigation",
+     "State Criminal Practice",
+     "Access to Justice",
+     "Advanced Civil Procedure",
+     "Advanced Topics in Constitutional Law",
+     "Advanced Torts",
+     "Cannabis Law",
+     "Immigration Law",
+     "Labor Law",
+     "Medical Malpractice"
+    ],
+    "spring_only": [
+     "Mediation",
+     "Trial Advocacy - Intensive",
+     "Advanced Immigration Law",
+     "Advanced Practice Skills",
+     "Civil Rights Litigation: Police Misconduct",
+     "Digital Evidence",
+     "Forensics",
+     "International Investment Law",
+     "Mental Health Law",
+     "Patent Litigation Practice",
+     "Zealous Advocacy"
+    ],
+    "missing": [
+     "Federal Criminal Practice Seminar",
+     "Appellate Practice and Advocacy",
+     "Online Dispute Resolution for ADR",
+     "Accelerator-to-Practice Program",
+     "Family Advocacy Clinic",
+     "Health Law Clinic",
+     "Immigrant Justice Clinic",
+     "Human Rights & Indigenous People Clinic",
+     "Intellectual Property & Entrepreneurship Clinic",
+     "Litigation Related Externship",
+     "Juvenile Defender Clinic",
+     "Suffolk Defenders Clinic",
+     "Suffolk Prosecutors Clinic",
+     "Advanced Criminal Law: Substance Abuse",
+     "Constitutional Law Moot Court Team",
+     "Directed Study ii",
+     "E-Discovery Law",
+     "Federal Courts",
+     "Housing Discrimination Law, Theory and Practice: Brainstorming & Implementing Solutions to Discrimination",
+     "National Trial Team",
+     "Patent Prosecution II: PTO Practice",
+     "Trial & Appellate Advocacy Concentration Thesis",
+     "Workers Compensation"
+    ]
+   }
+  },
+  {
+   "key": "labor-employment-law",
+   "name": "Labor & Employment Law",
+   "slug": "labor-employment-law",
+   "credits_required": null,
+   "requirements_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/labor-employment-law/enrollment-requirements",
+   "courses_url": "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/labor-employment-law/courses",
+   "enroll_deadline": "October 1 (January graduates) / February 1 (May graduates)",
+   "requirement_bullets": [
+    "The three (3) required, core courses, as listed under the Concentration’s Courses section;",
+    "At least two (2) Concentration skills courses, as listed under the Concentration’s Courses section;",
+    "An externship in an approved, three (3) credit externship in some area of labor and employment law, or an exemption from the externship requirement, as granted by the Concentration Director(s) and/or the Administrative Director of Concentrations;",
+    "At least two (2) Concentration elective courses, as listed in the Concentration’s Courses section;",
+    "Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services.",
+    "Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement."
+   ],
+   "courses": [
+    {
+     "title": "One (1) of the courses from the following list: Employment Law",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Employment Law: Lawyering Approach",
+     "credits": 4.0,
+     "group": "A. Core Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Employment Discrimination Law",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Naiara Souto"
+     ]
+    },
+    {
+     "title": "Labor Law",
+     "credits": 3.0,
+     "group": "A. Core Courses",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Katie Lev",
+      "Thomas Henry"
+     ]
+    },
+    {
+     "title": "Group 1 - Advanced Legal Writing Courses Advanced Legal Writing",
+     "credits": 3.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Group 2 - Negotiation/Mediation Courses Mediation",
+     "credits": 3.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Negotiation",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Darren Braham",
+      "Diana Chiang",
+      "Gabriel Teninbaum"
+     ]
+    },
+    {
+     "title": "Group 3 - Practice Courses Compliance Practice Seminar",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "E-Discovery Law",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "ERISA and Retirement Plans",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Interviewing and Counseling",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Cara Libman",
+      "Martsyl Joseph",
+      "Richard Pizzano"
+     ]
+    },
+    {
+     "title": "Interviewing, Counseling and Negotiation",
+     "credits": 4.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Labor and Employment Arbitration",
+     "credits": 3.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Pre-Trial Civil Litigation",
+     "credits": 3.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Brian Kelly"
+     ]
+    },
+    {
+     "title": "Trial Advocacy",
+     "credits": 2.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Donald Cabell",
+      "Linda Giles",
+      "Michael Bolden",
+      "Serge Georges",
+      "Timothy Wilton"
+     ]
+    },
+    {
+     "title": "Trial Advocacy Intensive",
+     "credits": 3.0,
+     "group": "B. Skills Courses",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Christopher Dearborn"
+     ]
+    },
+    {
+     "title": "Externship in a Labor or Employment Law Placement",
+     "credits": 3.0,
+     "group": "C. Externship",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Administration Law",
+     "credits": 3.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Erin Braatz",
+      "Renee Landers"
+     ]
+    },
+    {
+     "title": "Basic Federal Income Taxation",
+     "credits": 4.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Anthony Polito",
+      "Erika Isabella Scuderi",
+      "Meredith Conway"
+     ]
+    },
+    {
+     "title": "Concentration Thesis",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Directed Study on a Labor or Employment Law Topic",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Education Law",
+     "credits": 3.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Tiffani Darden"
+     ]
+    },
+    {
+     "title": "Government Lawyer: Legislation",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "spring"
+     ],
+     "instructors": [
+      "Anne Landry"
+     ]
+    },
+    {
+     "title": "Health Law",
+     "credits": 3.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "fall",
+      "spring"
+     ],
+     "instructors": [
+      "Marc Rodwin"
+     ]
+    },
+    {
+     "title": "Immigration Law",
+     "credits": 3.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [
+      "fall"
+     ],
+     "instructors": [
+      "Alexandra Peredo Carroll"
+     ]
+    },
+    {
+     "title": "Public Interest Law Seminar",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Statutory Interpretation",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    },
+    {
+     "title": "Workers' Compensation",
+     "credits": 2.0,
+     "group": "D. Electives",
+     "course_id": null,
+     "offered": [],
+     "instructors": []
+    }
+   ],
+   "requirements_text": "Requirements Suffolk Law School In this Section Continued enrollment in the Labor and Employment Law Concentration is contingent upon the student completing: The three (3) required, core courses, as listed under the Concentration’s Courses section; At least two (2) Concentration skills courses, as listed under the Concentration’s Courses section; An externship in an approved, three (3) credit externship in some area of labor and employment law, or an exemption from the externship requirement, as granted by the Concentration Director(s) and/or the Administrative Director of Concentrations; At least two (2) Concentration elective courses, as listed in the Concentration’s Courses section; Periodically reviewing the student's progress in attaining the requisite grade point averages with one of the Concentration Faculty Director(s) and/or the Assistant Dean for Academic Services. Obtaining the Concentration Faculty Directors' approval of the student's plan for completing the Concentration's writing requirement. Upon completion of the required courses, elective courses, the externship, the writing requirement and total credit hours required by the Labor and Employment Law Concentration, enrolled students must complete and file the Notice of Concentration Completion form online. The latest date students may file Concentration Completion forms is Nov. 1 for January graduates, and March 1 for May graduates.",
+   "verified": "2026-08-27",
+   "reconciliation": {
+    "listed": 28,
+    "offered_2026_27": 13,
+    "not_offered_2026_27": 15,
+    "fall_only": [
+     "Labor Law",
+     "Pre-Trial Civil Litigation",
+     "Immigration Law"
+    ],
+    "spring_only": [
+     "Employment Discrimination Law",
+     "Trial Advocacy Intensive",
+     "Education Law",
+     "Government Lawyer: Legislation"
+    ],
+    "missing": [
+     "One (1) of the courses from the following list: Employment Law",
+     "Employment Law: Lawyering Approach",
+     "Group 1 - Advanced Legal Writing Courses Advanced Legal Writing",
+     "Group 2 - Negotiation/Mediation Courses Mediation",
+     "Group 3 - Practice Courses Compliance Practice Seminar",
+     "E-Discovery Law",
+     "ERISA and Retirement Plans",
+     "Interviewing, Counseling and Negotiation",
+     "Labor and Employment Arbitration",
+     "Externship in a Labor or Employment Law Placement",
+     "Concentration Thesis",
+     "Directed Study on a Labor or Employment Law Topic",
+     "Public Interest Law Seminar",
+     "Statutory Interpretation",
+     "Workers' Compensation"
+    ]
+   }
+  }
+ ],
+ "reconciled": "2026-08-27",
+ "reconciliation_note": "Courses listed by a concentration but absent from the 2026-27 catalog may be on a multi-year rotation, renamed, or discontinued. Verify with Academic Services."
+}

@@ -1,0 +1,192 @@
+{
+ "items": [
+  {
+   "kind": "coverage",
+   "date": "2026-08-05",
+   "outlet": "National Jurist",
+   "title": "Law schools preparing lawyers for the AI era",
+   "note": "LITSA's build competition is the lead photograph, captioned to the organization by name.",
+   "url": "https://nationaljurist.com/american-university-and-case-western-reserve-lead-the-top-programs-preparing-lawyers-for-the-ai-era/",
+   "page_title": "American University and Case Western Reserve lead the top programs preparing lawyers for the AI era",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "ours",
+   "date": "2026-04-09",
+   "outlet": "Suffolk LIT Lab",
+   "title": "What happens when law students build things",
+   "note": "Sam Darkwa and Ben Westervelt on the first build competition. Seven teams, two tracks, one evening.",
+   "url": "https://suffolklitlab.org/what-happens-when-law-students-build-things/",
+   "page_title": "What happens when law students build things &#8212; Suffolk LIT Lab",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2025-10-29",
+   "outlet": "Suffolk University",
+   "title": "Amazon teams up with Suffolk for AI hackathon",
+   "note": "The LIT Center and AWS ran a generative AI hackathon at the Seaport office.",
+   "url": "https://www.suffolk.edu/news-features/news/2025/10/29/01/25/amazon-teams-up-with-suffolk-for-ai-hackathon",
+   "page_title": "Amazon Teams Up with Suffolk for GenAI Hackathon - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2025-10-16",
+   "outlet": "Suffolk University",
+   "title": "Named among the most innovative law schools in America",
+   "note": "preLaw's annual list.",
+   "url": "https://www.suffolk.edu/news-features/news/2025/10/16/18/52/most-innovative-law-schools-2025",
+   "page_title": "Suffolk Law Named Among Most Innovative Law Schools in America - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2025-05-31",
+   "outlet": "Suffolk University",
+   "title": "Suffolk Law partners with Hotshot for required AI course",
+   "note": "Every first-year student now completes an AI learning track.",
+   "url": "https://www.suffolk.edu/news-features/news/2025/05/31/21/26/suffolk-law-partners-with-hotshot-for-required-ai-course",
+   "page_title": "Suffolk Law Partners with Hotshot for Required AI Course - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2025-03-18",
+   "outlet": "Suffolk University",
+   "title": "An AI tool that helps students practice negotiation",
+   "note": "Students negotiate against bots modeled on experienced attorneys, in text or voice.",
+   "url": "https://www.suffolk.edu/news-features/news/2025/03/18/20/19/ai-negotiation-tool",
+   "page_title": "Suffolk Law AI Tool Helps Students Practice Negotiation - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2024-11-04",
+   "outlet": "Suffolk University",
+   "title": "Suffolk Law launches the first STEM-designated LL.M. in legal innovation and technology",
+   "note": "Twenty-four credits, and the first of its kind in the country.",
+   "url": "https://www.suffolk.edu/news-features/news/2024/11/04/20/21/lit-llm-announced",
+   "page_title": "Suffolk Law Launches LLM in Legal Innovation &amp; Technology - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2023-11-17",
+   "outlet": "Suffolk University",
+   "title": "AI meets the justice gap at the design challenge",
+   "note": "Law and business students prototype against access problems in a day.",
+   "url": "https://www.suffolk.edu/news-features/news/2023/11/17/21/20/liberty-legal-design-challenge-2023",
+   "page_title": "AI Meets the Justice Gap at Design Challenge - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2021-02-01",
+   "outlet": "Suffolk University",
+   "title": "Number one in the nation for legal technology",
+   "note": "National Jurist's ranking, the second time Suffolk took the top spot.",
+   "url": "https://www.suffolk.edu/news-features/news/2021/02/01/18/37/number-1-in-the-nation",
+   "page_title": "Number 1 in the Nation - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2020-12-08",
+   "outlet": "Suffolk University",
+   "title": "Rising to the challenge",
+   "note": "The design challenge run remotely through the pandemic year.",
+   "url": "https://www.suffolk.edu/news-features/news/2020/12/08/18/25/design-challenge-article",
+   "page_title": "Rising to the Challenge - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2020-09-02",
+   "outlet": "The New York Times",
+   "title": "Coverage of the LIT Lab's pandemic court-forms work",
+   "note": "The eviction-moratorium reporting that put Suffolk's mobile smartforms in front of a national audience.",
+   "url": "https://www.nytimes.com/2020/09/02/your-money/eviction-moratorium-covid.html",
+   "checked": false,
+   "page_title": "publisher blocks automated checks",
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2019-03-26",
+   "outlet": "Suffolk University",
+   "title": "LIT Lab named a finalist for the World Justice Challenge",
+   "note": "International recognition for the Lab's access-to-justice work.",
+   "url": "https://www.suffolk.edu/news-features/news/2019/03/26/19/00/suffolk-legal-innovation-and-technology-lab-named-finalist-for-world-justice-challenge",
+   "page_title": "Suffolk Legal Innovation and Technology Lab Named Finalist for World Justice Challenge - Suffolk University",
+   "checked": true,
+   "live": true
+  },
+  {
+   "kind": "coverage",
+   "date": "2018-11-02",
+   "outlet": "Suffolk University",
+   "title": "Named best law school for legal technology",
+   "note": "The first of the National Jurist top rankings.",
+   "url": "https://www.suffolk.edu/news-features/news/2018/11/02/18/38/suffolk-named-best-law-school-for-legal-technology",
+   "page_title": "Suffolk Named Best Law School for Legal Technology - Suffolk University",
+   "checked": true,
+   "live": true
+  }
+ ],
+ "reading": [
+  {
+   "name": "LegalQuants",
+   "by": "Jamie Tso and Raymond Sun",
+   "note": "A network of lawyers who build their own tools. Invite only, with a public Substack.",
+   "url": "https://tsojamie.substack.com/",
+   "live": true
+  },
+  {
+   "name": "LawSites",
+   "by": "Bob Ambrogi",
+   "note": "Twenty years of legal technology reporting, and where a lot of this field's news lands first.",
+   "url": "https://www.lawnext.com/",
+   "live": true
+  },
+  {
+   "name": "Suffolk LIT Lab blog",
+   "by": "The LIT Lab",
+   "note": "What the Lab is shipping, written by the people shipping it. Document assembly, court forms, teaching notes.",
+   "url": "https://suffolklitlab.org/blog/",
+   "live": true
+  },
+  {
+   "name": "Journal of High Technology Law",
+   "by": "Suffolk students",
+   "note": "Our own journal. Student run, open to anyone, and a write-on route that carries academic credit.",
+   "url": "https://sites.suffolk.edu/jhtl/",
+   "live": true
+  },
+  {
+   "name": "Legal Innovation & Technology Center",
+   "by": "Suffolk Law",
+   "note": "The Center's own page, including what the concentration and the Lab are doing this year.",
+   "url": "https://sites.suffolk.edu/legaltech/",
+   "live": true
+  }
+ ],
+ "dead": [],
+ "last_checked": "2026-10-12",
+ "health": {
+  "ok": true,
+  "live": 13,
+  "dead": 0,
+  "unverified": 1
+ }
+}

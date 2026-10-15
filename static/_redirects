@@ -1,0 +1,26 @@
+# Entry links: suffolklitsa.org/<code> for places that send no referrer (email apps,
+# QR codes, GroupMe). Counterscale reads ?source= as the referrer when there is none,
+# so these show up by name in the weekly digest. Print the short form: suffolklitsa.org/qr
+/nl  /?source=newsletter  302
+/nl/  /?source=newsletter  302
+/qr  /?source=qr-code  302
+/qr/  /?source=qr-code  302
+/li  /?source=linkedin  302
+/li/  /?source=linkedin  302
+/ig  /?source=instagram  302
+/ig/  /?source=instagram  302
+/gm  /?source=groupme  302
+/gm/  /?source=groupme  302
+/sig  /?source=email-signature  302
+/sig/  /?source=email-signature  302
+/flyer  /?source=flyer  302
+/flyer/  /?source=flyer  302
+/join-qr  /join/?source=qr-code  302
+/join-qr/  /join/?source=qr-code  302
+# RSVP for the current event, printed on posters and the QR (Nov 4 panel form, Sam's Suffolk Microsoft Forms).
+# Repoint this line for the next event; printed QRs keep working.
+/rsvp  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qT9zeA5UuE6_KXPE7rY0EmIB9oRYIXJBo72IXY0xZm1UNUdPTkVTSzFZSkY3RUdaMUhZMUZOWENLNS4u  302
+/rsvp/  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qT9zeA5UuE6_KXPE7rY0EmIB9oRYIXJBo72IXY0xZm1UNUdPTkVTSzFZSkY3RUdaMUhZMUZOWENLNS4u  302
+# Skills committee member survey (Sam's Suffolk Microsoft Forms, Suffolk accounts only).
+/skills  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qT9zeA5UuE6_KXPE7rY0EmIB9oRYIXJBo72IXY0xZm1UNEtNVDVHM0k4RDRaQjMwNFFQMVBWRFhaNS4u  302
+/skills/  https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=qT9zeA5UuE6_KXPE7rY0EmIB9oRYIXJBo72IXY0xZm1UNEtNVDVHM0k4RDRaQjMwNFFQMVBWRFhaNS4u  302

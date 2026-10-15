@@ -1,0 +1,133 @@
+{
+ "verified": "2026-08-27",
+ "source": "https://www.suffolk.edu/law/academics-clinics/academic-resources/law-course-offerings",
+ "cohorts": [
+  {
+   "cohort": "1A",
+   "division": "day",
+   "fall": [
+    "Contracts",
+    "Criminal Law",
+    "Legal Practice Skills",
+    "Torts"
+   ],
+   "spring": [
+    "Civil Procedure",
+    "Constitutional Law",
+    "Property"
+   ]
+  },
+  {
+   "cohort": "1B",
+   "division": "day",
+   "fall": [
+    "Civil Procedure",
+    "Criminal Law",
+    "Legal Practice Skills",
+    "Property"
+   ],
+   "spring": [
+    "Constitutional Law",
+    "Contracts",
+    "Torts"
+   ]
+  },
+  {
+   "cohort": "1C",
+   "division": "day",
+   "fall": [
+    "Civil Procedure",
+    "Criminal Law",
+    "Legal Practice Skills",
+    "Property"
+   ],
+   "spring": [
+    "Constitutional Law",
+    "Contracts",
+    "Torts"
+   ]
+  },
+  {
+   "cohort": "1D",
+   "division": "day",
+   "fall": [
+    "Civil Procedure",
+    "Contracts",
+    "Criminal Law",
+    "Legal Practice Skills"
+   ],
+   "spring": [
+    "Constitutional Law",
+    "Property",
+    "Torts"
+   ]
+  },
+  {
+   "cohort": "1E",
+   "division": "day",
+   "fall": [
+    "Civil Procedure",
+    "Contracts",
+    "Criminal Law",
+    "Legal Practice Skills"
+   ],
+   "spring": [
+    "Constitutional Law",
+    "Property",
+    "Torts"
+   ]
+  },
+  {
+   "cohort": "4A",
+   "division": "evening",
+   "fall": [
+    "Civil Procedure",
+    "Criminal Law",
+    "Legal Practice Skills"
+   ],
+   "spring": [
+    "Contracts",
+    "Torts"
+   ]
+  },
+  {
+   "cohort": "5A",
+   "division": "evening",
+   "fall": [
+    "Property"
+   ],
+   "spring": [
+    "Constitutional Law"
+   ]
+  },
+  {
+   "cohort": "APO",
+   "division": "accelerated",
+   "fall": [
+    "Criminal Law",
+    "Legal Practice Skills",
+    "Torts"
+   ],
+   "spring": [
+    "Civil Procedure",
+    "Contracts"
+   ]
+  },
+  {
+   "cohort": "HJD",
+   "division": "hybrid",
+   "fall": [],
+   "spring": [
+    "Professional Responsibility"
+   ]
+  },
+  {
+   "cohort": "WEB",
+   "division": "online",
+   "fall": [
+    "Professional Responsibility"
+   ],
+   "spring": []
+  }
+ ]
+}

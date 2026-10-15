@@ -1,0 +1,3573 @@
+{
+ "verified": "2026-08-27",
+ "tally": {
+  "other": 30,
+  "gated": 129,
+  "ok": 711,
+  "unreachable": 16,
+  "skip": 1,
+  "broken": 2
+ },
+ "broken": [
+  "https://search.worldcat.org/",
+  "https://www.mab.uscourts.gov/"
+ ],
+ "results": {
+  "http://eproducts.westacademic.com": {
+   "state": "other",
+   "code": 500
+  },
+  "http://lawschool.westlaw.com/shared/westlawRedirect.asp?url=http%3A%2F%2Fwww%2Ewestlaw%2Ecom%2Fsearch%2Fdefault%2Ewl%3Fdb%3DIMPLP%26Action%3Dsearch%26RS%3DITK3%2E0%26VR%3D1%2E0&appflag=87.9": {
+   "state": "gated",
+   "code": 403
+  },
+  "http://maps.google.com/maps?q=120+Tremont+St,+Boston,+MA+02108,+USA&ie=UTF8&z=16&iwloc=addr&om=1": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://scholar.google.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://subscription.westacademic.com/Book/Detail?id=20417": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://wsj.com/Suffolk": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.congress.gov/": {
+   "state": "gated",
+   "code": 403
+  },
+  "http://www.mass.gov/courts/case-legal-res/law-lib/": {
+   "state": "gated",
+   "code": 403
+  },
+  "http://www.ncbex.org/": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.ncbex.org/exams/mbe/preparing/": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.ncbex.org/exams/mee/preparing/": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.ncbex.org/exams/mpt/preparing/": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.ncbex.org/jurisdiction-information/jurisdiction/ma": {
+   "state": "ok",
+   "code": 200
+  },
+  "http://www.ncbex.org/study-aids/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Browse/Home/PracticalLaw?transitionType=Default&contextData=(sc.Default)&tabName=Practice%20Areas": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawContracts?originationContext=typeAhead&transitionType=CategoryPageItem&contextData=(sc.Default)#": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawContracts?originationContext=typeAhead&transitionType=CategoryPageItem&contextData=(sc.Default)&firstPage=true&bhcp=1&CobaltRefresh=76499": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawTorts?originationContext=typeAhead&transitionType=CategoryPageItem&contextData=(sc.Default)": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Browse/Home/SecondarySources/TextsTreatises/EthicsProfessionalResponsibilityTextsTreatises/ABAAnnotatedModelRulesofProfessionalConduct?ppcid=1a06f08714484b4b9dff72b4256312a6&transitionType=SearchItem&contextData=%28sc.Category%29": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Document/I51c19fccc70f11e8a5b3e3d9e23d7429/View/FullText.html?transitionType=CategoryPageItem&contextData=(sc.Default)&navId=F603CB66E98F963E11349CBCD571F389": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Document/I8177877d475b11e9adfea82903531a62/View/FullText.html?transitionType=CategoryPageItem&contextData=(sc.Default)&navId=93E58FFC1C2CAE9B0DB281078419DF7F": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Document/Ieb51b472605411e9adfea82903531a62/View/FullText.html?transitionType=CategoryPageItem&contextData=(sc.Default)&navId=623BA5949D486D01892241E9B82CB5B8": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://1.next.westlaw.com/Search/Home.html?rs=IWLN1.0&vr=3.0&sp=005816482-2100&transitionType=Default&contextData=(sc.Default)&bhcp=1": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://advance.lexis.com/api/toc/source/MTA2NTgwNg?origination=lawcc": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://advance.lexis.com/courtlinkhome?crid=09ee3f24-3bf0-43cb-8406-d04c3d7caa1c": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://barexamtoolbox.com/bar-exam-toolbox-podcast-archive-by-topic/bar-exam-toolbox-podcast-explaining-individual-mee-and-california-bar-essay-questions/#listen-learn": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://barexamtoolbox.com/podcast-episode-2-accommodations-for-the-bar-exam-w-dr-jared-maloff/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://barexamtoolbox.com/podcast-episode-60-applying-for-accommodations-on-the-bar-exam-w-elizabeth-knox/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://boston.suffolk.edu/sjc/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://cali.org/category/2l-3l-upper-level-lesson-topics/environmental-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://cali.org/category/2l-3l-upper-level-lesson-topics/professional-responsibility": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://cali.org/content/lessons-subject-outline-family-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://case.law/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://clbbneurolawlibrary.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://doi.org/10.4337/9781035353170": {
+   "state": "other",
+   "code": 405
+  },
+  "https://doi.org/10.4337/9781839108150": {
+   "state": "other",
+   "code": 405
+  },
+  "https://eproducts.westacademic.com/MyBookshelf/Bookshelf/selectquizsubject": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://eproducts.westacademic.com/lawschool": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=http://ezproxysuf.flo.org/login?url=https://checkpoint.riag.com/login?iploc=SuffUniversLawLibrarry": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://academic.oup.com/book/26780?searchresult=1": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://academic.oup.com/journals": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://academic.oup.com/oxford-scholarship-online/search-results?q=&tax=AcademicSubjects/LAW00010": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://app.investorstatelawguide.com/Dashboard": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://checkpoint.riag.com/login?iploc=SuffUniversLawLibrarry": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://congressional.proquest.com/congressional/search/basic/basicsearch": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://congressional.proquest.com/legislativeinsight?accountid=44557": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://discover.llmc.com": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ebookcentral.proquest.com/lib/suffolk-law/detail.action?docID=5735575": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://elr.info/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://eproducts.westacademic.com/MyBookshelf/Bookshelf/selectquizsubject": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=20140": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=22510": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=24956": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=25503": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=25706": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://www.elgaronline.com/view/9781784712037.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://www.elgaronline.com/view/9781784712501.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://www.elgaronline.com/view/9781785360015.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://www.elgaronline.com/view/9781785368103/9781785368103.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://app.investorstatelawguide.com/Dashboard": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780190679576.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780198738428.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780198785736.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199552146.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199571345.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199589104.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199601189.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199656950.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://doi.org/10.1093/acprof:oso/9780199694501.001.0001": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Welcome": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/25715": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/26918": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27049": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27706": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27720": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26149": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26610": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26930": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27164": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27426": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/view/book/9781789903799/9781789903799.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/view/book/9781800884069/9781800884069.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/view/edcoll/9781785369841/9781785369841.xml": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.jstor.org/action/showAdvancedSearch?acc=on&wc=on.": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.law360.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2242744WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://www.transnational-dispute-management.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://go.gale.com/ps/start.do?p=AONE&u=mlin_b_suffuniv": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline-org.ezproxysuf.flo.org/HOL/Index?collection=amindian": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=aba": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=barjournals": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=cilp": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=congrec": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=cow": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=engrep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=iflp&set_as_cursor=clear": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=intprop": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=journals": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Index?collection=lgbtq": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://heinonline.org/HOL/Welcome": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://indianclaims.proquest.com/indianclaims/search/basic/IciBasicSearch?accountid=44557": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://jamanetwork.com/journals/jama": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://masslawyersweekly.com/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://onlinelibrary.wiley.com/advanced/search": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://parlipapers.proquest.com/parlipapers/search/advanced/hcppadvanced?accountid=44557&groupid=47048": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://plus.lexis.com/toc/?crid=27b657d7-621b-4f36-9214-5bf88afd438c&pdtocfullpath=%2Fshared%2Ftableofcontents%2Furn:contentItem:542C-D0M1-F0HM-12NY-00000-00&pdsearchdisplaytext=Business%20Crime:%20Criminal%20Liability%20of%20the%20Business%20Community&pdcontextvalue=analytical-materials&pdmfid=1530671&pdisurlapi=true": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://proview.thomsonreuters.com/launchapp/library?sponsor=000678883-1": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://proview.thomsonreuters.com/launchapp/title/uscl/cr/ma_fed/v10/document/FrontMatterTitle/anchor/FrontMatterTitleAnchor": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://referenceworks.brillonline.com/browse/foreign-law-guide": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://regulatoryinsight-proquest-com.ezproxysuf.flo.org/regulatoryinsight/search/basicsearch?accountid=44557": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=ns229675&profile=ehost&defaultdb=lpb": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=ns229675&profile=ehost&defaultdb=lpr": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=8gh": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eric": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=i3h": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=mnh": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=pdh": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=psyh": {
+   "state": "other",
+   "code": 400
+  },
+  "https://ezproxysuf.flo.org/login?url=https://socialaw.com/SECURE_nellco": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://socialaw.com/secure": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://statabs-proquest-com.ezproxysuf.flo.org/statab/sa/index.html": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://statistical-proquest-com.ezproxysuf.flo.org/statisticalinsight": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/24684#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/25044": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/26217#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/27745": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/28798": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=1223": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=1307#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=1307&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D31%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20187&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20252&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20260&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20392&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20452": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20475": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20527": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=22348": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=23048": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=23715&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24424": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24460&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24501&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24680#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24680&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26subjectFilter%3D31%26isLti%3Dfalse#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24867": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24867&q=advanced%20criminal%20procedure%20in%20a%20nutshell&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fq%3Dadvanced%2Bcriminal%2Bprocedure%2Bin%2Ba%2Bnutshell#toc-tab": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24960&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25031": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25049": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25055&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D4%26subjectFilter%3D18%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25066": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25080": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25086": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25087": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25102&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25756": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25761&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25829": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25852": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25852&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D110%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26174&q=principles%20of%20administrative%20law&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fq%3Dprinciples%2Bof%2Badministrative%2Blaw": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26240": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26240&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D31%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26344#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26726": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26735#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26979&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26986#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26987": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26998": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27136": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27175": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27285&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27299#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27385&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27418&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27461": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27487&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D110%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27527&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27620&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27621&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D23%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27645#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27652#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27669&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27714&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27736&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27798&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#audio-tracks-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=28140&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=3257#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=813&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3FsubjectFilter%3D14%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/20403#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/24371#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/24505": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/25043": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27628": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27636": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27669": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27714": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27747": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27755#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27762": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27766#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27783#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27799": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27817#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27868#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27897": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27898#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27974": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27975": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27975#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27981": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27990": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27990#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28051": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28060": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28088": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28134": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28153": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28159": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28163": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28177": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28179": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28203": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28238": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28280#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28284": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28285": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28291": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28297#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28310": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28348": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28361": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28364": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28387": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28396": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28414": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28414#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28437": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28458": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28495": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28508": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28544": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28569": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28591": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28620": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28623": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28625": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28631": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28642": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28646": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28657": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28672": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/29175#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/333": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20107&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D77%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20193": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20268&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20335&q=Exam%20Pro%20Essay%20on%20Criminal%20Law": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20403#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20417&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20468&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=21868&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=22215&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=23008&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=23717": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=2372&q=abortion&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dabortion#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24460#description-tab": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24558#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24651#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24679&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25018&q=trial%20advocacy&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrial%2Badvocacy": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25040": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25050": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25051": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25058": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25063&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25070&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25071&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D90%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25082": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25110": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25155&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25170&q=Principles%20of%20Criminal%20Law&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3DPrinciples%2Bof%2BCriminal%2BLaw#toc-tab": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25181&q=legal%20writing&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dlegal%2Bwriting": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25646&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25647&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D21%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25696": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25720&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D91%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25843&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D130%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26111": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26132#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26208": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26249": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26257&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26327#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26445&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26623&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26801&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26979": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26989#audio-tracks-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26990": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26994&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26997": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27020#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27049&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27061&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27092&q=legal%20research&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dlegal%2Bresearch": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27174": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27177#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27186#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27191#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27228&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D131%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27238&q=trademark&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrademark#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27240": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27270#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27272&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D85%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27272&q=trial%20advocacy&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrial%2Badvocacy#description-tab": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27326&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27331&q=children%20and%20the%20law%20&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dchildren%2Band%2Bthe%2Blaw%2B": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27336&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D21%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27341&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27352&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27417&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D4%252C5%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27511&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27553#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27576": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27577&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D4%252C5%26subjectFilter%3D131%26isLti%3Dfalse#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27582": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27588": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27602": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27612&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27642": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27734&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D3%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27741&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FseriesFilter%3D47%26isLti%3Dfalse#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27754&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27763&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse#search-in-book-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27781&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FseriesFilter%3D28": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28041&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28059&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28107&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28238&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28312&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28403&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28404&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28442&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28580&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28592&q=Epstein%27s%20Law%20School%20Legends%20Audio%20on%20Bankruptcy&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3DEpstein%27s%2BLaw%2BSchool%2BLegends%2BAudio%2Bon%2BBankruptcy#description-tab": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28609&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28619&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21#search-in-book-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28624&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28625&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Dpublication-date%26afterDate%3D2024-09-13": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28631&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Dpublication-date%26afterDate%3D2024-09-13": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28633&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Dpublication-date%26afterDate%3D2024-09-13#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28634&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Dpublication-date%26afterDate%3D2024-09-13": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28652&q=Criminal%20Procedure%20by%20Wayne%20LaFave%3B%20Jerold%20Israel%3B%20Nancy%20King%3B%20Orin%20Kerr&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3DCriminal%2BProcedure%2Bby%2BWayne%2BLaFave%253B%2BJerold%2BIsrael%253B%2BNancy%2BKing%253B%2BOrin%2BKerr": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28662&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Dpublication-date%26afterDate%3D2024-09-13": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28902&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=342&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D71%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=812&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=815": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://suffolk.kanopystreaming.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://supremecourt.proquest.com/supremecourt/search/basicsearch?accountid=44557": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://trendspolicy.proquest.com/trendspolicy/search/basic/basicsearch?accountid=44557": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://video.alexanderstreet.com/channels?https%3A%2F%2Fvideo.alexanderstreet.com%2Fwayf%3Fdestination=channels": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/portal/pdp/area/ep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/catalog/code/1990281EBK": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/catalog/code/BC114PDP": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/1860007EBK#TOC": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2090555EBK#TOC": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2130452EBK#TOC": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2202667WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2211216WVD": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2222426WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www-tandfonline-com.ezproxysuf.flo.org/action/showPublications?pubType=journal&ejf=on": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.chronicle.com": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/browse?access=user&level=all&pageSize=10&sort=datedescending&t=LawACA_Main_ID&type_4=journal&type_7=book": {
+   "state": "other",
+   "code": 405
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/edcollbook/book/9781802207651/9781802207651.xml": {
+   "state": "other",
+   "code": 405
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.elgaronline.com/edcollbook/edcoll/9781786439680/9781786439680.xml": {
+   "state": "other",
+   "code": 405
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.insidehighered.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.jstor.org/action/showAdvancedSearch?acc=on&wc=on.": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.law360.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.massprosecutorsguide.com/guide/welcome": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/portal/pdp/area/bc": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/portal/pdp/area/em": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/portal/pdp/area/ep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/portal/pdp/area/fa": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2220174P01": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2222806WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2222960WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2223288WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2223749WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2233272WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2233812WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2234056WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2234315WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2234923WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2237044WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2242853WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2242953WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2243038WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2253443WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/CR106PDP": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.oed.com/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.project-syndicate.org": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.proquest.com/hvcivilrights/fromDatabasesLayer?accountid=28735": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.statehousenews.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.transnational-dispute-management.com/": {
+   "state": "other",
+   "code": 500
+  },
+  "https://ezproxysuf.flo.org/login?url=https://www.worldtradelaw.net/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://heinonline-org.ezproxysuf.flo.org/HOL/Index?collection=usreports&set_as_cursor=clear": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://icsid.worldbank.org/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://investmentpolicy.unctad.org/investment-dispute-settlement": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://law.suffolk.libanswers.com/chat/widget/fcbc2ffbdf16fe89f26d9c98ddea3aeb004b983c31fdb0e123daf9aa06fdf751": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/424561": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/426371": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/426372": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/427458": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/428731": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/430242": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/432310": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/437980": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/439601": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law.suffolk.libanswers.com/faq/442564": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://law2.suffolk.edu/library/ezproxy/ezcgi.cfm?url=ezp.2aHR0cHM6Ly9lem15YWNjb3VudC5ueXRpbWVzLmNvbS9ncm91cHBhc3MvcmVkaXI-": {
+   "state": "skip",
+   "code": 0
+  },
+  "https://lawguides.suffolk.edu/academicexcellence/mentalhealth": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/az/databases": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/az/google-scholar": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/az/new-york-times": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/az/washington-post": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/c.php?g=1203741&p=11127010": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/research-toolkit/ai-fabrications": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/research-toolkit/lexis": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/research-toolkit/westlaw": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=218664": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=218665": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253021": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253024": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253374": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253375": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253429": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253431": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253432": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=253621": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/sb.php?subject_id=257778": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/Taxation": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/administrative_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/barprep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/business_entity_fundamentals": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/civilprocedure": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/constitutionallaw": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/contracts": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/criminal": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/criminalprocedure": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/employment_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/environmental_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/evidence": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/family_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/generalexamprep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/immigration_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/interviewing_and_counseling": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/legalwriting": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/professionalresponsibility": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/property": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/torts": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/trademarks": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/trial_advocacy": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/studyaids/trusts_and_estates": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/tips/keyresources": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/Bankruptcy_Law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/International_Investment_Law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/Lawandeconomics": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/administrative_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/admiralty": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/business_entity_fundamentals": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/civil_practice_and_procedure": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/constitutional_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/construction_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/contracts": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/criminal_law_and_procedure": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/employment_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/evidence": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/immigration_law": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/interviewing_and_counseling": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/professionalresponsibility": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/property": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/taxation": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/torts": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawguides.suffolk.edu/treatises/trusts_and_estates": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://lawschooltoolbox.com/podcast-episode-136-how-to-attack-multiple-choice-questions-on-law-school-exams/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast-episode-19-conquering-different-types-law-school-exams/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast-episode-215-listen-and-learn-the-commerce-clause/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast-episode-272-listen-and-learn-the-statute-of-frauds-contract-law/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast-episode-285-listen-and-learn-first-amendment-content-neutral-restrictions/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast-episode-310-listen-and-learn-adverse-possession/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawschooltoolbox.com/podcast/": {
+   "state": "ok",
+   "code": 202
+  },
+  "https://lawtofact.buzzsprout.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://legal.un.org/riaa/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://libraries.flo.org/home": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/record=b10035650~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10037032~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044358~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044362~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044365~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044565~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044599~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044600~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10044630~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10187694~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10187695~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10188073~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10188725~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10188746~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10282524~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b10368614~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1240337~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1399893~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1414311~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1424649~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1468208~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1468209~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1482256~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1506191~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1508176~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1512272~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1522671~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1522674~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1529002~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1533654~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1566420~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1568749~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1683911~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1685519~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1731333~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1744037~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1746902~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1749392~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1775632~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1800315~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1815570~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1878072~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1923960~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1926378~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1951579~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1961787~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b1995869~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016062~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016198~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016362~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016363~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016364~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2016365~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2018032~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2018048~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2050189~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2088676~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2206048~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2206071~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2326653~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2329117~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2329121~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2329137~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2456279~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2578702~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2916037~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2918761~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b2918767~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b3052473~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b3204805~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b3204928~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b3332258~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b3501751~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4282582~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4282591~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4282600~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4289972~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4421093~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4652062~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4958029~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4958030~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4958032~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b4958033~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b5222543~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b5222544~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b5354805~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b5354868~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b5486128~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b6172598~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b6326945~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b6326946~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b6461986~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7034692~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7034700~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7189794~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7453725~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7453731~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7453951~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7457614~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7457715~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7924424~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b7924435~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8056065~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8056071~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8056071~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8056072~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8207043~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8207795~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8614861~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8614864~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8614865~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8614866~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8614868~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8693646~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b8826778~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9501870~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9501970~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9502028~S5": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9502116~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9502856~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9502981~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9506332~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9506336~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9506822~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9528455~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9932500~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/record=b9932665~S6": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://library.law.suffolk.edu/search/Y?searchtype=Y&searcharg=law+and+economics&SORT=D": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search/r": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/XWe+dissent+&searchscope=6&SORT=D/XWe+dissent+&searchscope=6&SORT=D&SUBKEY=We+dissent+/1%2C54%2C54%2CB/frameset&FF=XWe+dissent+&searchscope=6&SORT=D&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/XWhose+choice+is+it&searchscope=6&SORT=DZ/XWhose+choice+is+it&searchscope=6&SORT=DZ&extended=0&SUBKEY=Whose+choice+is+it/1%2C56%2C56%2CB/frameset&FF=XWhose+choice+is+it&searchscope=6&SORT=DZ&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/YGlannon+Guide+to+Criminal+Law&SORT=D/YGlannon+Guide+to+Criminal+Law&SORT=D&SUBKEY=Glannon+Guide+to+Criminal+Law/1%2C3%2C3%2CB/frameset&FF=YGlannon+Guide+to+Criminal+Law&SORT=D&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/Ycriminal+law+forms&SORT=D/Ycriminal+law+forms&SORT=D&SUBKEY=criminal+law+forms/1%2C178%2C178%2CB/frameset&FF=Ycriminal+law+forms&SORT=D&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/Yreproductive+justice&SORT=D/Yreproductive+justice&SORT=D&SUBKEY=reproductive+justice/1%2C127%2C127%2CB/frameset&FF=Yreproductive+justice&SORT=D&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/Yreproductive+justice&SORT=D/Yreproductive+justice&SORT=D&SUBKEY=reproductive+justice/1%2C127%2C127%2CB/frameset&FF=Yreproductive+justice&SORT=D&3%2C3%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/cHQ766.5.U5+R58+2017/chq++766.5+u5+r58+2017/-3%2C-1%2C0%2CE/frameset&FF=chq++766.5+u5+r58+2017&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/tFeminist+judgments+%28Reproductive+justice%29/tfeminist+judgments+reproductive+justice/1%2C2%2C2%2CB/frameset&FF=tfeminist+judgments+reproductive+justice&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://library.law.suffolk.edu/search~S6?/tMassachusetts+criminal+law/tmassachusetts+criminal+law/1%2C6%2C7%2CB/frameset&FF=tmassachusetts+criminal+law+and+procedure&1%2C1%2C": {
+   "state": "other",
+   "code": 502
+  },
+  "https://malegislature.gov/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://narf.org/nill/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://osf.io/preprints/lawarxiv": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://pacer.uscourts.gov/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://pca-cpa.org/en/cases/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/api/permalink/02312872-61b3-4ecb-beae-51a6729b4466/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/027bdfee-5d9f-4999-9fb0-7a287d05901c/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/10db1e11-61f4-47b3-a66c-c611f5bfaf1e/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/144af180-7c33-4ffa-a14c-b02e87404fbf/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/16ecb52c-b399-4e10-9c58-02d46b51d6fc/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/242c8304-61f4-427b-b732-128538633cc6/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/2dacd4b2-fc81-4ebc-8b37-fc4d4d4869d6/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/2f2568a7-4fd4-4ae7-a36a-c7df9d5b84ee/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/360659e9-baef-43d3-92a3-11381cdb0e0b/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/3bd64884-c11c-4558-9a31-58fa424ef0b5/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/3e0fa595-3812-4aaf-ac8f-ba61942c7b96/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/43f2f5c6-815e-4bba-8c1a-dc3904c837a4/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/470d47d3-36ac-4f55-bda3-94655c36131d/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/48b32f5c-30d9-4fe5-8212-218205670135/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/4c21033f-f374-4706-80e7-565479230530/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/4f5bd1c1-91e2-4bee-a627-8f872adc6ad5/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/5bcd2de1-85f5-47c7-97e7-463275832427/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/5d9bc1e1-9f87-4dbf-9d99-0c967ae3da6c/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/5e303687-999f-4061-a3eb-318aac203821/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/60476a8f-e145-44eb-8704-8b1f35993821/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/615d10ac-44a9-41b7-8537-c85deb38a4b7/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/6b91e865-51df-41c3-9bab-a2a33bf7d584/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/768c8ad7-e180-4e0f-9e62-15c6d9bbf55e/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/8e0b5998-45dc-40ca-ae03-113cb055ab98/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/924f9f4d-262c-4c8f-8081-0eb0343f0999/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/97984b1a-b31b-4e37-8e26-c3b4b9c8e963/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/9cec6f41-10e1-4958-9f66-06ee3c128674/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/a230e2d9-2fcb-4ae6-9e9f-ca87d1e4e214/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/aafc0c45-7d7c-4999-8c59-fae2126a4eae/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/adec0e2a-a5a7-4d09-8c6f-150891dfaf2d/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/b9ca4367-dd71-4886-a843-bdb1d85b9715/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/bd315a9d-d34f-457a-b552-f62993fe7a04/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/c0b048f6-5346-40bc-8ad5-aee4312ae049/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/df90df40-5f64-495c-8ed6-3d2567a75e22/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/e69590c0-23c1-4601-8ecd-15ac4b3a2a53/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/api/permalink/e85c5a4f-e18f-4073-b64d-aec483501dac/?context=1530671": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://plus.lexis.com/document/?pdmfid=1530671&crid=26e4f09a-6f32-4f63-807e-22670000ffc4&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H811-6439-B10M-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr2&prid=b6f18d66-eed3-4346-95b9-f52c20d97ed0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/?pdmfid=1530671&crid=324c1bdd-c75f-417b-b0f8-7a3599a68075&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A60P9-90Y1-JJ6S-60GX-00000-00&pdcontentcomponentid=500749&pdteaserkey=&pdislpamode=true&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=cf4k&earg=sr1&prid=7192ae8d-8606-4e5a-a86f-599ac2ea09d4": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/?pdmfid=1530671&crid=52bb8c03-b2d2-4711-9ba5-d3d7cbb46bac&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H731-6439-B0Y1-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr2&prid=23b852a8-25e1-46d8-b48f-46b17fafdaf3": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/?pdmfid=1530671&crid=581f521d-7b4c-4aed-92fa-15d18c0d069f&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H3G1-6439-B0P2-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr8&prid=0fc12b69-ba23-4291-81c5-661751e02202": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/?pdmfid=1530671&crid=df8e8b20-d6f9-4de6-a2c1-e1fd2bb42edf&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H7T1-6439-B106-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr1&prid=dfb97f70-eb13-429e-b012-742a8678f9f3": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/documentlink/?pdmfid=1530671&crid=b56994ab-010c-4a8f-8baa-6246dc149201&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A5RN7-M0K1-JWJ0-G1KX-00000-00&pdcontentcomponentid=500749&pddoctitle=Discovery+Planning+and+Strategy+(Federal)&pdproductcontenttypeid=urn%3Apct%3A16&pdiskwicview=false&ecomp=63tdk&prid=324c1bdd-c75f-417b-b0f8-7a3599a68075": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/document/lpadocument/?pdmfid=1530671&crid=9c479098-8d1d-428b-a8e6-c7a6c4d7eb08&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A63S8-0NC1-JK4W-M004-00000-00&pdcontentcomponentid=500749&pdteaserkey=sr9&pdcatfilters=Q29udGVudFR5cGVeUFJBQ1RJQ0VOT1RFU3xSZXNvdXJjZUtpdHNeUmVzb3VyY2UgS2l0cw%3D%3D&config=014FJAA5NjBiN2FhMy1kYTkyLTQ5OWEtOGMzZS02MjA2MDQ1YmQ5MmIKAFBvZENhdGFsb2dJ0arzhQQKdQUaWy69KFDA&pditab=allpods&ecomp=5tch9kk&earg=sr9&prid=936a2c6d-f005-4c0c-bd04-a47d6bfd5b29": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practical-guidance-home?crid=425afeeb-cde9-414f-83f9-7c9cc676414a&pdmfid=1530671": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practicalguidanceroot?plid=024afff1-2bb8-4b45-859f-1a87e1af74da": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practicalguidanceroot?plid=4ba2db80-4981-4701-970a-54dc286bc57a": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practicalguidanceroot?plid=8ddecc9e-3224-4517-96ad-bf6762031c49": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practicalguidanceroot?plid=97c97f9a-485e-48db-8962-605e97fe6a9f": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practicalguidanceroot?plid=d9d2d2a0-6a05-41fb-a9b2-c9a03ee3d3fa": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=09219475-4a84-4aab-bfcb-b9c471f616c4&prid=2dde63a6-e42f-41ea-bca0-95a6063f85c6&ecomp=s4y7k&earg=925988054&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a542C-D0M1-F0HM-1302-00000-00&pdbcts=1643304233025&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=2bc6eed6-e145-44f5-bee0-447af7f1fb29&prid=a317488e-b3d6-4e89-bb3a-25e9b49838f5&ecomp=44y7k&earg=502527359&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a542C-D0M1-F0HM-134N-00000-00&pdbcts=1649355463313&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=311c7429-1290-4b23-8911-68066fe1cd3d&prid=8bb551e2-62d2-4e4d-b150-0baa423522b9&ecomp=44yfk&earg=5680466b-e2cc-42f9-ada7-1f2f05668c00&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a533S-XCF1-F06W-8001-00000-00&pdbcts=1649355386703&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=602e33db-8881-4274-b0ef-f540d550b39b&prid=5b202c71-75dd-4e37-a70d-b5821dd8d900&ecomp=44y7k&earg=812621737&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a51TX-W7V0-R03M-118W-00000-00&pdbcts=1649200952724&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=8b329551-cbd7-48c6-b242-4ea2cf75b16c&prid=ce9f8715-af8d-4129-9de6-75780d210949&ecomp=s4yfk&earg=e652577c-a9ea-4703-8f53-4c36d60efe02&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a5HFV-H1J1-F0H0-N000-00000-00&pdbcts=1643304679634&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=00JAA5ZGJhMTlkMC1hMmM0LTQwN2MtYjBkNS0xOWQwOWIwZDk1MTQKAFBvZENhdGFsb2dQ0OyU61MxvGEFjxYKyeOL&crid=e880d51b-c453-4841-900a-1cf2eab39324&prid=61145dbc-6d89-4554-90bf-ee35cff55c1e&ecomp=s4yfk&earg=9a11cd76-0de2-4e6a-a278-47aba78331d1&pdtocfullpath=%2fshared%2ftableofcontents%2furn%3acontentItem%3a57SY-1SH1-DY7Y-B000-00000-00&pdbcts=1643729513784&pdhidebc=True": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plus.lexis.com/practice?config=014EJAAyNWZjY2I0Yi1lNjJmLTQxNDgtYjEyYS1jNmNkMTRjMDE4ZjQKAFBvZENhdGFsb2dFfnYbuO59z0cBNFsOWo7c&crid=3db2fd31-c0a7-462f-92ef-f0841bd5f592": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://plusai.lexis.com/practicalguidanceroot?plid=36a80ced-9439-4f8d-952a-c44f8d706463": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://podcasts.apple.com/us/podcast/commerce-clause/id1242537529?i=1000519278244": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://podcasts.apple.com/us/podcast/irrational-basis-review/id1527349276": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://podcasts.apple.com/us/podcast/the-appointments-clause-and-removal-power/id1242537529?i=1000519278230": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://practicallawconnect.thomsonreuters.com/Browse/Home/PracticalLawConnect/RealEstate/RealEstateConstruction?accessType=linkBuilder": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://practicallawconnect.thomsonreuters.com/Browse/Home/PracticalLawConnect/TrustsEstates?accessType=linkBuilder": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://scholar.google.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://search.worldcat.org/": {
+   "state": "broken",
+   "code": 404
+  },
+  "https://signin.lexisnexis.com/lnaccess/app/signin?back=https%3A%2F%2Fadvance.lexis.com%3A443%2F&aci=la": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://signon.thomsonreuters.com/?productid=CBT&viewproductid=CBTINDIGO&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0309221605020oc7wpppFFuVAC6AyLTJlmOTLfVj2ijYrvFWKl13Y5XQWTaJMLqDZuJQCGLnmmQOlJv6cKWES50k7oF1F_ZjocRSon0Jobz7XiIyIURRDM9wKbz7h-D8Tc5dFRvSLTI5BNZCiAnMPH25jg4aUhY4NtqZ1cvcdQ-FqeYFEDIJRm8XTD1b-wE9Why2raSEryhiuFDNULqfwoaZrneL0V7ccvhVTQmpP3GNYr6P8nRbR-oNzRKxBJL7nhkryzkmYep5iTJGy2ZV1XmiuoNycQRKIFzcyfbmi09BWVvKK7m2N3XRCMfq3rZy4k8bLXQMPfgEqXxfZ-W3gwVTgkEzwwOP6Q88do-KVHS-zily7yAdcYh9cAcBHdcSOsQoOncY8bA0m&bhcp=1": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26993": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27432&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D57#toc-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail/26721": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=23008&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D34%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=24921&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D23%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=26615&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D126%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=27341&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=27364&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=27472&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views#simulations-tab": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=27686&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D38%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=28333&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D39%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=28397&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D110%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=28849&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=28934&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D131%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://subscription.westacademic.com/Book/Detail?id=29096&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D34%26sort%3Ddocument-views": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://suffolk.libguides.com/c.php?g=1010242&p=7328226": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://suffolk.libguides.com/c.php?g=1054444": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://suffolk.zoom.us/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://treaties.un.org/Pages/ParticipationStatus.aspx": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://trumpconlaw.com/65-the-second-amendment": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://us.practicallaw.thomsonreuters.com/Browse/Home/PracticalLaw/PracticalLawBankruptcyRestructuring": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://us.practicallaw.thomsonreuters.com/Browse/Home/PracticalLaw/PracticalLawRealEstate": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://us.practicallaw.thomsonreuters.com/w-019-5144": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://work.headspace.com/suffolkuniversity/member-enroll": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://wsj.com/Suffolk": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www-mcle-org.ezproxysuf.flo.org/product/delivery/code/2234061WCH": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.acslaw.org/media/podcast/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.aplusebooks.com/wp-content/uploads/2014/09/MBE-Civil-Procedure-Sample-Test-Questions.pdf": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.barbri.com/1l-mastery/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.barbri.com/mpre-prep": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.bizjournals.com/boston/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/books/basic-income-tax#": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/books/ethics-tax-lawyering-third-edition": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/1l-first-year-lesson-topics/civil-procedure": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/1l-first-year-lesson-topics/constitutional-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/1l-first-year-lesson-topics/torts": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/bar-success-and-planning": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/criminal-procedure": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/employment-discrimination": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-administrative-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-bar-success-and-planning": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-business-associations-corporations": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-contracts": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-criminal-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-legal-writing": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-property-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-tax-law": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/content/lessons-subject-outline-trademark": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/1044": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/1053": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/1054": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/1055": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/1064": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18022": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18023": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18024": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18092": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18100": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18102": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18138": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18159": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18169": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18171": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18183": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18184": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/18311": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/19192": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/19255": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/19488": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/19553": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/lesson/728": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/podcasts": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.cali.org/search/site/Evidence?f%5B0%5D=bundle%3Alesson": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://www.cali.org/search/site/trusts?f%5B0%5D=bundle%3Alesson": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://www.civics101podcast.org/podcast-episodes": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.courtlistener.com/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.crooked.com/podcast-series/strict-scrutiny/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.decisis.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ecfr.gov/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.elgaronline.com/edcollbook-oa/book/9781035324163/9781035324163.xml": {
+   "state": "other",
+   "code": 405
+  },
+  "https://www.federalregister.gov/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.govinfo.gov/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.govinfo.gov/app/collection/CPD/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.govinfo.gov/app/collection/FR/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.govinfo.gov/app/collection/uscode/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.howilawyer.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.legalabbrevs.cardiff.ac.uk/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.lexisnexis.com/community/lawschool/b/preauth/posts/law-school-practice-centers-lexis-plus": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mab.uscourts.gov/": {
+   "state": "broken",
+   "code": 404
+  },
+  "https://www.mass.gov/guides/nonstandard-testing-accommodations-for-the-bar-exam": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mass.gov/how-to/the-massachusetts-law-component-mlc": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mass.gov/law-library/massachusetts-sentencing-guidelines": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mass.gov/lists/proposed-amendments-to-regulations": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mass.gov/search-court-dockets-calendars-and-case-information": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mass.gov/service-details/about-the-bar-exam-in-massachusetts": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.mcle.org/product/delivery/code/2220137WVD": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/mee/preparing-mee": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/mpre/test-accommodations": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/mpt/preparing-mpt": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/nextgen/content-scope": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/nextgen/sample-questions/integrated-question-sets": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/nextgen/sample-questions/multiple-choice": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/nextgen/sample-questions/performance-task": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/exams/ube": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ncbex.org/sites/default/files/2023-05/MBE_Sample_Test_Questions_New_2023%20.pdf": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.npr.org/podcasts/486075600/in-legal-terms": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.nytimes.com/activate-access/edu-access": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.nyulawglobal.org/globalex/International_Arbitration_Foreign_Investors_Host_States1.html": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.oecd-ilibrary.org/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.regulations.gov/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.scotusblog.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.sec.state.ma.us/divisions/pubs-regs/public-hearings.htm": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.spacedrepetition.com/": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.ssrn.com/index.cfm/en/": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.starttest.com/ITDVersions/25.1.0.0/ITDStart.aspx?SVC=8cfd35c8-9912-4415-a63d-bdec415b3b97&Json=1": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/academic-resources/legal-practice-skills---lps/icompete-writing--a-compilation-of-legal-writing-competitions": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/academic-resources/legal-practice-skills---lps/wordrake-offers-students-innovative-editing-tool": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/business-law-financial-services/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/business-law-financial-services/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/health-biomedical-law/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/health-biomedical-law/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/intellectual-property/ip-area-of-focus-and-concentration/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/intellectual-property/ip-area-of-focus-and-concentration/enrollment-and-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/international-law/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/international-law/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/labor-employment-law/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/labor-employment-law/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/legal-innovation-technology/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/legal-innovation-technology/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/trial-appellate-advocacy/courses": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/academics-clinics/what-can-i-study/trial-appellate-advocacy/enrollment-requirements": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/about-the-library/library-study-rooms": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/faculty/faculty-forms-and-resources/massachusetts-criminal-practice": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/faculty/faculty-forms-and-resources/massachusetts-criminal-practice.": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/john-joseph-moakley-law-library": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/library-services/interlibrary-loan-request": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/law/faculty-research/library-services/selected-previous-faculty-exams": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/student-life/health-wellness/counseling-services": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.suffolk.edu/student-life/student-services/ram-card/mbta-pass-program": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.washingtonpost.com/subscribe/signup": {
+   "state": "unreachable",
+   "code": 0
+  },
+  "https://www.westlaw.com/Browse/Home/AdministrativeDecisionsGuidance/MassachusettsAdministrativeDecisionsGuidance/MassachusettsTaxationAdministrativeDecisions?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/AdmiraltyMaritime?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/ArbitrationMaterials/InternationalArbitrationMaterials/InternationalArbitrationAwards/AppletonInvestorStateReports?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/ArbitrationMaterials/InternationalArbitrationMaterials/InternationalArbitrationAwards/InternationalCentreforSettlementofInvestmentDisputesArbitrationAwards?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/Bankruptcy?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/CriminalLaw?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/Employment?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/EstatePlanning?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/FormFinder/FederalProceduralForms?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/FormFinder/ImmigrationLawFormFinder/ImmigrationOfficialForms?rs=tran3.0&vr=3.0&originationContext=vendcc": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/FormFinder/TaxFormFinder?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CommercialLawSecondarySources/CommercialLawTextsTreatises/UniformCommercialCodeOfficialText?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/ConstitutionalLawSecondarySources/ConstitutionalLawTextsTreatises/ModernConstitutionalLaw?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/ConstructionLawSecondarySources/ConstructionLawTextsTreatises/BrunerOConnoronConstructionLaw?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CorporationsSecondarySources/CorporationsTextsTreatises/FletcherCyclopediaoftheLawofCorporations?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CriminalLawSecondarySources/CriminalLawTextsTreatises/CriminalLawDefenses?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CriminalLawSecondarySources/CriminalLawTextsTreatises/SearchSeizureATreatiseontheFourthAmendment?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CriminalLawSecondarySources/CriminalLawTextsTreatises/SubstantiveCriminalLaw?guid=I59a167b05d0111e7a1c29340f7982328&transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CriminalLawSecondarySources/CriminalLawTextsTreatises/WhartonsCriminalLaw?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/CriminalLawSecondarySources/CriminalLawTextsTreatises/WhartonsCriminalProcedure?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/LitigationSecondarySources/LitigationTextsTreatises/FederalRulesofCivilProcedureRulesCommentary?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/MassachusettsSecondarySources/MassachusettsPracticeSeries/ConstructionLawMassachusettsPracticeSeries?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/MassachusettsSecondarySources/MassachusettsPracticeSeries/CriminalLawMassachusettsPracticeSeries?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/MassachusettsSecondarySources/MassachusettsPracticeSeries/CriminalPracticeandProcedureMassachusettsPracticeSeries?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/MassachusettsSecondarySources/MassachusettsPracticeSeries/EmploymentLawMassachusettsPracticeSeries?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/MassachusettsSecondarySources/MassachusettsPracticeSeries/TaxationMassachusettsPracticeSeries?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawTorts?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/TextsTreatises/ConstitutionalLawTextsTreatises/ConstitutionalLawDeskbook?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/SecondarySources/TortsPersonalInjurySecondarySources/TortsPersonalInjuryTextsTreatises/DobbsLawofTorts?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Browse/Home/Tax?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.westlaw.com/Document/I64adf002457211da9fc4970c84dd55da/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0": {
+   "state": "gated",
+   "code": 403
+  },
+  "https://www.wipo.int/en/web/wipolex": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.youtube.com/playlist?list=PLgEQKqmnB5J6n35DByEBB1_6JDJUcgcfS": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://www.youtube.com/watch?v=7nFNSBk-Bj8": {
+   "state": "ok",
+   "code": 200
+  },
+  "https://xn--www-rp0a.fdimoot.org/Archive/": {
+   "state": "ok",
+   "code": 202
+  }
+ }
+}

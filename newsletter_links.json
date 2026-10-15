@@ -1,0 +1,37 @@
+{
+  "test": {
+    "ping": "/"
+  },
+  "5": {
+    "deck": "/files/litsa-gbm-2026-09-24.pdf",
+    "ai-week": "https://aiweek.boston/schedule/boston-ai-week-closing-party",
+    "inta": "https://www.inta.org/lefkowitz",
+    "fcba": "https://www.fcba.org/",
+    "compete": "/compete/",
+    "fpf": "https://fpf.org/privacy-papers-for-policy-makers/",
+    "watch": "/watch/",
+    "suggest": "/events/",
+    "solomon": "https://www.hbsr.com/professionals/mark-solomon",
+    "hackachusetts": "https://massaicoalition.com/hackachusetts/",
+    "calendar": "/events/",
+    "join": "/join/",
+    "site": "/",
+    "instagram": "https://www.instagram.com/litsa_suls/"
+  },
+  "7": {
+    "rsvp": "https://suffolklitsa.org/rsvp",
+    "skills": "https://suffolklitsa.org/skills",
+    "groupme": "https://groupme.com/join_group/118013356/69XLYHKb",
+    "github": "https://github.com/suffolklitsa",
+    "whatsapp": "https://chat.whatsapp.com/D0B0bPZW2YY9txCp6HIS6K",
+    "fpf": "https://fpf.org/privacy-papers-for-policy-makers/",
+    "compete": "/compete/",
+    "free-speech": "https://www.eventbrite.com/e/free-speech-in-the-age-of-ai-symposium-in-person-tickets-1992952038195",
+    "hackachusetts": "https://massaicoalition.com/hackachusetts/",
+    "ai-showcase": "https://luma.com/2b4inmb4",
+    "calendar": "/events/",
+    "join": "/join/",
+    "site": "/",
+    "instagram": "https://www.instagram.com/litsa_suls/"
+  }
+}

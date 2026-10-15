@@ -1,0 +1,2927 @@
+{
+ "source_guide": "https://lawguides.suffolk.edu/studyaids/",
+ "verified": "2026-08-27",
+ "subjects": [
+  {
+   "subject": "General Exam Prep",
+   "slug": "general-exam-prep",
+   "source": "https://lawguides.suffolk.edu/studyaids/generalexamprep",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "reservation here",
+     "url": "https://www.suffolk.edu/law/faculty-research/about-the-library/library-study-rooms",
+     "kind": "other",
+     "box": "Study Rooms",
+     "access": "open"
+    },
+    {
+     "title": "Suffolk Zoom account",
+     "url": "https://suffolk.zoom.us/",
+     "kind": "other",
+     "box": "Study Rooms",
+     "access": "open"
+    },
+    {
+     "title": "Advanced Reading for Law School",
+     "url": "https://www.cali.org/lesson/19488",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Analysis 2: The \"A\" in IRAC: Application and Analysis",
+     "url": "https://www.cali.org/lesson/18171",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Attacking Exams",
+     "url": "https://www.cali.org/lesson/18138",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Creating Study Aids",
+     "url": "https://www.cali.org/lesson/18023",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Hyped About Hypos",
+     "url": "https://www.cali.org/lesson/18311",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Improving Exam Writing with Deductive Reasoning",
+     "url": "https://www.cali.org/lesson/19255",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Introduction to Rule Synthesis",
+     "url": "https://www.cali.org/lesson/18184",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "IRAC",
+     "url": "https://www.cali.org/lesson/18022",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Issue Spotting",
+     "url": "https://www.cali.org/lesson/18169",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Legal Writing v. Exam Writing",
+     "url": "https://www.cali.org/lesson/18159",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "A Methodical Approach to Improve Multiple Choice Performance",
+     "url": "https://www.cali.org/lesson/18100",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Multiple-Choice Questions: Wrong Answer Pathology",
+     "url": "https://www.cali.org/lesson/18024",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Outlining Basics",
+     "url": "https://www.cali.org/lesson/18102",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Reading Comprehension Strategies for Exams",
+     "url": "https://www.cali.org/lesson/18092",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Study Scheduling for the Evening, Weekend, or Part-Time J.D. Student",
+     "url": "https://www.cali.org/lesson/19553",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Time Management: Creating Your Plan",
+     "url": "https://www.cali.org/lesson/18183",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "CALI on Exam Taking Skills, Outlines, and Advice for Law Students: Panel 1 PodCast",
+     "url": "https://www.cali.org/lesson/1053",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "code"
+    },
+    {
+     "title": "CALI on Exam Taking Skills, Outlines, and Advice for Law Students: Panel 2 PodCast",
+     "url": "https://www.cali.org/lesson/1054",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "code"
+    },
+    {
+     "title": "CALI on Exam Taking Skills, Outlines, and Advice for Law Students: Panel 3 PodCast",
+     "url": "https://www.cali.org/lesson/1055",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "code"
+    },
+    {
+     "title": "Civics 101",
+     "url": "https://www.civics101podcast.org/podcast-episodes",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "How I Lawyer Podcast with Jonah Perlin",
+     "url": "https://www.howilawyer.com/",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "In Legal Terms",
+     "url": "https://www.npr.org/podcasts/486075600/in-legal-terms",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "The Law School Toolbox: Conquering Different Types of Law School Exams",
+     "url": "https://lawschooltoolbox.com/podcast-episode-19-conquering-different-types-law-school-exams/",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "The Law School Tool Box: How to Attack Multiple Choice Questions on Law School Exams",
+     "url": "https://lawschooltoolbox.com/podcast-episode-136-how-to-attack-multiple-choice-questions-on-law-school-exams/",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "Law School Toolbox podcast",
+     "url": "https://lawschooltoolbox.com/podcast/",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "Law to Fact",
+     "url": "https://lawtofact.buzzsprout.com/",
+     "kind": "audio",
+     "box": "Audio Lectures and Podcasts",
+     "access": "open"
+    },
+    {
+     "title": "Live Chat",
+     "url": "https://law.suffolk.libanswers.com/chat/widget/fcbc2ffbdf16fe89f26d9c98ddea3aeb004b983c31fdb0e123daf9aa06fdf751",
+     "kind": "other",
+     "box": "Contact Us",
+     "access": "open"
+    },
+    {
+     "title": "120 Tremont Street",
+     "url": "http://maps.google.com/maps?q=120+Tremont+St,+Boston,+MA+02108,+USA&ie=UTF8&z=16&iwloc=addr&om=1",
+     "kind": "other",
+     "box": "Contact Us",
+     "access": "open"
+    },
+    {
+     "title": "Past Exams",
+     "url": "https://www.suffolk.edu/law/faculty-research/library-services/selected-previous-faculty-exams",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "open"
+    },
+    {
+     "title": "West Academic Assessment",
+     "url": "https://eproducts.westacademic.com/MyBookshelf/Bookshelf/selectquizsubject",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "eproducts.westacademic.com",
+     "url": "http://eproducts.westacademic.com",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Practice Centers",
+     "url": "https://www.lexisnexis.com/community/lawschool/b/preauth/posts/law-school-practice-centers-lexis-plus",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "open"
+    },
+    {
+     "title": "The Eight Secrets of Top Exam Performance in Law School by Charles Whitebread",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20475",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Getting to Maybe: How to Excel on Law School Exams by Richard Michael Fischl; Jeremy Paul",
+     "url": "https://library.law.suffolk.edu/record=b1240337~S6",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "print"
+    },
+    {
+     "title": "How to Write Law Exams by S. I. Strong",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27136",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Secrets by Jeffrey Batoff",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20527",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Mastering the Law School Exam by Suzanne Darrow-Kleinhaus",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28051",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Succeeding in Law School 3d by Herbert N. Ramy",
+     "url": "https://library.law.suffolk.edu/record=b6326946~S6",
+     "kind": "practice",
+     "box": "General Law School Exam Resources",
+     "access": "print"
+    },
+    {
+     "title": "Barbri 1L Mastery",
+     "url": "https://www.barbri.com/1l-mastery/",
+     "kind": "other",
+     "box": "Barbri",
+     "access": "open"
+    },
+    {
+     "title": "SeRiouS - Spaced Repitition",
+     "url": "https://www.spacedrepetition.com/",
+     "kind": "other",
+     "box": "SeRiouS",
+     "access": "open"
+    },
+    {
+     "title": "Suffolk University CHW's Counseling Service",
+     "url": "https://www.suffolk.edu/student-life/health-wellness/counseling-services",
+     "kind": "other",
+     "box": "Suffolk Counseling Services",
+     "access": "open"
+    },
+    {
+     "title": "617-573-8157",
+     "url": "tel:617-573-8157",
+     "kind": "other",
+     "box": "Suffolk Counseling Services",
+     "access": "open"
+    },
+    {
+     "title": "Secondary Sources: Exam Prep",
+     "url": "https://lawguides.suffolk.edu/sb.php?subject_id=218664",
+     "kind": "other",
+     "box": "Suffolk Counseling Services",
+     "access": "open"
+    },
+    {
+     "title": "Secondary Sources: Study Aids",
+     "url": "https://lawguides.suffolk.edu/sb.php?subject_id=218665",
+     "kind": "other",
+     "box": "Suffolk Counseling Services",
+     "access": "open"
+    }
+   ]
+  },
+  {
+   "subject": "Bar Exam",
+   "slug": "bar-exam",
+   "source": "https://lawguides.suffolk.edu/studyaids/barprep",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Berman's Bar Exam Success: a Comprehensive Guide, 3d by Sara Berman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/29175#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Acing the Bar Exam by Suzanne Darrow-Kleinhaus",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24679&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "The Bar Exam in a Nutshell by Suzanne Darrow-Kleinhaus",
+     "url": "https://library.law.suffolk.edu/record=b1961787~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "The Complete Bar Writer by Alexa Chew; Katie Rose Pryal",
+     "url": "https://library.law.suffolk.edu/record=b8056065~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Darrow-Kleinhaus's the Bar Exam in a Nutshell, 4th by Suzanne Darrow-Kleinhaus",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28312&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "The Essential Rules for Bar Exam Success by Steven Friedland; Jeffery Scott Shapiro",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20468&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Pass the Bar! by Denise Riebe; Michael Schwartz",
+     "url": "https://library.law.suffolk.edu/record=b1414311~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Barbri Free MPRE Prep Course",
+     "url": "https://www.barbri.com/mpre-prep",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "open"
+    },
+    {
+     "title": "Acing Professional Responsibility by Leslie Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28361",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Professional Responsibility by Leslie Abramson",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=28397&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D110%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "platform"
+    },
+    {
+     "title": "A Short and Happy Guide to the MPRE by Leah Christensen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28134",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "The Weekend MPRE by Leah Christensen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27974",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Mastering Multiple Choice for Federal Civil Procedure MBE Bar Prep and 1L Exam Prep by William M. Janssen; Steven F. Baisker-McKee",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24651#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short and Happy Guide to Conquering the MBE by Don Doernberg; Cynthia Pope",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27326&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Strategies and Tactics® for the Mbe® by Kimm Walton (Contribution by); Steven L. Emanuel (Contribution by)",
+     "url": "https://library.law.suffolk.edu/record=b10282524~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Cracking the Evidence Code (Comprehensive): 300 Multiple Choice Questions",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28902&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro - Bar Prep Workbook by Steven Friedland",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/20403#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro Objective Questions on Property by Peter Wendel",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20417&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Business Associations, Objective by Jens Dammann",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27341&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Contracts, Objective by Robert Brain",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=23008&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FtypeFilter%3D13#description-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Questions & Answers: Contracts by Scott Burnham",
+     "url": "https://library.law.suffolk.edu/record=b8056071~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Questions and Answers- Torts: Multiple Choice, Short Answers, and a 90 minute practice final exam by Anita Bernstein, Anita and Stuart Subotnick",
+     "url": "https://library.law.suffolk.edu/record=b10188725~S5",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Questions and Answers: Criminal Procedure--Police Investigation by Wayne Logan",
+     "url": "https://library.law.suffolk.edu/record=b10368614~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Questions and Answers: Property - Multiple Choice and Short Answer Q&A 3d by John Copeland Nagle",
+     "url": "https://library.law.suffolk.edu/record=b10187694~S5",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "Passing the Bar Guide Audiobook - What is the Uniform Bar Exam?",
+     "url": "https://www.cali.org/lesson/19192",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "code"
+    },
+    {
+     "title": "A Short and Happy Guide to the Bar Exam's Multistate Essay Examination (MEE) by Suzanne Darrow-Kleinhaus; Irene Crisci",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26257&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro - Bar Prep Workbook by Steven Friedland",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20403#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short & Happy Guide to the MPT by Katherine Kelly",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28059&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "proxy"
+    },
+    {
+     "title": "Bar Exam MPT Preparation and Experiential Learning for Law Students by Sara Berman",
+     "url": "https://library.law.suffolk.edu/record=b7189794~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "The Zen of Passing the Bar Exam by Chad Noreuil",
+     "url": "https://library.law.suffolk.edu/record=b10187695~S6",
+     "kind": "practice",
+     "box": "Bar Exam Books",
+     "access": "print"
+    },
+    {
+     "title": "UBE Information",
+     "url": "https://www.ncbex.org/exams/ube",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "National Conference of Bar Examiners (NCBE)",
+     "url": "http://www.ncbex.org/",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "Testing Accommodations MPRE",
+     "url": "https://www.ncbex.org/exams/mpre/test-accommodations",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "NCBE Massachusetts Information",
+     "url": "http://www.ncbex.org/jurisdiction-information/jurisdiction/ma",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "About the Bar Exam in Massachusetts",
+     "url": "https://www.mass.gov/service-details/about-the-bar-exam-in-massachusetts",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "Bar Exam Accommodations -MA",
+     "url": "https://www.mass.gov/guides/nonstandard-testing-accommodations-for-the-bar-exam",
+     "kind": "other",
+     "box": "General Information",
+     "access": "open"
+    },
+    {
+     "title": "Accommodations for the Bar Exam (w/Dr. Jared Maloff)",
+     "url": "https://barexamtoolbox.com/podcast-episode-2-accommodations-for-the-bar-exam-w-dr-jared-maloff/",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "open"
+    },
+    {
+     "title": "Applying for Accommodations on the Bar Exam (w/Elizabeth Knox)",
+     "url": "https://barexamtoolbox.com/podcast-episode-60-applying-for-accommodations-on-the-bar-exam-w-elizabeth-knox/",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "open"
+    },
+    {
+     "title": "Bar Exam Success by Sarah Berman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28107&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views#toc-tab",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "proxy"
+    },
+    {
+     "title": "Bar Exam Toolbox Podcast: Substantive Essays and Common Legal Topics",
+     "url": "https://barexamtoolbox.com/bar-exam-toolbox-podcast-archive-by-topic/bar-exam-toolbox-podcast-explaining-individual-mee-and-california-bar-essay-questions/#listen-learn",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "open"
+    },
+    {
+     "title": "CALI Bar Exam Podcasts",
+     "url": "https://www.cali.org/podcasts",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "code"
+    },
+    {
+     "title": "Office Hours on Bar Exam Success",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28041&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D15%26sort%3Ddocument-views",
+     "kind": "audio",
+     "box": "Listen and Learn!",
+     "access": "proxy"
+    },
+    {
+     "title": "Bar Success and Planning",
+     "url": "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/bar-success-and-planning",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Subject Outline - Bar Success and Planning",
+     "url": "https://www.cali.org/content/lessons-subject-outline-bar-success-and-planning",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "UBE Mock Exam",
+     "url": "https://www.starttest.com/ITDVersions/25.1.0.0/ITDStart.aspx?SVC=8cfd35c8-9912-4415-a63d-bdec415b3b97&Json=1",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample NextGen UBE Multiple-Choice Questions",
+     "url": "https://www.ncbex.org/exams/nextgen/sample-questions/multiple-choice",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample NextGen UBE Integrated Question Sets",
+     "url": "https://www.ncbex.org/exams/nextgen/sample-questions/integrated-question-sets",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "NextGen UBE Performance Tasks",
+     "url": "https://www.ncbex.org/exams/nextgen/sample-questions/performance-task",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "UBE Content Scope",
+     "url": "https://www.ncbex.org/exams/nextgen/content-scope",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "NCBE Free Study Aids",
+     "url": "http://www.ncbex.org/study-aids/",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "MBE Prep",
+     "url": "http://www.ncbex.org/exams/mbe/preparing/",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample MBE Civil Procedure Questions (NCBE)",
+     "url": "https://www.aplusebooks.com/wp-content/uploads/2014/09/MBE-Civil-Procedure-Sample-Test-Questions.pdf",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample MBE Test Questions (NCBE)",
+     "url": "https://www.ncbex.org/sites/default/files/2023-05/MBE_Sample_Test_Questions_New_2023%20.pdf",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "MEE Prep",
+     "url": "http://www.ncbex.org/exams/mee/preparing/",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample MEE Test Questions (NCBE)",
+     "url": "https://www.ncbex.org/exams/mee/preparing-mee",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "MPT Prep",
+     "url": "http://www.ncbex.org/exams/mpt/preparing/",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Sample MPT Questions (NCBE)",
+     "url": "https://www.ncbex.org/exams/mpt/preparing-mpt",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "The Massachusetts Law Component (MLC) resources",
+     "url": "https://www.mass.gov/how-to/the-massachusetts-law-component-mlc",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Secondary Sources: Exam Prep",
+     "url": "https://lawguides.suffolk.edu/sb.php?subject_id=218664",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    },
+    {
+     "title": "Secondary Sources: Study Aids",
+     "url": "https://lawguides.suffolk.edu/sb.php?subject_id=218665",
+     "kind": "practice",
+     "box": "Free Online Resources and Practice Exams",
+     "access": "open"
+    }
+   ]
+  },
+  {
+   "subject": "Administrative Law",
+   "slug": "administrative-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/administrative_law",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Office Hours on Administrative Law (2021)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27588",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Administrative Law (2016)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25040",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Acing Administrative Law 2d by Linda Jellum",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28672",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Administrative Law by Russell Weaver; William Araiza",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27755#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Examples and Explanations for Administrative Law by William F. Funk; Richard H. Seamon",
+     "url": "https://library.law.suffolk.edu/record=b5354805~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Gilbert Law Summary on Administrative Law by Michael Asimow; Richard Murphy",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28297#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short and Happy Guide to Administrative Law by William Araiza",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27766#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Understanding Administrative Law by Kristin E. Hickman",
+     "url": "https://library.law.suffolk.edu/record=b10044358~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Prior Administrative Law Exams (Suffolk U. Law School)",
+     "url": "https://www.suffolk.edu/law/faculty-research/library-services/selected-previous-faculty-exams",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "open"
+    },
+    {
+     "title": "Questions and Answers: Administrative Law (2023)",
+     "url": "https://library.law.suffolk.edu/record=b10188746~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Administrative Law",
+     "url": "https://www.cali.org/content/lessons-subject-outline-administrative-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Administrative Law and Process in a Nutshell by Ronald Levin; Jeffrey Lubbers",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25110",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Administrative Law Stories by Peter L. Strauss (Ed.)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=815",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Business Entity Fundamentals",
+   "slug": "business-entity-fundamentals",
+   "source": "https://lawguides.suffolk.edu/studyaids/business_entity_fundamentals",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Business Associations 3d by Michael A. Chasalow",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28280#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summaries on Corporations 17th by Jesse Choper, James D. Cox, Melvin A. Eisenberg",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27285&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Corporations: Examples and Explanations, 8th by Alan R. Palmiter",
+     "url": "https://library.law.suffolk.edu/record=b1995869~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Black Letter Outline on Corporations by Richard A. Booth",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=23715&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short and Happy Guide to Business Organizations by David G. Epstein",
+     "url": "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26930",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "The Law of Corporations in a Nutshell 8th by Richard D. Freer",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27049&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Business Associations, Objective 2d by Jens C. Dammann",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=27341&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Sum and Substance Quick Review on Corporations by James D. Cox",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20392&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D2%26subjectFilter%3D18%26isLti%3Dfalse#description-tab",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Business Associations & Corporations",
+     "url": "https://www.cali.org/content/lessons-subject-outline-business-associations-corporations",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Business Organizations Course Study Collection by Practical Law (Westlaw)",
+     "url": "https://us.practicallaw.thomsonreuters.com/w-019-5144",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "open"
+    },
+    {
+     "title": "Lexis: Corporations/Business Organizations (Law School)",
+     "url": "https://plus.lexis.com/api/permalink/4f5bd1c1-91e2-4bee-a627-8f872adc6ad5/?context=1530671",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Law School Legends Audio on Business Organizations, 3rd by David G. Epstein",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28619&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21#search-in-book-tab",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Corporations, 5th by James D. Cox",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25055&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D4%26subjectFilter%3D18%26isLti%3Dfalse",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Business Organizations by Chad Pomeroy",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26994&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D18%26sort%3Ddocument-views",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Civil Procedure",
+   "slug": "civil-procedure",
+   "source": "https://lawguides.suffolk.edu/studyaids/civilprocedure",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Civil Procedure, 6th by Adam Spencer",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28364",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Civil Procedure by Kevin Clermont",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27186#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Civil Procedure in a Nutshell by Arthur R. Miller & Adam Steinman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27898#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Examples and Explanations for Civil Procedure by Joseph W. Glannon",
+     "url": "https://library.law.suffolk.edu/record=b3501751~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Gilbert Law Summary on Civil Procedure by Richard Marcus; Thomas Rowe Jr.; Steven S. Gensler",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27868#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "The Glannon Guide to Civil Procedure: learning civil procedure through multiple-choice questions and analysis by Joseph W. Glannon",
+     "url": "https://library.law.suffolk.edu/record=b10035650~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "A Short and Happy Guide to Civil Procedure by Richard Freer",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27817#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Understanding Civil Procedure by Gene R. Shreve; Peter Raven-Hansen; Charles Geyh",
+     "url": "https://library.law.suffolk.edu/record=b10044362~S5",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Emanuel CrunchTime for Civil Procedure by Steven L. Emanuel",
+     "url": "https://library.law.suffolk.edu/record=b4958032~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro on Civil Procedure by Linda Mullenix",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=24921&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D23%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Mastering Multiple Choice for Federal Civil Procedure MBE Bar Prep and 1L Exam Prep by William Janssen; Steven Baicker-McKee",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27783#description-tab",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Civil Procedure",
+     "url": "https://www.cali.org/category/1l-first-year-lesson-topics/civil-procedure",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Civil Litigation Process Map: Discovery (Federal) Lexis+",
+     "url": "https://plus.lexis.com/document/lpadocument/?pdmfid=1530671&crid=9c479098-8d1d-428b-a8e6-c7a6c4d7eb08&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A63S8-0NC1-JK4W-M004-00000-00&pdcontentcomponentid=500749&pdteaserkey=sr9&pdcatfilters=Q29udGVudFR5cGVeUFJBQ1RJQ0VOT1RFU3xSZXNvdXJjZUtpdHNeUmVzb3VyY2UgS2l0cw%3D%3D&config=014FJAA5NjBiN2FhMy1kYTkyLTQ5OWEtOGMzZS02MjA2MDQ1YmQ5MmIKAFBvZENhdGFsb2dJ0arzhQQKdQUaWy69KFDA&pditab=allpods&ecomp=5tch9kk&earg=sr9&prid=936a2c6d-f005-4c0c-bd04-a47d6bfd5b29",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Civil Procedure by Jack Friedenthal; Mary Kane; Arthur Miller; Adam Steinman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27553#description-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Civil Procedure 7th by Kevin Clermont",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27191#description-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Civil Procedure by Freer, Richard D.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25049",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Civil Procedure by Main, Thomas O",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26990",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Civil Procedure by Miller, Arthur R.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25087",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Constitutional Law",
+   "slug": "constitutional-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/constitutionallaw",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Constitutional Law, 2d by Russell Weaver; Steven Friedland",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27652#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Constitutional Law in a Nutshell by Jerome Barron; C. Dienes",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28437",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summaries on Constitutional Law, 31st by Jesse Choper",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=22348",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Glannon Guide to Constitutional Law by Brannon P. Denning",
+     "url": "https://library.law.suffolk.edu/record=b6461986~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "A Short and Happy Guide to Constitutional Law by Mark Alexander",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26344#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Understanding Constitutional Law by William D. Araiza",
+     "url": "https://library.law.suffolk.edu/record=b8056072~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "A Short & Happy Guide to Civics by Deborah E. Cupples",
+     "url": "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/26918",
+     "kind": "other",
+     "box": "Civics and US History materials",
+     "access": "proxy"
+    },
+    {
+     "title": "The U. S. Supreme Court: a Very Short Introduction by Linda Greenhouse",
+     "url": "https://library.law.suffolk.edu/record=b1731333~S5",
+     "kind": "other",
+     "box": "Civics and US History materials",
+     "access": "print"
+    },
+    {
+     "title": "Introduction to the U.S. Legal System for Foreign-Trained Lawyers by Mary L. Perry",
+     "url": "https://library.law.suffolk.edu/record=b9502028~S5",
+     "kind": "other",
+     "box": "Civics and US History materials",
+     "access": "print"
+    },
+    {
+     "title": "West Academic Assessment Quizzes",
+     "url": "https://ezproxysuf.flo.org/login?url=https://eproducts.westacademic.com/MyBookshelf/Bookshelf/selectquizsubject",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Emanuel CrunchTime for Constitutional Law by Steven L. Emanuel",
+     "url": "https://library.law.suffolk.edu/record=b7453731~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Questions and Answers by Paul E. McGreal; Linda S. Eads; Charles W. Rhodes",
+     "url": "https://library.law.suffolk.edu/record=b8614865~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Constitutional Law",
+     "url": "https://www.cali.org/category/1l-first-year-lesson-topics/constitutional-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Constitutional Law by John Nowak; Ronald Rotunda",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=1307#toc-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Constitutional Law by Ronald Rotunda; John Nowak",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24680#description-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "United States Constitutional Law by Daniel Farber; Neil Siegel",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26240",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "U.S Supreme Court Library on HeinOnline",
+     "url": "https://heinonline-org.ezproxysuf.flo.org/HOL/Index?collection=usreports&set_as_cursor=clear",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "The Appointments Clause and Removal Power",
+     "url": "https://podcasts.apple.com/us/podcast/the-appointments-clause-and-removal-power/id1242537529?i=1000519278230",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Broken Law Podcast",
+     "url": "https://www.acslaw.org/media/podcast/",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Commerce Clause",
+     "url": "https://podcasts.apple.com/us/podcast/commerce-clause/id1242537529?i=1000519278244",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Irrational Basis Review",
+     "url": "https://podcasts.apple.com/us/podcast/irrational-basis-review/id1527349276",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "",
+     "url": "Podcasts",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Listen and Learn — First Amendment",
+     "url": "https://lawschooltoolbox.com/podcast-episode-285-listen-and-learn-first-amendment-content-neutral-restrictions/",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Listen and Learn — The Commerce Clause",
+     "url": "https://lawschooltoolbox.com/podcast-episode-215-listen-and-learn-the-commerce-clause/",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Sum and Substance Audio on Constitutional Law, 11th by Cheh, Mary M.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28624&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Strict Scrutiny",
+     "url": "https://www.crooked.com/podcast-series/strict-scrutiny/",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "The Second Amendment",
+     "url": "https://trumpconlaw.com/65-the-second-amendment",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    }
+   ]
+  },
+  {
+   "subject": "Contracts",
+   "slug": "contracts",
+   "source": "https://lawguides.suffolk.edu/studyaids/contracts",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Contracts by Suzanne Darrow-Kleinhaus",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27799",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Contracts by Brian A. Blum",
+     "url": "https://library.law.suffolk.edu/record=b8207795~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Contracts in a Nutshell by Claude Rohwer; Anthony Skrocki; Michael Malloy",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27975#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Quick Review of Contracts by Robert Brain",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26111",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Uniform Commercial Code Official Text (Westlaw)",
+     "url": "https://www.westlaw.com/Browse/Home/SecondarySources/CommercialLawSecondarySources/CommercialLawTextsTreatises/UniformCommercialCodeOfficialText?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=cblt1.0",
+     "kind": "other",
+     "box": "Other Contracts Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Restatement of the Law - Contracts (Westlaw)",
+     "url": "https://1.next.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawContracts?originationContext=typeAhead&transitionType=CategoryPageItem&contextData=(sc.Default)&firstPage=true&bhcp=1&CobaltRefresh=76499",
+     "kind": "other",
+     "box": "Other Contracts Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Contracts by Joseph Perillo",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=23717",
+     "kind": "other",
+     "box": "Other Contracts Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Brain's Exam Pro on Contracts, Essay by Robert Brain",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=23048",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Contracts by Steven L. Emanuel (Contribution by)",
+     "url": "https://library.law.suffolk.edu/record=b4958033~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro on Contracts, Objective by Robert Brain",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=23008&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D34%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions & Answers: Contracts by Scott J. Burnham",
+     "url": "https://library.law.suffolk.edu/record=b8056071~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Step-by-Step Guide to Contracts by Sara Berman & Steven Bracci",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=29096&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D34%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "CALI Lessons on Contracts",
+     "url": "https://www.cali.org/content/lessons-subject-outline-contracts",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Listen and Learn — The Statute of Frauds",
+     "url": "https://lawschooltoolbox.com/podcast-episode-272-listen-and-learn-the-statute-of-frauds-contract-law/",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Law School Legends Audio on Contracts by David G. Epstein",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28580&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Contracts by George W. Kuney",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27602",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Contracts by Douglas J. Whaley",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25058",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Criminal Law",
+   "slug": "criminal-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/criminal",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Criminal Law by John Burkoff",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28284",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Criminal Law by Joshua Dressler",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28179",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Criminal Law in a Nutshell by Arnold Loewy",
+     "url": "https://library.law.suffolk.edu/record=b5486128~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Criminal Law in a Nutshell by Arnold Loewy",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28414",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Examples and Explanations for Criminal Law by Richard G. Singer",
+     "url": "https://library.law.suffolk.edu/record=b2578702~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Gilbert Law Summary on Criminal Law by George Dix; Leslie W. Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28060",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Glannon Guide to Criminal Law by Laurie L. Levenson",
+     "url": "https://library.law.suffolk.edu/search~S6?/YGlannon+Guide+to+Criminal+Law&SORT=D/YGlannon+Guide+to+Criminal+Law&SORT=D&SUBKEY=Glannon+Guide+to+Criminal+Law/1%2C3%2C3%2CB/frameset&FF=YGlannon+Guide+to+Criminal+Law&SORT=D&1%2C1%2C",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Principles of Criminal Law by Wayne LaFave",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25170&q=Principles%20of%20Criminal%20Law&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3DPrinciples%2Bof%2BCriminal%2BLaw#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Short & happy guide to criminal law by Joseph E. Kennedy",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28396",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Criminal Law Crunchtime by Steven Emanuel",
+     "url": "https://library.law.suffolk.edu/record=b4958030~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro Essay on Criminal Law by John Burkoff",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20335&q=Exam%20Pro%20Essay%20on%20Criminal%20Law",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Criminal Law (Objective) by John Burkoff; Nancy Burkoff",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=27686&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D38%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers by Emily Marcus Levine; Paul Marcus",
+     "url": "https://library.law.suffolk.edu/record=b8614864~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Step-by-Step Guide to Criminal Law by Sara J. Berman & Steven J. Bracci",
+     "url": "https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27432&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D57#toc-tab",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Criminal Law",
+     "url": "https://www.cali.org/content/lessons-subject-outline-criminal-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Criminal Law by Wayne LaFave",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28159",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "High Court Case Summaries on Criminal Law (Keyed to Dressler and Garvey, 9th)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27981",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "High Court Summaries on Criminal Law (Keyed to Kadish, Schulhofer, and Barkow) by Publishers Editorial Staff",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25829",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Criminal Law",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25050",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Criminal Law",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26997",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Criminal Law by Joshua Dressler",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28404&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Criminal Procedure",
+   "slug": "criminal-procedure",
+   "source": "https://lawguides.suffolk.edu/studyaids/criminalprocedure",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Criminal Procedure by Leslie Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28623",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Advanced Criminal Procedure in a Nutshell by Mark Cammack; Norman Garland",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24867",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Basic Criminal Procedure by Stephen Saltzburg; Daniel Capra; Angela Davis",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27299#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Criminal Procedure, Constitutional Limitations in a Nutshell by Jerold Israel; Wayne LaFave, Ric Simmons",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28544",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summary on Criminal Procedure by Paul Marcus; Melanie Wilson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27461",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Global Issues in Criminal Procedure by Linda Carter; Christopher Blakesley; Peter Henning",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=3257#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Criminal Procedure by Weaver, Russell L. / Burkoff, John M. / Hancock, Catherine / Friedland, Steven I.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28387",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Criminal Procedure by Wayne R. LaFave; Jerold H. Israel; Orin S. Kerr; Nancy J. King",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20452",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Quick Review of Criminal Procedure by Leslie Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28646",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short and Happy Guide to Criminal Procedure by Leslie Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28631",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Criminal Procedure (Objective) by Mary Cheh",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=28333&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D39%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers: Criminal Procedure-- Prosecution and Adjudication by Neil P. Cohen; Michael J. Benza; Wayne A. Logan",
+     "url": "https://library.law.suffolk.edu/record=b8614866~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Criminal Procedure",
+     "url": "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/criminal-procedure",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Criminal Procedure by Wayne LaFave; Jerold Israel; Nancy King; Orin Kerr",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25031",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "High Court Case Summaries on Criminal Procedure (Keyed to Dressler, Thomas, and Medwed, 8th)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28177",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "High Court Case Summaries on Criminal Procedure (Keyed to Kamisar) w/Audio",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28310",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "The Parol Evidence Rule PodCast",
+     "url": "https://www.cali.org/lesson/1044",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Law School Legends Audio: Criminal Procedure by Mary M. Cheh",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28609&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours: Criminal Procedure (Adjudicative) by Peter J. Henning",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26987",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours: Criminal Procedure (Investigative)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26998",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Criminal Procedure by Joshua Dressler",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27741&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FseriesFilter%3D47%26isLti%3Dfalse#description-tab",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Employment Law",
+   "slug": "employment-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/employment_law",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Employment Law in a Nutshell, 5th by Covington, Robert N. / Seiner, Joseph A.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27754&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "The Law of Employment, 2d by Estreicher, Samuel",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27511&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D50%26sort%3Ddocument-views#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Understanding Employment Discrimination Law by Thomas R. Haggard; Bruce N. Cameron",
+     "url": "https://library.law.suffolk.edu/record=b7924435~S5",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lesson on Employer and Employee Relationships",
+     "url": "https://www.cali.org/lesson/728",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "CALI Lessons on Employment Discrimination",
+     "url": "https://www.cali.org/category/2l-3l-upper-level-lesson-topics/employment-discrimination",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Office Hours on Employment Law by Areheart, Bradley Allan",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27747",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Environmental Law",
+   "slug": "environmental-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/environmental_law",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Environmental Law in a Nutshell by Daniel Farber",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28620",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Environmental Law by Jeffrey Gaba",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/24684#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "",
+     "url": "Available with Suffolk credentials",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "open"
+    },
+    {
+     "title": "Environmental Law by Steven Ferrey",
+     "url": "https://library.law.suffolk.edu/record=b9501970~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Environmental Law",
+     "url": "https://cali.org/category/2l-3l-upper-level-lesson-topics/environmental-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Environmental Law and Policy by James Salzman; Barton Thompson Jr.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/26217#toc-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Environmental Law Practice by Jerry L. Anderson; Dennis D. Hirsch; Noah M. Sachs; Edmund J. Tormey",
+     "url": "https://library.law.suffolk.edu/record=b2329137~S6",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "print"
+    },
+    {
+     "title": "International Environmental Law in a Nutshell by Reed Benson; Burke Griggs; A. Tarlock",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27645#toc-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Research handbook on international environmental law by Malgosia Fitzmaurice",
+     "url": "https://library.law.suffolk.edu/record=b8693646~S6",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "print"
+    },
+    {
+     "title": "Massachusetts Environmental Law by Gregor I. McGregor (Editor)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://www.mcle.org/product/delivery/code/2243038WCH",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Evidence",
+   "slug": "evidence",
+   "source": "https://lawguides.suffolk.edu/studyaids/evidence",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Evidence by Aviva Orenstein",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27270#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Beckman's a Short and Happy Guide to Evidence, 2d by Sydney Beckman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27582",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Evidence by Christopher Mueller; Laird Kirkpatrick; Liesa Richter",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27240",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Evidence in a Nutshell by Paul Rothstein; David Crump; Ronald Coleman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27642",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summaries on Evidence by Jon Waltz; John Kaplan; Roger Park",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20193",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Glannon Guide to Evidence by Michael Avery",
+     "url": "https://library.law.suffolk.edu/record=b5222544~S5",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Understanding Evidence by Paul C. Giannelli",
+     "url": "https://library.law.suffolk.edu/record=b4282582~S5",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro on Evidence (Essay) by Michael Graham",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27177#toc-tab",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Evidence (Objective) by Michael Graham",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=28849&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D57%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers by Paul C. Giannelli",
+     "url": "https://library.law.suffolk.edu/record=b8614861~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Evidence",
+     "url": "https://www.cali.org/search/site/Evidence?f%5B0%5D=bundle%3Alesson",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Evidence Law, a Student's Guide to the Law of Evidence As Applied in American Trials by Roger Park; Aviva Orenstein; Dale Nance",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27714",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Federal Rules of Evidence in a Nutshell by Michael Graham",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27175",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "McCormick's Evidence by Edward Imwinkelried; David Kaye; Eleanor Swift; Robert Mosteller; Kenneth Broun; George Dix",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26979",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Evidence by Daniel Capra; Stephen Saltzburg",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27669",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Evidence by Simmons, Ric",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26208",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Evidence by Goode, Steven",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25082",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Admissibility: Expert Witness",
+     "url": "https://plus.lexis.com/document/?pdmfid=1530671&crid=26e4f09a-6f32-4f63-807e-22670000ffc4&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H811-6439-B10M-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr2&prid=b6f18d66-eed3-4346-95b9-f52c20d97ed0",
+     "kind": "other",
+     "box": "Lexis+ Topic Summary",
+     "access": "platform"
+    },
+    {
+     "title": "Hearsay Exception on Business Records",
+     "url": "https://plus.lexis.com/document/?pdmfid=1530671&crid=52bb8c03-b2d2-4711-9ba5-d3d7cbb46bac&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H731-6439-B0Y1-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr2&prid=23b852a8-25e1-46d8-b48f-46b17fafdaf3",
+     "kind": "other",
+     "box": "Lexis+ Topic Summary",
+     "access": "platform"
+    },
+    {
+     "title": "Hearsay Exception on Public Records",
+     "url": "https://plus.lexis.com/document/?pdmfid=1530671&crid=df8e8b20-d6f9-4de6-a2c1-e1fd2bb42edf&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H7T1-6439-B106-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr1&prid=dfb97f70-eb13-429e-b012-742a8678f9f3",
+     "kind": "other",
+     "box": "Lexis+ Topic Summary",
+     "access": "platform"
+    },
+    {
+     "title": "Hearsay Exception on Statement Against Interest",
+     "url": "https://plus.lexis.com/document/?pdmfid=1530671&crid=581f521d-7b4c-4aed-92fa-15d18c0d069f&pddocfullpath=%2Fshared%2Fdocument%2Fanalytical-materials%2Furn%3AcontentItem%3A836D-H3G1-6439-B0P2-00000-00&pdcontentcomponentid=4336&pdteaserkey=&pdislpamode=false&pdworkfolderlocatorid=NOT_SAVED_IN_WORKFOLDER&ecomp=hf4k&earg=sr8&prid=0fc12b69-ba23-4291-81c5-661751e02202",
+     "kind": "other",
+     "box": "Lexis+ Topic Summary",
+     "access": "platform"
+    }
+   ]
+  },
+  {
+   "subject": "Family Law",
+   "slug": "family-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/family_law",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Black Letter Outline on Family Law by Harry Krause; David Meyer",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20252&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Community Property in a Nutshell by Jo Carrillo",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25761&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Family Law in a Nutshell by John Myers",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27781&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FseriesFilter%3D28",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summaries on Community Property by William Reppy Jr.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=20187&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Children and the Law in a Nutshell by Douglas Abrams; Susan Mangold; Sarah Ramsey",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27331&q=children%20and%20the%20law%20&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dchildren%2Band%2Bthe%2Blaw%2B",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Family Law",
+     "url": "https://cali.org/content/lessons-subject-outline-family-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Family Law in Perspective by Walter Wadlington; Raymond O'Brien; Robin Wilson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27527&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "The Law of Domestic Relations in the United States by Homer Clark Jr.; Sanford Katz",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27418&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#toc-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Family Law by Marc Perlin",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28442&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D47",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Family Law by Higdon, Michael J.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=27798&goBackUrl=https%3A%2F%2Fsubscription-westacademic-com.ezproxysuf.flo.org%2FSearch%3FsubjectFilter%3D58%26sort%3Ddocument-views#audio-tracks-tab",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Immigration Law",
+   "slug": "immigration-law",
+   "source": "https://lawguides.suffolk.edu/studyaids/immigration_law",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Understanding Immigration Law, 3d by Kevin R. Johnson",
+     "url": "https://library.law.suffolk.edu/record=b10044600~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lesson: Researching U.S. Immigration Law",
+     "url": "https://www.cali.org/lesson/1064",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Immigration Law Stories by David A. Martin and Peter H. Schuck",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=342&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D71%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Immigration Law and Procedure in a Nutshell (8th Edition) by David S. Weissbrodt",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28163",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Interviewing & Counseling",
+   "slug": "interviewing-counseling",
+   "source": "https://lawguides.suffolk.edu/studyaids/interviewing_and_counseling",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "A Short and Happy Guide to Effective Client Interviewing and Counseling 2d by Oscar J. Salinas",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28625",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Legal Interviewing and Counseling in a Nutshell, 4th by Shaffer, Thomas L. / Elkins, James R.",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20107&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D77%26sort%3Ddocument-views",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Remote advocacy in a nutshell by Tracy Walters McCormack",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27272&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D85%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Interviewing and Counseling Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Excellence in the Workplace, Legal and Life Skills in a Nutshell., 2d by Kavanagh, Kay / Nailon, Paula",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25647&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D21%26sort%3Ddocument-views#description-tab",
+     "kind": "other",
+     "box": "Other Interviewing and Counseling Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Legal Writing",
+   "slug": "legal-writing",
+   "source": "https://lawguides.suffolk.edu/studyaids/legalwriting",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Legal Writing Style by Antonio Gidi, Henry Weihofen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25720&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D91%26sort%3Ddocument-views#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short & Happy Guide to Legal Writing 2d by Deborah L. Borman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28569",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Legal Citation in a Nutshell by Larry L. Teply",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27628",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Legal Writing and Analysis in a Nutshell by Lynn Bahrych, Jeanne Merino, Beth McLellan",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25181&q=legal%20writing&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dlegal%2Bwriting",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summary on Legal Research, Writing & Analysis by Peter Jan Honigsberg, Edith Ho",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28508",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Legal Writing",
+     "url": "https://www.cali.org/content/lessons-subject-outline-legal-writing",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Sum and Substance Audio on Legal Research by Robert C. Berring",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25071&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D90%26sort%3Ddocument-views",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Legal Research in a Nutshell 15th by Kent C. Olson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28458",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Principals of Legal Research by Kent C. Olson, Aaron S. Kirschenfeld, Ingris Mattson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27092&q=legal%20research&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dlegal%2Bresearch",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short & Happy Guide to Advanced Legal Research by Ann Walsh Long",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27636",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Professional Responsibility",
+   "slug": "professional-responsibility",
+   "source": "https://lawguides.suffolk.edu/studyaids/professionalresponsibility",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Professional Responsibility by Leslie Abramson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28361",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Legal Ethics in a Nutshell by Ronald Rotunda",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25756",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Professional Responsibility by W. Bradley Wendel",
+     "url": "https://library.law.suffolk.edu/record=b2016062~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "A Short and Happy Guide to the MPRE by Leah Christensen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28134",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "The Weekend MPRE by Leah Christensen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27974",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Emanuel CrunchTime for Professional Responsibility by James E. Moliterno",
+     "url": "https://library.law.suffolk.edu/record=b7457614~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro on Professional Responsibility by Leslie Abramson",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=28397&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D110%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers by Patrick Longan (Associate Editor)",
+     "url": "https://library.law.suffolk.edu/record=b8614868~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Professional Responsibility",
+     "url": "https://cali.org/category/2l-3l-upper-level-lesson-topics/professional-responsibility",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "ABA Annotated Model Rules of Professional Conduct (Westlaw)",
+     "url": "https://1.next.westlaw.com/Browse/Home/SecondarySources/TextsTreatises/EthicsProfessionalResponsibilityTextsTreatises/ABAAnnotatedModelRulesofProfessionalConduct?ppcid=1a06f08714484b4b9dff72b4256312a6&transitionType=SearchItem&contextData=%28sc.Category%29",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Lexis: Legal Ethics/Professional Responsibility (Law School)",
+     "url": "https://plus.lexis.com/api/permalink/470d47d3-36ac-4f55-bda3-94655c36131d/?context=1530671",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Legal Ethics, Professional Responsibility, and the Legal Profession by Charles Geyh; Neil Hamilton; William Henderson; Vincent Johnson; Katherine Kruse; Gregory Sisk; Susan Fortney",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25852",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Professional Responsibility and Regulation by Deborah L. Rhode; Geoffrey C. Hazard",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=1223",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Professional Responsibility by Erwin Chemerinsky",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25066",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Professional Responsibility by M. Ellen Murphy",
+     "url": "https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26993",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Professional Responsibility by John S. Dzienkowski",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25080",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Property",
+   "slug": "property",
+   "source": "https://lawguides.suffolk.edu/studyaids/property",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Property 3d by Colleen Medill",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail/27745",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "The Glannon guide to property : learning property through multiple-choice questions and analysis by James Charles Smith",
+     "url": "https://library.law.suffolk.edu/record=b5222543~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Personal Property in a Nutshell 4th by Barlow Burke",
+     "url": "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=25706",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Property: Examples & Explanations 6th by D. Barlow Burke; Joseph A. Snoe",
+     "url": "https://library.law.suffolk.edu/record=b3501751~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Real Property in a Nutshell 7th by Roger Bernhardt; Ann Burkhart",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=24424",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Emanuel CrunchTime for Property by Steven L. Emanuel",
+     "url": "https://library.law.suffolk.edu/record=b4958029~S6",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "Exam Pro Objective Questions on Property 2d by Peter Wendel",
+     "url": "http://subscription.westacademic.com/Book/Detail?id=20417",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers: Property - Multiple Choice and Short Answer Q&A 3d by John Copeland Nagle",
+     "url": "https://library.law.suffolk.edu/record=b10187694~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Property",
+     "url": "https://www.cali.org/content/lessons-subject-outline-property-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "The Law of Property 2d by Christopher Serkin",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24558#description-tab",
+     "kind": "other",
+     "box": "Other Property Law Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "The Law of Property: An Introductory Survey 7th by Sheldon Kurtz; Thomas Gallanis; Herbert Hovenkamp",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26132#toc-tab",
+     "kind": "other",
+     "box": "Other Property Law Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Lexis - Property Resources (Law School)",
+     "url": "https://plus.lexis.com/api/permalink/5bcd2de1-85f5-47c7-97e7-463275832427/?context=1530671",
+     "kind": "other",
+     "box": "Other Property Law Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Prof Dale's Property Videos",
+     "url": "https://www.youtube.com/playlist?list=PLgEQKqmnB5J6n35DByEBB1_6JDJUcgcfS",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "open"
+    },
+    {
+     "title": "Law School Legends on Real Property 3d (2016)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25051",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Property 3d (2014)",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=25086",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Listen and Learn — Adverse Possession",
+     "url": "https://lawschooltoolbox.com/podcast-episode-310-listen-and-learn-adverse-possession/",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "open"
+    }
+   ]
+  },
+  {
+   "subject": "Taxation",
+   "slug": "taxation",
+   "source": "https://lawguides.suffolk.edu/studyaids/Taxation",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Federal Income Tax by Samuel Donaldson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://ezproxysuf.flo.org/login?url=http://subscription.westacademic.com/Book/Detail?id=20140",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Examples and Explanations for Federal Income Tax by Katherine Pratt; Thomas D. Griffith; Joseph Bankman",
+     "url": "https://library.law.suffolk.edu/record=b3204928~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "A Short and Happy Guide to Federal Income Taxation by Joel Newman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28291",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Gilbert Law Summaries, Taxation of Individuals by Steven Bank",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26735#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Partnership Taxation by Robert Wootton; Sarah Lawsky",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26726",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Federal Income Tax (Objective) by Robert Popovich",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=26615&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D126%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "CALI Lessons on Tax Law",
+     "url": "https://www.cali.org/content/lessons-subject-outline-tax-law",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Basic Income Tax by William P. Kratzke",
+     "url": "https://www.cali.org/books/basic-income-tax#",
+     "kind": "other",
+     "box": "Other Taxation Resources",
+     "access": "code"
+    },
+    {
+     "title": "The Ethics of Tax Lawyering, Third Edition by Michael Hatfield",
+     "url": "https://www.cali.org/books/ethics-tax-lawyering-third-edition",
+     "kind": "other",
+     "box": "Other Taxation Resources",
+     "access": "code"
+    },
+    {
+     "title": "Federal Income Taxation of Individuals in a Nutshell by John McNulty; Daniel Lathrope, Kevin Yamamoto",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28203",
+     "kind": "other",
+     "box": "Other Taxation Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Lexis+ Tax Law resources",
+     "url": "https://plus.lexis.com/api/permalink/df90df40-5f64-495c-8ed6-3d2567a75e22/?context=1530671",
+     "kind": "other",
+     "box": "Other Taxation Resources",
+     "access": "platform"
+    },
+    {
+     "title": "RIA Checkpoint - Online access to a wide variety of tax materials",
+     "url": "https://ezproxysuf.flo.org/login?url=http://ezproxysuf.flo.org/login?url=https://checkpoint.riag.com/login?iploc=SuffUniversLawLibrarry",
+     "kind": "other",
+     "box": "Other Taxation Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Tax",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription-westacademic-com.ezproxysuf.flo.org/Book/Detail?id=26986#description-tab",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Torts",
+   "slug": "torts",
+   "source": "https://lawguides.suffolk.edu/studyaids/torts",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Acing Tort Law by Shubha Ghosh",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27897",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Advanced Torts in a Nutshell by Peter Kutner",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27020#toc-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Examples and Explanations for the Law of Torts by Joseph W. Glannon",
+     "url": "https://library.law.suffolk.edu/record=b7034700~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Gilbert Law Summary on Torts by Marc Franklin; W. Cardi; Michael Green",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28153",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Succeeding in Law School by Herbert N. Ramy",
+     "url": "https://library.law.suffolk.edu/record=b2918761~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Torts in a Nutshell by Edward Kionka",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27174",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Exam Pro on Torts (Objective) by John Bauman; Ronald Eades",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=27364&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Step-by-Step Guide to Torts by Berman, Sara J. / Bracci, Steven J",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=27472&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D128%26sort%3Ddocument-views#simulations-tab",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Questions and Answers- Torts: Multiple Choice, Short Answers, and a 90 minute practice final exam by Anita Bernstein, Anita and Stuart Subotnick",
+     "url": "https://library.law.suffolk.edu/record=b10188725~S5",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "print"
+    },
+    {
+     "title": "CALI Lessons on Torts",
+     "url": "https://www.cali.org/category/1l-first-year-lesson-topics/torts",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Hornbook on Torts by Dan Dobbs; Paul Hayden; Ellen Bublick",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=24460#description-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Restatement of the Law- Torts by Ellen M. Bublick (Compiled by); American Law Institute Staff (Contribution by)",
+     "url": "https://1.next.westlaw.com/Browse/Home/SecondarySources/RestatementsPrinciplesoftheLaw/RestatementoftheLawTorts?originationContext=typeAhead&transitionType=CategoryPageItem&contextData=(sc.Default)",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Office Hours on Torts by Klein, Andrew",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26989#audio-tracks-tab",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Torts by Goode, Steven",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26249",
+     "kind": "audio",
+     "box": "Audio Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Trademarks",
+   "slug": "trademarks",
+   "source": "https://lawguides.suffolk.edu/studyaids/trademarks",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Intellectual Property, Patents, Trademarks, and Copyright in a Nutshell by Arthur R. Miller, Michael H. Davis",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28238",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Patent, Copyright and Trademark by Richard Stim",
+     "url": "https://library.law.suffolk.edu/record=b2329121~S6",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "print"
+    },
+    {
+     "title": "Principles of Trademark Law by Roger E. Schechter, John R. Thomas",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27238&q=trademark&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrademark#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Trademark and unfair competition in a nutshell by Mark D. Janis, Robert A. Luca",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27576",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "CALI Lessons on Trademark Law",
+     "url": "https://www.cali.org/content/lessons-subject-outline-trademark",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    },
+    {
+     "title": "Acing Intellectual Property by Keith W. Robinson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28657",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Intellectual Property by Roger E. Schechter",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=20268&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Intellectual Property, Patents, Trademarks, and Copyright in a Nutshell by Arthur R. Miller and Michael H. Davis",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28238&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Principles of Intellectual Property Law by Gary Myers",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25155&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D73%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Myers's Law School Legends Audio on Intellectual Property by Gary Myers",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=28403&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FseriesFilter%3D21",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Trial Advocacy",
+   "slug": "trial-advocacy",
+   "source": "https://lawguides.suffolk.edu/studyaids/trial_advocacy",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "The First Trial (Where Do I Sit? What Do I Say?) in a Nutshell by Steven H. Goldberg, Tracy Walters McCormack",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/28495",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Trial Advocacy in a Nutshell by Paul B. Bergman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25018&q=trial%20advocacy&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrial%2Badvocacy",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Trial and Lawyering Skills in a Nutshell by Kenney F. Hegland",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/24371#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Cross Examination in a Nutshell by Joseph C. Bodiford",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25843&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3FsubjectFilter%3D130%26sort%3Ddocument-views",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Depositions in a Nutshell by Albert J. Moore, David A. Binder, Paul B. Bergman, Jason Light",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/24505",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    },
+    {
+     "title": "Pretrial Litigation in a Nutshell by R. Lawrence",
+     "url": "https://subscription.westacademic.com/Book/Detail/26721",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "platform"
+    },
+    {
+     "title": "Remote Advocacy in a Nutshell by Tracy Walters McCormack",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27272&q=trial%20advocacy&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fq%3Dtrial%2Badvocacy#description-tab",
+     "kind": "other",
+     "box": "Other Resources",
+     "access": "proxy"
+    }
+   ]
+  },
+  {
+   "subject": "Trusts & Estates",
+   "slug": "trusts-estates",
+   "source": "https://lawguides.suffolk.edu/studyaids/trusts_and_estates",
+   "verified": "2026-08-27",
+   "items": [
+    {
+     "title": "Wills and Trusts in a Nutshell, 6th by Sherri Burr",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail/27990#description-tab",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Black Letter Outline on Wills, Trusts, and Future Interests, 4th by Lawrence H. Averill & Terri Lynn Helge",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=21868&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Quick Review of Wills, Trusts, and Estates by Jeffrey N. Pennell & Alan Newman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=26623&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "A Short and Happy Guide to The Rule: The Little Book on Perpetuities, 2d by Donald H. Gjerdingen",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27612&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "proxy"
+    },
+    {
+     "title": "Lexis - Trusts & Estates (Law School)",
+     "url": "https://plus.lexis.com/api/permalink/aafc0c45-7d7c-4999-8c59-fae2126a4eae/?context=1530671",
+     "kind": "outline",
+     "box": "Reviews, Outlines, and Checklists",
+     "access": "platform"
+    },
+    {
+     "title": "Exam Pro on Wills, Trusts, and Estates by Patricia A. Cain & E. Gary Spitko",
+     "url": "https://subscription.westacademic.com/Book/Detail?id=28934&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D131%26sort%3Ddocument-views",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "platform"
+    },
+    {
+     "title": "Exam Pro Workbook on Estates and Future Interests, 3d by Raymond R. Coletta",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=22215&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D13%252C2%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "practice",
+     "box": "Practice Exam Questions",
+     "access": "proxy"
+    },
+    {
+     "title": "Sum and Substance Audio on Wills and Trusts, 6th by Gerry W. Beyer",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27228&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2FSearch%3FsubjectFilter%3D131%26sort%3Ddocument-views",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Wills and Trusts, 7th by Stanley M. Johanson",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25070&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Office Hours on Trusts & Estates by Victoria J. Haneman",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=27763&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse#search-in-book-tab",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Law School Legends Audio on Future Interests, 3d by Catherine L. Carpenter",
+     "url": "https://ezproxysuf.flo.org/login?url=https://subscription.westacademic.com/Book/Detail?id=25063&goBackUrl=https%3A%2F%2Fsubscription.westacademic.com%2Fsearch%3Fsort%3Ddocument-views%26typeFilter%3D11%252C7%26subjectFilter%3D131%26isLti%3Dfalse",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "proxy"
+    },
+    {
+     "title": "Prof Dale's Property Video: Introduction to Future Interests",
+     "url": "https://www.youtube.com/watch?v=7nFNSBk-Bj8",
+     "kind": "audio",
+     "box": "Audio and Video Lessons",
+     "access": "open"
+    },
+    {
+     "title": "CALI Lessons on Trusts",
+     "url": "https://www.cali.org/search/site/trusts?f%5B0%5D=bundle%3Alesson",
+     "kind": "cali",
+     "box": "CALI Lessons",
+     "access": "code"
+    }
+   ]
+  }
+ ]
+}
