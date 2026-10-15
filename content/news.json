@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-15 19:49 UTC",
+ "fetched": "2026-10-15 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,15 @@
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T20:25:04+00:00",
+   "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud.…",
+   "tag": "Cyber"
+  },
   {
    "title": "The next election influence campaign will target your AI chatbot",
    "url": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
@@ -159,15 +168,6 @@
    "date": "2026-10-14",
    "ts": "2026-10-14T05:00:00+00:00",
    "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-   "source": "Krebs on Security",
-   "date": "2026-10-13",
-   "ts": "2026-10-13T23:24:53+00:00",
-   "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
    "tag": "Cyber"
   },
   {
