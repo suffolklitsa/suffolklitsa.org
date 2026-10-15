@@ -1,25 +1,13 @@
 {
- "fetched": "2026-10-15 06:31 ET",
+ "fetched": "2026-10-15 15:49 ET",
  "status": {
   "coalition": "ok 58",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 2",
-  "berkman": "ok 1"
+  "berkman": "ok 0"
  },
  "events": [
-  {
-   "date": "2026-10-15",
-   "time": "12:15pm",
-   "name": "Law at the Frontier",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/law-frontier",
-   "source": "berkman",
-   "tier": "boston",
-   "source_key": "berkman"
-  },
   {
    "date": "2026-10-15",
    "time": "6–7:30pm",

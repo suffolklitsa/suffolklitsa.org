@@ -1,22 +1,103 @@
 {
- "fetched": "2026-10-15 10:31 UTC",
+ "fetched": "2026-10-15 19:49 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 3",
+  "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 3",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
-  "Above the Law": "ok 4"
+  "The Verge": "ok 3",
+  "TechCrunch": "ok 1",
+  "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "The next election influence campaign will target your AI chatbot",
+   "url": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
+   "source": "CyberScoop",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T19:29:58+00:00",
+   "summary": "Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues.",
+   "tag": "AI"
+  },
+  {
+   "title": "Zero-click spyware infecting devices through online ads, researchers say",
+   "url": "https://therecord.media/spyware-citizen-lab-advertising",
+   "source": "The Record",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T19:00:00+00:00",
+   "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+   "source": "BleepingComputer",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T18:20:59+00:00",
+   "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
+   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+   "source": "LawSites",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T17:56:34+00:00",
+   "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its…",
+   "tag": "AI"
+  },
+  {
+   "title": "The Most Innovative Law Schools (2026)",
+   "url": "https://abovethelaw.com/2026/10/the-most-innovative-law-schools-2026/",
+   "source": "Above the Law",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T17:01:00+00:00",
+   "summary": "From AI training to flexible J.D. programs, these schools are giving legal education an overdue update.",
+   "tag": "AI"
+  },
+  {
+   "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+   "source": "The Verge",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T16:06:42+00:00",
+   "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+   "source": "The Verge",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T14:12:33+00:00",
+   "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is…",
+   "tag": "AI"
+  },
+  {
+   "title": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
+   "url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
+   "source": "LawSites",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T13:00:31+00:00",
+   "summary": "Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Why Anthropic Is Asking for a Rehearing En Banc",
+   "url": "https://www.lawfaremedia.org/article/why-anthropic-is-asking-for-a-rehearing-en-banc",
+   "source": "Lawfare",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T11:00:07+00:00",
+   "summary": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
+   "tag": "AI"
+  },
   {
    "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising",
    "url": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
@@ -25,33 +106,6 @@
    "ts": "2026-10-15T10:00:00+00:00",
    "summary": "Researchers say the attacks have serious implications for the online advertising world, and regulators.",
    "tag": "Cyber"
-  },
-  {
-   "title": "eBrevia Launches ‘Command’ Contract Management Platform",
-   "url": "https://www.artificiallawyer.com/2026/10/15/ebrevia-launches-command-contract-management-platform/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T09:26:42+00:00",
-   "summary": "Inhouse-focused legal AI pioneer, eBrevia, has launched ‘Command’, a contract management platform that ‘helps users understand what’s in their agreements, identify what needs attention and...",
-   "tag": "AI"
-  },
-  {
-   "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-   "source": "BleepingComputer",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T08:06:47+00:00",
-   "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Legora Seeks Centrality With 30+ Integrations Ecosystem",
-   "url": "https://www.artificiallawyer.com/2026/10/15/legora-seeks-centrality-with-30-integrations-ecosystem/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T07:31:51+00:00",
-   "summary": "Legora is seeking to secure its ‘centrality’ within a lawyer’s working life via the strategy of building a large-scale integration ecosystem, (see list below). In...",
-   "tag": "Legal tech"
   },
   {
    "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
@@ -63,24 +117,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-   "url": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-   "source": "The Record",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T23:00:00+00:00",
-   "summary": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
-   "url": "https://cyberscoop.com/olvx-cybercrime-marketplace-operator-charged-north-macedonia/",
-   "source": "CyberScoop",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T21:40:31+00:00",
-   "summary": "Officials disrupted the cybercrime marketplace in April and arrested the alleged 20-year-old operator at that time. Illicit sales reportedly exceeded $500,000 since 2023.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
    "source": "TechCrunch",
@@ -88,15 +124,6 @@
    "ts": "2026-10-14T21:30:33+00:00",
    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
    "tag": "Privacy"
-  },
-  {
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "source": "The Verge",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T21:17:29+00:00",
-   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed…",
-   "tag": "AI"
   },
   {
    "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
@@ -117,39 +144,12 @@
    "tag": "AI"
   },
   {
-   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-   "source": "The Verge",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T18:47:54+00:00",
-   "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is…",
-   "tag": "AI"
-  },
-  {
-   "title": "New SCOREalytics CEO Jennie Morawetz on Building Regulatory Intelligence Lawyers Can Rely On",
-   "url": "https://www.lawnext.com/2026/10/new-scorealytics-ceo-jennie-morawetz-on-building-regulatory-intelligence-lawyers-can-rely-on.html",
-   "source": "LawSites",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T16:22:35+00:00",
-   "summary": "Jennie Morawetz, who was named this week as CEO of regulatory intelligence company SCOREalytics, wants the company’s product to become the accepted standard for how lawyers keep up with regulatory change. “I want using…",
-   "tag": "Legal tech"
-  },
-  {
    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
    "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
    "source": "Krebs on Security",
    "date": "2026-10-14",
    "ts": "2026-10-14T14:22:49+00:00",
    "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Global takedown hits network behind 1 billion phishing messages",
-   "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-   "source": "BleepingComputer",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T13:12:52+00:00",
-   "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide.…",
    "tag": "Cyber"
   },
   {
