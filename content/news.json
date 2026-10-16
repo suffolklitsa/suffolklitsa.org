@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-16 10:31 UTC",
+ "fetched": "2026-10-16 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,20 +10,110 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 1",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 3",
-  "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "TechCrunch": "ok 0",
+  "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "BAE Systems cyberattack disrupts US federal court operations",
-   "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+   "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
    "source": "BleepingComputer",
    "date": "2026-10-16",
-   "ts": "2026-10-16T07:37:35+00:00",
-   "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts.…",
+   "ts": "2026-10-16T20:00:59+00:00",
+   "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned",
+   "url": "https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/",
+   "source": "Above the Law",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T18:32:00+00:00",
+   "summary": "The AI labs can’t scrape this data, which is kind of the point.",
+   "tag": "AI"
+  },
+  {
+   "title": "Prolific Chinese espionage group exploits BeyondTrust zero-day",
+   "url": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle/",
+   "source": "CyberScoop",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T17:09:09+00:00",
+   "summary": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Cybersecurity incident at BAE Systems disrupts US bankruptcy court system",
+   "url": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
+   "source": "CyberScoop",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T15:12:44+00:00",
+   "summary": "The outage has stopped official bankruptcy notices nationwide since Oct. 9, with no cause or restoration date announced.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+   "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+   "source": "The Record",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T14:45:00+00:00",
+   "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "When Your Ransomware Negotiator Works for the Other Side",
+   "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+   "source": "Dark Reading",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T14:00:00+00:00",
+   "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+   "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
+   "source": "The Record",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:30:00+00:00",
+   "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
+   "url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
+   "source": "LawSites",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:27:57+00:00",
+   "summary": "Chariot Claims, a legal tech company that matches consumers to mass arbitration and class action cases and pairs them with law firms, has raised $10 million in Series A funding, it announced Thursday. Silverton Partners…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+   "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+   "source": "Dark Reading",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:00:00+00:00",
+   "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+   "tag": "AI"
+  },
+  {
+   "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+   "source": "The Verge",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T12:56:19+00:00",
+   "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Burger King Japan data breach exposes 11 million customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+   "source": "BleepingComputer",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T12:01:29+00:00",
+   "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records.…",
    "tag": "Cyber"
   },
   {
@@ -36,85 +126,13 @@
    "tag": "Privacy"
   },
   {
-   "title": "Proofpoint to buy Varonis for $6.3 billion",
-   "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
-   "source": "CyberScoop",
+   "title": "Microsoft Copilot for Legal: What Will Be the Fallout?",
+   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
+   "source": "Artificial Lawyer",
    "date": "2026-10-15",
-   "ts": "2026-10-15T21:13:58+00:00",
-   "summary": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI agents now roaming enterprise networks.",
+   "ts": "2026-10-15T15:32:13+00:00",
+   "summary": "Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of...",
    "tag": "AI"
-  },
-  {
-   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-   "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-   "source": "The Record",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T20:46:00+00:00",
-   "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T20:25:04+00:00",
-   "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
-   "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
-   "source": "EFF",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T20:08:58+00:00",
-   "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "The next election influence campaign will target your AI chatbot",
-   "url": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
-   "source": "CyberScoop",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T19:29:58+00:00",
-   "summary": "Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues.",
-   "tag": "AI"
-  },
-  {
-   "title": "Zero-click spyware infecting devices through online ads, researchers say",
-   "url": "https://therecord.media/spyware-citizen-lab-advertising",
-   "source": "The Record",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T19:00:00+00:00",
-   "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
-   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
-   "source": "LawSites",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T17:56:34+00:00",
-   "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its…",
-   "tag": "AI"
-  },
-  {
-   "title": "The Most Innovative Law Schools (2026)",
-   "url": "https://abovethelaw.com/2026/10/the-most-innovative-law-schools-2026/",
-   "source": "Above the Law",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T17:01:00+00:00",
-   "summary": "From AI training to flexible J.D. programs, these schools are giving legal education an overdue update.",
-   "tag": "AI"
-  },
-  {
-   "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-   "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-   "source": "The Verge",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T16:06:42+00:00",
-   "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back…",
-   "tag": "Privacy"
   },
   {
    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
@@ -126,33 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company",
-   "url": "https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html",
-   "source": "LawSites",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T13:00:31+00:00",
-   "summary": "Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone…",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Why Anthropic Is Asking for a Rehearing En Banc",
-   "url": "https://www.lawfaremedia.org/article/why-anthropic-is-asking-for-a-rehearing-en-banc",
-   "source": "Lawfare",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T11:00:07+00:00",
-   "summary": "The D.C. Circuit relied on a dictionary for key parts of its ruling against Anthropic. Congress’s own words tell a different story about the threats the law was designed to address.",
-   "tag": "AI"
-  },
-  {
-   "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-   "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-   "source": "TechCrunch",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T21:30:33+00:00",
-   "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-   "tag": "Privacy"
-  },
-  {
    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
    "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
    "source": "Krebs on Security",
@@ -162,12 +153,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-   "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-   "source": "Dark Reading",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T05:00:00+00:00",
-   "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+   "title": "Microsoft Patches More Than 1,400 Security Flaws",
+   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+   "source": "Krebs on Security",
+   "date": "2026-10-13",
+   "ts": "2026-10-13T23:24:53+00:00",
+   "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
    "tag": "Cyber"
   },
   {
@@ -178,6 +169,15 @@
    "ts": "2026-10-12T21:42:28+00:00",
    "summary": "BRUSSELS, BELGIUM — The Future of Privacy Forum, a global non-profit focused on data protection, AI, and emerging technologies, today announced the recipients of its 2026 Awards honoring outstanding contributions to…",
    "tag": "AI"
+  },
+  {
+   "title": "FPF Submits Comments to Inform Vermont Age-Appropriate Design Code Act Rulemaking Process",
+   "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-vermont-age-appropriate-design-code-act-rulemaking-process/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-08",
+   "ts": "2026-10-08T18:58:25+00:00",
+   "summary": "Co-authored by Carisma De Anda, Youth Policy Research Contractor On October 2, the Future of Privacy Forum (FPF) submitted comments in response to the Vermont Office of the Attorney General’s (the Office’s) rulemaking…",
+   "tag": "Privacy"
   }
  ]
 }

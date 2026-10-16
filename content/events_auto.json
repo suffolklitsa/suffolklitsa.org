@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-16 06:31 ET",
+ "fetched": "2026-10-16 16:31 ET",
  "status": {
-  "coalition": "ok 58",
+  "coalition": "ok 59",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
@@ -148,6 +148,18 @@
    "venue": "See event page",
    "cost": "Free, approval required",
    "url": "https://luma.com/ceznwqz3",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "5:30–8pm",
+   "name": "The New Career Architecture: Building Leading & Growing in the Age of AI",
+   "host": "Mass AI Coalition",
+   "venue": "One Kendall Square",
+   "cost": "Free",
+   "url": "https://luma.com/nh37wuxm",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
