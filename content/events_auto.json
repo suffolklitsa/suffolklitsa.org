@@ -1,25 +1,13 @@
 {
- "fetched": "2026-10-15 16:31 ET",
+ "fetched": "2026-10-16 06:31 ET",
  "status": {
   "coalition": "ok 58",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 2",
+  "bba": "ok 3",
   "berkman": "ok 0"
  },
  "events": [
-  {
-   "date": "2026-10-15",
-   "time": "6–7:30pm",
-   "name": "Mass AI Coalition - Fireside Chat",
-   "host": "Mass AI Coalition",
-   "venue": "Higgins University Center, Tilton Hall, Worcester, MA",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/zqki981e",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-21",
    "time": "6–8pm",
@@ -199,6 +187,18 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12–6pm",
+   "name": "2026 Privacy, Cybersecurity, & Digital Law Conference",
+   "host": "Boston Bar Association",
+   "venue": "See event page",
+   "cost": "See event page",
+   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc000004zWS5",
+   "source": "bba",
+   "tier": "boston",
+   "source_key": "bba"
   },
   {
    "date": "2026-12-09",

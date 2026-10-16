@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-15 20:31 UTC",
+ "fetched": "2026-10-16 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -8,15 +8,51 @@
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 3",
+  "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 3",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 3"
+  "Above the Law": "ok 2"
  },
  "items": [
+  {
+   "title": "BAE Systems cyberattack disrupts US federal court operations",
+   "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+   "source": "BleepingComputer",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T07:37:35+00:00",
+   "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "In Memoriam: Barry Steinhardt",
+   "url": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
+   "source": "EFF",
+   "date": "2026-10-16",
+   "ts": "2026-10-16T00:07:22+00:00",
+   "summary": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. A Connecticut native, Steinhardt led the…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Proofpoint to buy Varonis for $6.3 billion",
+   "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
+   "source": "CyberScoop",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T21:13:58+00:00",
+   "summary": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI agents now roaming enterprise networks.",
+   "tag": "AI"
+  },
+  {
+   "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+   "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+   "source": "The Record",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T20:46:00+00:00",
+   "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+   "tag": "Cyber"
+  },
   {
    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
@@ -25,6 +61,15 @@
    "ts": "2026-10-15T20:25:04+00:00",
    "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud.…",
    "tag": "Cyber"
+  },
+  {
+   "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
+   "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
+   "source": "EFF",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T20:08:58+00:00",
+   "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in…",
+   "tag": "Privacy"
   },
   {
    "title": "The next election influence campaign will target your AI chatbot",
@@ -43,15 +88,6 @@
    "ts": "2026-10-15T19:00:00+00:00",
    "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
    "tag": "Privacy"
-  },
-  {
-   "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-   "source": "BleepingComputer",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T18:20:59+00:00",
-   "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network.…",
-   "tag": "Cyber"
   },
   {
    "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
@@ -108,24 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising",
-   "url": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
-   "source": "CyberScoop",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T10:00:00+00:00",
-   "summary": "Researchers say the attacks have serious implications for the online advertising world, and regulators.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
-   "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
-   "source": "EFF",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T23:21:37+00:00",
-   "summary": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law…",
-   "tag": "Legal tech"
-  },
-  {
    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
    "source": "TechCrunch",
@@ -133,24 +151,6 @@
    "ts": "2026-10-14T21:30:33+00:00",
    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
    "tag": "Privacy"
-  },
-  {
-   "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
-   "url": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
-   "source": "EFF",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T20:27:13+00:00",
-   "summary": "EFF legal intern Gabrielle Ladun was the principal author of this post. The Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "AI Use In Law Firms: There’s Reality. And There’s What Management Wants It To Be.",
-   "url": "https://abovethelaw.com/2026/10/ai-use-in-law-firms-theres-reality-and-theres-what-management-wants-it-to-be/",
-   "source": "Above the Law",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T20:06:16+00:00",
-   "summary": "Visier sees a pattern of visible compliance over real AI adoption and integration.",
-   "tag": "AI"
   },
   {
    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
