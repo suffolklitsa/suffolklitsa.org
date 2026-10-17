@@ -1,11 +1,11 @@
 {
- "fetched": "2026-10-16 16:31 ET",
+ "fetched": "2026-10-17 06:31 ET",
  "status": {
   "coalition": "ok 59",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
-  "berkman": "ok 0"
+  "berkman": "FAILED (RuntimeError); kept 0 from last run"
  },
  "events": [
   {
