@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-17 06:31 ET",
+ "fetched": "2026-10-17 16:31 ET",
  "status": {
-  "coalition": "ok 59",
+  "coalition": "ok 60",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
@@ -76,6 +76,18 @@
    "venue": "Reservoir Home",
    "cost": "Free",
    "url": "https://luma.com/21amub6d",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "4–6pm",
+   "name": "BUILD617 Halloween: Claude's House of Horrors",
+   "host": "Mass AI Coalition",
+   "venue": "Boston",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/s9hj9kz3",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"

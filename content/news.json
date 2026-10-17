@@ -1,22 +1,31 @@
 {
- "fetched": "2026-10-17 10:31 UTC",
+ "fetched": "2026-10-17 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 4",
+  "Krebs on Security": "ok 3",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 3",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 0",
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-10-17",
+   "ts": "2026-10-17T15:18:51+00:00",
+   "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.…",
+   "tag": "Cyber"
+  },
   {
    "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
    "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
@@ -108,15 +117,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "Burger King Japan data breach exposes 11 million customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-   "source": "BleepingComputer",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T12:01:29+00:00",
-   "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "In Memoriam: Barry Steinhardt",
    "url": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
    "source": "EFF",
@@ -135,12 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
    "source": "The Verge",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T14:12:33+00:00",
-   "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is…",
+   "date": "2026-10-14",
+   "ts": "2026-10-14T21:17:29+00:00",
+   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed…",
    "tag": "AI"
   },
   {
