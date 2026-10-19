@@ -1,74 +1,137 @@
 {
- "fetched": "2026-10-19 10:31 UTC",
+ "fetched": "2026-10-19 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 3",
+  "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 0",
-  "TechCrunch": "ok 0",
+  "The Verge": "ok 1",
+  "TechCrunch": "ok 1",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "Spyware found on devices belonging to prominent Serbian critics as elections loom",
-   "url": "https://cyberscoop.com/pegasus-spyware-serbia-critics-elections/",
-   "source": "CyberScoop",
+   "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+   "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+   "source": "The Record",
    "date": "2026-10-19",
-   "ts": "2026-10-19T10:00:00+00:00",
-   "summary": "The confirmed and suspected targets include a university rector backing Serbia's protests and a prosecutor who investigated a Trump-linked Belgrade development, weeks before parliamentary elections.",
+   "ts": "2026-10-19T19:49:00+00:00",
+   "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
    "tag": "Cyber"
   },
   {
-   "title": "Big Law’s Greatest Gifts",
-   "url": "https://www.artificiallawyer.com/2026/10/19/big-laws-greatest-gifts/",
+   "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+   "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+   "source": "The Record",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:45:00+00:00",
+   "summary": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:40:58+00:00",
+   "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "source": "TechCrunch",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:28:34+00:00",
+   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to…",
+   "tag": "AI"
+  },
+  {
+   "title": "Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’",
+   "url": "https://abovethelaw.com/2026/10/judge-says-a-3000-hourly-rate-is-patently-unreasonable/",
+   "source": "Above the Law",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:13:00+00:00",
+   "summary": "That rate may be getting harder to justify in court, even as some Biglaw partners charge $4,000.",
+   "tag": "IP"
+  },
+  {
+   "title": "Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic",
+   "url": "https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/",
+   "source": "CyberScoop",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T18:27:32+00:00",
+   "summary": "At risk, the Oregon Democrat warned, are online crime tipsters, whistleblowers and others.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Announcing Privacy Badger for Safari on macOS",
+   "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+   "source": "EFF",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T17:59:22+00:00",
+   "summary": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it. Whether you want to protect yourself from data brokers or just don’t want Big…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T17:27:15+00:00",
+   "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach.…",
+   "tag": "AI"
+  },
+  {
+   "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
+   "url": "https://www.lawfaremedia.org/article/the-eu-ai-act-mandates-ai-incident-reporting-if-we-re-lucky",
+   "source": "Lawfare",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T17:00:05+00:00",
+   "summary": "How the OpenAI-Hugging Face incident was reportable under the EU AI Act, but future incidents may not be.",
+   "tag": "AI"
+  },
+  {
+   "title": "Legal Research Challenger Midpage Channels Data Into Harvey",
+   "url": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
    "source": "Artificial Lawyer",
    "date": "2026-10-19",
-   "ts": "2026-10-19T07:11:53+00:00",
-   "summary": "If the AI natives want to compete at scale with Big Law they can’t just focus on speed and price. While the time/value challenge remains,...",
+   "ts": "2026-10-19T16:00:04+00:00",
+   "summary": "Midpage, the AI-native legal research platform that claims to be ‘10X less expensive than Westlaw’s and Lexis’s comparable products,’ and covers much of US case...",
    "tag": "AI"
   },
   {
-   "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-   "source": "BleepingComputer",
-   "date": "2026-10-18",
-   "ts": "2026-10-18T14:23:16+00:00",
-   "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers.…",
-   "tag": "Cyber"
+   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+   "source": "The Verge",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T15:46:56+00:00",
+   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a…",
+   "tag": "AI"
   },
   {
-   "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-10-17",
-   "ts": "2026-10-17T15:18:51+00:00",
-   "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
-   "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
+   "title": "DHS to ban DeepSeek from federal civilian agencies",
+   "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/",
    "source": "CyberScoop",
-   "date": "2026-10-17",
-   "ts": "2026-10-17T00:34:02+00:00",
-   "summary": "While voluntary, the document marks the federal government’s most detailed cybersecurity guidance for securing sandbox environments during AI model tests.",
-   "tag": "AI"
+   "date": "2026-10-19",
+   "ts": "2026-10-19T15:27:20+00:00",
+   "summary": "The order cites national security concerns, including sending data to servers in China, the potential for malware and the overall risk to federal IT systems.",
+   "tag": "Cyber"
   },
   {
-   "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T20:00:59+00:00",
-   "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers.…",
+   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "source": "Krebs on Security",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T13:48:56+00:00",
+   "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…",
    "tag": "Cyber"
   },
   {
@@ -81,15 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-   "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-   "source": "The Record",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T14:45:00+00:00",
-   "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
-   "tag": "Cyber"
-  },
-  {
    "title": "When Your Ransomware Negotiator Works for the Other Side",
    "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
    "source": "Dark Reading",
@@ -97,24 +151,6 @@
    "ts": "2026-10-16T14:00:00+00:00",
    "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-   "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
-   "source": "The Record",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:30:00+00:00",
-   "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations",
-   "url": "https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html",
-   "source": "LawSites",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:27:57+00:00",
-   "summary": "Chariot Claims, a legal tech company that matches consumers to mass arbitration and class action cases and pairs them with law firms, has raised $10 million in Series A funding, it announced Thursday. Silverton Partners…",
-   "tag": "Legal tech"
   },
   {
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
@@ -126,48 +162,12 @@
    "tag": "AI"
   },
   {
-   "title": "In Memoriam: Barry Steinhardt",
-   "url": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
-   "source": "EFF",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T00:07:22+00:00",
-   "summary": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. A Connecticut native, Steinhardt led the…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
-   "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
-   "source": "EFF",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T20:08:58+00:00",
-   "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
-   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
-   "source": "LawSites",
-   "date": "2026-10-15",
-   "ts": "2026-10-15T17:56:34+00:00",
-   "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its…",
-   "tag": "AI"
-  },
-  {
    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
    "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
    "source": "Krebs on Security",
    "date": "2026-10-14",
    "ts": "2026-10-14T14:22:49+00:00",
    "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft Patches More Than 1,400 Security Flaws",
-   "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-   "source": "Krebs on Security",
-   "date": "2026-10-13",
-   "ts": "2026-10-13T23:24:53+00:00",
-   "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…",
    "tag": "Cyber"
   },
   {
