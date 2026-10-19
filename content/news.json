@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-18 20:31 UTC",
+ "fetched": "2026-10-19 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Spyware found on devices belonging to prominent Serbian critics as elections loom",
+   "url": "https://cyberscoop.com/pegasus-spyware-serbia-critics-elections/",
+   "source": "CyberScoop",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T10:00:00+00:00",
+   "summary": "The confirmed and suspected targets include a university rector backing Serbia's protests and a prosecutor who investigated a Trump-linked Belgrade development, weeks before parliamentary elections.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Big Law’s Greatest Gifts",
+   "url": "https://www.artificiallawyer.com/2026/10/19/big-laws-greatest-gifts/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T07:11:53+00:00",
+   "summary": "If the AI natives want to compete at scale with Big Law they can’t just focus on speed and price. While the time/value challenge remains,...",
+   "tag": "AI"
+  },
   {
    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
@@ -63,24 +81,6 @@
    "tag": "AI"
   },
   {
-   "title": "Prolific Chinese espionage group exploits BeyondTrust zero-day",
-   "url": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle/",
-   "source": "CyberScoop",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T17:09:09+00:00",
-   "summary": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Cybersecurity incident at BAE Systems disrupts US bankruptcy court system",
-   "url": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
-   "source": "CyberScoop",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T15:12:44+00:00",
-   "summary": "The outage has stopped official bankruptcy notices nationwide since Oct. 9, with no cause or restoration date announced.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
    "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
    "source": "The Record",
@@ -117,15 +117,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Baltimore suburb confirms August data breach after ransomware claims",
-   "url": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-   "source": "The Record",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:05:00+00:00",
-   "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
-   "tag": "Cyber"
-  },
-  {
    "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
    "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
    "source": "Dark Reading",
@@ -144,12 +135,21 @@
    "tag": "Privacy"
   },
   {
-   "title": "Microsoft Copilot for Legal: What Will Be the Fallout?",
-   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
-   "source": "Artificial Lawyer",
+   "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
+   "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
+   "source": "EFF",
    "date": "2026-10-15",
-   "ts": "2026-10-15T15:32:13+00:00",
-   "summary": "Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of...",
+   "ts": "2026-10-15T20:08:58+00:00",
+   "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
+   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+   "source": "LawSites",
+   "date": "2026-10-15",
+   "ts": "2026-10-15T17:56:34+00:00",
+   "summary": "Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its…",
    "tag": "AI"
   },
   {
