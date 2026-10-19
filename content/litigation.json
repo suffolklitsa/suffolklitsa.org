@@ -562,10 +562,11 @@
   "11011847",
   "11013650",
   "11014299",
-  "11024168"
+  "11024168",
+  "11034949"
  ],
  "pending": [],
- "last_run": "2026-10-12 11:15 UTC",
+ "last_run": "2026-10-19 11:15 UTC",
  "last_success": "2026-09-28 11:15 UTC",
  "health": {
   "ok": false,
@@ -573,15 +574,15 @@
   "errors": [
    "employment: HTTP Error 429: Too Many Requests"
   ],
-  "candidates_seen": 90,
-  "new_this_run": 4,
-  "kept_this_run": 2,
+  "candidates_seen": 89,
+  "new_this_run": 1,
+  "kept_this_run": 0,
   "pending": 0,
   "total_items": 29,
-  "judged_ever": 129,
+  "judged_ever": 130,
   "source_counts": {
-   "practice": 28,
-   "copyright": 10,
+   "practice": 27,
+   "copyright": 9,
    "evidence": 115,
    "automated": 20,
    "privacy": 56
