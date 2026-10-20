@@ -29,9 +29,14 @@ The site lands in `build/`. Open `build/index.html`, or serve it with `python3 -
 
 ## How changes go live
 
-Open a pull request against `main`. Once it's merged, the next scheduled refresh (6:30am and 4:30pm Eastern)
-pulls `main`, rebuilds and deploys to Cloudflare Pages. The same job saves refreshed `content/` back to this
+Open a pull request against `staging`. Once it's merged, the next scheduled refresh (6:30am and 4:30pm Eastern)
+deploys it to staging.suffolklitsa.pages.dev. After a maintainer promotes `staging` to `main`, the following refresh
+pulls `main`, rebuilds and deploys to suffolklitsa.org. The same job saves refreshed `content/` back to this
 repository, so expect commits titled `content: scheduled refresh`.
+
+## Branches
+
+Pull requests go to `staging`, the default branch. Every scheduled refresh deploys `staging` to **staging.suffolklitsa.pages.dev** so changes can be checked on a real copy of the site. `main` is the live site: maintainers promote `staging` to `main` with a pull request, and the next refresh puts it on suffolklitsa.org. The refresh job merges `main` back into `staging` each time, so staging always has current content.
 
 ## Contributing
 
