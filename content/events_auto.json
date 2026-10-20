@@ -1,11 +1,11 @@
 {
- "fetched": "2026-10-20 06:31 ET",
+ "fetched": "2026-10-20 16:31 ET",
  "status": {
-  "coalition": "ok 60",
+  "coalition": "ok 67",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
-  "berkman": "ok 2"
+  "berkman": "ok 3"
  },
  "events": [
   {
@@ -28,6 +28,18 @@
    "venue": "Pillar VC",
    "cost": "Free, approval required",
    "url": "https://luma.com/s6k8kdkh",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-10-22",
+   "time": "4–6pm",
+   "name": "Flagship Pioneering: Startup Trek",
+   "host": "Mass AI Coalition",
+   "venue": "55 Cambridge Pkwy",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/1m5f9u8n",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
@@ -214,6 +226,18 @@
    "source_key": "bba"
   },
   {
+   "date": "2026-11-10",
+   "time": "3–6pm",
+   "name": "Lovable: Hackathon x Startup Trek",
+   "host": "Mass AI Coalition",
+   "venue": "1 Lincoln St",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/ov7zl4rd",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
    "date": "2026-11-11",
    "time": "4–6pm",
    "name": "WHOOP: Startup Trek",
@@ -221,6 +245,18 @@
    "venue": "Whoop",
    "cost": "Free, approval required",
    "url": "https://luma.com/fnm32hm4",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "4–6pm",
+   "name": "Formlabs: Startup Trek",
+   "host": "Mass AI Coalition",
+   "venue": "35 Medford St",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/wkltalxi",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
@@ -238,6 +274,18 @@
    "source_key": "coalition"
   },
   {
+   "date": "2026-11-17",
+   "time": "3–5pm",
+   "name": "Lovable: Hackathon x Startup Trek",
+   "host": "Mass AI Coalition",
+   "venue": "Lovable Labs Inc",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/gfi154ck",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
    "date": "2026-11-19",
    "time": "12–6pm",
    "name": "2026 Privacy, Cybersecurity, & Digital Law Conference",
@@ -248,6 +296,19 @@
    "source": "bba",
    "tier": "boston",
    "source_key": "bba"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "5pm",
+   "name": "Crutch or Catalyst? How AI Is Changing the Ways We Relate",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "Harvard, Cambridge and on Zoom",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/crutch-or-catalyst-how-ai-changing-ways-we-relate",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "All Too Human 2026-27 Speaker Series",
+   "source_key": "berkman"
   },
   {
    "date": "2026-12-09",

@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-20 10:31 UTC",
+ "fetched": "2026-10-20 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -14,26 +14,98 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
   "TechCrunch": "ok 3",
-  "Above the Law": "ok 4"
+  "Above the Law": "ok 2"
  },
  "items": [
   {
-   "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-   "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+   "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+   "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
    "source": "The Record",
    "date": "2026-10-20",
-   "ts": "2026-10-20T10:00:00+00:00",
-   "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
+   "ts": "2026-10-20T20:27:00+00:00",
+   "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
    "tag": "Cyber"
   },
   {
-   "title": "What Happens When Lawyers Can Afford to Look Further?",
-   "url": "https://www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further/",
+   "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
+   "url": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
+   "source": "CyberScoop",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:33:21+00:00",
+   "summary": "Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Zeabur shutting down after second security breach in two months",
+   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+   "source": "BleepingComputer",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:33:02+00:00",
+   "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "California warns all public school students of data stolen in contractor breach",
+   "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+   "source": "The Record",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:20:00+00:00",
+   "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties",
+   "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+   "source": "Dark Reading",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:16:49+00:00",
+   "summary": "A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.",
+   "tag": "AI"
+  },
+  {
+   "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
+   "url": "https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/",
+   "source": "CyberScoop",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T17:55:35+00:00",
+   "summary": "It’s the work of the infamous group behind the attacks on Democrats during the 2016 presidential election, Symantec said.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Womble Bond Dickinson Launches ‘AI Labs’",
+   "url": "https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/",
    "source": "Artificial Lawyer",
    "date": "2026-10-20",
-   "ts": "2026-10-20T06:40:54+00:00",
-   "summary": "By Darsan Guruvayurappan, Co-founder, Lucio AI. Most legal research does not end when the answer is found, it ends when the time runs out. Let...",
+   "ts": "2026-10-20T15:04:13+00:00",
+   "summary": "Transatlantic law firm Womble Bond Dickinson has launched ‘Womble AI Labs’, which will build AI solutions for the firm and its clients. It is led...",
    "tag": "AI"
+  },
+  {
+   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+   "source": "Dark Reading",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:36:05+00:00",
+   "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
+   "tag": "AI"
+  },
+  {
+   "title": "Scaling Laws Roadshow at North Dakota Law: Justice Jerod Tufte on AI in the Judiciary",
+   "url": "https://www.lawfaremedia.org/article/scaling-laws-roadshow-at-north-dakota-law--justice-jerod-tufte-on-ai-in-the-judiciary",
+   "source": "Lawfare",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:00:04+00:00",
+   "summary": "Live from Grand Forks, North Dakota! Should the public be upset that courts aren’t using more AI? Justice Jerod Tufte of the North Dakota Supreme Court joins Kevin Frazier, director of the AI Innovation and Law Program…",
+   "tag": "AI"
+  },
+  {
+   "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+   "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+   "source": "BleepingComputer",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T13:18:36+00:00",
+   "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019.…",
+   "tag": "Cyber"
   },
   {
    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -63,75 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-   "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-   "source": "BleepingComputer",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T21:49:48+00:00",
-   "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More",
    "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
    "source": "Above the Law",
    "date": "2026-10-19",
    "ts": "2026-10-19T20:44:00+00:00",
    "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
-   "tag": "AI"
-  },
-  {
-   "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
-   "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
-   "source": "The Record",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T19:49:00+00:00",
-   "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T19:40:58+00:00",
-   "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’",
-   "url": "https://abovethelaw.com/2026/10/judge-says-a-3000-hourly-rate-is-patently-unreasonable/",
-   "source": "Above the Law",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T19:13:00+00:00",
-   "summary": "That rate may be getting harder to justify in court, even as some Biglaw partners charge $4,000.",
-   "tag": "IP"
-  },
-  {
-   "title": "Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic",
-   "url": "https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/",
-   "source": "CyberScoop",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T18:27:32+00:00",
-   "summary": "At risk, the Oregon Democrat warned, are online crime tipsters, whistleblowers and others.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Announcing Privacy Badger for Safari on macOS",
-   "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
-   "source": "EFF",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T17:59:22+00:00",
-   "summary": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it. Whether you want to protect yourself from data brokers or just don’t want Big…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
-   "url": "https://www.lawfaremedia.org/article/the-eu-ai-act-mandates-ai-incident-reporting-if-we-re-lucky",
-   "source": "Lawfare",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T17:00:05+00:00",
-   "summary": "How the OpenAI-Hugging Face incident was reportable under the EU AI Act, but future incidents may not be.",
    "tag": "AI"
   },
   {
@@ -159,15 +168,6 @@
    "date": "2026-10-19",
    "ts": "2026-10-19T13:48:56+00:00",
    "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "When Your Ransomware Negotiator Works for the Other Side",
-   "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-   "source": "Dark Reading",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T14:00:00+00:00",
-   "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
    "tag": "Cyber"
   },
   {
