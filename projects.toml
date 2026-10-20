@@ -1,0 +1,9 @@
+# LITSA projects built into the site by harvest/build_projects.py.
+# production: newest vX.Y.Z tag on the project's main branch. staging: the project's staging branch.
+
+[[project]]
+name = "course-planner"
+repo = "https://github.com/suffolklitsa/course-planner.git"
+build = "python3 scripts/build_site.py"
+output = "dist"
+path = "planner"
