@@ -1,22 +1,85 @@
 {
- "fetched": "2026-10-19 20:31 UTC",
+ "fetched": "2026-10-20 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 4",
+  "Krebs on Security": "ok 3",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 1",
-  "Above the Law": "ok 3"
+  "TechCrunch": "ok 3",
+  "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
+   "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+   "source": "The Record",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T10:00:00+00:00",
+   "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "What Happens When Lawyers Can Afford to Look Further?",
+   "url": "https://www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T06:40:54+00:00",
+   "summary": "By Darsan Guruvayurappan, Co-founder, Lucio AI. Most legal research does not end when the answer is found, it ends when the time runs out. Let...",
+   "tag": "AI"
+  },
+  {
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "source": "TechCrunch",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T01:27:03+00:00",
+   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+   "tag": "AI"
+  },
+  {
+   "title": "Require Police to Get a Warrant to Search ALPR Data",
+   "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
+   "source": "EFF",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T23:28:38+00:00",
+   "summary": "This post was co-written by Andi Cao, an EFF legal intern. Automated license plate readers (ALPRs) are mass surveillance. They photograph every passing car and log where and when it was captured, building a searchable…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "source": "TechCrunch",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T22:49:27+00:00",
+   "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety…",
+   "tag": "AI"
+  },
+  {
+   "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+   "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+   "source": "BleepingComputer",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T21:49:48+00:00",
+   "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More",
+   "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
+   "source": "Above the Law",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T20:44:00+00:00",
+   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
+   "tag": "AI"
+  },
   {
    "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
    "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
@@ -27,15 +90,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
-   "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
-   "source": "The Record",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T19:45:00+00:00",
-   "summary": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
    "source": "BleepingComputer",
@@ -43,15 +97,6 @@
    "ts": "2026-10-19T19:40:58+00:00",
    "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…",
    "tag": "Cyber"
-  },
-  {
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "source": "TechCrunch",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T19:28:34+00:00",
-   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to…",
-   "tag": "AI"
   },
   {
    "title": "Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’",
@@ -81,15 +126,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T17:27:15+00:00",
-   "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach.…",
-   "tag": "AI"
-  },
-  {
    "title": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
    "url": "https://www.lawfaremedia.org/article/the-eu-ai-act-mandates-ai-incident-reporting-if-we-re-lucky",
    "source": "Lawfare",
@@ -99,12 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "Legal Research Challenger Midpage Channels Data Into Harvey",
-   "url": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
-   "source": "Artificial Lawyer",
+   "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
+   "url": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
+   "source": "LawSites",
    "date": "2026-10-19",
-   "ts": "2026-10-19T16:00:04+00:00",
-   "summary": "Midpage, the AI-native legal research platform that claims to be ‘10X less expensive than Westlaw’s and Lexis’s comparable products,’ and covers much of US case...",
+   "ts": "2026-10-19T15:59:12+00:00",
+   "summary": "A new connector announced today enables Harvey customers to access the AI legal research platform Midpage. The connector makes Midpage’s research library of U.S. case law, statutes, regulations, and agency materials…",
    "tag": "AI"
   },
   {
@@ -117,15 +153,6 @@
    "tag": "AI"
   },
   {
-   "title": "DHS to ban DeepSeek from federal civilian agencies",
-   "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/",
-   "source": "CyberScoop",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:27:20+00:00",
-   "summary": "The order cites national security concerns, including sending data to servers in China, the potential for malware and the overall risk to federal IT systems.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
    "source": "Krebs on Security",
@@ -135,39 +162,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned",
-   "url": "https://abovethelaw.com/2026/10/tech-company-launches-program-to-pay-law-firms-for-their-emails-privilege-be-damned/",
-   "source": "Above the Law",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T18:32:00+00:00",
-   "summary": "The AI labs can’t scrape this data, which is kind of the point.",
-   "tag": "AI"
-  },
-  {
    "title": "When Your Ransomware Negotiator Works for the Other Side",
    "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
    "source": "Dark Reading",
    "date": "2026-10-16",
    "ts": "2026-10-16T14:00:00+00:00",
    "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-   "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-   "source": "Dark Reading",
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:00:00+00:00",
-   "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
-   "tag": "AI"
-  },
-  {
-   "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-   "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-   "source": "Krebs on Security",
-   "date": "2026-10-14",
-   "ts": "2026-10-14T14:22:49+00:00",
-   "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud…",
    "tag": "Cyber"
   },
   {

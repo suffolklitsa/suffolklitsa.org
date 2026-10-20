@@ -1,11 +1,11 @@
 {
- "fetched": "2026-10-19 16:31 ET",
+ "fetched": "2026-10-20 06:31 ET",
  "status": {
   "coalition": "ok 60",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
-  "berkman": "FAILED (RuntimeError); kept 0 from last run"
+  "berkman": "ok 2"
  },
  "events": [
   {
@@ -81,6 +81,19 @@
    "source_key": "coalition"
   },
   {
+   "date": "2026-10-27",
+   "time": "4pm",
+   "name": "What Remains: AI, Death, and Loss",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "Harvard, Cambridge and on Zoom",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/what-remains-ai-death-and-loss",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "All Too Human 2026-27 Speaker Series",
+   "source_key": "berkman"
+  },
+  {
    "date": "2026-10-28",
    "time": "4–6pm",
    "name": "BUILD617 Halloween: Claude's House of Horrors",
@@ -127,6 +140,18 @@
    "source": "bba",
    "tier": "boston",
    "source_key": "bba"
+  },
+  {
+   "date": "2026-11-03",
+   "time": "12:20pm",
+   "name": "How to Tell an AI What to Do: Rules, Cases, and Interpretation",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "Harvard, Cambridge",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/how-tell-ai-what-do-rules-cases-and-interpretation",
+   "source": "berkman",
+   "tier": "boston",
+   "source_key": "berkman"
   },
   {
    "date": "2026-11-04",
