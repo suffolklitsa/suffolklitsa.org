@@ -17,7 +17,7 @@ say() { echo "[$STAMP] $*" | tee -a "$LOG"; }
 fail=0
 say "=== events refresh start"
 
-# Deploy whatever is on GitHub main, including merged pull requests.
+# Deploy whatever is on GitHub main (production), including merged pull requests.
 if git pull --ff-only -q >>"$LOG" 2>&1; then say "git pull ok"; else say "git pull failed (building the local copy)"; fail=1; fi
 
 if python3 harvest/harvest_events.py >>"$LOG" 2>&1; then
@@ -56,6 +56,28 @@ if ! git diff --quiet -- content; then
   else
     say "content push FAILED"; fail=1
   fi
+fi
+
+# Staging: keep the staging branch current with main (content refreshes and releases land on main),
+# then build it and deploy it as a Cloudflare Pages preview at staging.suffolklitsa.pages.dev.
+# A merge conflict skips staging for this run and says so; production is already deployed above.
+STAGE=$SITE/cache/staging
+if git fetch -q origin main staging >>"$LOG" 2>&1; then
+  if [ ! -e "$STAGE/.git" ]; then git worktree add -q -B staging "$STAGE" origin/staging >>"$LOG" 2>&1; fi
+  if ( cd "$STAGE" && git reset -q --hard origin/staging && git merge -q --no-edit origin/main ) >>"$LOG" 2>&1; then
+    ( cd "$STAGE" && { git diff --quiet origin/staging HEAD || git push -q origin staging; } ) >>"$LOG" 2>&1 && say "staging synced with main" || { say "staging push FAILED"; fail=1; }
+    if ( cd "$STAGE" && python3 build.py && npx --yes wrangler@latest pages deploy build \
+           --project-name suffolklitsa --branch staging --commit-dirty=true ) >>"$LOG" 2>&1; then
+      say "staging deploy ok"
+    else
+      say "staging build or deploy FAILED"; fail=1
+    fi
+  else
+    ( cd "$STAGE" && git merge --abort ) >>"$LOG" 2>&1
+    say "staging conflicts with main; resolve by hand (merge main into staging), staging not deployed"; fail=1
+  fi
+else
+  say "staging fetch failed"; fail=1
 fi
 
 tail -n 2000 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
