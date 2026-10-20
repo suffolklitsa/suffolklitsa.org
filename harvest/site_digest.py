@@ -12,6 +12,8 @@ N before:
     (/time/<bucket>), also from analytics.js, with the page in the referrer field
   - newsletter clicks by section, recorded by functions/nl as views of /nl/<issue>/<slug>,
     listed in the order the links appear in newsletter_links.json (top of the email first)
+  - the course planner: views of /planner/, a funnel, and its usage counts, which the planner's
+    web/track.js records as views of /planner/ev/<name>[/<detail>] (course-planner repo)
 It leaves out bots (crawler user agents, and any browser that loads 15+ pages inside a
 minute) and our own test hits. Board members who opened /me/ are never recorded at all.
 
@@ -36,7 +38,10 @@ WRANGLER_CFG = os.path.expanduser("~/.config/.wrangler/config/default.toml")
 BOT_UA = re.compile(r"bot\b|bot/|crawl|spider|slurp|headless|lighthouse|preview|facebookexternalhit|"
                     r"curl|python|wget|httpclient|go-http|monitor|pingdom|uptime", re.I)
 BURST = 15  # page loads inside one minute from one browser: not a person
-EVENTS = ("/out/", "/depth/", "/time/", "/nl/")  # recorded as views, but not pages anyone viewed
+PLANNER_EV = "/planner/ev/"
+EVENTS = ("/out/", "/depth/", "/time/", "/nl/", PLANNER_EV)  # recorded as views, but not pages anyone viewed
+ROW_LIMIT = 50000
+PLANNER_MIN_ADDS = 5  # a course is named only once this many adds hide who added it
 TIME_ORDER = ["0-10s", "10-30s", "30-60s", "1-3m", "3-10m", "10m+"]
 
 
@@ -62,7 +67,7 @@ def rows(days: int) -> list[dict]:
     sql = ("SELECT timestamp, blob1 AS host, blob2 AS ua, blob3 AS path, blob4 AS country, "
            "blob5 AS ref, blob10 AS device, double1 AS new_visitor, _sample_interval AS n "
            "FROM metricsDataset WHERE index1 = 'litsa' "
-           f"AND timestamp > NOW() - INTERVAL '{days * 2}' DAY ORDER BY timestamp LIMIT 50000")
+           f"AND timestamp > NOW() - INTERVAL '{days * 2}' DAY ORDER BY timestamp LIMIT {ROW_LIMIT}")
     out = json.loads(_call(f"https://api.cloudflare.com/client/v4/accounts/{acct}/analytics_engine/sql",
                            sql.encode()))["data"]
     for r in out:
@@ -71,15 +76,21 @@ def rows(days: int) -> list[dict]:
     return out
 
 
+def browser(r: dict) -> tuple:
+    """Counterscale keeps no visitor id, so one user agent from one country on one day stands for a browser."""
+    return (r.get("ua"), r.get("country"), r["ts"].date())
+
+
 def drop_bots(data: list[dict]) -> tuple[list[dict], int]:
     bad = {id(r) for r in data if BOT_UA.search(r.get("ua") or "") or (r.get("path") or "").startswith("/__")}
     by_browser = collections.defaultdict(list)
     for r in data:
-        by_browser[(r.get("ua"), r.get("country"), r["ts"].date())].append(r)
+        by_browser[browser(r)].append(r)
     for hits in by_browser.values():
-        hits.sort(key=lambda r: r["ts"])
-        for i in range(len(hits) - BURST + 1):
-            if (hits[i + BURST - 1]["ts"] - hits[i]["ts"]).total_seconds() <= 60:
+        # A student using the planner sends many events a minute, so only other rows count toward a burst.
+        loads = sorted((r for r in hits if not (r.get("path") or "").startswith(PLANNER_EV)), key=lambda r: r["ts"])
+        for i in range(len(loads) - BURST + 1):
+            if (loads[i + BURST - 1]["ts"] - loads[i]["ts"]).total_seconds() <= 60:
                 bad |= {id(r) for r in hits}
                 break
     kept = [r for r in data if id(r) not in bad]
@@ -109,9 +120,66 @@ def comp_hosts() -> dict[str, str]:
     return {urlparse(c["url"]).netloc.lower().removeprefix("www."): c["name"] for c in items}
 
 
+def is_planner_page(p: str) -> bool:
+    return (p == "/planner" or p.startswith("/planner/")) and not p.startswith(PLANNER_EV)
+
+
+def planner_lines(this: list[dict], prev: list[dict], change) -> list[str]:
+    """The course planner section. Events arrive as views of /planner/ev/<name>[/<detail>]."""
+    page = lambda rs: [r for r in rs if is_planner_page(r.get("path") or "")]
+    ev = lambda rs: [r for r in rs if (r.get("path") or "").startswith(PLANNER_EV)]
+    total = lambda rs: sum(r["n"] for r in rs)
+    p_now, e_now = page(this), ev(this)
+    L = ["", "## Course planner", ""]
+    if not p_now and not e_now:
+        return L + ["No views of /planner/ this week."]
+    L.append(f"**{total(p_now)} page views of /planner/**{change(total(p_now), total(page(prev)))}, "
+             f"{int(sum(r['n'] * (r.get('new_visitor') or 0) for r in p_now))} visitors.")
+
+    # Funnel: each browser counted once a day, weighted by the sample interval of its first planner row,
+    # so every step uses the same weight and no step can outgrow the first.
+    steps = [("Opened the planner", lambda p: is_planner_page(p) or p.startswith(PLANNER_EV)),
+             ("Searched or filtered", lambda p: p == PLANNER_EV + "search" or p.startswith(PLANNER_EV + "filter/")),
+             ("Added a course", lambda p: p == PLANNER_EV + "add" or p.startswith(PLANNER_EV + "add/")),
+             ("Shared or printed", lambda p: p in (PLANNER_EV + "share/create", PLANNER_EV + "print"))]
+    weight, did = {}, collections.defaultdict(set)
+    for r in sorted(this, key=lambda r: r["ts"]):
+        p = r.get("path") or ""
+        for name, test in steps:
+            if test(p):
+                weight.setdefault(browser(r), r["n"])
+                did[browser(r)].add(name)
+    reached = {name: sum(w for b, w in weight.items() if name in did[b]) for name, _ in steps}
+    opened = reached[steps[0][0]]
+    L += ["", "Funnel, counting each browser once a day:", ""]
+    for name, _ in steps:
+        share = f" ({round(reached[name] / opened * 100)}%)" if opened and name != steps[0][0] else ""
+        L.append(f"- {name}: {reached[name]}{share}")
+
+    counts, adds, errors = collections.Counter(), collections.Counter(), collections.Counter()
+    for r in e_now:
+        name = r["path"][len(PLANNER_EV):]
+        if name.startswith("err/"):
+            errors[name.split("/")[1]] += r["n"]
+            continue
+        if name.startswith("add/"):
+            adds[name.split("/")[1]] += r["n"]
+            name = "add"
+        counts[name] += r["n"]
+    L += ["", "Events: " + (", ".join(f"{k} {n}" for k, n in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0])))
+                             or "none") + "."]
+    named = sorted(((c, n) for c, n in adds.items() if n >= PLANNER_MIN_ADDS), key=lambda cn: (-cn[1], cn[0]))
+    rest = sum(n for c, n in adds.items() if n < PLANNER_MIN_ADDS)
+    L.append(f"Courses added {PLANNER_MIN_ADDS} or more times: " + (", ".join(f"{c} ({n})" for c, n in named) or "none")
+             + (f"; {rest} adds of other courses" if rest else "") + ".")
+    L.append("Errors: " + (", ".join(f"{k} {n}" for k, n in errors.most_common()) or "none") + ".")
+    return L
+
+
 def digest(days: int = 7, now: dt.datetime | None = None) -> str:
     now = now or dt.datetime.now(dt.timezone.utc)
-    data, bots = drop_bots(rows(days))
+    raw = rows(days)
+    data, bots = drop_bots(raw)
     start, prev_start = now - dt.timedelta(days=days), now - dt.timedelta(days=2 * days)
     this = [r for r in data if r["ts"] >= start]
     prev = [r for r in data if prev_start <= r["ts"] < start]
@@ -127,6 +195,9 @@ def digest(days: int = 7, now: dt.datetime | None = None) -> str:
     L = [f"# suffolklitsa.org, {days} days to {now:%b} {now.day}", ""]
     L.append(f"**{visitors(v_now)} visitors, {total(v_now)} page views**{change(total(v_now), total(v_prev))}. "
              f"Bots and test hits left out: {bots}. Board members who opened suffolklitsa.org/me/ are not counted.")
+    if len(raw) >= ROW_LIMIT:
+        # The query keeps the oldest rows, so a full result is missing the newest ones.
+        L.append(f"**The query hit its {ROW_LIMIT}-row limit, so this week's numbers are short.**")
     L += ["", "## By day", ""]
     per_day = collections.Counter()
     for r in v_now:
@@ -212,6 +283,8 @@ def digest(days: int = 7, now: dt.datetime | None = None) -> str:
             slugs = list(order.get(issue, {})) or sorted({p.split("/")[3] for p in nl if p.split("/")[2] == issue})
             L.append(f"- No. {issue}, top of the email first: " +
                      ", ".join(f"{s} {nl.get(f'/nl/{issue}/{s}', 0)}" for s in slugs))
+
+    L += planner_lines(this, prev, change)
 
     L += ["", "## Who", ""]
     cc, dev = collections.Counter(), collections.Counter()
