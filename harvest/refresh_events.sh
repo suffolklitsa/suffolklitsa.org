@@ -37,6 +37,12 @@ if ! python3 build.py >>"$LOG" 2>&1; then
   exit 1
 fi
 
+# Project pages (course planner and others), from their release tags. A failed project keeps its last
+# good copy and doesn't stop the deploy.
+if [ -f harvest/build_projects.py ]; then
+  if python3 harvest/build_projects.py --channel production --out build >>"$LOG" 2>&1; then say "projects ok"; else say "a project build failed (kept its last good copy)"; fail=1; fi
+fi
+
 if [ ! -s build/events/index.html ]; then
   say "events page missing from build — not deploying"
   exit 1
@@ -66,7 +72,7 @@ if git fetch -q origin main staging >>"$LOG" 2>&1; then
   if [ ! -e "$STAGE/.git" ]; then git worktree add -q -B staging "$STAGE" origin/staging >>"$LOG" 2>&1; fi
   if ( cd "$STAGE" && git reset -q --hard origin/staging && git merge -q --no-edit origin/main ) >>"$LOG" 2>&1; then
     ( cd "$STAGE" && { git diff --quiet origin/staging HEAD || git push -q origin staging; } ) >>"$LOG" 2>&1 && say "staging synced with main" || { say "staging push FAILED"; fail=1; }
-    if ( cd "$STAGE" && python3 build.py && npx --yes wrangler@latest pages deploy build \
+    if ( cd "$STAGE" && python3 build.py && { [ ! -f harvest/build_projects.py ] || python3 harvest/build_projects.py --channel staging --out build || echo "a staging project build failed"; } && npx --yes wrangler@latest pages deploy build \
            --project-name suffolklitsa --branch staging --commit-dirty=true ) >>"$LOG" 2>&1; then
       say "staging deploy ok"
     else
