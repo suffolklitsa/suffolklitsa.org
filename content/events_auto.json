@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-20 17:26 ET",
+ "fetched": "2026-10-20 18:38 ET",
  "status": {
   "coalition": "ok 67",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -275,6 +275,18 @@
   },
   {
    "date": "2026-11-17",
+   "time": "12–1pm",
+   "name": "BBA Partner Program: Legal AI in Practice: Research, Drafting, and Everyday Skills",
+   "host": "Boston Bar Association",
+   "venue": "See event page",
+   "cost": "See event page",
+   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000053GyD",
+   "source": "bba",
+   "tier": "boston",
+   "source_key": "bba"
+  },
+  {
+   "date": "2026-11-17",
    "time": "3–5pm",
    "name": "Lovable: Hackathon x Startup Trek",
    "host": "Mass AI Coalition",
@@ -284,18 +296,6 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "12–6pm",
-   "name": "2026 Privacy, Cybersecurity, & Digital Law Conference",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc000004zWS5",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
   },
   {
    "date": "2026-11-19",
