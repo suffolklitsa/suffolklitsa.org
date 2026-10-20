@@ -7,3 +7,10 @@ repo = "https://github.com/suffolklitsa/course-planner.git"
 build = "python3 scripts/build_site.py"
 output = "dist"
 path = "planner"
+
+[[project]]
+name = "suffolk-guides"
+repo = "https://github.com/suffolklitsa/suffolk-guides.git"
+build = "python3 scripts/build_feeds.py && mkdir -p site-out && cp feeds/*.ics site-out/"
+output = "site-out"
+path = "feeds"
