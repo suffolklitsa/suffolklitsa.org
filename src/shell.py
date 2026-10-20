@@ -30,7 +30,8 @@ FOOT_NAV = NAV + [("/field/", "The field"), ("/history/", "History"),
 FOOT_GROUPS = [
     ("Learn", [("/resources/", "Resources"), ("/curriculum/", "Curriculum"), ("/field/", "The field"),
                ("/watch/", "Watching")]),
-    ("Do", [("/events/", "Events"), ("/compete/", "Compete"), ("/build/", "What we build"), ("/join/", "Join")]),
+    ("Do", [("/events/", "Events"), ("/compete/", "Compete"), ("/planner/", "Course planner"), ("/build/", "What we build"),
+            ("/join/", "Join")]),
     ("About", [("/suffolk/", "At Suffolk"), ("/history/", "History"), ("/partners/", "Partners"),
                ("/contact/", "Contact")]),
 ]
