@@ -92,7 +92,8 @@ BODY = CSS + f"""
       <p class="lede" style="margin-top:var(--s5)">The institute, the lab and the
       clinic belong to the school. LITSA is the student side of it, and it is the
       part with room for you.</p>
-      <p style="margin-top:var(--s6)"><a href="/build/">What we build &rarr;</a></p>
+      <p style="margin-top:var(--s6)"><a href="/planner/">Plan your semester with the course planner &rarr;</a></p>
+      <p style="margin-top:var(--s3)"><a href="/build/">What we build &rarr;</a></p>
       <p style="margin-top:var(--s3)"><a href="/curriculum/">All seven concentrations,
       with what each one requires &rarr;</a></p>
       <p style="margin-top:var(--s3)"><a href="/resources/">Everything Suffolk already
