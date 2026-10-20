@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-20 20:31 UTC",
+ "fetched": "2026-10-20 20:53 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -52,15 +52,6 @@
    "ts": "2026-10-20T19:20:00+00:00",
    "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties",
-   "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-   "source": "Dark Reading",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T19:16:49+00:00",
-   "summary": "A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.",
-   "tag": "AI"
   },
   {
    "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
@@ -142,6 +133,15 @@
    "ts": "2026-10-19T20:44:00+00:00",
    "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
    "tag": "AI"
+  },
+  {
+   "title": "Judge Says A $3,000 Hourly Rate Is ‘Patently Unreasonable’",
+   "url": "https://abovethelaw.com/2026/10/judge-says-a-3000-hourly-rate-is-patently-unreasonable/",
+   "source": "Above the Law",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:13:00+00:00",
+   "summary": "That rate may be getting harder to justify in court, even as some Biglaw partners charge $4,000.",
+   "tag": "IP"
   },
   {
    "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
