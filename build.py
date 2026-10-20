@@ -20,6 +20,7 @@ PAGES = [("page_index",    "index.html"),
          ("page_join",     "join/index.html"),
          ("page_partners", "partners/index.html"),
          ("page_contact",  "contact/index.html"),
+         ("page_calendar", "calendar/index.html"),
          ("page_me",       "me/index.html"),
          ("page_404",      "404.html")]
 

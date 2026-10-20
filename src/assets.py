@@ -5,7 +5,7 @@ import shell as sh, torch as T, emit as E
 INK, GOLD, PAPER = "#18212F", "#E5AD2D", "#F7F8FA"
 ROUTES = ["/", "/resources/", "/curriculum/", "/curriculum/courses/", "/events/",
           "/compete/", "/watch/", "/field/", "/suffolk/", "/build/", "/history/",
-          "/join/", "/partners/", "/contact/"]
+          "/join/", "/partners/", "/contact/", "/calendar/"]
 
 def og_image(out):
     """1200x630 social card, drawn from the identity rather than a screenshot."""

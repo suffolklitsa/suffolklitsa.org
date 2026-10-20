@@ -33,5 +33,30 @@
     "join": "/join/",
     "site": "/",
     "instagram": "https://www.instagram.com/litsa_suls/"
+  },
+  "8": {
+    "planner": "/planner/",
+    "rsvp": "https://suffolklitsa.org/rsvp",
+    "handbook": "https://github.com/suffolklitsa/handbook",
+    "github": "https://github.com/suffolklitsa",
+    "repo-planner": "https://github.com/suffolklitsa/course-planner",
+    "repo-guides": "https://github.com/suffolklitsa/suffolk-guides",
+    "repo-bills": "https://github.com/suffolklitsa/ma-lit-bills",
+    "repo-challenge": "https://github.com/suffolklitsa/challenge",
+    "repo-club-kit": "https://github.com/suffolklitsa/club-kit",
+    "repo-site": "https://github.com/suffolklitsa/suffolklitsa.org",
+    "repo-design": "https://github.com/suffolklitsa/design-system",
+    "groupme": "https://groupme.com/join_group/118013356/69XLYHKb",
+    "cfkit": "https://github.com/suffolklitsa/suffolk-guides/raw/main/cf-kit/dist/cf-kit.xlsx",
+    "academic-calendar": "/calendar/",
+    "hackachusetts": "https://massaicoalition.com/hackachusetts/",
+    "bkc-what-remains": "https://cyber.harvard.edu/events/what-remains-ai-death-and-loss",
+    "bkc-tell-an-ai": "https://cyber.harvard.edu/events/how-tell-ai-what-do-rules-cases-and-interpretation",
+    "bba-privacy-public": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000051EE9",
+    "bba-privacy-conference": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc000004zWS5",
+    "calendar": "/events/",
+    "join": "/join/",
+    "site": "/",
+    "instagram": "https://www.instagram.com/litsa_suls/"
   }
 }

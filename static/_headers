@@ -1,2 +1,7 @@
 /me/*
   X-Robots-Tag: noindex
+
+# The academic calendar feed (from suffolk-guides, built in by projects.toml).
+/feeds/*
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=3600
