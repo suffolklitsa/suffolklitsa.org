@@ -225,6 +225,8 @@ def digest(days: int = 7, now: dt.datetime | None = None) -> str:
         froms[r.get("ref") or "?"] += n
         if p == "/out/suconnect":
             kinds["Join on SUConnect"] += n
+        elif p.startswith("/out/assistant"):
+            kinds["Opened the Suffolk assistant" + (" (question pre-filled)" if p.endswith("/seeded") else "")] += n
         elif p.startswith("/out/email/"):
             kinds[f"Email to {p.split('/')[3]}"] += n
         else:

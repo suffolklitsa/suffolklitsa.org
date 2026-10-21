@@ -20,6 +20,12 @@
       return "/out/email/" + href.slice(7).split("?")[0].split("@")[0].toLowerCase();
     }
     var m = /^https?:\/\/([^\/?#]+)([^?#]*)/i.exec(href);
+    /* The Suffolk assistant lives on its own subdomain, so it would otherwise be skipped as
+       part of the site. Count it as /out/assistant, with /seeded when a page pre-filled the
+       question (the question itself is never sent). */
+    if (m && /^chat\.suffolklitsa\.org$/i.test(m[1])) {
+      return "/out/assistant" + (/[?&]q=/.test(href) ? "/seeded" : "");
+    }
     if (!m || /(^|\.)suffolklitsa\.org$/i.test(m[1])) return null;
     if (/suffolk\.campuslabs\.com$/i.test(m[1])) return "/out/suconnect";
     return ("/out/" + m[1].replace(/^www\./, "") + m[2]).replace(/\/+$/, "").slice(0, 160);
