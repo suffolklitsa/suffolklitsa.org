@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-20 22:42 UTC",
+ "fetched": "2026-10-21 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,18 +12,72 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 4",
   "Above the Law": "ok 2"
  },
  "items": [
+  {
+   "title": "‘AI Is Not A Legal Entity’ Says Law Society",
+   "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T10:03:06+00:00",
+   "summary": "The Law Society of England & Wales has sent out a practice note to remind everyone that ‘AI is not a legal entity’ and so...",
+   "tag": "AI"
+  },
+  {
+   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T08:36:24+00:00",
+   "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+   "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+   "source": "BleepingComputer",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T01:01:50+00:00",
+   "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "source": "The Verge",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T23:37:55+00:00",
+   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by…",
+   "tag": "AI"
+  },
+  {
+   "title": "Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers",
+   "url": "https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/",
+   "source": "CyberScoop",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T23:36:10+00:00",
+   "summary": "Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "source": "TechCrunch",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T23:01:23+00:00",
+   "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "tag": "AI"
+  },
   {
    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "source": "TechCrunch",
    "date": "2026-10-20",
    "ts": "2026-10-20T22:24:02+00:00",
-   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
    "tag": "AI"
   },
   {
@@ -54,30 +108,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Zeabur shutting down after second security breach in two months",
-   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-   "source": "BleepingComputer",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T19:33:02+00:00",
-   "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…",
-   "tag": "Cyber"
-  },
-  {
    "title": "California warns all public school students of data stolen in contractor breach",
    "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
    "source": "The Record",
    "date": "2026-10-20",
    "ts": "2026-10-20T19:20:00+00:00",
    "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign",
-   "url": "https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/",
-   "source": "CyberScoop",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T17:55:35+00:00",
-   "summary": "It’s the work of the infamous group behind the attacks on Democrats during the 2016 presidential election, Symantec said.",
    "tag": "Cyber"
   },
   {
@@ -108,33 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-   "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T13:18:36+00:00",
-   "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "source": "TechCrunch",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T01:27:03+00:00",
-   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-   "tag": "AI"
-  },
-  {
-   "title": "Require Police to Get a Warrant to Search ALPR Data",
-   "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
-   "source": "EFF",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T23:28:38+00:00",
-   "summary": "This post was co-written by Andi Cao, an EFF legal intern. Automated license plate readers (ALPRs) are mass surveillance. They photograph every passing car and log where and when it was captured, building a searchable…",
-   "tag": "Privacy"
-  },
-  {
    "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More",
    "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
    "source": "Above the Law",
@@ -150,15 +159,6 @@
    "date": "2026-10-19",
    "ts": "2026-10-19T15:59:12+00:00",
    "summary": "A new connector announced today enables Harvey customers to access the AI legal research platform Midpage. The connector makes Midpage’s research library of U.S. case law, statutes, regulations, and agency materials…",
-   "tag": "AI"
-  },
-  {
-   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-   "source": "The Verge",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:46:56+00:00",
-   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a…",
    "tag": "AI"
   },
   {
