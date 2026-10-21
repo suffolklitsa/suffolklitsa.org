@@ -38,10 +38,10 @@ BODY = CSS + f"""
       <p class="lede" style="margin-top:var(--s5)">One address reaches the whole
       board. Say what you want and it will get to whoever handles it.</p>
       <p style="margin-top:var(--s6);font-size:var(--t-lg)">
-        <a href="mailto:sam.darkwa@su.suffolk.edu">sam.darkwa@su.suffolk.edu</a></p>
+        <a href="mailto:hello@suffolklitsa.org">hello@suffolklitsa.org</a></p>
       <p style="margin-top:var(--s3);font-size:var(--t-md);color:var(--ink-2)">
-        Or reach Sam directly at
-        <a href="mailto:Sam.Darkwa@su.suffolk.edu">Sam.Darkwa@su.suffolk.edu</a>.</p>
+        Or reach Sam Darkwa, LITSA&rsquo;s president, directly at
+        <a href="mailto:sam.darkwa@su.suffolk.edu">sam.darkwa@su.suffolk.edu</a>.</p>
       {sh.scene("contact-correspondence-pixel.webp", "A shared office desk with an inbox, envelopes, a phone and Boston buildings outside.", "A shared correspondence desk for board email and mail.", True)}
     </div>
   </div>
