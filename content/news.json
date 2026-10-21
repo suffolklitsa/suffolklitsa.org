@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-21 20:18 UTC",
+ "fetched": "2026-10-21 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -18,6 +18,24 @@
  },
  "items": [
   {
+   "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+   "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
+   "source": "The Record",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T20:25:00+00:00",
+   "summary": "The Cambridge Analytica data privacy case from a decade ago is still weighing on Meta's finances.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Are We Losing Sight Of What We’re Trying To Protect?",
+   "url": "https://abovethelaw.com/2026/10/are-we-losing-sight-of-what-were-trying-to-protect/",
+   "source": "Above the Law",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T20:17:00+00:00",
+   "summary": "Privacy, personal AI agents, and the future of human agency.",
+   "tag": "AI"
+  },
+  {
    "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
    "url": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
    "source": "The Record",
@@ -34,24 +52,6 @@
    "ts": "2026-10-21T18:34:42+00:00",
    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server.…",
    "tag": "Cyber"
-  },
-  {
-   "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-   "url": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-   "source": "The Record",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T18:28:00+00:00",
-   "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
-   "url": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
-   "source": "EFF",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T16:19:59+00:00",
-   "summary": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats SAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “ Online Privacy for Parents and Youth,” a new guide to help families…",
-   "tag": "Privacy"
   },
   {
    "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
@@ -153,12 +153,12 @@
    "tag": "Privacy"
   },
   {
-   "title": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court, Law Firms That Capitulated, Prosecutorial Misconduct, ABA DQ Bid Rejected, AI + A2J & More",
-   "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/",
-   "source": "Above the Law",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T20:44:00+00:00",
-   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
+   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+   "source": "Dark Reading",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:36:05+00:00",
+   "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
    "tag": "AI"
   },
   {
