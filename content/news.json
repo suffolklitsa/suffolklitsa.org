@@ -1,10 +1,10 @@
 {
- "fetched": "2026-10-21 20:31 UTC",
+ "fetched": "2026-10-22 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 1",
+  "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
@@ -13,17 +13,80 @@
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 3",
+  "TechCrunch": "ok 2",
   "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "Encryption isn’t enough to protect data wherever it goes",
+   "url": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
+   "source": "CyberScoop",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T10:00:00+00:00",
+   "summary": "Once data is in use, encryption falls short. A tested approach that replaces sensitive values with realistic substitutes could make stolen information far less useful to hackers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "LI UK Speaker: Philip Cooney, White & Case",
+   "url": "https://www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T09:55:16+00:00",
+   "summary": "Ahead of Legal Innovators UK in London on November 4 and 5, the events team spoke to Philip Cooney, Director of Innovation at White &...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T08:27:11+00:00",
+   "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
+   "url": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
+   "source": "EFF",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T23:07:38+00:00",
+   "summary": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
+   "url": "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/",
+   "source": "CyberScoop",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T21:58:21+00:00",
+   "summary": "Storm-0940 used the agentic AI penetration testing framework to automate attacks and “reach more than 2,250 tenants at 2,900 sign-in attempts per minute,” Microsoft researchers said.",
+   "tag": "AI"
+  },
+  {
+   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+   "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+   "source": "Dark Reading",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T21:15:39+00:00",
+   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Policy Analyst – Latin America (temporary)",
+   "url": "https://fpf.org/blog/policy-analyst-latin-america-temporary/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T20:49:36+00:00",
+   "summary": "Job Title: Policy Analyst – Latin America (temporary) Location: Washington, DC or Remote (UTC-3 to UTC-6 time zones preferred) Position Type: Part-Time Contractor (20 hours per week) Compensation: Fixed stipend of…",
+   "tag": "Privacy"
+  },
   {
    "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
    "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
    "source": "The Record",
    "date": "2026-10-21",
    "ts": "2026-10-21T20:25:00+00:00",
-   "summary": "The Cambridge Analytica data privacy case from a decade ago is still weighing on Meta's finances.",
+   "summary": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
    "tag": "Privacy"
   },
   {
@@ -42,15 +105,6 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T19:45:00+00:00",
    "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T18:34:42+00:00",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server.…",
    "tag": "Cyber"
   },
   {
@@ -81,33 +135,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Legora vs Harvey – The Multi-Billion $$$ AI Battle",
-   "url": "https://www.artificiallawyer.com/2026/10/21/legora-vs-harvey-the-multi-billion-ai-battle/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T14:02:12+00:00",
-   "summary": "Legora has just announced its long-awaited new raise and it’s a big one: $550m – classed as a Series E, and with a post-money valuation...",
-   "tag": "AI"
-  },
-  {
-   "title": "PHP releases emergency fixes for 2 critical vulnerabilities",
-   "url": "https://cyberscoop.com/php-emergency-patches-php2shell-vulnerabilities/",
-   "source": "CyberScoop",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T13:40:02+00:00",
-   "summary": "The project overseeing the programming language is releasing patches Wednesday, with the internet racing to patch the 9.2 rated flaw.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-   "source": "BleepingComputer",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T08:36:24+00:00",
-   "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
    "source": "The Verge",
@@ -115,15 +142,6 @@
    "ts": "2026-10-20T23:37:55+00:00",
    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by…",
    "tag": "AI"
-  },
-  {
-   "title": "Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers",
-   "url": "https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/",
-   "source": "CyberScoop",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T23:36:10+00:00",
-   "summary": "Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison.",
-   "tag": "Cyber"
   },
   {
    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -144,24 +162,6 @@
    "tag": "AI"
   },
   {
-   "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
-   "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
-   "source": "EFF",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T21:46:42+00:00",
-   "summary": "In a victory for data privacy, a federal court in New York definitively ruled that the Office of Personnel Management (OPM) violated the law when it disclosed millions of federal employee records to DOGE agents. In a…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-   "source": "Dark Reading",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T14:36:05+00:00",
-   "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
-   "tag": "AI"
-  },
-  {
    "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
    "url": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
    "source": "LawSites",
@@ -171,12 +171,12 @@
    "tag": "AI"
   },
   {
-   "title": "Future of Privacy Forum Announces 2026 Award Recipients Honoring Leadership in Data Protection and Privacy in Europe",
-   "url": "https://fpf.org/press-releases/future-of-privacy-forum-announces-2026-award-recipients-honoring-leadership-in-data-protection-and-privacy-in-europe/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-12",
-   "ts": "2026-10-12T21:42:28+00:00",
-   "summary": "BRUSSELS, BELGIUM — The Future of Privacy Forum, a global non-profit focused on data protection, AI, and emerging technologies, today announced the recipients of its 2026 Awards honoring outstanding contributions to…",
+   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+   "source": "The Verge",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T15:46:56+00:00",
+   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a…",
    "tag": "AI"
   }
  ]

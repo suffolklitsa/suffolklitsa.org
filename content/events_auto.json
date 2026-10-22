@@ -1,25 +1,13 @@
 {
- "fetched": "2026-10-21 16:31 ET",
+ "fetched": "2026-10-22 06:31 ET",
  "status": {
-  "coalition": "ok 67",
+  "coalition": "ok 66",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 3",
+  "bba": "ok 4",
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-10-21",
-   "time": "5–7:30pm",
-   "name": "M&T Bank and Glasswing Salon",
-   "host": "Mass AI Coalition",
-   "venue": "240 Devonshire St",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/5frzqrxw",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-22",
    "time": "5:30–8pm",
@@ -191,18 +179,6 @@
   },
   {
    "date": "2026-11-05",
-   "time": "1–6pm",
-   "name": "Boston's Applied AI Talent Revolution",
-   "host": "Mass AI Coalition",
-   "venue": "See event page",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/ceznwqz3",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-05",
    "time": "5:30–8pm",
    "name": "The New Career Architecture: Building Leading & Growing in the Age of AI",
    "host": "Mass AI Coalition",
@@ -296,6 +272,18 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12–6pm",
+   "name": "2026 Privacy, Cybersecurity, & Digital Law Conference",
+   "host": "Boston Bar Association",
+   "venue": "See event page",
+   "cost": "See event page",
+   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc000004zWS5",
+   "source": "bba",
+   "tier": "boston",
+   "source_key": "bba"
   },
   {
    "date": "2026-11-19",
