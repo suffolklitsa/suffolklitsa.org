@@ -1,48 +1,129 @@
 {
- "fetched": "2026-10-22 10:31 UTC",
+ "fetched": "2026-10-22 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 2",
+  "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
   "TechCrunch": "ok 2",
-  "Above the Law": "ok 1"
+  "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "Encryption isn’t enough to protect data wherever it goes",
-   "url": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
-   "source": "CyberScoop",
+   "title": "Capcom confirms data breach affecting 11.7 million accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+   "source": "BleepingComputer",
    "date": "2026-10-22",
-   "ts": "2026-10-22T10:00:00+00:00",
-   "summary": "Once data is in use, encryption falls short. A tested approach that replaces sensitive values with realistic substitutes could make stolen information far less useful to hackers.",
+   "ts": "2026-10-22T20:22:45+00:00",
+   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information.…",
    "tag": "Cyber"
   },
   {
-   "title": "LI UK Speaker: Philip Cooney, White & Case",
-   "url": "https://www.artificiallawyer.com/2026/10/22/li-uk-speaker-philip-cooney-white-case/",
-   "source": "Artificial Lawyer",
+   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+   "source": "BleepingComputer",
    "date": "2026-10-22",
-   "ts": "2026-10-22T09:55:16+00:00",
-   "summary": "Ahead of Legal Innovators UK in London on November 4 and 5, the events team spoke to Philip Cooney, Director of Innovation at White &...",
+   "ts": "2026-10-22T19:12:51+00:00",
+   "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables.…",
+   "tag": "AI"
+  },
+  {
+   "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
+   "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+   "source": "The Record",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T18:46:00+00:00",
+   "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "How LexisNexis And Its Customers Are Building The Next Generation Of Legal AI Together",
+   "url": "https://abovethelaw.com/2026/10/how-lexisnexis-and-its-customers-are-building-the-next-generation-of-legal-ai-together/",
+   "source": "Above the Law",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T17:44:00+00:00",
+   "summary": "[Sponsored] A conversation with Greg Dickason, chief technology officer and head of the LexisNexis Customer Innovation Lab.",
+   "tag": "AI"
+  },
+  {
+   "title": "Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
+   "url": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
+   "source": "CyberScoop",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T17:37:24+00:00",
+   "summary": "One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S. AI companies to stay ahead and distillation attacks incentivize stealing over innovation.",
+   "tag": "AI"
+  },
+  {
+   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "source": "TechCrunch",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T16:47:17+00:00",
+   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+   "tag": "AI"
+  },
+  {
+   "title": "eMudhra kills its certificate business after researchers cracked its private keys in under a second",
+   "url": "https://cyberscoop.com/emudhra-shuts-down-certificate-business-weak-private-keys/",
+   "source": "CyberScoop",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T14:57:06+00:00",
+   "summary": "The private keys were so weak they could be guessed in under a second — and one of them was just the number 4.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My.",
+   "url": "https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/",
+   "source": "Above the Law",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T14:47:30+00:00",
+   "summary": "Most everyone in legal tech knows (or should know) what’s coming.",
    "tag": "Legal tech"
   },
   {
-   "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-   "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-   "source": "BleepingComputer",
+   "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
+   "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
+   "source": "LawSites",
    "date": "2026-10-22",
-   "ts": "2026-10-22T08:27:11+00:00",
-   "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams.…",
-   "tag": "Cyber"
+   "ts": "2026-10-22T14:14:24+00:00",
+   "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly…",
+   "tag": "AI"
+  },
+  {
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "source": "The Verge",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T13:20:55+00:00",
+   "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months…",
+   "tag": "AI"
+  },
+  {
+   "title": "Reports of the Billable Hour’s Demise Are Greatly Exaggerated, 8am Data Finds",
+   "url": "https://www.lawnext.com/2026/10/reports-of-the-billable-hours-demise-are-greatly-exaggerated-8am-data-finds.html",
+   "source": "LawSites",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T13:06:53+00:00",
+   "summary": "Reports of the demise of the billable hour have been greatly exaggerated, at least at smaller law firms. With apologies to Mark Twain, that is the central finding of a new report on billing and payment practices at…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Lawfare Daily: AI, Child Safety, and the Law",
+   "url": "https://www.lawfaremedia.org/article/lawfare-daily--ai--child-safety--and-the-law",
+   "source": "Lawfare",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T11:00:00+00:00",
+   "summary": "Does existing federal criminal law apply to AI-generated child sexual abuse material?",
+   "tag": "AI"
   },
   {
    "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
@@ -54,57 +135,12 @@
    "tag": "Privacy"
   },
   {
-   "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
-   "url": "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/",
-   "source": "CyberScoop",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T21:58:21+00:00",
-   "summary": "Storm-0940 used the agentic AI penetration testing framework to automate attacks and “reach more than 2,250 tenants at 2,900 sign-in attempts per minute,” Microsoft researchers said.",
-   "tag": "AI"
-  },
-  {
    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
    "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
    "source": "Dark Reading",
    "date": "2026-10-21",
    "ts": "2026-10-21T21:15:39+00:00",
    "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Policy Analyst – Latin America (temporary)",
-   "url": "https://fpf.org/blog/policy-analyst-latin-america-temporary/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T20:49:36+00:00",
-   "summary": "Job Title: Policy Analyst – Latin America (temporary) Location: Washington, DC or Remote (UTC-3 to UTC-6 time zones preferred) Position Type: Part-Time Contractor (20 hours per week) Compensation: Fixed stipend of…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
-   "url": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
-   "source": "The Record",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T20:25:00+00:00",
-   "summary": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Are We Losing Sight Of What We’re Trying To Protect?",
-   "url": "https://abovethelaw.com/2026/10/are-we-losing-sight-of-what-were-trying-to-protect/",
-   "source": "Above the Law",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T20:17:00+00:00",
-   "summary": "Privacy, personal AI agents, and the future of human agency.",
-   "tag": "AI"
-  },
-  {
-   "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
-   "url": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
-   "source": "The Record",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T19:45:00+00:00",
-   "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
    "tag": "Cyber"
   },
   {
@@ -135,48 +171,12 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-   "source": "The Verge",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T23:37:55+00:00",
-   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by…",
-   "tag": "AI"
-  },
-  {
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "source": "TechCrunch",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T23:01:23+00:00",
-   "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-   "tag": "AI"
-  },
-  {
-   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-   "source": "TechCrunch",
-   "date": "2026-10-20",
-   "ts": "2026-10-20T22:24:02+00:00",
-   "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-   "tag": "AI"
-  },
-  {
-   "title": "Harvey Now Connects to Legal Research Platform Midpage Through An MCP Connector",
-   "url": "https://www.lawnext.com/2026/10/harvey-now-connects-to-legal-research-platform-midpage-through-an-mcp-connector.html",
-   "source": "LawSites",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:59:12+00:00",
-   "summary": "A new connector announced today enables Harvey customers to access the AI legal research platform Midpage. The connector makes Midpage’s research library of U.S. case law, statutes, regulations, and agency materials…",
-   "tag": "AI"
-  },
-  {
-   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-   "source": "The Verge",
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:46:56+00:00",
-   "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a…",
+   "title": "Future of Privacy Forum Announces 2026 Award Recipients Honoring Leadership in Data Protection and Privacy in Europe",
+   "url": "https://fpf.org/press-releases/future-of-privacy-forum-announces-2026-award-recipients-honoring-leadership-in-data-protection-and-privacy-in-europe/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-12",
+   "ts": "2026-10-12T21:42:28+00:00",
+   "summary": "BRUSSELS, BELGIUM — The Future of Privacy Forum, a global non-profit focused on data protection, AI, and emerging technologies, today announced the recipients of its 2026 Awards honoring outstanding contributions to…",
    "tag": "AI"
   }
  ]
