@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-23 10:31 UTC",
+ "fetched": "2026-10-23 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,13 +10,58 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 1",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
+  "The Verge": "ok 1",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 4"
+  "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
+   "url": "https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next",
+   "source": "EFF",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T18:19:34+00:00",
+   "summary": "Last week, two federal appeals courts issued opinions that will allow Florida and Georgia to start enforcing laws that will age-gate and block young people from accessing social media. The laws do not adequately respect…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "FCC bans two devices with surveillance chips linked to Huawei",
+   "url": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+   "source": "The Record",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T17:28:00+00:00",
+   "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Quest Diagnostics confirms data breach exposed patient records",
+   "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+   "source": "BleepingComputer",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:40:07+00:00",
+   "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Senators say targeted ads are a security risk. Ad groups say the critics are off base.",
+   "url": "https://cyberscoop.com/targeted-ads-spyware-government-threat/",
+   "source": "CyberScoop",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:23:06+00:00",
+   "summary": "Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "UK proposes 14-year prison terms for undersea cable sabotage",
+   "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
+   "source": "The Record",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T13:26:00+00:00",
+   "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
+   "tag": "Cyber"
+  },
   {
    "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
    "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
@@ -63,34 +108,7 @@
    "tag": "AI"
   },
   {
-   "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-   "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-   "source": "The Record",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T20:52:00+00:00",
-   "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Capcom confirms data breach affecting 11.7 million accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T20:22:45+00:00",
-   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-   "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-   "source": "The Record",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T18:46:00+00:00",
-   "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
+   "title": "Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
    "url": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
    "source": "CyberScoop",
    "date": "2026-10-22",
@@ -106,15 +124,6 @@
    "ts": "2026-10-22T16:47:17+00:00",
    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
    "tag": "AI"
-  },
-  {
-   "title": "eMudhra kills its certificate business after researchers cracked its private keys in under a second",
-   "url": "https://cyberscoop.com/emudhra-shuts-down-certificate-business-weak-private-keys/",
-   "source": "CyberScoop",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:57:06+00:00",
-   "summary": "The private keys were so weak they could be guessed in under a second — and one of them was just the number 4.",
-   "tag": "Cyber"
   },
   {
    "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
@@ -144,30 +153,12 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Lawfare Daily: AI, Child Safety, and the Law",
-   "url": "https://www.lawfaremedia.org/article/lawfare-daily--ai--child-safety--and-the-law",
-   "source": "Lawfare",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T11:00:00+00:00",
-   "summary": "Does existing federal criminal law apply to AI-generated child sexual abuse material?",
-   "tag": "AI"
-  },
-  {
-   "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
-   "url": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
-   "source": "EFF",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T23:07:38+00:00",
-   "summary": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s…",
-   "tag": "Privacy"
-  },
-  {
    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
    "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
    "source": "Dark Reading",
    "date": "2026-10-21",
    "ts": "2026-10-21T21:15:39+00:00",
-   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
    "tag": "Cyber"
   },
   {
@@ -177,6 +168,15 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T15:26:07+00:00",
    "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "source": "Krebs on Security",
+   "date": "2026-10-19",
+   "ts": "2026-10-19T13:48:56+00:00",
+   "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…",
    "tag": "Cyber"
   }
  ]

@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-23 06:31 ET",
+ "fetched": "2026-10-23 16:31 ET",
  "status": {
-  "coalition": "ok 68",
+  "coalition": "ok 67",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 4",
@@ -140,18 +140,6 @@
    "source": "berkman",
    "tier": "boston",
    "source_key": "berkman"
-  },
-  {
-   "date": "2026-11-04",
-   "time": "5–8pm",
-   "name": "Boston's Unfair Advantage: When AI Meets the Physical World",
-   "host": "Mass AI Coalition",
-   "venue": "121 Seaport Blvd",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/31ld03rp",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
   },
   {
    "date": "2026-11-04",
