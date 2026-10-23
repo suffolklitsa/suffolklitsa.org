@@ -1,10 +1,10 @@
 {
- "fetched": "2026-10-22 20:31 UTC",
+ "fetched": "2026-10-23 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 1",
+  "Future of Privacy Forum": "ok 0",
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
@@ -13,10 +13,64 @@
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
-  "Above the Law": "ok 3"
+  "TechCrunch": "ok 1",
+  "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
+   "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T08:08:55+00:00",
+   "summary": "We start this week’s Wrap with some surprising data about Grok’s performance on contract review. But first, a quick announcement: Artificial Lawyer is now on...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "State Bank of India Suffers a Customer PII Data Leak",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+   "source": "Dark Reading",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T03:30:00+00:00",
+   "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
+   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "source": "EFF",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T22:10:21+00:00",
+   "summary": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Railway warns devs to rotate secrets after potential breach",
+   "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T21:25:31+00:00",
+   "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Microsoft Launches Copilot For Legal, Becoming The Fourth AI Giant In Five Months To Build Out A Legal Vertical",
+   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
+   "source": "Above the Law",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T21:05:00+00:00",
+   "summary": "What sets Microsoft’s offering apart is the obvious, which is that lawyers already live in Word.",
+   "tag": "AI"
+  },
+  {
+   "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+   "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+   "source": "The Record",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T20:52:00+00:00",
+   "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
+   "tag": "Cyber"
+  },
   {
    "title": "Capcom confirms data breach affecting 11.7 million accounts",
    "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
@@ -27,15 +81,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T19:12:51+00:00",
-   "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables.…",
-   "tag": "AI"
-  },
-  {
    "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
    "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
    "source": "The Record",
@@ -43,15 +88,6 @@
    "ts": "2026-10-22T18:46:00+00:00",
    "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
    "tag": "Cyber"
-  },
-  {
-   "title": "How LexisNexis And Its Customers Are Building The Next Generation Of Legal AI Together",
-   "url": "https://abovethelaw.com/2026/10/how-lexisnexis-and-its-customers-are-building-the-next-generation-of-legal-ai-together/",
-   "source": "Above the Law",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T17:44:00+00:00",
-   "summary": "[Sponsored] A conversation with Greg Dickason, chief technology officer and head of the LexisNexis Customer Innovation Lab.",
-   "tag": "AI"
   },
   {
    "title": "Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
@@ -79,15 +115,6 @@
    "ts": "2026-10-22T14:57:06+00:00",
    "summary": "The private keys were so weak they could be guessed in under a second — and one of them was just the number 4.",
    "tag": "Cyber"
-  },
-  {
-   "title": "NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My.",
-   "url": "https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/",
-   "source": "Above the Law",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:47:30+00:00",
-   "summary": "Most everyone in legal tech knows (or should know) what’s coming.",
-   "tag": "Legal tech"
   },
   {
    "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
@@ -144,15 +171,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-   "url": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-   "source": "Dark Reading",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:29:09+00:00",
-   "summary": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.",
-   "tag": "Privacy"
-  },
-  {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
    "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
    "source": "Krebs on Security",
@@ -160,24 +178,6 @@
    "ts": "2026-10-21T15:26:07+00:00",
    "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full…",
    "tag": "Cyber"
-  },
-  {
-   "title": "‘It’s a Big Moment’ – Max on Legora’s Raise",
-   "url": "https://www.artificiallawyer.com/2026/10/21/its-a-big-moment-max-on-legoras-raise/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T14:38:03+00:00",
-   "summary": "Legora has just raised $550m with a post-money valuation of $8.8 billion – a huge step by any reckoning. Artificial Lawyer asked CEO, Max Junestrand,...",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Future of Privacy Forum Announces 2026 Award Recipients Honoring Leadership in Data Protection and Privacy in Europe",
-   "url": "https://fpf.org/press-releases/future-of-privacy-forum-announces-2026-award-recipients-honoring-leadership-in-data-protection-and-privacy-in-europe/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-12",
-   "ts": "2026-10-12T21:42:28+00:00",
-   "summary": "BRUSSELS, BELGIUM — The Future of Privacy Forum, a global non-profit focused on data protection, AI, and emerging technologies, today announced the recipients of its 2026 Awards honoring outstanding contributions to…",
-   "tag": "AI"
   }
  ]
 }

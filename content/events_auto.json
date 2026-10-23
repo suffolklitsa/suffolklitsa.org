@@ -1,49 +1,13 @@
 {
- "fetched": "2026-10-22 16:31 ET",
+ "fetched": "2026-10-23 06:31 ET",
  "status": {
-  "coalition": "ok 67",
+  "coalition": "ok 68",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 4",
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-10-22",
-   "time": "5:30–8pm",
-   "name": "Building Agents with Vercel & Jellyfish",
-   "host": "Mass AI Coalition",
-   "venue": "Pillar VC",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/s6k8kdkh",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "4–6pm",
-   "name": "Flagship Pioneering: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "55 Cambridge Pkwy",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/1m5f9u8n",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-22",
-   "time": "5:30–8pm",
-   "name": "Party Mode: AI Coalition @ Reservoir HQ",
-   "host": "Mass AI Coalition",
-   "venue": "50 Terminal St",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/29txt96l",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-26",
    "time": "4–6pm",
@@ -113,6 +77,18 @@
    "venue": "Boston",
    "cost": "Free, approval required",
    "url": "https://luma.com/s9hj9kz3",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-10-28",
+   "time": "6–8pm",
+   "name": "Ditch the Deck: AI Show Not Tell",
+   "host": "Mass AI Coalition",
+   "venue": "Ned Devine's Irish Pub",
+   "cost": "Free",
+   "url": "https://luma.com/xe95mbwr",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
