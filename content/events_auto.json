@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-24 16:31 ET",
+ "fetched": "2026-10-25 06:31 ET",
  "status": {
   "coalition": "ok 67",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -38,7 +38,7 @@
    "name": "Grounds for Investment",
    "host": "Mass AI Coalition",
    "venue": "Boston",
-   "cost": "Free, approval required",
+   "cost": "Free",
    "url": "https://luma.com/2src2mn8",
    "source": "luma",
    "tier": "ai",
