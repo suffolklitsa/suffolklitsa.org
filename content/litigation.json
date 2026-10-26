@@ -563,10 +563,11 @@
   "11013650",
   "11014299",
   "11024168",
-  "11034949"
+  "11034949",
+  "11044552"
  ],
  "pending": [],
- "last_run": "2026-10-19 11:15 UTC",
+ "last_run": "2026-10-26 11:15 UTC",
  "last_success": "2026-09-28 11:15 UTC",
  "health": {
   "ok": false,
@@ -579,11 +580,11 @@
   "kept_this_run": 0,
   "pending": 0,
   "total_items": 29,
-  "judged_ever": 130,
+  "judged_ever": 131,
   "source_counts": {
    "practice": 27,
    "copyright": 9,
-   "evidence": 115,
+   "evidence": 111,
    "automated": 20,
    "privacy": 56
   }
