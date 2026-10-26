@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-26 06:31 ET",
+ "fetched": "2026-10-26 16:31 ET",
  "status": {
-  "coalition": "ok 67",
+  "coalition": "ok 68",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 4",
@@ -131,7 +131,7 @@
   },
   {
    "date": "2026-11-03",
-   "time": "12:20pm",
+   "time": "5pm",
    "name": "How to Tell an AI What to Do: Rules, Cases, and Interpretation",
    "host": "Berkman Klein Center, Harvard",
    "venue": "Harvard, Cambridge",
@@ -149,6 +149,18 @@
    "venue": "One Kendall Square",
    "cost": "Free, approval required",
    "url": "https://luma.com/yln58dls",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-04",
+   "time": "6–8pm",
+   "name": "Founder Dinner [Hosted by J.P. Morgan x MA AI Coalition]",
+   "host": "Mass AI Coalition",
+   "venue": "Location details will be provided once your registration is confirmed.",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/8rnv85ce",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"

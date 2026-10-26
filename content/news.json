@@ -1,25 +1,115 @@
 {
- "fetched": "2026-10-26 10:31 UTC",
+ "fetched": "2026-10-26 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 0",
+  "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 4",
+  "BleepingComputer": "ok 2",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 4"
+  "Above the Law": "ok 2"
  },
  "items": [
   {
-   "title": "Kali Linux 2026.3 released with 7 new tools, desktop updates",
-   "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-7-new-tools-desktop-updates/",
+   "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
+   "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
+   "source": "LawSites",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T19:47:25+00:00",
+   "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion",
+   "url": "https://cyberscoop.com/wyden-schiff-fisa-section-702-declassification/",
+   "source": "CyberScoop",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T18:05:35+00:00",
+   "summary": "Section 702 of the Foreign Intelligence Surveillance Act has lapsed, but another decision on its future nears, and the classified opinion could be decisive.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers",
+   "url": "https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/",
+   "source": "Above the Law",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:42:00+00:00",
+   "summary": "In other news, Fortune 500 healthcare company about to be in all kinds of legal trouble.",
+   "tag": "AI"
+  },
+  {
+   "title": "Authorities extradite Chinese national for alleged $37M investment scam",
+   "url": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
+   "source": "CyberScoop",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:33:19+00:00",
+   "summary": "Zheng Zhao and his co-conspirators allegedly deceived 174 U.S. residents into sending funds to a globally coordinated fake investment operation with ties to Cambodia.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Serbian autocrat loses election following widespread reports of digital repression",
+   "url": "https://therecord.media/serbia-election-spyware-vucic",
+   "source": "The Record",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:30:00+00:00",
+   "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Lessons Learned From 'AdFection' and What To Do Next",
+   "url": "https://www.eff.org/deeplinks/2026/10/lessons-learned-adfection",
+   "source": "EFF",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:28:02+00:00",
+   "summary": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to journalist’s devices to infect them without the target ever needing to…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Anti-Circumvention Laws Raise the Cost of Knowledge",
+   "url": "https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge",
+   "source": "EFF",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:20:40+00:00",
+   "summary": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "AI Hallucination Goes to Court: A Global Mapping of Emerging Legal Issues",
+   "url": "https://fpf.org/blog/ai-hallucination-goes-to-court-a-global-mapping-of-emerging-legal-issues/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:20:01+00:00",
+   "summary": "The following is a guest post on the FPF blog authored by Wenlong Li, Research Professor, Zhejiang University Guanghua Law School and 2026 PPPM Awardee. The guest post reflects the opinion of the author only and does…",
+   "tag": "AI"
+  },
+  {
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "source": "TechCrunch",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T16:46:36+00:00",
+   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it…",
+   "tag": "AI"
+  },
+  {
+   "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
+   "url": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+   "source": "The Record",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T16:40:00+00:00",
+   "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+   "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
    "source": "BleepingComputer",
    "date": "2026-10-26",
    "ts": "2026-10-26T10:26:52+00:00",
@@ -45,16 +135,7 @@
    "tag": "AI"
   },
   {
-   "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
-   "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
-   "source": "EFF",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T22:36:46+00:00",
-   "summary": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week — and all your nerdiest friends were talking about \"The Vulnerability Apocalypse” and this thing…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+   "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
    "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
    "source": "Dark Reading",
    "date": "2026-10-23",
@@ -63,39 +144,12 @@
    "tag": "AI"
   },
   {
-   "title": "FCC bans two devices with surveillance chips linked to Huawei",
-   "url": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
-   "source": "The Record",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T17:28:00+00:00",
-   "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
-   "tag": "Privacy"
-  },
-  {
    "title": "Quest Diagnostics confirms data breach exposed patient records",
    "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
    "source": "BleepingComputer",
    "date": "2026-10-23",
    "ts": "2026-10-23T16:40:07+00:00",
    "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Senators say targeted ads are a security risk. Ad groups say the critics are off base.",
-   "url": "https://cyberscoop.com/targeted-ads-spyware-government-threat/",
-   "source": "CyberScoop",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T16:23:06+00:00",
-   "summary": "Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "UK proposes 14-year prison terms for undersea cable sabotage",
-   "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
-   "source": "The Record",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T13:26:00+00:00",
-   "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
    "tag": "Cyber"
   },
   {
@@ -115,60 +169,6 @@
    "ts": "2026-10-23T03:30:00+00:00",
    "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft Launches Copilot For Legal, Becoming The Fourth AI Giant In Five Months To Build Out A Legal Vertical",
-   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
-   "source": "Above the Law",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T21:05:00+00:00",
-   "summary": "What sets Microsoft’s offering apart is the obvious, which is that lawyers already live in Word.",
-   "tag": "AI"
-  },
-  {
-   "title": "Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
-   "url": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
-   "source": "CyberScoop",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T17:37:24+00:00",
-   "summary": "One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S. AI companies to stay ahead and distillation attacks incentivize stealing over innovation.",
-   "tag": "AI"
-  },
-  {
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "source": "TechCrunch",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T16:47:17+00:00",
-   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-   "tag": "AI"
-  },
-  {
-   "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
-   "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
-   "source": "LawSites",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:14:24+00:00",
-   "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly…",
-   "tag": "AI"
-  },
-  {
-   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-   "source": "The Verge",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T13:20:55+00:00",
-   "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months…",
-   "tag": "AI"
-  },
-  {
-   "title": "Reports of the Billable Hour’s Demise Are Greatly Exaggerated, 8am Data Finds",
-   "url": "https://www.lawnext.com/2026/10/reports-of-the-billable-hours-demise-are-greatly-exaggerated-8am-data-finds.html",
-   "source": "LawSites",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T13:06:53+00:00",
-   "summary": "Reports of the demise of the billable hour have been greatly exaggerated, at least at smaller law firms. With apologies to Mark Twain, that is the central finding of a new report on billing and payment practices at…",
-   "tag": "Legal tech"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
