@@ -1,11 +1,11 @@
 {
- "fetched": "2026-10-27 16:31 ET",
+ "fetched": "2026-10-27 18:35 ET",
  "status": {
   "coalition": "ok 68",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 5",
-  "berkman": "ok 3"
+  "berkman": "ok 2"
  },
  "events": [
   {
@@ -31,19 +31,6 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-27",
-   "time": "4pm",
-   "name": "What Remains: AI, Death, and Loss",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge and on Zoom",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/what-remains-ai-death-and-loss",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "All Too Human 2026-27 Speaker Series",
-   "source_key": "berkman"
   },
   {
    "date": "2026-10-28",

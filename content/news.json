@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27 20:31 UTC",
+ "fetched": "2026-10-27 22:35 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,69 @@
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T22:07:34+00:00",
+   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Before you file that AI bug report, OpenAI has some advice",
+   "url": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
+   "source": "CyberScoop",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T21:21:27+00:00",
+   "summary": "Open-source maintainers are so overwhelmed by AI-generated security reports that some have stopped accepting them. OpenAI’s Daybreak lead says the fix is higher-quality findings and far more coordination.",
+   "tag": "AI"
+  },
+  {
+   "title": "Social Media When Elections Are Close: Doing the Impossible Better",
+   "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
+   "source": "EFF",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T21:20:30+00:00",
+   "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Hackers hijack Convertr analytics script to steal payment card data",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:57:25+00:00",
+   "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+   "source": "Dark Reading",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:42:40+00:00",
+   "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "All the security risks Anthropic is worried about before its IPO",
+   "url": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
+   "source": "CyberScoop",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:41:16+00:00",
+   "summary": "Anthropic has said out-of-control AI poses a threat to the world, but perhaps unsurprisingly suggests that profit will shape those decisions, too.",
+   "tag": "AI"
+  },
+  {
+   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+   "url": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+   "source": "The Record",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:40:00+00:00",
+   "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+   "tag": "Cyber"
+  },
   {
    "title": "Bringing Privacy, Safety, and Well-being Together at FPF",
    "url": "https://fpf.org/blog/bringing-privacy-safety-and-well-being-together-at-fpf/",
@@ -45,15 +108,6 @@
    "tag": "AI"
   },
   {
-   "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
-   "url": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
-   "source": "CyberScoop",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T18:33:41+00:00",
-   "summary": "Artem Stryzhak participated in a series of ransomware attacks on hospitals, government entities and law firms from the middle of 2018 to late 2021.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Trump is making it easier for fossil fuel companies to leak methane",
    "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
    "source": "The Verge",
@@ -70,42 +124,6 @@
    "ts": "2026-10-27T17:08:08+00:00",
    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
    "tag": "AI"
-  },
-  {
-   "title": "French Court’s Site-Blocking Orders Drive Quad9 Out Of France",
-   "url": "https://www.eff.org/deeplinks/2026/10/french-courts-site-blocking-orders-drive-quad9-out-france",
-   "source": "EFF",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:19:49+00:00",
-   "summary": "A nonprofit service that protects internet users’ privacy is leaving France. Quad9, a free DNS resolver, has said it will reluctantly stop serving users in France on November 24. This follows a French court order that…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:15:39+00:00",
-   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure.…",
-   "tag": "AI"
-  },
-  {
-   "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals",
-   "url": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
-   "source": "CyberScoop",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T15:13:48+00:00",
-   "summary": "Like the water sector initiative, the six-month pilot program will connect rural hospitals with industry for free services.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-   "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-   "source": "The Record",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T15:07:00+00:00",
-   "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
-   "tag": "Cyber"
   },
   {
    "title": "Scaling Laws Roadshow at Univ. of Oregon: AI and State Governments with Nik Blosser",
@@ -126,15 +144,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Energy giant ENGIE discloses data breach affecting customers",
-   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T09:25:50+00:00",
-   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More",
    "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-supreme-court-recusals-derail-case-doj-targets-judges-judicial-endorsement-controversy-judge-leaks-sealed-records-private-equity-rebuffed-more/",
    "source": "Above the Law",
@@ -151,15 +160,6 @@
    "ts": "2026-10-26T19:47:25+00:00",
    "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
-   "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-   "source": "Dark Reading",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T20:57:56+00:00",
-   "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-   "tag": "AI"
   },
   {
    "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
