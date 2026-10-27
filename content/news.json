@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-26 20:31 UTC",
+ "fetched": "2026-10-27 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -8,15 +8,69 @@
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 2",
+  "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "TechCrunch": "ok 0",
+  "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "What happens when security tools go dark before the ransomware",
+   "url": "https://cyberscoop.com/warlock-ransomware-storm-2603-sharepoint-attacks-op-ed/",
+   "source": "CyberScoop",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T10:00:00+00:00",
+   "summary": "A China-linked ransomware crew disabled the security tools at a critical infrastructure operator before it launched the encryptor. Most security budgets never priced that in.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Energy giant ENGIE discloses data breach affecting customers",
+   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T09:25:50+00:00",
+   "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Experts temper emergency-level alarms over critical Brotli defect",
+   "url": "https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell/",
+   "source": "CyberScoop",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T00:22:54+00:00",
+   "summary": "The defect in a widely distributed open-source library provoked an emergency response, yet exploitation hasn’t been observed in the wild.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "University of Copenhagen data breach exposes data of 525,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "source": "BleepingComputer",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T22:20:36+00:00",
+   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people.…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More",
+   "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-supreme-court-recusals-derail-case-doj-targets-judges-judicial-endorsement-controversy-judge-leaks-sealed-records-private-equity-rebuffed-more/",
+   "source": "Above the Law",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T22:15:00+00:00",
+   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+   "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
+   "source": "The Record",
+   "date": "2026-10-26",
+   "ts": "2026-10-26T21:03:00+00:00",
+   "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+   "tag": "AI"
+  },
   {
    "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
    "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
@@ -27,15 +81,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion",
-   "url": "https://cyberscoop.com/wyden-schiff-fisa-section-702-declassification/",
-   "source": "CyberScoop",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T18:05:35+00:00",
-   "summary": "Section 702 of the Foreign Intelligence Surveillance Act has lapsed, but another decision on its future nears, and the classified opinion could be decisive.",
-   "tag": "Privacy"
-  },
-  {
    "title": "Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers",
    "url": "https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/",
    "source": "Above the Law",
@@ -43,15 +88,6 @@
    "ts": "2026-10-26T17:42:00+00:00",
    "summary": "In other news, Fortune 500 healthcare company about to be in all kinds of legal trouble.",
    "tag": "AI"
-  },
-  {
-   "title": "Authorities extradite Chinese national for alleged $37M investment scam",
-   "url": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
-   "source": "CyberScoop",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:33:19+00:00",
-   "summary": "Zheng Zhao and his co-conspirators allegedly deceived 174 U.S. residents into sending funds to a globally coordinated fake investment operation with ties to Cambodia.",
-   "tag": "Cyber"
   },
   {
    "title": "Serbian autocrat loses election following widespread reports of digital repression",
@@ -90,42 +126,6 @@
    "tag": "AI"
   },
   {
-   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "source": "TechCrunch",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T16:46:36+00:00",
-   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it…",
-   "tag": "AI"
-  },
-  {
-   "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
-   "url": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
-   "source": "The Record",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T16:40:00+00:00",
-   "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-   "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T10:26:52+00:00",
-   "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Law Firm Leaks — See Generally",
-   "url": "https://abovethelaw.com/2026/10/law-firm-leaks-see-generally/",
-   "source": "Above the Law",
-   "date": "2026-10-25",
-   "ts": "2026-10-25T23:55:00+00:00",
-   "summary": "Forwarding Fail: Freshfields global managing partner accidentally forwarded a thread about spinning off the firm's AI unit. AI keeps exposing cyber vulnerabilities... even when they're between the keyboard and the…",
-   "tag": "AI"
-  },
-  {
    "title": "Pennsylvania will require labels on AI-generated ads",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
    "source": "The Verge",
@@ -144,15 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "Quest Diagnostics confirms data breach exposed patient records",
-   "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-   "source": "BleepingComputer",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T16:40:07+00:00",
-   "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
    "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
    "source": "Artificial Lawyer",
@@ -169,6 +160,15 @@
    "ts": "2026-10-23T03:30:00+00:00",
    "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
    "tag": "Cyber"
+  },
+  {
+   "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
+   "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
+   "source": "LawSites",
+   "date": "2026-10-22",
+   "ts": "2026-10-22T14:14:24+00:00",
+   "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly…",
+   "tag": "AI"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",

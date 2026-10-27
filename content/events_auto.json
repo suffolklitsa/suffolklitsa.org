@@ -1,37 +1,13 @@
 {
- "fetched": "2026-10-26 16:31 ET",
+ "fetched": "2026-10-27 06:31 ET",
  "status": {
   "coalition": "ok 68",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 4",
+  "bba": "ok 5",
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-10-26",
-   "time": "4–6pm",
-   "name": "Founder Collective: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "Cambridge",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/1brw3onq",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-26",
-   "time": "1:30–3:30pm",
-   "name": "Reshoring Rare Earths: Fireside Chat with Phoenix Tailings (+Startup Showcase)",
-   "host": "Mass AI Coalition",
-   "venue": "Boston",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/f0sstqgy",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-27",
    "time": "8:30–10:30am",
@@ -144,6 +120,18 @@
   {
    "date": "2026-11-04",
    "time": "5:30–7:30pm",
+   "name": "Affinity Bar Event: Understanding Bias & Discrimination in AI",
+   "host": "Boston Bar Association",
+   "venue": "See event page",
+   "cost": "See event page",
+   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000057ZXd",
+   "source": "bba",
+   "tier": "boston",
+   "source_key": "bba"
+  },
+  {
+   "date": "2026-11-04",
+   "time": "5:30–7:30pm",
    "name": "Compute, Inference, and Code, right here in Boston.",
    "host": "Mass AI Coalition",
    "venue": "One Kendall Square",
@@ -158,7 +146,7 @@
    "time": "6–8pm",
    "name": "Founder Dinner [Hosted by J.P. Morgan x MA AI Coalition]",
    "host": "Mass AI Coalition",
-   "venue": "Location details will be provided once your registration is confirmed.",
+   "venue": "Cambridge",
    "cost": "Free, approval required",
    "url": "https://luma.com/8rnv85ce",
    "source": "luma",
