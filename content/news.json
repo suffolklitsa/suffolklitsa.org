@@ -1,29 +1,128 @@
 {
- "fetched": "2026-10-27 10:31 UTC",
+ "fetched": "2026-10-27 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 1",
+  "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 0",
+  "TechCrunch": "ok 2",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "What happens when security tools go dark before the ransomware",
-   "url": "https://cyberscoop.com/warlock-ransomware-storm-2603-sharepoint-attacks-op-ed/",
+   "title": "Bringing Privacy, Safety, and Well-being Together at FPF",
+   "url": "https://fpf.org/blog/bringing-privacy-safety-and-well-being-together-at-fpf/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:21:32+00:00",
+   "summary": "FPF’s youth policy work is growing. For more than 18 years, FPF has been a recognized leader in youth privacy. Our work and partnerships have helped inform this sector, from guidance on COPPA to advancing global…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+   "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+   "source": "The Record",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T19:30:00+00:00",
+   "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment",
+   "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+   "source": "EFF",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T19:05:42+00:00",
+   "summary": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making. EFF sued the…",
+   "tag": "AI"
+  },
+  {
+   "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
+   "url": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
    "source": "CyberScoop",
    "date": "2026-10-27",
-   "ts": "2026-10-27T10:00:00+00:00",
-   "summary": "A China-linked ransomware crew disabled the security tools at a critical infrastructure operator before it launched the encryptor. Most security budgets never priced that in.",
+   "ts": "2026-10-27T18:33:41+00:00",
+   "summary": "Artem Stryzhak participated in a series of ransomware attacks on hospitals, government entities and law firms from the middle of 2018 to late 2021.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Trump is making it easier for fossil fuel companies to leak methane",
+   "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+   "source": "The Verge",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T18:25:13+00:00",
+   "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "source": "TechCrunch",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T17:08:08+00:00",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "tag": "AI"
+  },
+  {
+   "title": "French Court’s Site-Blocking Orders Drive Quad9 Out Of France",
+   "url": "https://www.eff.org/deeplinks/2026/10/french-courts-site-blocking-orders-drive-quad9-out-france",
+   "source": "EFF",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:19:49+00:00",
+   "summary": "A nonprofit service that protects internet users’ privacy is leaving France. Quad9, a free DNS resolver, has said it will reluctantly stop serving users in France on November 24. This follows a French court order that…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "source": "BleepingComputer",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:15:39+00:00",
+   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure.…",
+   "tag": "AI"
+  },
+  {
+   "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals",
+   "url": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
+   "source": "CyberScoop",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:13:48+00:00",
+   "summary": "Like the water sector initiative, the six-month pilot program will connect rural hospitals with industry for free services.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+   "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+   "source": "The Record",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:07:00+00:00",
+   "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Scaling Laws Roadshow at Univ. of Oregon: AI and State Governments with Nik Blosser",
+   "url": "https://www.lawfaremedia.org/article/scaling-laws-roadshow-at-univ.-of-oregon--ai-and-state-governments-with-nik-blosser",
+   "source": "Lawfare",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T14:00:09+00:00",
+   "summary": "What should a state government have to demonstrate before it asks residents to trust an AI system? In this episode of Scaling Laws, Nik Blosser, Oregon’s Chief AI Officer, joins Kevin Frazier, Director of the AI…",
+   "tag": "AI"
+  },
+  {
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "source": "TechCrunch",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T13:32:57+00:00",
+   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
    "tag": "Cyber"
   },
   {
@@ -36,24 +135,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Experts temper emergency-level alarms over critical Brotli defect",
-   "url": "https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell/",
-   "source": "CyberScoop",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T00:22:54+00:00",
-   "summary": "The defect in a widely distributed open-source library provoked an emergency response, yet exploitation hasn’t been observed in the wild.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "University of Copenhagen data breach exposes data of 525,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-   "source": "BleepingComputer",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T22:20:36+00:00",
-   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people.…",
-   "tag": "Privacy"
-  },
-  {
    "title": "Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More",
    "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-supreme-court-recusals-derail-case-doj-targets-judges-judicial-endorsement-controversy-judge-leaks-sealed-records-private-equity-rebuffed-more/",
    "source": "Above the Law",
@@ -63,15 +144,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-   "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
-   "source": "The Record",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T21:03:00+00:00",
-   "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
-   "tag": "AI"
-  },
-  {
    "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
    "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
    "source": "LawSites",
@@ -79,60 +151,6 @@
    "ts": "2026-10-26T19:47:25+00:00",
    "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers",
-   "url": "https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/",
-   "source": "Above the Law",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:42:00+00:00",
-   "summary": "In other news, Fortune 500 healthcare company about to be in all kinds of legal trouble.",
-   "tag": "AI"
-  },
-  {
-   "title": "Serbian autocrat loses election following widespread reports of digital repression",
-   "url": "https://therecord.media/serbia-election-spyware-vucic",
-   "source": "The Record",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:30:00+00:00",
-   "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Lessons Learned From 'AdFection' and What To Do Next",
-   "url": "https://www.eff.org/deeplinks/2026/10/lessons-learned-adfection",
-   "source": "EFF",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:28:02+00:00",
-   "summary": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to journalist’s devices to infect them without the target ever needing to…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Anti-Circumvention Laws Raise the Cost of Knowledge",
-   "url": "https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge",
-   "source": "EFF",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:20:40+00:00",
-   "summary": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "AI Hallucination Goes to Court: A Global Mapping of Emerging Legal Issues",
-   "url": "https://fpf.org/blog/ai-hallucination-goes-to-court-a-global-mapping-of-emerging-legal-issues/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T17:20:01+00:00",
-   "summary": "The following is a guest post on the FPF blog authored by Wenlong Li, Research Professor, Zhejiang University Guanghua Law School and 2026 PPPM Awardee. The guest post reflects the opinion of the author only and does…",
-   "tag": "AI"
-  },
-  {
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "source": "The Verge",
-   "date": "2026-10-24",
-   "ts": "2026-10-24T18:32:44+00:00",
-   "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image…",
-   "tag": "AI"
   },
   {
    "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
@@ -151,24 +169,6 @@
    "ts": "2026-10-23T08:08:55+00:00",
    "summary": "We start this week’s Wrap with some surprising data about Grok’s performance on contract review. But first, a quick announcement: Artificial Lawyer is now on...",
    "tag": "Legal tech"
-  },
-  {
-   "title": "State Bank of India Suffers a Customer PII Data Leak",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-   "source": "Dark Reading",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T03:30:00+00:00",
-   "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "LexisNexis Protégé Is Now Live In EvenUp, Letting PI Lawyers Query Case Law Using Facts From Their Case Records",
-   "url": "https://www.lawnext.com/2026/10/lexisnexis-protege-is-now-live-in-evenup-letting-pi-lawyers-query-case-law-using-facts-from-their-case-records.html",
-   "source": "LawSites",
-   "date": "2026-10-22",
-   "ts": "2026-10-22T14:14:24+00:00",
-   "summary": "On Sept. 1, LexisNexis and EvenUp, an AI platform for personal injury lawyers, announced a forthcoming integration by which EvenUp’s customers could access legal insights and agentic AI in LexisNexis Protégé directly…",
-   "tag": "AI"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
