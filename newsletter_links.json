@@ -58,5 +58,18 @@
     "join": "/join/",
     "site": "/",
     "instagram": "https://www.instagram.com/litsa_suls/"
+  },
+  "9": {
+    "rsvp": "https://suffolklitsa.org/rsvp",
+    "alta": "https://americanlegaltechnology.com/",
+    "miami": "https://events.miami.edu/event/prompting-legal-solutions-conference-competition",
+    "competition-teams": "https://www.suffolk.edu/law/academics-clinics/student-life/competition-teams",
+    "compete": "/compete/",
+    "github": "https://github.com/suffolklitsa",
+    "handbook": "https://github.com/suffolklitsa/handbook",
+    "groupme": "https://groupme.com/join_group/118013356/69XLYHKb",
+    "instagram": "https://www.instagram.com/litsa_suls/",
+    "join": "/join/",
+    "site": "/"
   }
 }
