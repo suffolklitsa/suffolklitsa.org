@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28 19:30 UTC",
+ "fetched": "2026-10-28 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Victory! You Can Now Exclude Apps from Siri AI",
+   "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
+   "source": "EFF",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T20:04:21+00:00",
+   "summary": "In the most recent update to Apple’s devices, iOS 27.2, the company has introduced a new setting to “Exclude Apps” from Siri AI, fulfilling one of our asks from our Encrypt It Already campaign earlier this year. One of…",
+   "tag": "AI"
+  },
+  {
+   "title": "Court Should Curb Abuse of Grand Jury Subpoenas Targeting Social Media Users",
+   "url": "https://www.eff.org/deeplinks/2026/10/court-should-curb-abuse-grand-jury-subpoenas-targeting-social-media-users",
+   "source": "EFF",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T19:48:20+00:00",
+   "summary": "A federal appeals court should curb the government’s abuse of grand jury subpoenas to unmask social media users who criticize lawless immigration enforcement. That is the message from the ACLU, EFF, and other civil…",
+   "tag": "Legal tech"
+  },
   {
    "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
    "url": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
@@ -99,15 +117,6 @@
    "tag": "AI"
   },
   {
-   "title": "💾 Fighting DOGE's Data Grab | EFFector 38.19",
-   "url": "https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819",
-   "source": "EFF",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T15:21:42+00:00",
-   "summary": "When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won't later be used against us. But in a betrayal of that trust, the federal…",
-   "tag": "Privacy"
-  },
-  {
    "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
    "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
    "source": "Artificial Lawyer",
@@ -124,15 +133,6 @@
    "ts": "2026-10-27T23:34:27+00:00",
    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
    "tag": "AI"
-  },
-  {
-   "title": "Social Media When Elections Are Close: Doing the Impossible Better",
-   "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
-   "source": "EFF",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T21:20:30+00:00",
-   "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at…",
-   "tag": "Privacy"
   },
   {
    "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
