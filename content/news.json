@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27 22:35 UTC",
+ "fetched": "2026-10-28 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -13,18 +13,36 @@
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
+  "TechCrunch": "ok 3",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T09:43:15+00:00",
+   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
    "source": "BleepingComputer",
    "date": "2026-10-27",
-   "ts": "2026-10-27T22:07:34+00:00",
-   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities.…",
+   "ts": "2026-10-27T23:35:51+00:00",
+   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…",
    "tag": "Cyber"
+  },
+  {
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "source": "TechCrunch",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T23:34:27+00:00",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "tag": "AI"
   },
   {
    "title": "Before you file that AI bug report, OpenAI has some advice",
@@ -43,15 +61,6 @@
    "ts": "2026-10-27T21:20:30+00:00",
    "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Hackers hijack Convertr analytics script to steal payment card data",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:57:25+00:00",
-   "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout.…",
-   "tag": "Cyber"
   },
   {
    "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
@@ -133,15 +142,6 @@
    "ts": "2026-10-27T14:00:09+00:00",
    "summary": "What should a state government have to demonstrate before it asks residents to trust an AI system? In this episode of Scaling Laws, Nik Blosser, Oregon’s Chief AI Officer, joins Kevin Frazier, Director of the AI…",
    "tag": "AI"
-  },
-  {
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "source": "TechCrunch",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T13:32:57+00:00",
-   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-   "tag": "Cyber"
   },
   {
    "title": "Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More",

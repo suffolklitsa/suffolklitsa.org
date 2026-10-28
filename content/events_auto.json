@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-27 18:35 ET",
+ "fetched": "2026-10-28 06:32 ET",
  "status": {
   "coalition": "ok 68",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,30 +8,6 @@
   "berkman": "ok 2"
  },
  "events": [
-  {
-   "date": "2026-10-27",
-   "time": "8:30–10:30am",
-   "name": "Grounds for Investment",
-   "host": "Mass AI Coalition",
-   "venue": "Boston",
-   "cost": "Free",
-   "url": "https://luma.com/2src2mn8",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-27",
-   "time": "5:30–7:30pm",
-   "name": "Reservoir Open House & Live Water Heater Teardown",
-   "host": "Mass AI Coalition",
-   "venue": "Reservoir Home",
-   "cost": "Free",
-   "url": "https://luma.com/21amub6d",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-28",
    "time": "4–6pm",
