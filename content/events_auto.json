@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-28 06:32 ET",
+ "fetched": "2026-10-28 15:23 ET",
  "status": {
-  "coalition": "ok 68",
+  "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 5",
@@ -73,7 +73,7 @@
    "time": "5pm",
    "name": "How to Tell an AI What to Do: Rules, Cases, and Interpretation",
    "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge",
+   "venue": "Harvard, Cambridge and on Zoom",
    "cost": "Free",
    "url": "https://cyber.harvard.edu/events/how-tell-ai-what-do-rules-cases-and-interpretation",
    "source": "berkman",
@@ -184,6 +184,18 @@
    "venue": "Boston",
    "cost": "Free, approval required",
    "url": "https://luma.com/2b4inmb4",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "9am–2pm",
+   "name": "The New Era of Cybersecurity: AI and National Security",
+   "host": "Mass AI Coalition",
+   "venue": "Boston",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/gfhlclvl",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"

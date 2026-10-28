@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28 10:32 UTC",
+ "fetched": "2026-10-28 19:23 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,28 +12,109 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
-  "TechCrunch": "ok 3",
+  "The Verge": "ok 1",
+  "TechCrunch": "ok 4",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-   "source": "BleepingComputer",
+   "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
+   "url": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
+   "source": "CyberScoop",
    "date": "2026-10-28",
-   "ts": "2026-10-28T09:43:15+00:00",
-   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021.…",
+   "ts": "2026-10-28T18:58:55+00:00",
+   "summary": "The lawsuit, brought by a former executive at Dominion Voting Systems, concerns comments made in a 2020 film financed by Byrne titled “The Deep Rig.”",
    "tag": "Cyber"
   },
   {
-   "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-   "source": "BleepingComputer",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T23:35:51+00:00",
-   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…",
+   "title": "Weil’s New AI Summer Program Has One Small Problem: Weil’s Future",
+   "url": "https://abovethelaw.com/2026/10/weils-new-ai-summer-program-has-one-small-problem-weils-future/",
+   "source": "Above the Law",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T18:32:00+00:00",
+   "summary": "The firm is recruiting 1Ls to build legal AI tools while it weighs its options amid partner exits and a collapsed merger.",
+   "tag": "AI"
+  },
+  {
+   "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+   "url": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+   "source": "The Record",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T18:02:00+00:00",
+   "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
+   "tag": "AI"
+  },
+  {
+   "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+   "url": "https://therecord.media/north-korea-russia-sanctions",
+   "source": "The Record",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:45:00+00:00",
+   "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
    "tag": "Cyber"
+  },
+  {
+   "title": "A First Amendment Approach to Regulating AI Model Weights",
+   "url": "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
+   "source": "Lawfare",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:00:04+00:00",
+   "summary": "It is unclear whether AI model weights are speech. But any regime that licenses them should be built with First Amendment protections regardless.",
+   "tag": "AI"
+  },
+  {
+   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:45:47+00:00",
+   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Researchers uncover Volt Typhoon’s covert, ephemeral network",
+   "url": "https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/",
+   "source": "CyberScoop",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:00:00+00:00",
+   "summary": "The China-linked threat group has used the “Silent Train” framework, built on a series of rapidly rotating compromised devices, to infiltrate hundreds of critical infrastructure networks.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+   "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:00:00+00:00",
+   "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "source": "TechCrunch",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T15:41:18+00:00",
+   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "tag": "AI"
+  },
+  {
+   "title": "💾 Fighting DOGE's Data Grab | EFFector 38.19",
+   "url": "https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819",
+   "source": "EFF",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T15:21:42+00:00",
+   "summary": "When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won't later be used against us. But in a betrayal of that trust, the federal…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
+   "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T15:15:33+00:00",
+   "summary": "After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts...",
+   "tag": "AI"
   },
   {
    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -42,15 +123,6 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T23:34:27+00:00",
    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "tag": "AI"
-  },
-  {
-   "title": "Before you file that AI bug report, OpenAI has some advice",
-   "url": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
-   "source": "CyberScoop",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T21:21:27+00:00",
-   "summary": "Open-source maintainers are so overwhelmed by AI-generated security reports that some have stopped accepting them. OpenAI’s Daybreak lead says the fix is higher-quality findings and far more coordination.",
    "tag": "AI"
   },
   {
@@ -68,25 +140,7 @@
    "source": "Dark Reading",
    "date": "2026-10-27",
    "ts": "2026-10-27T20:42:40+00:00",
-   "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "All the security risks Anthropic is worried about before its IPO",
-   "url": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
-   "source": "CyberScoop",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:41:16+00:00",
-   "summary": "Anthropic has said out-of-control AI poses a threat to the world, but perhaps unsurprisingly suggests that profit will shape those decisions, too.",
-   "tag": "AI"
-  },
-  {
-   "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
-   "url": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-   "source": "The Record",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:40:00+00:00",
-   "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
    "tag": "Cyber"
   },
   {
@@ -99,24 +153,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-   "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-   "source": "The Record",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T19:30:00+00:00",
-   "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment",
-   "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
-   "source": "EFF",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T19:05:42+00:00",
-   "summary": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making. EFF sued the…",
-   "tag": "AI"
-  },
-  {
    "title": "Trump is making it easier for fossil fuel companies to leak methane",
    "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
    "source": "The Verge",
@@ -126,48 +162,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-   "source": "TechCrunch",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T17:08:08+00:00",
-   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-   "tag": "AI"
-  },
-  {
-   "title": "Scaling Laws Roadshow at Univ. of Oregon: AI and State Governments with Nik Blosser",
-   "url": "https://www.lawfaremedia.org/article/scaling-laws-roadshow-at-univ.-of-oregon--ai-and-state-governments-with-nik-blosser",
-   "source": "Lawfare",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T14:00:09+00:00",
-   "summary": "What should a state government have to demonstrate before it asks residents to trust an AI system? In this episode of Scaling Laws, Nik Blosser, Oregon’s Chief AI Officer, joins Kevin Frazier, Director of the AI…",
-   "tag": "AI"
-  },
-  {
-   "title": "Legal Ethics Roundup: Supreme Court Recusals Derail Case, DOJ Targets Judges, Judicial Endorsement Controversy, Judge Leaks Sealed Records, Private Equity Rebuffed & More",
-   "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-supreme-court-recusals-derail-case-doj-targets-judges-judicial-endorsement-controversy-judge-leaks-sealed-records-private-equity-rebuffed-more/",
-   "source": "Above the Law",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T22:15:00+00:00",
-   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
-   "tag": "Cyber"
-  },
-  {
    "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
    "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
    "source": "LawSites",
    "date": "2026-10-26",
    "ts": "2026-10-26T19:47:25+00:00",
    "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new…",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Grok Top For Contracts, AL on Hols, Harvey Agents +",
-   "url": "https://www.artificiallawyer.com/2026/10/23/grok-top-for-contracts-al-on-hols-harvey-agents/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-23",
-   "ts": "2026-10-23T08:08:55+00:00",
-   "summary": "We start this week’s Wrap with some surprising data about Grok’s performance on contract review. But first, a quick announcement: Artificial Lawyer is now on...",
    "tag": "Legal tech"
   },
   {
