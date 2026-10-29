@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28 16:31 ET",
+ "fetched": "2026-10-29 06:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,42 +8,6 @@
   "berkman": "ok 2"
  },
  "events": [
-  {
-   "date": "2026-10-28",
-   "time": "4–6pm",
-   "name": "BUILD617 Halloween: Claude's House of Horrors",
-   "host": "Mass AI Coalition",
-   "venue": "Boston",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/s9hj9kz3",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "6–8pm",
-   "name": "Ditch the Deck: AI Show Not Tell",
-   "host": "Mass AI Coalition",
-   "venue": "Ned Devine's Irish Pub",
-   "cost": "Free",
-   "url": "https://luma.com/xe95mbwr",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-10-28",
-   "time": "4–6pm",
-   "name": "WHOOP: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "Whoop",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/19zyvln7",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-10-29",
    "time": "5:30–7:30pm",

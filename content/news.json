@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-28 20:31 UTC",
+ "fetched": "2026-10-29 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,11 +12,83 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
-  "TechCrunch": "ok 4",
-  "Above the Law": "ok 3"
+  "The Verge": "ok 2",
+  "TechCrunch": "ok 3",
+  "Above the Law": "ok 2"
  },
  "items": [
+  {
+   "title": "AI Didn’t Cause the Weil Crisis",
+   "url": "https://www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T10:15:26+00:00",
+   "summary": "Some have suggested that Weil’s impending dissolution has been caused by AI’s impact. Artificial Lawyer has got to say: technology is the least of the...",
+   "tag": "AI"
+  },
+  {
+   "title": "The 4 Es Inhouse AI Framework – Emily Bull",
+   "url": "https://www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T09:02:28+00:00",
+   "summary": "For Emily Bull, Director of Legal, Property, Planning and Consenting at SSE – and a speaker at Legal Innovators UK on Inhouse Day, November 5th,...",
+   "tag": "AI"
+  },
+  {
+   "title": "Officials seize domain of top bulletproof hosting provider Virtualine",
+   "url": "https://cyberscoop.com/virtualine-bulletproof-hosting-provider-seized/",
+   "source": "CyberScoop",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T00:38:19+00:00",
+   "summary": "The Russian-speaking cybercrime storefront was among the most active bulletproof hosting providers this year to date, receiving almost one-fifth of all illicit-attributed inflow tracked by researchers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "A hacker stole more than 40,000 DHS employee records",
+   "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+   "source": "The Verge",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T22:01:10+00:00",
+   "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists",
+   "url": "https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/",
+   "source": "CyberScoop",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T21:33:00+00:00",
+   "summary": "The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+   "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+   "source": "The Record",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T20:50:00+00:00",
+   "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+   "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+   "source": "BleepingComputer",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T20:47:22+00:00",
+   "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+   "url": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+   "source": "The Record",
+   "date": "2026-10-28",
+   "ts": "2026-10-28T20:33:00+00:00",
+   "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+   "tag": "Cyber"
+  },
   {
    "title": "Victory! You Can Now Exclude Apps from Siri AI",
    "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
@@ -36,12 +108,12 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
-   "url": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
-   "source": "CyberScoop",
+   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+   "source": "Dark Reading",
    "date": "2026-10-28",
-   "ts": "2026-10-28T18:58:55+00:00",
-   "summary": "The lawsuit, brought by a former executive at Dominion Voting Systems, concerns comments made in a 2020 film financed by Byrne titled “The Deep Rig.”",
+   "ts": "2026-10-28T19:39:00+00:00",
+   "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
    "tag": "Cyber"
   },
   {
@@ -52,24 +124,6 @@
    "ts": "2026-10-28T18:32:00+00:00",
    "summary": "The firm is recruiting 1Ls to build legal AI tools while it weighs its options amid partner exits and a collapsed merger.",
    "tag": "AI"
-  },
-  {
-   "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
-   "url": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
-   "source": "The Record",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T18:02:00+00:00",
-   "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
-   "tag": "AI"
-  },
-  {
-   "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
-   "url": "https://therecord.media/north-korea-russia-sanctions",
-   "source": "The Record",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T17:45:00+00:00",
-   "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
-   "tag": "Cyber"
   },
   {
    "title": "A First Amendment Approach to Regulating AI Model Weights",
@@ -90,24 +144,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Researchers uncover Volt Typhoon’s covert, ephemeral network",
-   "url": "https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/",
-   "source": "CyberScoop",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T16:00:00+00:00",
-   "summary": "The China-linked threat group has used the “Silent Train” framework, built on a series of rapidly rotating compromised devices, to infiltrate hundreds of critical infrastructure networks.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-   "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T16:00:00+00:00",
-   "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
    "source": "TechCrunch",
@@ -117,33 +153,6 @@
    "tag": "AI"
   },
   {
-   "title": "Anthropic Increases Legal Vertical Push With ‘Artifacts’",
-   "url": "https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T15:15:33+00:00",
-   "summary": "After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts...",
-   "tag": "AI"
-  },
-  {
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "source": "TechCrunch",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T23:34:27+00:00",
-   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-   "tag": "AI"
-  },
-  {
-   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-   "source": "Dark Reading",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:42:40+00:00",
-   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Bringing Privacy, Safety, and Well-being Together at FPF",
    "url": "https://fpf.org/blog/bringing-privacy-safety-and-well-being-together-at-fpf/",
    "source": "Future of Privacy Forum",
@@ -151,15 +160,6 @@
    "ts": "2026-10-27T20:21:32+00:00",
    "summary": "FPF’s youth policy work is growing. For more than 18 years, FPF has been a recognized leader in youth privacy. Our work and partnerships have helped inform this sector, from guidance on COPPA to advancing global…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Trump is making it easier for fossil fuel companies to leak methane",
-   "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-   "source": "The Verge",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T18:25:13+00:00",
-   "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse…",
-   "tag": "Cyber"
   },
   {
    "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
