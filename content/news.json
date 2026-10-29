@@ -1,38 +1,101 @@
 {
- "fetched": "2026-10-29 10:31 UTC",
+ "fetched": "2026-10-29 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 2",
+  "Future of Privacy Forum": "ok 4",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 2",
+  "Krebs on Security": "ok 1",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 1",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
-  "TechCrunch": "ok 3",
+  "The Verge": "ok 1",
+  "TechCrunch": "ok 0",
   "Above the Law": "ok 2"
  },
  "items": [
   {
-   "title": "AI Didn’t Cause the Weil Crisis",
-   "url": "https://www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis/",
-   "source": "Artificial Lawyer",
+   "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
+   "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
+   "source": "Future of Privacy Forum",
    "date": "2026-10-29",
-   "ts": "2026-10-29T10:15:26+00:00",
-   "summary": "Some have suggested that Weil’s impending dissolution has been caused by AI’s impact. Artificial Lawyer has got to say: technology is the least of the...",
+   "ts": "2026-10-29T20:23:48+00:00",
+   "summary": "Co-authored by Michelle Roitgarts, U.S. Legislation Legal Intern On October 26, 2026, the Future of Privacy Forum (FPF) submitted comments in response to the Colorado Department of Law’s (the Department’s) formal…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Limited reports of PHP bug exploitation emerge",
+   "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+   "source": "The Record",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T20:01:25+00:00",
+   "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+   "url": "https://therecord.media/general-motors-lawsuit-privacy",
+   "source": "The Record",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T19:45:00+00:00",
+   "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T18:38:26+00:00",
+   "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Back in the Chat: California and New York Take Diverging Paths in Second Wave of Chatbot Regulations",
+   "url": "https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T18:10:30+00:00",
+   "summary": "Introduction This week, New York Governor Kathy Hochul signed S 9051B into law, establishing sweeping new restrictions on AI companion chatbot features deemed unsafe for minors. The move comes just over a month after…",
    "tag": "AI"
   },
   {
-   "title": "The 4 Es Inhouse AI Framework – Emily Bull",
-   "url": "https://www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull/",
+   "title": "Tech Tips for Parents this Digital Parenting Week",
+   "url": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
+   "source": "EFF",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:00:05+00:00",
+   "summary": "In today’s digital world, the internet is an essential resource for young people to access information, explore community, and find themselves. But we know that this often comes alongside fears of experiencing online…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Harvey Buys Aida – 5th Purchase in 2026",
+   "url": "https://www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026/",
    "source": "Artificial Lawyer",
    "date": "2026-10-29",
-   "ts": "2026-10-29T09:02:28+00:00",
-   "summary": "For Emily Bull, Director of Legal, Property, Planning and Consenting at SSE – and a speaker at Legal Innovators UK on Inhouse Day, November 5th,...",
+   "ts": "2026-10-29T15:46:21+00:00",
+   "summary": "Breaking News: Harvey has bought Aida, an AI-native sales execution platform founded by Glean co-founder Piyush Prahladka and Atish Das Sarma – which will help...",
+   "tag": "AI"
+  },
+  {
+   "title": "As Weil Faces the End, A New Mod Is Born",
+   "url": "https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T15:29:54+00:00",
+   "summary": "While one of Big Law’s most respected brand names – Weil Gotshal – collapses, a new model firm is born – Dexterity Law, led by...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It",
+   "url": "https://www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
+   "source": "LawSites",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:56:04+00:00",
+   "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and…",
    "tag": "AI"
   },
   {
@@ -63,33 +126,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-   "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-   "source": "The Record",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T20:50:00+00:00",
-   "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-   "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T20:47:22+00:00",
-   "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
-   "url": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
-   "source": "The Record",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T20:33:00+00:00",
-   "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Victory! You Can Now Exclude Apps from Siri AI",
    "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
    "source": "EFF",
@@ -99,16 +135,7 @@
    "tag": "AI"
   },
   {
-   "title": "Court Should Curb Abuse of Grand Jury Subpoenas Targeting Social Media Users",
-   "url": "https://www.eff.org/deeplinks/2026/10/court-should-curb-abuse-grand-jury-subpoenas-targeting-social-media-users",
-   "source": "EFF",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T19:48:20+00:00",
-   "summary": "A federal appeals court should curb the government’s abuse of grand jury subpoenas to unmask social media users who criticize lawless immigration enforcement. That is the message from the ACLU, EFF, and other civil…",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
    "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
    "source": "Dark Reading",
    "date": "2026-10-28",
@@ -126,49 +153,22 @@
    "tag": "AI"
   },
   {
-   "title": "A First Amendment Approach to Regulating AI Model Weights",
-   "url": "https://www.lawfaremedia.org/article/a-first-amendment-approach-to-regulating-ai-model-weights",
-   "source": "Lawfare",
+   "title": "Want To Show Legal Tech ROI? Start By Getting Your Data In Order",
+   "url": "https://abovethelaw.com/2026/10/want-to-show-legal-tech-roi-start-by-getting-your-data-in-order/",
+   "source": "Above the Law",
    "date": "2026-10-28",
-   "ts": "2026-10-28T17:00:04+00:00",
-   "summary": "It is unclear whether AI model weights are speech. But any regime that licenses them should be built with First Amendment protections regardless.",
-   "tag": "AI"
-  },
-  {
-   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-   "source": "BleepingComputer",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T16:45:47+00:00",
-   "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-   "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-   "source": "TechCrunch",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T15:41:18+00:00",
-   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-   "tag": "AI"
-  },
-  {
-   "title": "Bringing Privacy, Safety, and Well-being Together at FPF",
-   "url": "https://fpf.org/blog/bringing-privacy-safety-and-well-being-together-at-fpf/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:21:32+00:00",
-   "summary": "FPF’s youth policy work is growing. For more than 18 years, FPF has been a recognized leader in youth privacy. Our work and partnerships have helped inform this sector, from guidance on COPPA to advancing global…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)",
-   "url": "https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html",
-   "source": "LawSites",
-   "date": "2026-10-26",
-   "ts": "2026-10-26T19:47:25+00:00",
-   "summary": "Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new…",
+   "ts": "2026-10-28T15:32:09+00:00",
+   "summary": "[Sponsored] Information governance has moved from a compliance nuisance to a productivity cornerstone. Here are 4 steps to position your firm for success.",
    "tag": "Legal tech"
+  },
+  {
+   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+   "source": "Dark Reading",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:42:40+00:00",
+   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "tag": "Cyber"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
