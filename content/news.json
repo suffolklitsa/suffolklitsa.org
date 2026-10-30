@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30 10:31 UTC",
+ "fetched": "2026-10-30 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -14,9 +14,72 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
   "TechCrunch": "ok 0",
-  "Above the Law": "ok 2"
+  "Above the Law": "ok 0"
  },
  "items": [
+  {
+   "title": "Fashion retailer Resolve says hackers stole payment card information",
+   "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+   "source": "The Record",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:00:00+00:00",
+   "summary": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Apple notifications alert victims in 99 countries about mercenary spyware infections",
+   "url": "https://cyberscoop.com/apple-spyware-notifications-pall-mall-process/",
+   "source": "CyberScoop",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:07:05+00:00",
+   "summary": "The notifications come shortly before the Pall Mall Process is nearing final negotiations on guidelines for the use of commercial hacking tools.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "source": "The Verge",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:08:56+00:00",
+   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
+   "tag": "AI"
+  },
+  {
+   "title": "California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment",
+   "url": "https://cyberscoop.com/california-election-subpoenas-doj-voter-rolls/",
+   "source": "CyberScoop",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:58:35+00:00",
+   "summary": "Los Angeles County officials told CyberScoop they received multiple grand jury subpoenas investigating alleged election fraud. States and civil groups call it a federal power play.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+   "url": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+   "source": "The Record",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:54:00+00:00",
+   "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Defense contractor pleads guilty to aiding North Korean remote worker scheme",
+   "url": "https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/",
+   "source": "CyberScoop",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:14:29+00:00",
+   "summary": "The 62-year-old allowed co-conspirators to use his identity and top secret security clearance to apply for almost 100 jobs last year. The scheme’s success rate was limited.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In",
+   "url": "https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
+   "source": "LawSites",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:40:32+00:00",
+   "summary": "Got conferences? If so, then probably one or more of Legaltech Week’s regular panelists has been there in the last couple weeks — from ClioCon in Boston to the Everlaw Summit in San Francisco to NetDocuments Inspire in…",
+   "tag": "Legal tech"
+  },
   {
    "title": "What Real AI Adoption Looks Like",
    "url": "https://www.artificiallawyer.com/2026/10/30/what-real-ai-adoption-looks-like/",
@@ -25,15 +88,6 @@
    "ts": "2026-10-30T08:37:44+00:00",
    "summary": "For Brian Kennedy, Director of Innovation, Real Estate, at BCLP – and who is one of many expert speakers appearing at Legal Innovators UK next...",
    "tag": "AI"
-  },
-  {
-   "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
-   "url": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
-   "source": "The Record",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T00:00:00+00:00",
-   "summary": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea.",
-   "tag": "Cyber"
   },
   {
    "title": "Binance probes potential $5.8 billion crypto-theft hack",
@@ -45,30 +99,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T22:43:40+00:00",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
-   "tag": "AI"
-  },
-  {
    "title": "Japan Airlines suffers third-party data breach exposing passenger info",
    "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
    "source": "BleepingComputer",
    "date": "2026-10-29",
    "ts": "2026-10-29T22:08:04+00:00",
    "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
-   "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
-   "source": "CyberScoop",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T20:58:28+00:00",
-   "summary": "A DHS contractor requested its removal, while a social media site blocked links to it. It was offline for a spell before finding a new home.",
    "tag": "Cyber"
   },
   {
@@ -79,15 +115,6 @@
    "ts": "2026-10-29T20:23:48+00:00",
    "summary": "Co-authored by Michelle Roitgarts, U.S. Legislation Legal Intern On October 26, 2026, the Future of Privacy Forum (FPF) submitted comments in response to the Colorado Department of Law’s (the Department’s) formal…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Limited reports of PHP bug exploitation emerge",
-   "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-   "source": "The Record",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T20:01:25+00:00",
-   "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
-   "tag": "Cyber"
   },
   {
    "title": "Back in the Chat: California and New York Take Diverging Paths in Second Wave of Chatbot Regulations",
@@ -106,33 +133,6 @@
    "ts": "2026-10-29T17:00:05+00:00",
    "summary": "In today’s digital world, the internet is an essential resource for young people to access information, explore community, and find themselves. But we know that this often comes alongside fears of experiencing online…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Harvey Buys Aida – 5th Purchase in 2026",
-   "url": "https://www.artificiallawyer.com/2026/10/29/harvey-buys-aida-5th-purchase-in-2026/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T15:46:21+00:00",
-   "summary": "Breaking News: Harvey has bought Aida, an AI-native sales execution platform founded by Glean co-founder Piyush Prahladka and Atish Das Sarma – which will help...",
-   "tag": "AI"
-  },
-  {
-   "title": "At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It",
-   "url": "https://www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
-   "source": "LawSites",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T13:56:04+00:00",
-   "summary": "Within the span of 48 hours this week, I was an in-person witness to the legal profession’s divide on AI. Through a bit of karmic coincidence, I was in a room one day dominated by people who fear it as a threat, and…",
-   "tag": "AI"
-  },
-  {
-   "title": "Officials seize domain of top bulletproof hosting provider Virtualine",
-   "url": "https://cyberscoop.com/virtualine-bulletproof-hosting-provider-seized/",
-   "source": "CyberScoop",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T00:38:19+00:00",
-   "summary": "The Russian-speaking cybercrime storefront was among the most active bulletproof hosting providers this year to date, receiving almost one-fifth of all illicit-attributed inflow tracked by researchers.",
-   "tag": "Cyber"
   },
   {
    "title": "A hacker stole more than 40,000 DHS employee records",
@@ -162,13 +162,13 @@
    "tag": "Cyber"
   },
   {
-   "title": "Weil’s New AI Summer Program Has One Small Problem: Weil’s Future",
-   "url": "https://abovethelaw.com/2026/10/weils-new-ai-summer-program-has-one-small-problem-weils-future/",
-   "source": "Above the Law",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T18:32:00+00:00",
-   "summary": "The firm is recruiting 1Ls to build legal AI tools while it weighs its options amid partner exits and a collapsed merger.",
-   "tag": "AI"
+   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+   "source": "Dark Reading",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T20:42:40+00:00",
+   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+   "tag": "Cyber"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
