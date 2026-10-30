@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-29 20:31 UTC",
+ "fetched": "2026-10-30 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,11 +12,65 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 0",
   "Above the Law": "ok 2"
  },
  "items": [
+  {
+   "title": "What Real AI Adoption Looks Like",
+   "url": "https://www.artificiallawyer.com/2026/10/30/what-real-ai-adoption-looks-like/",
+   "source": "Artificial Lawyer",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T08:37:44+00:00",
+   "summary": "For Brian Kennedy, Director of Innovation, Real Estate, at BCLP – and who is one of many expert speakers appearing at Legal Innovators UK next...",
+   "tag": "AI"
+  },
+  {
+   "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
+   "url": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
+   "source": "The Record",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T00:00:00+00:00",
+   "summary": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Binance probes potential $5.8 billion crypto-theft hack",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T22:45:23+00:00",
+   "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "source": "The Verge",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T22:43:40+00:00",
+   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
+   "tag": "AI"
+  },
+  {
+   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "source": "BleepingComputer",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T22:08:04+00:00",
+   "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
+   "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
+   "source": "CyberScoop",
+   "date": "2026-10-29",
+   "ts": "2026-10-29T20:58:28+00:00",
+   "summary": "A DHS contractor requested its removal, while a social media site blocked links to it. It was offline for a spell before finding a new home.",
+   "tag": "Cyber"
+  },
   {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
    "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
@@ -33,24 +87,6 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T20:01:25+00:00",
    "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-   "url": "https://therecord.media/general-motors-lawsuit-privacy",
-   "source": "The Record",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T19:45:00+00:00",
-   "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:38:26+00:00",
-   "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware…",
    "tag": "Cyber"
   },
   {
@@ -81,15 +117,6 @@
    "tag": "AI"
   },
   {
-   "title": "As Weil Faces the End, A New Mod Is Born",
-   "url": "https://www.artificiallawyer.com/2026/10/29/as-weil-faces-the-end-a-new-mod-is-born/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T15:29:54+00:00",
-   "summary": "While one of Big Law’s most respected brand names – Weil Gotshal – collapses, a new model firm is born – Dexterity Law, led by...",
-   "tag": "Legal tech"
-  },
-  {
    "title": "At ClioCon, Legal’s AI Future Is Already Here, Along with 3,000 People Eager to Shape It",
    "url": "https://www.lawnext.com/2026/10/at-cliocon-legals-ai-future-is-already-here-along-with-3000-people-eager-to-shape-it.html",
    "source": "LawSites",
@@ -114,15 +141,6 @@
    "date": "2026-10-28",
    "ts": "2026-10-28T22:01:10+00:00",
    "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists",
-   "url": "https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/",
-   "source": "CyberScoop",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T21:33:00+00:00",
-   "summary": "The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online.",
    "tag": "Cyber"
   },
   {
@@ -151,24 +169,6 @@
    "ts": "2026-10-28T18:32:00+00:00",
    "summary": "The firm is recruiting 1Ls to build legal AI tools while it weighs its options amid partner exits and a collapsed merger.",
    "tag": "AI"
-  },
-  {
-   "title": "Want To Show Legal Tech ROI? Start By Getting Your Data In Order",
-   "url": "https://abovethelaw.com/2026/10/want-to-show-legal-tech-roi-start-by-getting-your-data-in-order/",
-   "source": "Above the Law",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T15:32:09+00:00",
-   "summary": "[Sponsored] Information governance has moved from a compliance nuisance to a productivity cornerstone. Here are 4 steps to position your firm for success.",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-   "source": "Dark Reading",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:42:40+00:00",
-   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-   "tag": "Cyber"
   },
   {
    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",

@@ -1,25 +1,13 @@
 {
- "fetched": "2026-10-29 16:31 ET",
+ "fetched": "2026-10-30 06:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 5",
+  "bba": "ok 6",
   "berkman": "ok 2"
  },
  "events": [
-  {
-   "date": "2026-10-29",
-   "time": "5:30–7:30pm",
-   "name": "n8n's Autom8 Boston",
-   "host": "Mass AI Coalition",
-   "venue": "Democracy Brewing",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/xzc5x2wf",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-02",
    "time": "12–1pm",
@@ -212,6 +200,18 @@
    "tier": "boston",
    "note": "All Too Human 2026-27 Speaker Series",
    "source_key": "berkman"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "12–1:30pm",
+   "name": "Working Smarter in IP Practice: Everyday AI Tools and Workflows",
+   "host": "Boston Bar Association",
+   "venue": "See event page",
+   "cost": "See event page",
+   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000054JE5",
+   "source": "bba",
+   "tier": "boston",
+   "source_key": "bba"
   },
   {
    "date": "2026-12-09",
