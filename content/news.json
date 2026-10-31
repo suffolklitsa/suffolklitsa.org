@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-30 20:31 UTC",
+ "fetched": "2026-10-31 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -13,10 +13,55 @@
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 0",
+  "TechCrunch": "ok 1",
   "Above the Law": "ok 0"
  },
  "items": [
+  {
+   "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+   "source": "EFF",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T23:42:45+00:00",
+   "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and…",
+   "tag": "AI"
+  },
+  {
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "source": "TechCrunch",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T22:56:13+00:00",
+   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "tag": "AI"
+  },
+  {
+   "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
+   "url": "https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/",
+   "source": "CyberScoop",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T21:30:00+00:00",
+   "summary": "Vapor Panda targeted more than 200 organizations spanning at least 14 countries, according to CrowdStrike. The ongoing campaign is remarkably successful and operating at shocking speed.",
+   "tag": "AI"
+  },
+  {
+   "title": "Why VPNs Are Worth Defending",
+   "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
+   "source": "EFF",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T20:55:24+00:00",
+   "summary": "Developers of virtual private network (VPN) apps are reporting that their products are again being pulled from Apple’s App Store in Russia. This is an unacceptable crackdown on a vital tool to protect privacy and speech…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+   "url": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+   "source": "The Record",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T20:45:00+00:00",
+   "summary": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
+   "tag": "AI"
+  },
   {
    "title": "Fashion retailer Resolve says hackers stole payment card information",
    "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
@@ -43,33 +88,6 @@
    "ts": "2026-10-30T16:08:56+00:00",
    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
    "tag": "AI"
-  },
-  {
-   "title": "California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment",
-   "url": "https://cyberscoop.com/california-election-subpoenas-doj-voter-rolls/",
-   "source": "CyberScoop",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:58:35+00:00",
-   "summary": "Los Angeles County officials told CyberScoop they received multiple grand jury subpoenas investigating alleged election fraud. States and civil groups call it a federal power play.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
-   "url": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-   "source": "The Record",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:54:00+00:00",
-   "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Defense contractor pleads guilty to aiding North Korean remote worker scheme",
-   "url": "https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/",
-   "source": "CyberScoop",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:14:29+00:00",
-   "summary": "The 62-year-old allowed co-conspirators to use his identity and top secret security clearance to apply for almost 100 jobs last year. The scheme’s success rate was limited.",
-   "tag": "Cyber"
   },
   {
    "title": "Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In",
@@ -126,15 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "Tech Tips for Parents this Digital Parenting Week",
-   "url": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
-   "source": "EFF",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:00:05+00:00",
-   "summary": "In today’s digital world, the internet is an essential resource for young people to access information, explore community, and find themselves. But we know that this often comes alongside fears of experiencing online…",
-   "tag": "Privacy"
-  },
-  {
    "title": "A hacker stole more than 40,000 DHS employee records",
    "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
    "source": "The Verge",
@@ -142,15 +151,6 @@
    "ts": "2026-10-28T22:01:10+00:00",
    "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000…",
    "tag": "Cyber"
-  },
-  {
-   "title": "Victory! You Can Now Exclude Apps from Siri AI",
-   "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
-   "source": "EFF",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T20:04:21+00:00",
-   "summary": "In the most recent update to Apple’s devices, iOS 27.2, the company has introduced a new setting to “Exclude Apps” from Siri AI, fulfilling one of our asks from our Encrypt It Already campaign earlier this year. One of…",
-   "tag": "AI"
   },
   {
    "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
