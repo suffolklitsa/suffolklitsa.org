@@ -1,14 +1,14 @@
 {
- "fetched": "2026-10-31 10:32 UTC",
+ "fetched": "2026-10-31 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 4",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 1",
+  "Krebs on Security": "ok 0",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 4",
+  "BleepingComputer": "ok 3",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 0"
  },
  "items": [
+  {
+   "title": "Northflank security breach leads to abuse of customers' AI API keys",
+   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "source": "BleepingComputer",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T18:01:12+00:00",
+   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys.…",
+   "tag": "AI"
+  },
+  {
+   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+   "source": "BleepingComputer",
+   "date": "2026-10-31",
+   "ts": "2026-10-31T12:50:09+00:00",
+   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and…",
+   "tag": "Cyber"
+  },
   {
    "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
    "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
@@ -90,6 +108,15 @@
    "tag": "AI"
   },
   {
+   "title": "California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment",
+   "url": "https://cyberscoop.com/california-election-subpoenas-doj-voter-rolls/",
+   "source": "CyberScoop",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:58:35+00:00",
+   "summary": "Los Angeles County officials told CyberScoop they received multiple grand jury subpoenas investigating alleged election fraud. States and civil groups call it a federal power play.",
+   "tag": "Cyber"
+  },
+  {
    "title": "Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In",
    "url": "https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
    "source": "LawSites",
@@ -106,24 +133,6 @@
    "ts": "2026-10-30T08:37:44+00:00",
    "summary": "For Brian Kennedy, Director of Innovation, Real Estate, at BCLP – and who is one of many expert speakers appearing at Legal Innovators UK next...",
    "tag": "AI"
-  },
-  {
-   "title": "Binance probes potential $5.8 billion crypto-theft hack",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T22:45:23+00:00",
-   "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-   "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-   "source": "BleepingComputer",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T22:08:04+00:00",
-   "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers.…",
-   "tag": "Cyber"
   },
   {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
@@ -168,15 +177,6 @@
    "date": "2026-10-27",
    "ts": "2026-10-27T20:42:40+00:00",
    "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-   "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-   "source": "Krebs on Security",
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:26:07+00:00",
-   "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full…",
    "tag": "Cyber"
   }
  ]
