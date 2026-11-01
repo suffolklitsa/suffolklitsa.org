@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01 10:31 UTC",
+ "fetched": "2026-11-01 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -8,15 +8,33 @@
   "The Record": "ok 4",
   "Krebs on Security": "ok 0",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 3",
+  "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
+  "The Verge": "ok 3",
   "TechCrunch": "ok 2",
   "Above the Law": "ok 0"
  },
  "items": [
+  {
+   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T19:57:53+00:00",
+   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T15:11:21+00:00",
+   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…",
+   "tag": "Cyber"
+  },
   {
    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
@@ -34,15 +52,6 @@
    "ts": "2026-10-31T18:01:12+00:00",
    "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys.…",
    "tag": "AI"
-  },
-  {
-   "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T12:50:09+00:00",
-   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and…",
-   "tag": "Cyber"
   },
   {
    "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
@@ -151,15 +160,6 @@
    "ts": "2026-10-29T18:10:30+00:00",
    "summary": "Introduction This week, New York Governor Kathy Hochul signed S 9051B into law, establishing sweeping new restrictions on AI companion chatbot features deemed unsafe for minors. The move comes just over a month after…",
    "tag": "AI"
-  },
-  {
-   "title": "A hacker stole more than 40,000 DHS employee records",
-   "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
-   "source": "The Verge",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T22:01:10+00:00",
-   "summary": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000…",
-   "tag": "Cyber"
   },
   {
    "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
