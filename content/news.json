@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-01 20:31 UTC",
+ "fetched": "2026-11-02 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -9,14 +9,50 @@
   "Krebs on Security": "ok 0",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
-  "Dark Reading": "ok 4",
+  "Dark Reading": "ok 3",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 3",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 2",
   "Above the Law": "ok 0"
  },
  "items": [
+  {
+   "title": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
+   "url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T08:40:54+00:00",
+   "summary": "Vetta, a new AI-native law firm started by Nic Vetta, a former Latham & Watkins lawyer, is bidding to bring aboard talent and IP from...",
+   "tag": "AI"
+  },
+  {
+   "title": "How Specialist AI Agents Support Evidence-Based Arbitrator Selection",
+   "url": "https://www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T07:31:46+00:00",
+   "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. Arbitrator selection: a consequential decision, a fragmented process Arbitration is a consensual dispute resolution mechanism widely used to...",
+   "tag": "AI"
+  },
+  {
+   "title": "FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions",
+   "url": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+   "source": "The Record",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "summary": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Federal court tosses Trump lawsuit challenging Alaska Senate certification",
+   "url": "https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/",
+   "source": "CyberScoop",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T22:47:26+00:00",
+   "summary": "The government claimed voters would be confused by two candidates with the same name. A federal judge said the executive branch has no constitutional role in the matter.",
+   "tag": "Legal tech"
+  },
   {
    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
@@ -42,15 +78,6 @@
    "date": "2026-10-31",
    "ts": "2026-10-31T21:17:03+00:00",
    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "tag": "AI"
-  },
-  {
-   "title": "Northflank security breach leads to abuse of customers' AI API keys",
-   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-   "source": "BleepingComputer",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T18:01:12+00:00",
-   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys.…",
    "tag": "AI"
   },
   {
@@ -99,24 +126,6 @@
    "tag": "AI"
   },
   {
-   "title": "Fashion retailer Resolve says hackers stole payment card information",
-   "url": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
-   "source": "The Record",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T19:00:00+00:00",
-   "summary": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Apple notifications alert victims in 99 countries about mercenary spyware infections",
-   "url": "https://cyberscoop.com/apple-spyware-notifications-pall-mall-process/",
-   "source": "CyberScoop",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T17:07:05+00:00",
-   "summary": "The notifications come shortly before the Pall Mall Process is nearing final negotiations on guidelines for the use of commercial hacking tools.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
    "source": "The Verge",
@@ -133,15 +142,6 @@
    "ts": "2026-10-30T14:40:32+00:00",
    "summary": "Got conferences? If so, then probably one or more of Legaltech Week’s regular panelists has been there in the last couple weeks — from ClioCon in Boston to the Everlaw Summit in San Francisco to NetDocuments Inspire in…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "What Real AI Adoption Looks Like",
-   "url": "https://www.artificiallawyer.com/2026/10/30/what-real-ai-adoption-looks-like/",
-   "source": "Artificial Lawyer",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T08:37:44+00:00",
-   "summary": "For Brian Kennedy, Director of Innovation, Real Estate, at BCLP – and who is one of many expert speakers appearing at Legal Innovators UK next...",
-   "tag": "AI"
   },
   {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
