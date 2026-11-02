@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-02 10:31 UTC",
+ "fetched": "2026-11-02 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,36 +12,135 @@
   "Dark Reading": "ok 3",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
-  "Above the Law": "ok 0"
+  "The Verge": "ok 3",
+  "TechCrunch": "ok 3",
+  "Above the Law": "ok 2"
  },
  "items": [
   {
-   "title": "AI-Native Firm Vetta Bids For Weil IP + Lawyers",
-   "url": "https://www.artificiallawyer.com/2026/11/02/ai-native-firm-vetta-bids-for-weil-ip-lawyers/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T08:40:54+00:00",
-   "summary": "Vetta, a new AI-native law firm started by Nic Vetta, a former Latham & Watkins lawyer, is bidding to bring aboard talent and IP from...",
-   "tag": "AI"
-  },
-  {
-   "title": "How Specialist AI Agents Support Evidence-Based Arbitrator Selection",
-   "url": "https://www.artificiallawyer.com/2026/11/02/how-specialist-ai-agents-support-evidence-based-arbitrator-selection/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T07:31:46+00:00",
-   "summary": "By Jean-Rémi de Maistre, CEO, Jus Mundi. Arbitrator selection: a consequential decision, a fragmented process Arbitration is a consensual dispute resolution mechanism widely used to...",
-   "tag": "AI"
-  },
-  {
-   "title": "FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions",
-   "url": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+   "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
    "source": "The Record",
    "date": "2026-11-02",
-   "ts": "2026-11-02T00:00:00+00:00",
-   "summary": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.",
+   "ts": "2026-11-02T19:54:00+00:00",
+   "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "source": "TechCrunch",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:19:17+00:00",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "tag": "AI"
+  },
+  {
+   "title": "Ford promises not to sell your driving habits to data brokers",
+   "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+   "source": "The Verge",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:05:46+00:00",
+   "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Legal Tech Awards ‘Ask Why’ — And The Answer Keeps Coming Back To Lawyers Can’t Do It Alone",
+   "url": "https://abovethelaw.com/2026/11/legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-cant-do-it-alone/",
+   "source": "Above the Law",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:45:00+00:00",
+   "summary": "The American Legal Technology Awards refocused on what matters this year.",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:16:34+00:00",
+   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
+   "url": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
+   "source": "The Record",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T17:05:20+00:00",
+   "summary": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "The Content Layer Wins: Why Treatises Matter More In The Age Of Agentic AI",
+   "url": "https://bit.ly/4iNAQTR",
+   "source": "Above the Law",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T16:32:00+00:00",
+   "summary": "[Sponsored] AI agents can orchestrate work, but they can only be as reliable as what they’re grounded in. That is where the real competitive question sits … and where lawyers should focus their attention.",
+   "tag": "AI"
+  },
+  {
+   "title": "North Korea linked to massive Binance crypto heist",
+   "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+   "source": "The Verge",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T16:16:07+00:00",
+   "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to the hack…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Independent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr",
+   "url": "https://www.eff.org/deeplinks/2026/11/independent-digital-media-not-privilege-governments-can-revoke-fight-save-egypts",
+   "source": "EFF",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:10:22+00:00",
+   "summary": "On November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr, will face trial for the second time in just two weeks. This time, she faces charges of spreading false news…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+   "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:03:07+00:00",
+   "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Guest Post: Beyond the Billable Hour — Will AI Finally Make Fixed Fees the Norm?",
+   "url": "https://www.lawnext.com/2026/11/guest-post-beyond-the-billable-hour-will-ai-finally-make-fixed-fees-the-norm.html",
+   "source": "LawSites",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:41:29+00:00",
+   "summary": "Thirty-five years ago, lawyers told me fixed fees could never work. A skyscraper and a quarter helped me address their concerns but nothing ever changed. AI gives us a new reason to listen. There is plenty of talk today…",
+   "tag": "AI"
+  },
+  {
+   "title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
+   "url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
+   "source": "LawSites",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T13:57:02+00:00",
+   "summary": "Over the past few years, there have been a few twists and turns in the competition among legal research platforms to be the preferred partner of state and local bar associations. Once, that competition was almost…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Will AI Change the Identity of Law Firm Partners?",
+   "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T12:59:14+00:00",
+   "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to...",
+   "tag": "AI"
+  },
+  {
+   "title": "Could Nick Andersen’s leadership outlast the clock on his acting role?",
+   "url": "https://cyberscoop.com/nick-andersen-cisa-acting-director-nomination/",
+   "source": "CyberScoop",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T11:00:00+00:00",
+   "summary": "He has won praise for his leadership of CISA as acting director, and there’s talk of keeping him in the role beyond his current deadline. With no nominee yet in sight, he might be the White House’s best option.",
    "tag": "Cyber"
   },
   {
@@ -54,24 +153,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T19:57:53+00:00",
-   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-   "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T15:11:21+00:00",
-   "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "source": "TechCrunch",
@@ -79,69 +160,6 @@
    "ts": "2026-10-31T21:17:03+00:00",
    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
    "tag": "AI"
-  },
-  {
-   "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
-   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
-   "source": "EFF",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T23:42:45+00:00",
-   "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and…",
-   "tag": "AI"
-  },
-  {
-   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-   "source": "TechCrunch",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T22:56:13+00:00",
-   "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-   "tag": "AI"
-  },
-  {
-   "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
-   "url": "https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/",
-   "source": "CyberScoop",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T21:30:00+00:00",
-   "summary": "Vapor Panda targeted more than 200 organizations spanning at least 14 countries, according to CrowdStrike. The ongoing campaign is remarkably successful and operating at shocking speed.",
-   "tag": "AI"
-  },
-  {
-   "title": "Why VPNs Are Worth Defending",
-   "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
-   "source": "EFF",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T20:55:24+00:00",
-   "summary": "Developers of virtual private network (VPN) apps are reporting that their products are again being pulled from Apple’s App Store in Russia. This is an unacceptable crackdown on a vital tool to protect privacy and speech…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-   "url": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-   "source": "The Record",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T20:45:00+00:00",
-   "summary": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
-   "tag": "AI"
-  },
-  {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "source": "The Verge",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T16:08:56+00:00",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots…",
-   "tag": "AI"
-  },
-  {
-   "title": "Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In",
-   "url": "https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html",
-   "source": "LawSites",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:40:32+00:00",
-   "summary": "Got conferences? If so, then probably one or more of Legaltech Week’s regular panelists has been there in the last couple weeks — from ClioCon in Boston to the Everlaw Summit in San Francisco to NetDocuments Inspire in…",
-   "tag": "Legal tech"
   },
   {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
@@ -153,30 +171,12 @@
    "tag": "Privacy"
   },
   {
-   "title": "Back in the Chat: California and New York Take Diverging Paths in Second Wave of Chatbot Regulations",
-   "url": "https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:10:30+00:00",
-   "summary": "Introduction This week, New York Governor Kathy Hochul signed S 9051B into law, establishing sweeping new restrictions on AI companion chatbot features deemed unsafe for minors. The move comes just over a month after…",
-   "tag": "AI"
-  },
-  {
    "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
    "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
    "source": "Dark Reading",
    "date": "2026-10-28",
    "ts": "2026-10-28T19:39:00+00:00",
    "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-   "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-   "source": "Dark Reading",
-   "date": "2026-10-27",
-   "ts": "2026-10-27T20:42:40+00:00",
-   "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
    "tag": "Cyber"
   }
  ]

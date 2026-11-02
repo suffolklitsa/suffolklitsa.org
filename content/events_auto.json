@@ -1,25 +1,13 @@
 {
- "fetched": "2026-11-02 05:31 ET",
+ "fetched": "2026-11-02 15:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 6",
+  "bba": "ok 5",
   "berkman": "ok 2"
  },
  "events": [
-  {
-   "date": "2026-11-02",
-   "time": "12–1pm",
-   "name": "Higher Education Roundtable Discussion: Bring Your AI Inbox",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000053YWv",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
-  },
   {
    "date": "2026-11-03",
    "time": "5pm",
