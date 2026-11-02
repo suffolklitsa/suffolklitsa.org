@@ -567,26 +567,25 @@
   "11044552"
  ],
  "pending": [],
- "last_run": "2026-10-26 11:15 UTC",
+ "last_run": "2026-11-02 11:15 UTC",
  "last_success": "2026-09-28 11:15 UTC",
  "health": {
   "ok": false,
   "degraded": false,
   "errors": [
-   "employment: HTTP Error 429: Too Many Requests"
+   "practice: HTTP Error 401: Unauthorized",
+   "copyright: HTTP Error 401: Unauthorized",
+   "evidence: HTTP Error 401: Unauthorized",
+   "automated: HTTP Error 401: Unauthorized",
+   "privacy: HTTP Error 401: Unauthorized",
+   "employment: HTTP Error 401: Unauthorized"
   ],
-  "candidates_seen": 89,
-  "new_this_run": 1,
+  "candidates_seen": 0,
+  "new_this_run": 0,
   "kept_this_run": 0,
   "pending": 0,
   "total_items": 29,
   "judged_ever": 131,
-  "source_counts": {
-   "practice": 27,
-   "copyright": 9,
-   "evidence": 111,
-   "automated": 20,
-   "privacy": 56
-  }
+  "source_counts": {}
  }
 }
