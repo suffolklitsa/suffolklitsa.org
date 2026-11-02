@@ -27,6 +27,17 @@ The site lands in `build/`. Open `build/index.html`, or serve it with `python3 -
 | `functions/` | Cloudflare Pages functions (tracked newsletter links) |
 | `vendor/` | The LITSA logo geometry and field taxonomy, copied in so the site builds on its own |
 
+## Course announcements
+
+`content/course_announcements.json` holds confirmed course announcements that have not yet
+reached the public catalog. The data loader combines them with the harvested course and
+concentration lists at build time, so a harvest does not erase them. Each addition carries
+its announcement date and planning notes. A matching catalog title and term takes precedence
+in the course browser; concentration eligibility remains attributed to the announcement.
+Remove an announcement only after the catalog and concentration sources both include it.
+`content/concentration_course_aliases.json` records verified title differences, so the
+concentration label can stay intact while matching the registrar’s offering.
+
 ## How changes go live
 
 Open a pull request against `staging`. Once it's merged, the next scheduled refresh (6:30am and 4:30pm Eastern)
