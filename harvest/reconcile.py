@@ -30,6 +30,7 @@ def main():
     conc = json.load(open(os.path.join(CONTENT, "concentrations.json"), encoding="utf-8"))
     courses = json.load(open(os.path.join(CONTENT, "courses.json"), encoding="utf-8"))["items"]
 
+    aliases = json.load(open(os.path.join(CONTENT, "concentration_course_aliases.json"), encoding="utf-8"))["items"]
     live = {}
     for c in courses:
         live.setdefault(norm(c["base_title"]), []).append(c)
@@ -39,7 +40,7 @@ def main():
     for c in conc["items"]:
         offered, missing = [], []
         for course in c["courses"]:
-            k = norm(course["title"])
+            k = norm(aliases.get(course["title"], {}).get("catalog_title", course["title"]))
             hit = live.get(k)
             if not hit:
                 near = difflib.get_close_matches(k, keys, 1, 0.88)

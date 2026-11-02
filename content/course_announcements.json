@@ -1,0 +1,62 @@
+{
+ "note": "Hand-maintained additions from course announcements. This file is not written by the harvest scripts. Confirm availability, eligibility and registration details in Workday.",
+ "items": [
+  {
+   "cohort": null,
+   "division": null,
+   "term": "Spring Law 2027",
+   "status": "Announced",
+   "prerequisites": "Confirm eligibility in Workday.",
+   "focus": [],
+   "concentrations": [
+    "Legal Innovation and Technology"
+   ],
+   "source_label": "LIT concentration director’s announcement, October 30, 2026",
+   "verified": "2026-11-02",
+   "announcement": true,
+   "title": "Superintelligent AI & the New Social Contract",
+   "base_title": "Superintelligent AI & the New Social Contract",
+   "slug": "superintelligent-ai-the-new-social-contract",
+   "section": null,
+   "course_number": null,
+   "meeting": "Tuesdays, 6–7:50 p.m. Eastern",
+   "credits": 2,
+   "delivery": "Online Synchronous",
+   "instructors": [],
+   "description": "Explore generative AI, autonomous agents and superintelligence, including accountability, human autonomy, legal personhood and the legal and policy choices surrounding advanced AI.",
+   "flags": [],
+   "planning_note": "Counts as a LIT concentration elective. Course number was not included in the announcement."
+  },
+  {
+   "cohort": null,
+   "division": null,
+   "term": "Spring Law 2027",
+   "status": "Announced",
+   "prerequisites": "Confirm eligibility in Workday.",
+   "focus": [],
+   "concentrations": [
+    "Legal Innovation and Technology"
+   ],
+   "source_label": "LIT concentration director’s announcement, October 30, 2026",
+   "verified": "2026-11-02",
+   "announcement": true,
+   "title": "Knowledge Technology for Factual Analysis",
+   "base_title": "Knowledge Technology for Factual Analysis",
+   "slug": "knowledge-technology-for-factual-analysis",
+   "section": null,
+   "course_number": "LAW 8022",
+   "meeting": "Mondays, 4–5:50 p.m. Eastern",
+   "credits": 3,
+   "delivery": "In-Person",
+   "instructors": [
+    "Marc Lauritsen"
+   ],
+   "description": "Use AI and other technologies to organize evidence and arguments. Hands-on work includes Wigmore diagrams and argument maps, with a weekly in-person class and independent project work.",
+   "flags": [
+    "Experiential Learning",
+    "Race, Equity and Law"
+   ],
+   "planning_note": "Counts as a LIT elective and toward the experiential learning and Race, Equity, and Law (REAL) requirements. Expect an average of eight hours of work outside class each week."
+  }
+ ]
+}

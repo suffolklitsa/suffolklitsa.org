@@ -43,6 +43,7 @@ CSS = """
   text-transform:uppercase; color:var(--ink-3);}
 .c .tags a{color:var(--blue);}
 .c .tags .fl{border:1px solid var(--line); padding:2px 6px;}
+.c.announced .cr,.c.announced .when,.c.announced .tags,.c.announced .stampline,.stampline.announcement-source{color:var(--ink-2);}
 .stampline{color:var(--ink-3); font-size:var(--t-xs); margin-top:var(--s4);
   font-family:var(--display); letter-spacing:.08em; text-transform:uppercase;}
 @media (max-width:760px){
@@ -97,18 +98,26 @@ def render():
         for f in c["focus"]:
             tags.append('<span class="fl">%s</span>' % D.esc(f["area"]))
         desc = c["description"][:340] + ("..." if len(c["description"]) > 340 else "")
+        announcement = ""
+        if c.get("announcement"):
+            details = " · ".join(filter(None, [c.get("course_number"), c["meeting"], c["delivery"],
+                                               ", ".join(c["instructors"])]))
+            announcement = ('<p class="desc">%s</p><p class="desc">%s</p>'
+                            '<p class="stampline">%s. Confirm details in Workday.</p>'
+                            % tuple(D.esc(v) for v in (details, c["planning_note"], c["source_label"])))
+        row_class = "c announced" if c.get("announcement") else "c"
         return (
-            '<article class="c" data-term="%s" data-areas="%s" data-flags="%s" '
+            '<article class="%s" data-term="%s" data-areas="%s" data-flags="%s" '
             'data-mode="%s" data-title="%s">'
             '<div class="top"><h3>%s</h3><span class="cr">%s</span>'
             '<span class="when">%s</span></div>'
-            '<p class="desc">%s</p><div class="tags">%s</div></article>'
-            % (term, D.esc("|".join(f["area"] for f in c["focus"])),
+            '<p class="desc">%s</p>%s<div class="tags">%s</div></article>'
+            % (row_class, term, D.esc("|".join(f["area"] for f in c["focus"])),
                D.esc("|".join(c["flags"])), D.esc(c["delivery"]),
                D.esc(c["base_title"].lower()), D.esc(c["base_title"]),
                ("%g cr" % c["credits"]) if c["credits"] else "",
                "Fall 2026" if term == "fall" else "Spring 2027",
-               D.esc(desc), "".join(tags)))
+               D.esc(desc), announcement, "".join(tags)))
 
     modes = {}
     for c in rows:
@@ -122,9 +131,11 @@ def render():
       <p class="eyebrow">2026&ndash;27</p>
       <h1 class="display">Every course running this year</h1>
       <p class="lede">{len(rows)} course offerings across both terms, tagged the way the
-      registrar tags them, and linked to the study aids for the subject.</p>
-      <p class="stampline">Verified {D.esc(D.verified('courses'))} &middot;
-      {len(courses)} sections &middot;
+      registrar tags them, and linked to the study aids for the subject.
+      Director-announced additions are identified separately below.</p>
+      <p class="stampline announcement-source">Verified {D.esc(D.verified('courses'))} &middot;
+      {len(D.load("courses")["items"])} catalog sections &middot;
+      {len(courses) - len(D.load("courses")["items"])} announced additions &middot;
       <a href="/curriculum/">concentrations &rarr;</a></p>
     </div>
   </div>

@@ -48,6 +48,9 @@ CSS = """
 .when-none{color:var(--ink-3); opacity:.75;}
 .crow .who{color:var(--ink-3); font-size:var(--t-xs); grid-column:1/-1;
   margin-top:-6px;}
+.crow .details{grid-column:1/-1; max-width:var(--measure); font-size:var(--t-sm); color:var(--ink-2); line-height:1.55;}
+.crow .details p + p{margin-top:var(--s2);}
+.crow.announced .cr2,.crow.announced .who,.crow .who.alias,.stampline.announcement-source{color:var(--ink-2);}
 .stampline{color:var(--ink-3); font-size:var(--t-xs); margin-top:var(--s4);
   font-family:var(--display); letter-spacing:.08em; text-transform:uppercase;}
 .backlink{margin-top:var(--s7); font-family:var(--display); font-size:var(--t-xs);
@@ -65,9 +68,21 @@ def course_row(x):
     label, cls = WHEN[tuple(x["offered"])]
     who = ('<p class="who">%s</p>' % D.esc(", ".join(x["instructors"][:3]))) if x["instructors"] else ""
     cr = ("%g cr" % x["credits"]) if x.get("credits") else ""
-    return ('<div class="crow"><span class="t">%s</span><span class="cr2">%s</span>'
-            '<span class="when when-%s">%s</span>%s</div>'
-            % (D.esc(x["title"]), cr, cls, D.esc(label), who))
+    if x.get("catalog_alias"):
+        a = x["catalog_alias"]
+        who += ('<p class="who alias">Catalog title: %s · %s. Matched %s.</p>'
+                % tuple(D.esc(v) for v in (a["catalog_title"], a["course_number"], a["verified"])))
+    details = ""
+    if x.get("announcement"):
+        a = x["announcement"]
+        schedule = " · ".join(filter(None, [a.get("course_number"), a["meeting"], a["delivery"]]))
+        details = ('<div class="details"><p>%s</p><p>%s</p><p>%s</p>'
+                   '<p class="stampline announcement-source">%s. Confirm details in Workday.</p></div>'
+                   % tuple(D.esc(v) for v in (schedule, a["description"], a["planning_note"], a["source_label"])))
+    row_class = "crow announced" if x.get("announcement") else "crow"
+    return ('<div class="%s"><span class="t">%s</span><span class="cr2">%s</span>'
+            '<span class="when when-%s">%s</span>%s%s</div>'
+            % (row_class, D.esc(x["title"]), cr, cls, D.esc(label), who, details))
 
 
 def render(slug):
@@ -97,6 +112,10 @@ def render(slug):
         warn = ('<div class="warn"><h2>Plan around these</h2>'
                 '<p>%s</p><ul>%s</ul></div>'
                 % (D.esc(D.load("concentrations")["reconciliation_note"]), "".join(bits)))
+
+    announcement_note = ('<p class="stampline announcement-source">Includes two Spring 2027 electives announced October 30, 2026. '
+                         'Announcement details appear with each course.</p>'
+                         if c["key"] == "legal-innovation-technology" else "")
 
     cr = ('<p class="cr">%d<span>credits required</span></p>' % c["credits_required"]
           if c["credits_required"]
@@ -130,6 +149,7 @@ def render(slug):
 
   <h2 style="margin-top:var(--s8); font-size:var(--t-2xl)">Courses that count</h2>
   <p class="lede">{r['listed']} listed, {r['offered_2026_27']} running this year.</p>
+  {announcement_note}
   {"".join(blocks)}
 
   <p class="stampline" style="margin-top:var(--s6)">
