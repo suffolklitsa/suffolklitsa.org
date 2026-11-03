@@ -1,29 +1,110 @@
 {
- "fetched": "2026-11-02 20:31 UTC",
+ "fetched": "2026-11-03 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 4",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 0",
+  "Krebs on Security": "ok 1",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 3",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 3",
-  "TechCrunch": "ok 3",
-  "Above the Law": "ok 2"
+  "TechCrunch": "ok 2",
+  "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
-   "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+   "title": "Copilot for Legal – AL Interview: Carina Negreanu, Microsoft",
+   "url": "https://www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T08:21:31+00:00",
+   "summary": "Microsoft’s new Copilot for Legal is here for the long term and eventually will be available to potentially 100,000s of lawyers worldwide, Legal Vertical leader...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "source": "Krebs on Security",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T02:24:31+00:00",
+   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+   "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+   "source": "The Record",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T00:01:00+00:00",
+   "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs & More",
+   "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under-scrutiny-weil-gotshal-implodes-rogue-activist-judges-reading-recommendations-jobs-more/",
+   "source": "Above the Law",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T23:34:00+00:00",
+   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
+   "tag": "AI"
+  },
+  {
+   "title": "Build, Buy, Integrate, Or Wait: The AI Decision Legal Leaders Need To Own",
+   "url": "https://abovethelaw.com/2026/11/build-buy-integrate-or-wait-the-ai-decision-legal-leaders-need-to-own/",
+   "source": "Above the Law",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T23:02:00+00:00",
+   "summary": "The deep-dish pizza that is enterprise technology meetings.",
+   "tag": "AI"
+  },
+  {
+   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+   "source": "Dark Reading",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T22:27:24+00:00",
+   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Google shuts down global botnet running on certified Android devices",
+   "url": "https://cyberscoop.com/google-disrupts-xcpe-botnet-videostrong-android-devices/",
+   "source": "CyberScoop",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T21:58:24+00:00",
+   "summary": "Videostrong sold TV set-top boxes and other devices with pre-installed malware. The yearslong operation evaded Google’s security tests and established a botnet for cybercriminals.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+   "url": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
    "source": "The Record",
    "date": "2026-11-02",
-   "ts": "2026-11-02T19:54:00+00:00",
-   "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.",
+   "ts": "2026-11-02T21:42:00+00:00",
+   "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+   "source": "BleepingComputer",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T21:40:14+00:00",
+   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries.…",
+   "tag": "AI"
+  },
+  {
+   "title": "Business groups mount fresh campaign for long-term renewal of information sharing law",
+   "url": "https://cyberscoop.com/business-groups-cisa-2015-renewal-ndaa-cybersecurity/",
+   "source": "CyberScoop",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T21:04:42+00:00",
+   "summary": "Their target for extending CISA 2015 is the annual “must-pass” defense authorization bill, but a more than year-long standoff persists.",
    "tag": "Cyber"
   },
   {
@@ -45,51 +126,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "Legal Tech Awards ‘Ask Why’ — And The Answer Keeps Coming Back To Lawyers Can’t Do It Alone",
-   "url": "https://abovethelaw.com/2026/11/legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-cant-do-it-alone/",
-   "source": "Above the Law",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:45:00+00:00",
-   "summary": "The American Legal Technology Awards refocused on what matters this year.",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-   "source": "BleepingComputer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T18:16:34+00:00",
-   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
-   "url": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
-   "source": "The Record",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T17:05:20+00:00",
-   "summary": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "The Content Layer Wins: Why Treatises Matter More In The Age Of Agentic AI",
-   "url": "https://bit.ly/4iNAQTR",
-   "source": "Above the Law",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T16:32:00+00:00",
-   "summary": "[Sponsored] AI agents can orchestrate work, but they can only be as reliable as what they’re grounded in. That is where the real competitive question sits … and where lawyers should focus their attention.",
-   "tag": "AI"
-  },
-  {
-   "title": "North Korea linked to massive Binance crypto heist",
-   "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-   "source": "The Verge",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T16:16:07+00:00",
-   "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to the hack…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Independent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr",
    "url": "https://www.eff.org/deeplinks/2026/11/independent-digital-media-not-privilege-governments-can-revoke-fight-save-egypts",
    "source": "EFF",
@@ -97,15 +133,6 @@
    "ts": "2026-11-02T15:10:22+00:00",
    "summary": "On November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr, will face trial for the second time in just two weeks. This time, she faces charges of spreading false news…",
    "tag": "Privacy"
-  },
-  {
-   "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-   "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-   "source": "BleepingComputer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T15:03:07+00:00",
-   "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions.…",
-   "tag": "Cyber"
   },
   {
    "title": "Guest Post: Beyond the Billable Hour — Will AI Finally Make Fixed Fees the Norm?",
@@ -117,15 +144,6 @@
    "tag": "AI"
   },
   {
-   "title": "After Signing On with Upstart Legal Research Service Decisis, Maine Bar Switches to Clio Library",
-   "url": "https://www.lawnext.com/2026/11/after-signing-on-with-upstart-legal-research-service-decisis-maine-bar-switches-to-clio-library.html",
-   "source": "LawSites",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T13:57:02+00:00",
-   "summary": "Over the past few years, there have been a few twists and turns in the competition among legal research platforms to be the preferred partner of state and local bar associations. Once, that competition was almost…",
-   "tag": "Legal tech"
-  },
-  {
    "title": "Will AI Change the Identity of Law Firm Partners?",
    "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
    "source": "Artificial Lawyer",
@@ -133,24 +151,6 @@
    "ts": "2026-11-02T12:59:14+00:00",
    "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to...",
    "tag": "AI"
-  },
-  {
-   "title": "Could Nick Andersen’s leadership outlast the clock on his acting role?",
-   "url": "https://cyberscoop.com/nick-andersen-cisa-acting-director-nomination/",
-   "source": "CyberScoop",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T11:00:00+00:00",
-   "summary": "He has won praise for his leadership of CISA as acting director, and there’s talk of keeping him in the role beyond his current deadline. With no nominee yet in sight, he might be the White House’s best option.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Federal court tosses Trump lawsuit challenging Alaska Senate certification",
-   "url": "https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/",
-   "source": "CyberScoop",
-   "date": "2026-11-01",
-   "ts": "2026-11-01T22:47:26+00:00",
-   "summary": "The government claimed voters would be confused by two candidates with the same name. A federal judge said the executive branch has no constitutional role in the matter.",
-   "tag": "Legal tech"
   },
   {
    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
@@ -162,6 +162,15 @@
    "tag": "AI"
   },
   {
+   "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+   "source": "EFF",
+   "date": "2026-10-30",
+   "ts": "2026-10-30T23:42:45+00:00",
+   "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and…",
+   "tag": "AI"
+  },
+  {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
    "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
    "source": "Future of Privacy Forum",
@@ -169,15 +178,6 @@
    "ts": "2026-10-29T20:23:48+00:00",
    "summary": "Co-authored by Michelle Roitgarts, U.S. Legislation Legal Intern On October 26, 2026, the Future of Privacy Forum (FPF) submitted comments in response to the Colorado Department of Law’s (the Department’s) formal…",
    "tag": "Privacy"
-  },
-  {
-   "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-   "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-   "source": "Dark Reading",
-   "date": "2026-10-28",
-   "ts": "2026-10-28T19:39:00+00:00",
-   "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "tag": "Cyber"
   }
  ]
 }
