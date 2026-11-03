@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03 05:31 ET",
+ "fetched": "2026-11-03 15:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -11,13 +11,14 @@
   {
    "date": "2026-11-03",
    "time": "5pm",
-   "name": "How to Tell an AI What to Do: Rules, Cases, and Interpretation",
+   "name": "AI Constitutions:",
    "host": "Berkman Klein Center, Harvard",
    "venue": "Harvard, Cambridge and on Zoom",
    "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/how-tell-ai-what-do-rules-cases-and-interpretation",
+   "url": "https://cyber.harvard.edu/events/ai-constitutions",
    "source": "berkman",
    "tier": "boston",
+   "note": "How to Tell an AI What to Do—Rules, Cases, and Interpretation",
    "source_key": "berkman"
   },
   {
@@ -118,7 +119,7 @@
   },
   {
    "date": "2026-11-12",
-   "time": "2:30–6:30pm",
+   "time": "2–6:30pm",
    "name": "Mass AI Showcase: Founders X Enterprise",
    "host": "Mass AI Coalition",
    "venue": "Boston",

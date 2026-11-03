@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03 10:31 UTC",
+ "fetched": "2026-11-03 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -9,21 +9,129 @@
   "Krebs on Security": "ok 1",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
-  "Dark Reading": "ok 3",
+  "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 3",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 2",
   "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "Copilot for Legal – AL Interview: Carina Negreanu, Microsoft",
-   "url": "https://www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft/",
+   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T20:05:50+00:00",
+   "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
+   "url": "https://www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
+   "source": "LawSites",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T19:56:31+00:00",
+   "summary": "As NetDocuments rolls out a completely redesigned user experience, a new Microsoft 365 integration, and real-time co-authoring, LawNext host Bob Ambrogi speaks with Chief Product Officer Dan Hauck in an episode recorded…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Google dismantles massive botnet hidden in Android TV boxes",
+   "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+   "source": "The Record",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T19:48:00+00:00",
+   "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "‘Are You Kidding Me Right Now?’ Federal Judge Asks Trump DOJ Official",
+   "url": "https://abovethelaw.com/2026/11/are-you-kidding-me-right-now-federal-judge-asks-trump-doj-official/",
+   "source": "Above the Law",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T19:32:00+00:00",
+   "summary": "The DOJ breached the court's trust and then tried to play word games. The judge was not pleased.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Oklahoma man charged with mailing threats, substances to election officials nationwide",
+   "url": "https://cyberscoop.com/oklahoma-man-charged-white-powder-letters-election-officials/",
+   "source": "CyberScoop",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T18:51:23+00:00",
+   "summary": "Robin Patrick Martin was charged with conveying false or misleading information and hoaxes and mailing threatening communications in an effort to intimidate election officials.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+   "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+   "source": "The Record",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T18:44:00+00:00",
+   "summary": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Europol dismantles investment scheme that impacted potential victims in 50 countries",
+   "url": "https://cyberscoop.com/europol-investment-scam-takedown/",
+   "source": "CyberScoop",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T17:02:27+00:00",
+   "summary": "Authorities seized more than 100 servers and searched locations linked to the alleged operation across 17 countries.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "source": "TechCrunch",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T15:38:27+00:00",
+   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+   "tag": "AI"
+  },
+  {
+   "title": "Privacy's Defenders Podcast: The Secret Room",
+   "url": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-secret-room",
+   "source": "EFF",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T15:00:01+00:00",
+   "summary": "The government’s surveillance powers grew rapidly after Sept. 11, 2001, some in public view and some in secret. EFF suspected but couldn’t prove that the National Security Agency was spying on Americans' communications.…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
+   "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
    "source": "Artificial Lawyer",
    "date": "2026-11-03",
-   "ts": "2026-11-03T08:21:31+00:00",
-   "summary": "Microsoft’s new Copilot for Legal is here for the long term and eventually will be available to potentially 100,000s of lawyers worldwide, Legal Vertical leader...",
+   "ts": "2026-11-03T14:24:27+00:00",
+   "summary": "Ex-Legorans, Cem Ucan and Kieran John Keenan, have raised a $2.4 million pre-seed round led by a16z Speedrun for their new model, AI native law...",
+   "tag": "AI"
+  },
+  {
+   "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
+   "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+   "source": "Dark Reading",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T14:00:00+00:00",
+   "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
+   "tag": "AI"
+  },
+  {
+   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T14:00:00+00:00",
+   "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host.…",
+   "tag": "AI"
+  },
+  {
+   "title": "Legal Innovators UK Starts Tomorrow – Nov 4th",
+   "url": "https://www.artificiallawyer.com/2026/11/03/legal-innovators-uk-starts-tomorrow-nov-4th/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T13:27:58+00:00",
+   "summary": "It’s been months in the making, but it’s finally here. Legal Innovators UK starts tomorrow, Wednesday, November 4th, and continues through Thursday November 5th. Here’s...",
    "tag": "Legal tech"
   },
   {
@@ -36,75 +144,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
-   "url": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
-   "source": "The Record",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T00:01:00+00:00",
-   "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs & More",
-   "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under-scrutiny-weil-gotshal-implodes-rogue-activist-judges-reading-recommendations-jobs-more/",
-   "source": "Above the Law",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T23:34:00+00:00",
-   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
-   "tag": "AI"
-  },
-  {
-   "title": "Build, Buy, Integrate, Or Wait: The AI Decision Legal Leaders Need To Own",
-   "url": "https://abovethelaw.com/2026/11/build-buy-integrate-or-wait-the-ai-decision-legal-leaders-need-to-own/",
-   "source": "Above the Law",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T23:02:00+00:00",
-   "summary": "The deep-dish pizza that is enterprise technology meetings.",
-   "tag": "AI"
-  },
-  {
    "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
    "source": "Dark Reading",
    "date": "2026-11-02",
    "ts": "2026-11-02T22:27:24+00:00",
    "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Google shuts down global botnet running on certified Android devices",
-   "url": "https://cyberscoop.com/google-disrupts-xcpe-botnet-videostrong-android-devices/",
-   "source": "CyberScoop",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T21:58:24+00:00",
-   "summary": "Videostrong sold TV set-top boxes and other devices with pre-installed malware. The yearslong operation evaded Google’s security tests and established a botnet for cybercriminals.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
-   "url": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
-   "source": "The Record",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T21:42:00+00:00",
-   "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-   "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-   "source": "BleepingComputer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T21:40:14+00:00",
-   "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries.…",
-   "tag": "AI"
-  },
-  {
-   "title": "Business groups mount fresh campaign for long-term renewal of information sharing law",
-   "url": "https://cyberscoop.com/business-groups-cisa-2015-renewal-ndaa-cybersecurity/",
-   "source": "CyberScoop",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T21:04:42+00:00",
-   "summary": "Their target for extending CISA 2015 is the annual “must-pass” defense authorization bill, but a more than year-long standoff persists.",
    "tag": "Cyber"
   },
   {
@@ -124,51 +169,6 @@
    "ts": "2026-11-02T19:05:46+00:00",
    "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Independent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr",
-   "url": "https://www.eff.org/deeplinks/2026/11/independent-digital-media-not-privilege-governments-can-revoke-fight-save-egypts",
-   "source": "EFF",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T15:10:22+00:00",
-   "summary": "On November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr, will face trial for the second time in just two weeks. This time, she faces charges of spreading false news…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Guest Post: Beyond the Billable Hour — Will AI Finally Make Fixed Fees the Norm?",
-   "url": "https://www.lawnext.com/2026/11/guest-post-beyond-the-billable-hour-will-ai-finally-make-fixed-fees-the-norm.html",
-   "source": "LawSites",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:41:29+00:00",
-   "summary": "Thirty-five years ago, lawyers told me fixed fees could never work. A skyscraper and a quarter helped me address their concerns but nothing ever changed. AI gives us a new reason to listen. There is plenty of talk today…",
-   "tag": "AI"
-  },
-  {
-   "title": "Will AI Change the Identity of Law Firm Partners?",
-   "url": "https://www.artificiallawyer.com/2026/11/02/will-ai-change-the-identity-of-law-firm-partners/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T12:59:14+00:00",
-   "summary": "Will law firm partners need to change their professional identity, their sense of what they are and what they really do, for this sector to...",
-   "tag": "AI"
-  },
-  {
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "source": "TechCrunch",
-   "date": "2026-10-31",
-   "ts": "2026-10-31T21:17:03+00:00",
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "tag": "AI"
-  },
-  {
-   "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
-   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
-   "source": "EFF",
-   "date": "2026-10-30",
-   "ts": "2026-10-30T23:42:45+00:00",
-   "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and…",
-   "tag": "AI"
   },
   {
    "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
