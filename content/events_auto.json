@@ -1,26 +1,13 @@
 {
- "fetched": "2026-11-03 15:31 ET",
+ "fetched": "2026-11-03 18:26 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 5",
-  "berkman": "ok 2"
+  "berkman": "ok 1"
  },
  "events": [
-  {
-   "date": "2026-11-03",
-   "time": "5pm",
-   "name": "AI Constitutions:",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge and on Zoom",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/ai-constitutions",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "How to Tell an AI What to Do—Rules, Cases, and Interpretation",
-   "source_key": "berkman"
-  },
   {
    "date": "2026-11-04",
    "time": "5:30–7:30pm",
@@ -168,7 +155,7 @@
   {
    "date": "2026-11-19",
    "time": "12–6pm",
-   "name": "2026 Privacy, Cybersecurity, & Digital Law Conference",
+   "name": "2026 Privacy, Cybersecurity & Digital Law Conference",
    "host": "Boston Bar Association",
    "venue": "See event page",
    "cost": "See event page",

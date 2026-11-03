@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03 20:31 UTC",
+ "fetched": "2026-11-03 23:26 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -18,13 +18,40 @@
  },
  "items": [
   {
-   "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
    "source": "BleepingComputer",
    "date": "2026-11-03",
-   "ts": "2026-11-03T20:05:50+00:00",
-   "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about…",
+   "ts": "2026-11-03T22:18:50+00:00",
+   "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script.…",
    "tag": "Cyber"
+  },
+  {
+   "title": "Defense and aerospace firm settles with government over allegedly failing to meet cybersecurity contract requirements",
+   "url": "https://cyberscoop.com/ilc-dover-cybersecurity-settlement-false-claims-act/",
+   "source": "CyberScoop",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T21:49:51+00:00",
+   "summary": "ILC settled for $13 million, and its parent company said it resolved the issues before settling without an admission of liability.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
+   "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
+   "source": "EFF",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T21:45:46+00:00",
+   "summary": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show. The records, disclosed to EFF and other requesters suing the postal…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+   "source": "BleepingComputer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T21:28:44+00:00",
+   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications.…",
+   "tag": "AI"
   },
   {
    "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
@@ -72,15 +99,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Europol dismantles investment scheme that impacted potential victims in 50 countries",
-   "url": "https://cyberscoop.com/europol-investment-scam-takedown/",
-   "source": "CyberScoop",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T17:02:27+00:00",
-   "summary": "Authorities seized more than 100 servers and searched locations linked to the alleged operation across 17 countries.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Apple restricts dating apps and AI companions to users 18 and up",
    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
    "source": "TechCrunch",
@@ -117,15 +135,6 @@
    "tag": "AI"
   },
   {
-   "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-   "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T14:00:00+00:00",
-   "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host.…",
-   "tag": "AI"
-  },
-  {
    "title": "Legal Innovators UK Starts Tomorrow – Nov 4th",
    "url": "https://www.artificiallawyer.com/2026/11/03/legal-innovators-uk-starts-tomorrow-nov-4th/",
    "source": "Artificial Lawyer",
@@ -151,15 +160,6 @@
    "ts": "2026-11-02T22:27:24+00:00",
    "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
    "tag": "Cyber"
-  },
-  {
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "source": "TechCrunch",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T19:19:17+00:00",
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-   "tag": "AI"
   },
   {
    "title": "Ford promises not to sell your driving habits to data brokers",
