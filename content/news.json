@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-03 23:26 UTC",
+ "fetched": "2026-11-04 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,33 @@
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T09:39:54+00:00",
+   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "A Brief History of Generative Legal AI",
+   "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T07:40:00+00:00",
+   "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments...",
+   "tag": "AI"
+  },
+  {
+   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+   "source": "Dark Reading",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T02:00:00+00:00",
+   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+   "tag": "Cyber"
+  },
   {
    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -43,15 +70,6 @@
    "ts": "2026-11-03T21:45:46+00:00",
    "summary": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show. The records, disclosed to EFF and other requesters suing the postal…",
    "tag": "Privacy"
-  },
-  {
-   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-   "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T21:28:44+00:00",
-   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications.…",
-   "tag": "AI"
   },
   {
    "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
@@ -135,30 +153,12 @@
    "tag": "AI"
   },
   {
-   "title": "Legal Innovators UK Starts Tomorrow – Nov 4th",
-   "url": "https://www.artificiallawyer.com/2026/11/03/legal-innovators-uk-starts-tomorrow-nov-4th/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T13:27:58+00:00",
-   "summary": "It’s been months in the making, but it’s finally here. Legal Innovators UK starts tomorrow, Wednesday, November 4th, and continues through Thursday November 5th. Here’s...",
-   "tag": "Legal tech"
-  },
-  {
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
    "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
    "source": "Krebs on Security",
    "date": "2026-11-03",
    "ts": "2026-11-03T02:24:31+00:00",
    "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-   "source": "Dark Reading",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T22:27:24+00:00",
-   "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
    "tag": "Cyber"
   },
   {
