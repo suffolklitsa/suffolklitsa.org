@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-04 10:31 UTC",
+ "fetched": "2026-11-04 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,21 +10,102 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 2",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
+  "TechCrunch": "ok 4",
   "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "title": "Google Summaries Aren't About AI, They're About Lock-In",
+   "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
+   "source": "EFF",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T20:05:03+00:00",
+   "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own ecosystem. Knowing that makes it possible for all of us to…",
+   "tag": "AI"
+  },
+  {
+   "title": "Officials extradite Canadian man to US for alleged cryptomining spree",
+   "url": "https://cyberscoop.com/canadian-extradited-cryptomining-universities/",
+   "source": "CyberScoop",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T19:59:57+00:00",
+   "summary": "Ryan Roach and his alleged co-conspirator, Mathiew Stubbings, are accused of compromising U.S. universities’ computers and taking over processing power to mine for cryptocurrency.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+   "source": "TechCrunch",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T19:29:52+00:00",
+   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+   "tag": "AI"
+  },
+  {
+   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+   "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+   "source": "The Record",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T19:17:00+00:00",
+   "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
    "source": "BleepingComputer",
    "date": "2026-11-04",
-   "ts": "2026-11-04T09:39:54+00:00",
-   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals.…",
+   "ts": "2026-11-04T19:05:19+00:00",
+   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords.…",
    "tag": "Cyber"
+  },
+  {
+   "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+   "url": "https://therecord.media/french-bank-confirms-cyber-heist",
+   "source": "The Record",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T18:58:00+00:00",
+   "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+   "source": "TechCrunch",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T18:44:57+00:00",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more…",
+   "tag": "AI"
+  },
+  {
+   "title": "Musk’s Minnesota Deepfake Fight Could Define AI’s First Amendment",
+   "url": "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment",
+   "source": "Lawfare",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T18:00:09+00:00",
+   "summary": "The Eighth Circuit’s review of Minnesota’s strict-liability nudification law may settle what state of mind AI companies need for liability.",
+   "tag": "AI"
+  },
+  {
+   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T16:58:46+00:00",
+   "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models",
+   "url": "https://www.lawfaremedia.org/article/where-the-weight-lies--a-balancing-act-for-the-governance-of-open-weight-ai-models",
+   "source": "Lawfare",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T15:22:45+00:00",
+   "summary": "What would a ban on open weight models which run artificial intelligence systems actually look like? Could it even be implemented? What implications would it have for the concept of digital sovereignty?",
+   "tag": "AI"
   },
   {
    "title": "A Brief History of Generative Legal AI",
@@ -45,15 +126,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-   "source": "BleepingComputer",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T22:18:50+00:00",
-   "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Defense and aerospace firm settles with government over allegedly failing to meet cybersecurity contract requirements",
    "url": "https://cyberscoop.com/ilc-dover-cybersecurity-settlement-false-claims-act/",
    "source": "CyberScoop",
@@ -61,15 +133,6 @@
    "ts": "2026-11-03T21:49:51+00:00",
    "summary": "ILC settled for $13 million, and its parent company said it resolved the issues before settling without an admission of liability.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
-   "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
-   "source": "EFF",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T21:45:46+00:00",
-   "summary": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show. The records, disclosed to EFF and other requesters suing the postal…",
-   "tag": "Privacy"
   },
   {
    "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
@@ -81,15 +144,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Google dismantles massive botnet hidden in Android TV boxes",
-   "url": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
-   "source": "The Record",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T19:48:00+00:00",
-   "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth…",
-   "tag": "Cyber"
-  },
-  {
    "title": "‘Are You Kidding Me Right Now?’ Federal Judge Asks Trump DOJ Official",
    "url": "https://abovethelaw.com/2026/11/are-you-kidding-me-right-now-federal-judge-asks-trump-doj-official/",
    "source": "Above the Law",
@@ -97,60 +151,6 @@
    "ts": "2026-11-03T19:32:00+00:00",
    "summary": "The DOJ breached the court's trust and then tried to play word games. The judge was not pleased.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Oklahoma man charged with mailing threats, substances to election officials nationwide",
-   "url": "https://cyberscoop.com/oklahoma-man-charged-white-powder-letters-election-officials/",
-   "source": "CyberScoop",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T18:51:23+00:00",
-   "summary": "Robin Patrick Martin was charged with conveying false or misleading information and hoaxes and mailing threatening communications in an effort to intimidate election officials.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
-   "url": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
-   "source": "The Record",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T18:44:00+00:00",
-   "summary": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Apple restricts dating apps and AI companions to users 18 and up",
-   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "source": "TechCrunch",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T15:38:27+00:00",
-   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-   "tag": "AI"
-  },
-  {
-   "title": "Privacy's Defenders Podcast: The Secret Room",
-   "url": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-secret-room",
-   "source": "EFF",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T15:00:01+00:00",
-   "summary": "The government’s surveillance powers grew rapidly after Sept. 11, 2001, some in public view and some in secret. EFF suspected but couldn’t prove that the National Security Agency was spying on Americans' communications.…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
-   "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T14:24:27+00:00",
-   "summary": "Ex-Legorans, Cem Ucan and Kieran John Keenan, have raised a $2.4 million pre-seed round led by a16z Speedrun for their new model, AI native law...",
-   "tag": "AI"
-  },
-  {
-   "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-   "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-   "source": "Dark Reading",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T14:00:00+00:00",
-   "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-   "tag": "AI"
   },
   {
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
