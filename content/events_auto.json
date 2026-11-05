@@ -1,49 +1,13 @@
 {
- "fetched": "2026-11-04 15:31 ET",
+ "fetched": "2026-11-05 05:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 5",
-  "berkman": "ok 1"
+  "bba": "ok 4",
+  "berkman": "ok 2"
  },
  "events": [
-  {
-   "date": "2026-11-04",
-   "time": "5:30–7:30pm",
-   "name": "Affinity Bar Event: Understanding Bias & Discrimination in AI",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000057ZXd",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
-  },
-  {
-   "date": "2026-11-04",
-   "time": "5:30–7:30pm",
-   "name": "Compute, Inference, and Code, right here in Boston.",
-   "host": "Mass AI Coalition",
-   "venue": "One Kendall Square",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/yln58dls",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-04",
-   "time": "6–8pm",
-   "name": "Founder Dinner [Hosted by J.P. Morgan x MA AI Coalition]",
-   "host": "Mass AI Coalition",
-   "venue": "Cambridge",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/8rnv85ce",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-05",
    "time": "5:30–8pm",
@@ -163,6 +127,18 @@
    "source": "bba",
    "tier": "boston",
    "source_key": "bba"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12:20pm",
+   "name": "AI & Political Freedom",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "Harvard, Cambridge and on Zoom",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/ai-political-freedom",
+   "source": "berkman",
+   "tier": "boston",
+   "source_key": "berkman"
   },
   {
    "date": "2026-11-19",

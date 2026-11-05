@@ -1,22 +1,85 @@
 {
- "fetched": "2026-11-04 20:31 UTC",
+ "fetched": "2026-11-05 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 4",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 1",
+  "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 2",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
+  "The Verge": "ok 1",
   "TechCrunch": "ok 4",
-  "Above the Law": "ok 4"
+  "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Want to Rent an Internet Address at the White House?",
+   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+   "source": "Krebs on Security",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T04:36:17+00:00",
+   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+   "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T00:00:00+00:00",
+   "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "What Democratic control of Congress means for cybersecurity",
+   "url": "https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/",
+   "source": "CyberScoop",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T23:05:04+00:00",
+   "summary": "There’s a lame-duck session before Dems take over, but the leaders of the homeland security panels are already teeing up their agendas.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+   "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+   "source": "The Record",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T21:30:00+00:00",
+   "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill",
+   "url": "https://abovethelaw.com/2026/11/ai-may-speed-up-legal-research-but-that-doesnt-automatically-shrink-the-bill/",
+   "source": "Above the Law",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T21:00:00+00:00",
+   "summary": "The Tenth Circuit upheld a six-figure fee award after finding no evidence that defense counsel’s AI use made its hours unreasonable.",
+   "tag": "AI"
+  },
+  {
+   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+   "source": "BleepingComputer",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T20:58:19+00:00",
+   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
+   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically",
+   "source": "EFF",
+   "date": "2026-11-04",
+   "ts": "2026-11-04T20:26:48+00:00",
+   "summary": "Yesterday, along with the ACLU, EFF filed an amicus brief in the Ninth Circuit court of appeals in United States v. Spurlock, a case involving a “tower dump” warrant. These overbroad warrants require cellular providers…",
+   "tag": "Legal tech"
+  },
   {
    "title": "Google Summaries Aren't About AI, They're About Lock-In",
    "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
@@ -45,30 +108,12 @@
    "tag": "AI"
   },
   {
-   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-   "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-   "source": "The Record",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T19:17:00+00:00",
-   "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-   "tag": "Cyber"
-  },
-  {
    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
    "source": "BleepingComputer",
    "date": "2026-11-04",
    "ts": "2026-11-04T19:05:19+00:00",
    "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-   "url": "https://therecord.media/french-bank-confirms-cyber-heist",
-   "source": "The Record",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T18:58:00+00:00",
-   "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
    "tag": "Cyber"
   },
   {
@@ -90,30 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T16:58:46+00:00",
-   "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models",
    "url": "https://www.lawfaremedia.org/article/where-the-weight-lies--a-balancing-act-for-the-governance-of-open-weight-ai-models",
    "source": "Lawfare",
    "date": "2026-11-04",
    "ts": "2026-11-04T15:22:45+00:00",
    "summary": "What would a ban on open weight models which run artificial intelligence systems actually look like? Could it even be implemented? What implications would it have for the concept of digital sovereignty?",
-   "tag": "AI"
-  },
-  {
-   "title": "A Brief History of Generative Legal AI",
-   "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T07:40:00+00:00",
-   "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments...",
    "tag": "AI"
   },
   {
@@ -126,15 +153,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Defense and aerospace firm settles with government over allegedly failing to meet cybersecurity contract requirements",
-   "url": "https://cyberscoop.com/ilc-dover-cybersecurity-settlement-false-claims-act/",
-   "source": "CyberScoop",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T21:49:51+00:00",
-   "summary": "ILC settled for $13 million, and its parent company said it resolved the issues before settling without an admission of liability.",
-   "tag": "Cyber"
-  },
-  {
    "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
    "url": "https://www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
    "source": "LawSites",
@@ -142,24 +160,6 @@
    "ts": "2026-11-03T19:56:31+00:00",
    "summary": "As NetDocuments rolls out a completely redesigned user experience, a new Microsoft 365 integration, and real-time co-authoring, LawNext host Bob Ambrogi speaks with Chief Product Officer Dan Hauck in an episode recorded…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "‘Are You Kidding Me Right Now?’ Federal Judge Asks Trump DOJ Official",
-   "url": "https://abovethelaw.com/2026/11/are-you-kidding-me-right-now-federal-judge-asks-trump-doj-official/",
-   "source": "Above the Law",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T19:32:00+00:00",
-   "summary": "The DOJ breached the court's trust and then tried to play word games. The judge was not pleased.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-   "source": "Krebs on Security",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T02:24:31+00:00",
-   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
-   "tag": "Cyber"
   },
   {
    "title": "Ford promises not to sell your driving habits to data brokers",
