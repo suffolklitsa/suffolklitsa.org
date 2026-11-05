@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-05 05:31 ET",
+ "fetched": "2026-11-05 15:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 4",
-  "berkman": "ok 2"
+  "berkman": "ok 3"
  },
  "events": [
   {
@@ -40,18 +40,6 @@
    "venue": "1 Lincoln St",
    "cost": "Free, approval required",
    "url": "https://luma.com/ov7zl4rd",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "4–6pm",
-   "name": "WHOOP: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "Whoop",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/fnm32hm4",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
@@ -117,6 +105,31 @@
    "source_key": "coalition"
   },
   {
+   "date": "2026-11-18",
+   "time": "5:30pm",
+   "name": "AI, Advice, and the Self",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "See event page",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/ai-advice-and-self",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "Harvard Community Workshop",
+   "source_key": "berkman"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "4–6pm",
+   "name": "Enlaye: Startup Trek",
+   "host": "Mass AI Coalition",
+   "venue": "114 Western Ave, Allston, MA",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/4d12mbqu",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
    "date": "2026-11-19",
    "time": "12–6pm",
    "name": "2026 Privacy, Cybersecurity & Digital Law Conference",
@@ -138,19 +151,20 @@
    "url": "https://cyber.harvard.edu/events/ai-political-freedom",
    "source": "berkman",
    "tier": "boston",
+   "note": "Anthropic's Matt Botvinick Discusses New Book with Chinmayi Arun of Yale",
    "source_key": "berkman"
   },
   {
    "date": "2026-11-19",
    "time": "5pm",
-   "name": "Crutch or Catalyst? How AI Is Changing the Ways We Relate",
+   "name": "Crutch or Catalyst? How AI is Changing the Ways We Relate",
    "host": "Berkman Klein Center, Harvard",
    "venue": "Harvard, Cambridge and on Zoom",
    "cost": "Free",
    "url": "https://cyber.harvard.edu/events/crutch-or-catalyst-how-ai-changing-ways-we-relate",
    "source": "berkman",
    "tier": "boston",
-   "note": "All Too Human 2026-27 Speaker Series",
+   "note": "Sherry Turkle, Bridget Todd, Dean Sean Kelly on AI Companionship",
    "source_key": "berkman"
   },
   {

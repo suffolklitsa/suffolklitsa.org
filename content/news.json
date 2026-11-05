@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05 10:31 UTC",
+ "fetched": "2026-11-05 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,13 +10,85 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 2",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 4",
-  "Above the Law": "ok 3"
+  "TechCrunch": "ok 2",
+  "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "US issues more sanctions against Prince Group scam center affiliates",
+   "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+   "source": "The Record",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T20:11:00+00:00",
+   "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Air Force cyber official: need to invest in digital forensics",
+   "url": "https://cyberscoop.com/air-force-digital-forensics-cyber-investment/",
+   "source": "CyberScoop",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T19:22:27+00:00",
+   "summary": "Wanda Jones-Heath said it’s key to keeping pace with incidents and threats, speaking at a Datadog event Thursday.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+   "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+   "source": "The Record",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T19:15:00+00:00",
+   "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "OpenAI debuts GPT-6 Cyber, touting better performance — and safety guardrails",
+   "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
+   "source": "CyberScoop",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T17:00:00+00:00",
+   "summary": "After a summer of sandbox escaping hacks, OpenAI said their new model was trained to be more cautious around user intent and less sensitive to “reward hacking” behaviors.",
+   "tag": "AI"
+  },
+  {
+   "title": "Clio Wants To Bring AI to the Judiciary, But 50-State Survey Reveals Policies Differ in Whether They Allow It",
+   "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
+   "source": "LawSites",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:57:01+00:00",
+   "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.”…",
+   "tag": "AI"
+  },
+  {
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:24:26+00:00",
+   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "DigiCert data breach exposes customer information, identity documents",
+   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:12:46+00:00",
+   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Bridging State Aging Plans and AgeTech Development",
+   "url": "https://fpf.org/blog/bridging-state-aging-plans-and-agetech-development/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T15:24:16+00:00",
+   "summary": "As the U.S. population ages, technology developers, health care providers, and policymakers are increasingly interested in “AgeTech”—consumer technologies designed to support older adults and their caregivers. However…",
+   "tag": "Privacy"
+  },
   {
    "title": "Want to Rent an Internet Address at the White House?",
    "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -27,31 +99,13 @@
    "tag": "Cyber"
   },
   {
-   "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-   "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-   "source": "The Record",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "source": "TechCrunch",
    "date": "2026-11-05",
-   "ts": "2026-11-05T00:00:00+00:00",
-   "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "What Democratic control of Congress means for cybersecurity",
-   "url": "https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/",
-   "source": "CyberScoop",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T23:05:04+00:00",
-   "summary": "There’s a lame-duck session before Dems take over, but the leaders of the homeland security panels are already teeing up their agendas.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-   "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-   "source": "The Record",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T21:30:00+00:00",
-   "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that…",
-   "tag": "Cyber"
+   "ts": "2026-11-05T01:26:22+00:00",
+   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+   "tag": "AI"
   },
   {
    "title": "AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill",
@@ -61,15 +115,6 @@
    "ts": "2026-11-04T21:00:00+00:00",
    "summary": "The Tenth Circuit upheld a six-figure fee award after finding no evidence that defense counsel’s AI use made its hours unreasonable.",
    "tag": "AI"
-  },
-  {
-   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T20:58:19+00:00",
-   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials.…",
-   "tag": "Cyber"
   },
   {
    "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
@@ -90,57 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "Officials extradite Canadian man to US for alleged cryptomining spree",
-   "url": "https://cyberscoop.com/canadian-extradited-cryptomining-universities/",
-   "source": "CyberScoop",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T19:59:57+00:00",
-   "summary": "Ryan Roach and his alleged co-conspirator, Mathiew Stubbings, are accused of compromising U.S. universities’ computers and taking over processing power to mine for cryptocurrency.",
-   "tag": "Cyber"
-  },
-  {
    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
    "source": "TechCrunch",
    "date": "2026-11-04",
    "ts": "2026-11-04T19:29:52+00:00",
    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-   "tag": "AI"
-  },
-  {
-   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "source": "BleepingComputer",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T19:05:19+00:00",
-   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-   "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-   "source": "TechCrunch",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T18:44:57+00:00",
-   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more…",
-   "tag": "AI"
-  },
-  {
-   "title": "Musk’s Minnesota Deepfake Fight Could Define AI’s First Amendment",
-   "url": "https://www.lawfaremedia.org/article/musk-s-minnesota-deepfake-fight-could-define-ai-s-first-amendment",
-   "source": "Lawfare",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T18:00:09+00:00",
-   "summary": "The Eighth Circuit’s review of Minnesota’s strict-liability nudification law may settle what state of mind AI companies need for liability.",
-   "tag": "AI"
-  },
-  {
-   "title": "Where the Weight Lies: A Balancing Act for the Governance of Open-Weight AI Models",
-   "url": "https://www.lawfaremedia.org/article/where-the-weight-lies--a-balancing-act-for-the-governance-of-open-weight-ai-models",
-   "source": "Lawfare",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T15:22:45+00:00",
-   "summary": "What would a ban on open weight models which run artificial intelligence systems actually look like? Could it even be implemented? What implications would it have for the concept of digital sovereignty?",
    "tag": "AI"
   },
   {
@@ -162,21 +162,21 @@
    "tag": "Legal tech"
   },
   {
+   "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
+   "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T14:24:27+00:00",
+   "summary": "Ex-Legorans, Cem Ucan and Kieran John Keenan, have raised a $2.4 million pre-seed round led by a16z Speedrun for their new model, AI native law...",
+   "tag": "AI"
+  },
+  {
    "title": "Ford promises not to sell your driving habits to data brokers",
    "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
    "source": "The Verge",
    "date": "2026-11-02",
    "ts": "2026-11-02T19:05:46+00:00",
    "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "FPF Submits Comments to Inform Colorado Automated Decision-Making (ADM) Act Rulemaking",
-   "url": "https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-adm-act-rulemaking/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-10-29",
-   "ts": "2026-10-29T20:23:48+00:00",
-   "summary": "Co-authored by Michelle Roitgarts, U.S. Legislation Legal Intern On October 26, 2026, the Future of Privacy Forum (FPF) submitted comments in response to the Colorado Department of Law’s (the Department’s) formal…",
    "tag": "Privacy"
   }
  ]
