@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05 15:31 ET",
+ "fetched": "2026-11-06 05:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,18 +8,6 @@
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-05",
-   "time": "5:30–8pm",
-   "name": "The New Career Architecture: Building Leading & Growing in the Age of AI",
-   "host": "Mass AI Coalition",
-   "venue": "One Kendall Square",
-   "cost": "Free",
-   "url": "https://luma.com/nh37wuxm",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-09",
    "time": "5:30–7pm",
@@ -106,19 +94,6 @@
   },
   {
    "date": "2026-11-18",
-   "time": "5:30pm",
-   "name": "AI, Advice, and the Self",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "See event page",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/ai-advice-and-self",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "Harvard Community Workshop",
-   "source_key": "berkman"
-  },
-  {
-   "date": "2026-11-18",
    "time": "4–6pm",
    "name": "Enlaye: Startup Trek",
    "host": "Mass AI Coalition",
@@ -128,6 +103,19 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "5:30pm",
+   "name": "Is Your Relationship With AI Healthy?",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "See event page",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/your-relationship-ai-healthy",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "A Workshop on AI, Advice, and the Self",
+   "source_key": "berkman"
   },
   {
    "date": "2026-11-19",
@@ -151,7 +139,7 @@
    "url": "https://cyber.harvard.edu/events/ai-political-freedom",
    "source": "berkman",
    "tier": "boston",
-   "note": "Anthropic's Matt Botvinick Discusses New Book with Chinmayi Arun of Yale",
+   "note": "Anthropic's Matt Botvinick Discusses New Book with Chinmayi Arun of Yale Law School",
    "source_key": "berkman"
   },
   {

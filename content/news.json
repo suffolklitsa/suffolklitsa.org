@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-05 20:31 UTC",
+ "fetched": "2026-11-06 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,18 +12,81 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
-  "TechCrunch": "ok 2",
+  "The Verge": "ok 0",
+  "TechCrunch": "ok 1",
   "Above the Law": "ok 1"
  },
  "items": [
   {
-   "title": "US issues more sanctions against Prince Group scam center affiliates",
-   "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+   "title": "When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship",
+   "url": "https://www.eff.org/deeplinks/2026/11/when-watchdogs-are-silenced-indias-crackdown-those-documenting-online-censorship",
+   "source": "EFF",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T09:30:42+00:00",
+   "summary": "On November 3, our colleagues at the Software Freedom Law Center, India (SFLC.in) received notifications from X that the Delhi Police had issued takedown requests targeting 42 URLs. Among the accounts and posts targeted…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY",
+   "url": "https://www.artificiallawyer.com/2026/11/06/harvey-legora-ipo-plans-ao-1-1bn-legal-innovators-ny/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T08:53:13+00:00",
+   "summary": "Let’s start this Wrap with some thoughts on Harvey’s and also Legora’s IPO plans. News ‘leaked’ 🙂 yesterday that Harvey has chatted to advisors about...",
+   "tag": "Cyber"
+  },
+  {
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T00:56:44+00:00",
+   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
+   "url": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
+   "source": "EFF",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T23:33:19+00:00",
+   "summary": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
    "source": "The Record",
    "date": "2026-11-05",
-   "ts": "2026-11-05T20:11:00+00:00",
-   "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+   "ts": "2026-11-05T22:08:00+00:00",
+   "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T21:30:30+00:00",
+   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and…",
+   "tag": "AI"
+  },
+  {
+   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+   "source": "Dark Reading",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T21:00:47+00:00",
+   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+   "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+   "source": "The Record",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T20:48:00+00:00",
+   "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
    "tag": "Cyber"
   },
   {
@@ -33,15 +96,6 @@
    "date": "2026-11-05",
    "ts": "2026-11-05T19:22:27+00:00",
    "summary": "Wanda Jones-Heath said it’s key to keeping pace with incidents and threats, speaking at a Datadog event Thursday.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-   "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-   "source": "The Record",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T19:15:00+00:00",
-   "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
    "tag": "Cyber"
   },
   {
@@ -61,24 +115,6 @@
    "ts": "2026-11-05T16:57:01+00:00",
    "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.”…",
    "tag": "AI"
-  },
-  {
-   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T16:24:26+00:00",
-   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "DigiCert data breach exposes customer information, identity documents",
-   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T16:12:46+00:00",
-   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents.…",
-   "tag": "Cyber"
   },
   {
    "title": "Bridging State Aging Plans and AgeTech Development",
@@ -117,33 +153,6 @@
    "tag": "AI"
   },
   {
-   "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
-   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically",
-   "source": "EFF",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T20:26:48+00:00",
-   "summary": "Yesterday, along with the ACLU, EFF filed an amicus brief in the Ninth Circuit court of appeals in United States v. Spurlock, a case involving a “tower dump” warrant. These overbroad warrants require cellular providers…",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Google Summaries Aren't About AI, They're About Lock-In",
-   "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
-   "source": "EFF",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T20:05:03+00:00",
-   "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own ecosystem. Knowing that makes it possible for all of us to…",
-   "tag": "AI"
-  },
-  {
-   "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-   "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-   "source": "TechCrunch",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T19:29:52+00:00",
-   "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-   "tag": "AI"
-  },
-  {
    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
    "source": "Dark Reading",
@@ -162,22 +171,13 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Ex-Legorans Bag $2.4m For Real Estate AI Native",
-   "url": "https://www.artificiallawyer.com/2026/11/03/ex-legorans-bag-2-4m-for-real-estate-ai-native/",
-   "source": "Artificial Lawyer",
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "source": "Krebs on Security",
    "date": "2026-11-03",
-   "ts": "2026-11-03T14:24:27+00:00",
-   "summary": "Ex-Legorans, Cem Ucan and Kieran John Keenan, have raised a $2.4 million pre-seed round led by a16z Speedrun for their new model, AI native law...",
-   "tag": "AI"
-  },
-  {
-   "title": "Ford promises not to sell your driving habits to data brokers",
-   "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-   "source": "The Verge",
-   "date": "2026-11-02",
-   "ts": "2026-11-02T19:05:46+00:00",
-   "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing…",
-   "tag": "Privacy"
+   "ts": "2026-11-03T02:24:31+00:00",
+   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…",
+   "tag": "Cyber"
   }
  ]
 }
