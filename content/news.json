@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-06 10:31 UTC",
+ "fetched": "2026-11-06 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 4",
+  "Future of Privacy Forum": "ok 3",
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
@@ -18,13 +18,103 @@
  },
  "items": [
   {
-   "title": "When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship",
-   "url": "https://www.eff.org/deeplinks/2026/11/when-watchdogs-are-silenced-indias-crackdown-those-documenting-online-censorship",
+   "title": "Google Forcing AI on Students Is BS",
+   "url": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
    "source": "EFF",
    "date": "2026-11-06",
-   "ts": "2026-11-06T09:30:42+00:00",
-   "summary": "On November 3, our colleagues at the Software Freedom Law Center, India (SFLC.in) received notifications from X that the Delhi Police had issued takedown requests targeting 42 URLs. Among the accounts and posts targeted…",
+   "ts": "2026-11-06T19:14:22+00:00",
+   "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled and turned off the services by default, but made it…",
+   "tag": "AI"
+  },
+  {
+   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+   "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+   "source": "The Record",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T19:06:00+00:00",
+   "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Certificate authority DigiCert reports data breach involving business customer info",
+   "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+   "source": "The Record",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:56:00+00:00",
+   "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "source": "TechCrunch",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:44:38+00:00",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "tag": "AI"
+  },
+  {
+   "title": "Presenting 'Desire Lines: Encoding Queer Digital Futures'",
+   "url": "https://www.eff.org/deeplinks/2026/11/presenting-desire-lines-encoding-queer-digital-futures",
+   "source": "EFF",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:21:41+00:00",
+   "summary": "What does the digital future look like? Who gets to imagine it, shape it, and make it real? Building a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making…",
    "tag": "Privacy"
+  },
+  {
+   "title": "Authorities accuse trio of using AI deepfakes to defraud $129M from businesses",
+   "url": "https://cyberscoop.com/ai-deepfakes-impersonate-ceo-lawyer-defraud-companies/",
+   "source": "CyberScoop",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T17:20:47+00:00",
+   "summary": "The middle-aged men allegedly targeted accounting staff at victim companies and impersonated CEOs and lawyers to trick victims into sending large wire transfers.",
+   "tag": "AI"
+  },
+  {
+   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T17:04:23+00:00",
+   "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Chainalysis says breach exposed credentials for all customers",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T14:17:07+00:00",
+   "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Litera and filerskeepers Bridge the Gap Between Global Retention Requirements and Records Governance",
+   "url": "https://www.lawnext.com/2026/11/litera-and-filerskeepers-bridge-the-gap-between-global-retention-requirements-and-records-governance.html",
+   "source": "LawSites",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T14:00:30+00:00",
+   "summary": "FileTrail’s records management workflows complement filerskeepers’ legal retention intelligence to help organizations put retention requirements into practice CHICAGO and AMSTERDAM – Nov. 5, 2026 – Litera, the legal AI…",
+   "tag": "AI"
+  },
+  {
+   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+   "source": "Dark Reading",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T14:00:00+00:00",
+   "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Introducing SimpleDocs 360: AI-Native Contract Lifecycle Management",
+   "url": "https://www.lawnext.com/2026/11/introducing-simpledocs-360-ai-native-contract-lifecycle-management.html",
+   "source": "LawSites",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T13:00:00+00:00",
+   "summary": "The promise of CLM, without the complexity. MIAMI, FL — November 2026 — SimpleDocs, an award-winning provider of AI-powered contract solutions and parent company of Law Insider, today announced the launch of SimpleDocs…",
+   "tag": "AI"
   },
   {
    "title": "Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY",
@@ -36,57 +126,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T00:56:44+00:00",
-   "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
-   "url": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
-   "source": "EFF",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T23:33:19+00:00",
-   "summary": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-   "source": "The Record",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T22:08:00+00:00",
-   "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-   "source": "BleepingComputer",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T21:30:30+00:00",
-   "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and…",
-   "tag": "AI"
-  },
-  {
    "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
    "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
    "source": "Dark Reading",
    "date": "2026-11-05",
    "ts": "2026-11-05T21:00:47+00:00",
    "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-   "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-   "source": "The Record",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T20:48:00+00:00",
-   "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
    "tag": "Cyber"
   },
   {
@@ -97,24 +142,6 @@
    "ts": "2026-11-05T19:22:27+00:00",
    "summary": "Wanda Jones-Heath said it’s key to keeping pace with incidents and threats, speaking at a Datadog event Thursday.",
    "tag": "Cyber"
-  },
-  {
-   "title": "OpenAI debuts GPT-6 Cyber, touting better performance — and safety guardrails",
-   "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
-   "source": "CyberScoop",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T17:00:00+00:00",
-   "summary": "After a summer of sandbox escaping hacks, OpenAI said their new model was trained to be more cautious around user intent and less sensitive to “reward hacking” behaviors.",
-   "tag": "AI"
-  },
-  {
-   "title": "Clio Wants To Bring AI to the Judiciary, But 50-State Survey Reveals Policies Differ in Whether They Allow It",
-   "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
-   "source": "LawSites",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T16:57:01+00:00",
-   "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.”…",
-   "tag": "AI"
   },
   {
    "title": "Bridging State Aging Plans and AgeTech Development",
@@ -135,15 +162,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "source": "TechCrunch",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T01:26:22+00:00",
-   "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-   "tag": "AI"
-  },
-  {
    "title": "AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill",
    "url": "https://abovethelaw.com/2026/11/ai-may-speed-up-legal-research-but-that-doesnt-automatically-shrink-the-bill/",
    "source": "Above the Law",
@@ -151,24 +169,6 @@
    "ts": "2026-11-04T21:00:00+00:00",
    "summary": "The Tenth Circuit upheld a six-figure fee award after finding no evidence that defense counsel’s AI use made its hours unreasonable.",
    "tag": "AI"
-  },
-  {
-   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-   "source": "Dark Reading",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T02:00:00+00:00",
-   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
-   "url": "https://www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
-   "source": "LawSites",
-   "date": "2026-11-03",
-   "ts": "2026-11-03T19:56:31+00:00",
-   "summary": "As NetDocuments rolls out a completely redesigned user experience, a new Microsoft 365 integration, and real-time co-authoring, LawNext host Bob Ambrogi speaks with Chief Product Officer Dan Hauck in an episode recorded…",
-   "tag": "Legal tech"
   },
   {
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
