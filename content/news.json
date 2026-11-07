@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-06 20:31 UTC",
+ "fetched": "2026-11-07 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T22:27:25+00:00",
+   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and…",
+   "tag": "AI"
+  },
+  {
+   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+   "source": "Dark Reading",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T21:27:36+00:00",
+   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+   "tag": "AI"
+  },
   {
    "title": "Google Forcing AI on Students Is BS",
    "url": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
@@ -81,24 +99,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Chainalysis says breach exposed credentials for all customers",
-   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T14:17:07+00:00",
-   "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Litera and filerskeepers Bridge the Gap Between Global Retention Requirements and Records Governance",
-   "url": "https://www.lawnext.com/2026/11/litera-and-filerskeepers-bridge-the-gap-between-global-retention-requirements-and-records-governance.html",
-   "source": "LawSites",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T14:00:30+00:00",
-   "summary": "FileTrail’s records management workflows complement filerskeepers’ legal retention intelligence to help organizations put retention requirements into practice CHICAGO and AMSTERDAM – Nov. 5, 2026 – Litera, the legal AI…",
-   "tag": "AI"
-  },
-  {
    "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
    "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
    "source": "Dark Reading",
@@ -106,15 +106,6 @@
    "ts": "2026-11-06T14:00:00+00:00",
    "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Introducing SimpleDocs 360: AI-Native Contract Lifecycle Management",
-   "url": "https://www.lawnext.com/2026/11/introducing-simpledocs-360-ai-native-contract-lifecycle-management.html",
-   "source": "LawSites",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T13:00:00+00:00",
-   "summary": "The promise of CLM, without the complexity. MIAMI, FL — November 2026 — SimpleDocs, an award-winning provider of AI-powered contract solutions and parent company of Law Insider, today announced the launch of SimpleDocs…",
-   "tag": "AI"
   },
   {
    "title": "Harvey + Legora IPO Plans, A&O $1.1bn, Legal Innovators NY",
@@ -126,15 +117,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-   "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-   "source": "Dark Reading",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T21:00:47+00:00",
-   "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Air Force cyber official: need to invest in digital forensics",
    "url": "https://cyberscoop.com/air-force-digital-forensics-cyber-investment/",
    "source": "CyberScoop",
@@ -142,6 +124,15 @@
    "ts": "2026-11-05T19:22:27+00:00",
    "summary": "Wanda Jones-Heath said it’s key to keeping pace with incidents and threats, speaking at a Datadog event Thursday.",
    "tag": "Cyber"
+  },
+  {
+   "title": "Clio Wants To Bring AI to the Judiciary, But 50-State Survey Reveals Policies Differ in Whether They Allow It",
+   "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
+   "source": "LawSites",
+   "date": "2026-11-05",
+   "ts": "2026-11-05T16:57:01+00:00",
+   "summary": "As I have reported here, the legal technology company Clio is making a big push into the judiciary. It wants to develop AI tools to make judges’ jobs easier, and it has even trademarked the phrase “judiciary-grade AI.”…",
+   "tag": "AI"
   },
   {
    "title": "Bridging State Aging Plans and AgeTech Development",
@@ -162,13 +153,22 @@
    "tag": "Cyber"
   },
   {
-   "title": "AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill",
-   "url": "https://abovethelaw.com/2026/11/ai-may-speed-up-legal-research-but-that-doesnt-automatically-shrink-the-bill/",
-   "source": "Above the Law",
+   "title": "A Brief History of Generative Legal AI",
+   "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
+   "source": "Artificial Lawyer",
    "date": "2026-11-04",
-   "ts": "2026-11-04T21:00:00+00:00",
-   "summary": "The Tenth Circuit upheld a six-figure fee award after finding no evidence that defense counsel’s AI use made its hours unreasonable.",
+   "ts": "2026-11-04T07:40:00+00:00",
+   "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments...",
    "tag": "AI"
+  },
+  {
+   "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
+   "url": "https://www.lawnext.com/2026/11/netdocuments-cpo-dan-hauck-on-the-companys-redesigned-platform-the-legal-context-graph-and-building-an-agentic-dms.html",
+   "source": "LawSites",
+   "date": "2026-11-03",
+   "ts": "2026-11-03T19:56:31+00:00",
+   "summary": "As NetDocuments rolls out a completely redesigned user experience, a new Microsoft 365 integration, and real-time co-authoring, LawNext host Bob Ambrogi speaks with Chief Product Officer Dan Hauck in an episode recorded…",
+   "tag": "Legal tech"
   },
   {
    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
