@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-07 10:31 UTC",
+ "fetched": "2026-11-07 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "Hackers pull off $133 million French bank heist via service provider",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "source": "BleepingComputer",
+   "date": "2026-11-07",
+   "ts": "2026-11-07T15:25:35+00:00",
+   "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Bonus Wrap: Harvey, Jus Mundi, LI NY +",
+   "url": "https://www.artificiallawyer.com/2026/11/07/bonus-wrap-harvey-jus-mundi-li-ny/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-07",
+   "ts": "2026-11-07T11:19:07+00:00",
+   "summary": "It’s 48 days until Christmas and in some places the decorations are already going up. But this special Bonus Wrap has more immediate things to...",
+   "tag": "Legal tech"
+  },
   {
    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
    "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
@@ -90,15 +108,6 @@
    "tag": "AI"
   },
   {
-   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T17:04:23+00:00",
-   "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
    "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
    "source": "Dark Reading",
@@ -151,15 +160,6 @@
    "ts": "2026-11-05T04:36:17+00:00",
    "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of…",
    "tag": "Cyber"
-  },
-  {
-   "title": "A Brief History of Generative Legal AI",
-   "url": "https://www.artificiallawyer.com/2026/11/04/a-brief-history-of-generative-legal-ai/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-04",
-   "ts": "2026-11-04T07:40:00+00:00",
-   "summary": "It’s Legal Innovators UK today and tomorrow, so here are some reference notes. As Conference Chair I’ll be referring to this chart in my comments...",
-   "tag": "AI"
   },
   {
    "title": "NetDocuments CPO Dan Hauck on the Company’s Redesigned Platform, the Legal Context Graph, and Building an Agentic DMS",
