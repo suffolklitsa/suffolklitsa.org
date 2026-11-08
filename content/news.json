@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-08 10:31 UTC",
+ "fetched": "2026-11-08 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 3",
+  "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
@@ -17,6 +17,15 @@
   "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-08",
+   "ts": "2026-11-08T15:43:08+00:00",
+   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a…",
+   "tag": "Cyber"
+  },
   {
    "title": "Hackers pull off $133 million French bank heist via service provider",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -34,15 +43,6 @@
    "ts": "2026-11-07T11:19:07+00:00",
    "summary": "It’s 48 days until Christmas and in some places the decorations are already going up. But this special Bonus Wrap has more immediate things to...",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-   "source": "BleepingComputer",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T22:27:25+00:00",
-   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and…",
-   "tag": "AI"
   },
   {
    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
