@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-09 05:31 ET",
+ "fetched": "2026-11-09 15:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 4",
-  "berkman": "ok 3"
+  "berkman": "ok 4"
  },
  "events": [
   {
@@ -79,6 +79,18 @@
    "source": "bba",
    "tier": "boston",
    "source_key": "bba"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "4:30pm",
+   "name": "BKC Movie Nights",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "See event page",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/bkc-movie-nights-0",
+   "source": "berkman",
+   "tier": "boston",
+   "source_key": "berkman"
   },
   {
    "date": "2026-11-17",
