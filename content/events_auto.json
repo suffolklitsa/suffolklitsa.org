@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-10 05:31 ET",
+ "fetched": "2026-11-10 15:31 ET",
  "status": {
-  "coalition": "ok 69",
+  "coalition": "ok 70",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 3",
-  "berkman": "ok 4"
+  "berkman": "ok 3"
  },
  "events": [
   {
@@ -45,6 +45,18 @@
    "source_key": "coalition"
   },
   {
+   "date": "2026-11-12",
+   "time": "6:30–9pm",
+   "name": "Robotics Board Game Night @ Tutor",
+   "host": "Mass AI Coalition",
+   "venue": "480 Pleasant St",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/p65baai8",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
    "date": "2026-11-16",
    "time": "9am–2pm",
    "name": "The New Era of Cybersecurity: AI and National Security",
@@ -70,22 +82,10 @@
   },
   {
    "date": "2026-11-17",
-   "time": "4:30pm",
-   "name": "BKC Movie Nights",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "See event page",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/bkc-movie-nights-0",
-   "source": "berkman",
-   "tier": "boston",
-   "source_key": "berkman"
-  },
-  {
-   "date": "2026-11-17",
    "time": "3–5pm",
    "name": "Lovable: Hackathon x Startup Trek",
    "host": "Mass AI Coalition",
-   "venue": "Lovable Labs Inc",
+   "venue": "1 Lincoln St",
    "cost": "Free, approval required",
    "url": "https://luma.com/gfi154ck",
    "source": "luma",

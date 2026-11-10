@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-10 10:31 UTC",
+ "fetched": "2026-11-10 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,65 +10,110 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 1",
+  "TechCrunch": "ok 0",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
    "source": "BleepingComputer",
    "date": "2026-11-10",
-   "ts": "2026-11-10T10:10:20+00:00",
-   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges.…",
+   "ts": "2026-11-10T19:31:11+00:00",
+   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments.…",
    "tag": "Cyber"
   },
   {
-   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-   "source": "BleepingComputer",
+   "title": "AI Can (Mostly) Solve Cyber Regulatory Harmonization and Efficiency",
+   "url": "https://www.lawfaremedia.org/article/ai-can-(mostly)-solve-cyber-regulatory-harmonization-and-efficiency",
+   "source": "Lawfare",
    "date": "2026-11-10",
-   "ts": "2026-11-10T10:04:32+00:00",
-   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Russian Turla group used new toolset to silently pilfer emails from Kazakhstan, Romanian governments",
-   "url": "https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/",
-   "source": "CyberScoop",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T10:00:00+00:00",
-   "summary": "Nicknamed “Turla’s Cereal,” the tools target Microsoft Exchange servers and lack many obvious indicators of compromise or malicious telemetry, per a new ESET report.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Crosby Insures Paralegal Agents – Interview",
-   "url": "https://www.artificiallawyer.com/2026/11/10/crosby-insures-paralegal-agents-interview/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T09:51:18+00:00",
-   "summary": "New model, AI native law firm, Crosby has rolled out two key initiatives: paralegal agents that keep working on client matters; and a groundbreaking new...",
+   "ts": "2026-11-10T18:00:07+00:00",
+   "summary": "With AI-driven compliance, it has never been less important to fix cyber-regulatory inefficiencies of the “DC-MOB.”",
    "tag": "AI"
   },
   {
-   "title": "Artificial Lawyer In Conversation With Axiom",
-   "url": "https://www.artificiallawyer.com/2026/11/10/artificial-lawyer-in-conversation-with-axiom/",
+   "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
+   "url": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
+   "source": "CyberScoop",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T17:46:29+00:00",
+   "summary": "Some services began returning online Tuesday following a ransomware incident detected on Monday across Vanderbilt systems and applications.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legal Innovators NY – Keynote: Roberto Alarcon, White & Case",
+   "url": "https://www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case/",
    "source": "Artificial Lawyer",
    "date": "2026-11-10",
-   "ts": "2026-11-10T08:18:54+00:00",
-   "summary": "Artificial Lawyer’s founder spoke to Daniel Hayter, Managing Director for Europe at Axiom, about the legal AI landscape. We cover: where we are today, how...",
+   "ts": "2026-11-10T16:54:58+00:00",
+   "summary": "Ahead of Legal Innovators New York, which is next week on Nov 17 and 18, at Quorum by Convene in Midtown, the events team spoke...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
+   "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+   "source": "The Record",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:08:00+00:00",
+   "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
    "tag": "AI"
   },
   {
-   "title": "Trump picks Palantir’s LoSapio to head CISA",
-   "url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
+   "title": "Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?",
+   "url": "https://www.lawnext.com/2026/11/ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-after-the-weil-wind-down.html",
+   "source": "LawSites",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T15:47:03+00:00",
+   "summary": "Weil’s demise happened quickly and is unfortunate. Since Bloomberg Law reported the news, many have covered the situation. David Lat also offered a detailed analysis. Symptoms and central causes As the dust settles, a…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Cybercriminals are increasingly infecting regular people with spyware",
+   "url": "https://therecord.media/spyware-cyber-crime-iverify",
+   "source": "The Record",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T15:45:00+00:00",
+   "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Ransomware recovery is now a client retention metric",
+   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T15:01:11+00:00",
+   "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
+   "url": "https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html",
+   "source": "LawSites",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T14:18:47+00:00",
+   "summary": "Blue J, the Toronto-based tax research and advisory platform, said today that it has raised $176 million in Series E capital to scale its agentic AI and expand into new geographic markets. The round was led by JMI…",
+   "tag": "AI"
+  },
+  {
+   "title": "Blue J Follows Legora Alliance With $176m Raise",
+   "url": "https://www.artificiallawyer.com/2026/11/10/blue-j-follows-legora-alliance-with-176m-raise/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T14:02:45+00:00",
+   "summary": "Blue J, the tax research platform, has announced a $176m Series E raise led by JMI Equity, which values the company at $700m. The announcement...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Spyware attacks trend toward hitting just about anyone",
+   "url": "https://cyberscoop.com/spyware-attacks-trend-everyday-people-iverify-report/",
    "source": "CyberScoop",
    "date": "2026-11-10",
-   "ts": "2026-11-10T03:38:11+00:00",
-   "summary": "The Cybersecurity and Infrastructure Security Agency has gone without a Senate-confirmed director for all of Trump’s second term, and Michael LoSapio could face resistance, too.",
+   "ts": "2026-11-10T11:00:00+00:00",
+   "summary": "iVerify’s report Tuesday adds to evidence of spyware’s increasingly indiscriminate targeting.",
    "tag": "Cyber"
   },
   {
@@ -99,33 +144,6 @@
    "tag": "IP"
   },
   {
-   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
-   "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
-   "source": "The Record",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T20:44:00+00:00",
-   "summary": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "France blames Iran for fridge cyberattacks, says some caused fires",
-   "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
-   "source": "The Record",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:45:00+00:00",
-   "summary": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "For Access To Justice, The Perfect Lawyer Is The Enemy Of The Good Chatbot",
-   "url": "https://abovethelaw.com/2026/11/for-access-to-justice-the-perfect-lawyer-is-the-enemy-of-the-good-chatbot/",
-   "source": "Above the Law",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:07:27+00:00",
-   "summary": "AI has a role to play on both sides of the access to justice crisis. It's not perfect, but perfect isn't necessarily the goal.",
-   "tag": "AI"
-  },
-  {
    "title": "Jonathan Kanter is using AI to take on Big Tech",
    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
    "source": "The Verge",
@@ -135,30 +153,12 @@
    "tag": "AI"
   },
   {
-   "title": "Founder Nikki Shaver to Leave Legaltech Hub, Investor Jeroen Plink to Step In, Announces Strategic Partnership with Baretz+Brunelle",
-   "url": "https://www.lawnext.com/2026/11/founder-nikki-shaver-to-leave-legaltech-hub-investor-jeroen-plink-to-step-in-announces-strategic-partnership-with-baretzbrunelle.html",
-   "source": "LawSites",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T14:00:12+00:00",
-   "summary": "Nikki Shaver, CEO of Legaltech Hub (LTH), is leaving the company Dec. 1 to join law firm Davis Polk & Wardwell as chief AI and knowledge officer. Shaver and her husband, Chris Ford, founded LTH in 2020 as a legal tech…",
-   "tag": "AI"
-  },
-  {
    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
    "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
    "source": "Dark Reading",
    "date": "2026-11-06",
    "ts": "2026-11-06T21:27:36+00:00",
    "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "tag": "AI"
-  },
-  {
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "source": "TechCrunch",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T18:44:38+00:00",
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
    "tag": "AI"
   },
   {
