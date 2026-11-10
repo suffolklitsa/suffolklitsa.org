@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-09 20:31 UTC",
+ "fetched": "2026-11-10 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -14,17 +14,98 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability",
-   "url": "https://www.eff.org/deeplinks/2026/11/us-supreme-court-deals-final-blow-corporate-human-rights-accountability",
+   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T10:10:20+00:00",
+   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+   "source": "BleepingComputer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T10:04:32+00:00",
+   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Russian Turla group used new toolset to silently pilfer emails from Kazakhstan, Romanian governments",
+   "url": "https://cyberscoop.com/russian-turla-group-used-new-toolset-to-silently-pilfer-emails-from-kazakhstan-romanian-governments/",
+   "source": "CyberScoop",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T10:00:00+00:00",
+   "summary": "Nicknamed “Turla’s Cereal,” the tools target Microsoft Exchange servers and lack many obvious indicators of compromise or malicious telemetry, per a new ESET report.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Crosby Insures Paralegal Agents – Interview",
+   "url": "https://www.artificiallawyer.com/2026/11/10/crosby-insures-paralegal-agents-interview/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T09:51:18+00:00",
+   "summary": "New model, AI native law firm, Crosby has rolled out two key initiatives: paralegal agents that keep working on client matters; and a groundbreaking new...",
+   "tag": "AI"
+  },
+  {
+   "title": "Artificial Lawyer In Conversation With Axiom",
+   "url": "https://www.artificiallawyer.com/2026/11/10/artificial-lawyer-in-conversation-with-axiom/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T08:18:54+00:00",
+   "summary": "Artificial Lawyer’s founder spoke to Daniel Hayter, Managing Director for Europe at Axiom, about the legal AI landscape. We cover: where we are today, how...",
+   "tag": "AI"
+  },
+  {
+   "title": "Trump picks Palantir’s LoSapio to head CISA",
+   "url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
+   "source": "CyberScoop",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T03:38:11+00:00",
+   "summary": "The Cybersecurity and Infrastructure Security Agency has gone without a Senate-confirmed director for all of Trump’s second term, and Michael LoSapio could face resistance, too.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More",
+   "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering-ai-billing-limits-tx-reconsiders-aba-accreditation-council-biglaw-shakeup-ai-privilege-more/",
+   "source": "Above the Law",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T22:34:00+00:00",
+   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
+   "tag": "AI"
+  },
+  {
+   "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
+   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
    "source": "EFF",
    "date": "2026-11-09",
-   "ts": "2026-11-09T19:29:03+00:00",
-   "summary": "For the past two decades, the U.S. Supreme Court has been slowly weakening the Alien Tort Statute (ATS), a key human rights law that allows foreign nationals to sue persons or entities in civil court for harms resulting…",
+   "ts": "2026-11-09T22:09:24+00:00",
+   "summary": "Today, along with the ACLU, EFF filed an amicus brief in the Sixth Circuit court of appeals in United States v. Sturdivant, a case where police warrantlessly tracked a suspect’s movements using Automated License Plate…",
    "tag": "Legal tech"
+  },
+  {
+   "title": "Why Fewer People Are Challenging Bad Patents",
+   "url": "https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents",
+   "source": "EFF",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T21:40:14+00:00",
+   "summary": "The number of petitions being filed at the Patent Trial and Appeal Board (PTAB) has collapsed. That’s not reason for celebration. The PTAB is an important line of defense against low-quality software patents being used…",
+   "tag": "IP"
+  },
+  {
+   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+   "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+   "source": "The Record",
+   "date": "2026-11-09",
+   "ts": "2026-11-09T20:44:00+00:00",
+   "summary": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.",
+   "tag": "Cyber"
   },
   {
    "title": "France blames Iran for fridge cyberattacks, says some caused fires",
@@ -36,24 +117,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:32:42+00:00",
-   "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
-   "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
-   "source": "The Record",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T18:30:00+00:00",
-   "summary": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.",
-   "tag": "Cyber"
-  },
-  {
    "title": "For Access To Justice, The Perfect Lawyer Is The Enemy Of The Good Chatbot",
    "url": "https://abovethelaw.com/2026/11/for-access-to-justice-the-perfect-lawyer-is-the-enemy-of-the-good-chatbot/",
    "source": "Above the Law",
@@ -61,33 +124,6 @@
    "ts": "2026-11-09T18:07:27+00:00",
    "summary": "AI has a role to play on both sides of the access to justice crisis. It's not perfect, but perfect isn't necessarily the goal.",
    "tag": "AI"
-  },
-  {
-   "title": "Blackletter Bags $6m for Transactional New Mod",
-   "url": "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T17:13:05+00:00",
-   "summary": "Many new model, AI native, law firms are focused on more routine commercial contracts, with a notable group handling matters for startups. Blackletter is instead...",
-   "tag": "AI"
-  },
-  {
-   "title": "Binance denies data breach after alleged ShinyHunters claims",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-   "source": "BleepingComputer",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T16:12:39+00:00",
-   "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Legal Innovators New York is Next Week!",
-   "url": "https://www.artificiallawyer.com/2026/11/09/legal-innovators-new-york-is-next-week/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T14:36:46+00:00",
-   "summary": "It’s been months in the planning and now the landmark Legal Innovators New York conference in Midtown, on November 17 and 18, is here – taking place next...",
-   "tag": "Legal tech"
   },
   {
    "title": "Jonathan Kanter is using AI to take on Big Tech",
@@ -108,30 +144,12 @@
    "tag": "AI"
   },
   {
-   "title": "AI doesn’t have to go rogue to break the world",
-   "url": "https://cyberscoop.com/ai-hacking-risks-loopholes-bruce-schneier-defcon-keynote-op-ed/",
-   "source": "CyberScoop",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T11:00:00+00:00",
-   "summary": "AI systems are learning to exploit loopholes in everything from software to tax law. The biggest threat may not be malicious intent, but machines doing exactly what we ask.",
-   "tag": "AI"
-  },
-  {
    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
    "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
    "source": "Dark Reading",
    "date": "2026-11-06",
    "ts": "2026-11-06T21:27:36+00:00",
    "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
-   "tag": "AI"
-  },
-  {
-   "title": "Google Forcing AI on Students Is BS",
-   "url": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
-   "source": "EFF",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T19:14:22+00:00",
-   "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled and turned off the services by default, but made it…",
    "tag": "AI"
   },
   {
@@ -142,24 +160,6 @@
    "ts": "2026-11-06T18:44:38+00:00",
    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
    "tag": "AI"
-  },
-  {
-   "title": "Authorities accuse trio of using AI deepfakes to defraud $129M from businesses",
-   "url": "https://cyberscoop.com/ai-deepfakes-impersonate-ceo-lawyer-defraud-companies/",
-   "source": "CyberScoop",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T17:20:47+00:00",
-   "summary": "The middle-aged men allegedly targeted accounting staff at victim companies and impersonated CEOs and lawyers to trick victims into sending large wire transfers.",
-   "tag": "AI"
-  },
-  {
-   "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-   "source": "Dark Reading",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T14:00:00+00:00",
-   "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-   "tag": "Cyber"
   },
   {
    "title": "Bridging State Aging Plans and AgeTech Development",

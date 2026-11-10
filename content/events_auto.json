@@ -1,25 +1,13 @@
 {
- "fetched": "2026-11-09 15:31 ET",
+ "fetched": "2026-11-10 05:31 ET",
  "status": {
   "coalition": "ok 69",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 4",
+  "bba": "ok 3",
   "berkman": "ok 4"
  },
  "events": [
-  {
-   "date": "2026-11-09",
-   "time": "5:30–7pm",
-   "name": "No Reasonable Expectation? Privacy in Public Places",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000051EE9",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
-  },
   {
    "date": "2026-11-10",
    "time": "3–6pm",
