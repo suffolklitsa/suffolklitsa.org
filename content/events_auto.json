@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-10 15:31 ET",
+ "fetched": "2026-11-11 05:31 ET",
  "status": {
   "coalition": "ok 70",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,18 +8,6 @@
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-10",
-   "time": "3–6pm",
-   "name": "Lovable: Hackathon x Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "1 Lincoln St",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/ov7zl4rd",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-12",
    "time": "4–6pm",

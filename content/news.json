@@ -1,30 +1,120 @@
 {
- "fetched": "2026-11-10 20:31 UTC",
+ "fetched": "2026-11-11 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 2",
+  "Krebs on Security": "ok 3",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 0",
+  "TechCrunch": "ok 1",
   "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T10:12:08+00:00",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legora Targets Public Sector With Ex-Minister",
+   "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T09:37:15+00:00",
+   "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies – all funded by you and me. Leading the charge will...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Mercedes Lawyer Joins AI Native Compound Law",
+   "url": "https://www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T08:16:42+00:00",
+   "summary": "Compound Law, an AI‐native firm based in Berlin, and co-founded by the former General Counsel of Zenjob, has hired Marc Schuba, a White & Case...",
+   "tag": "AI"
+  },
+  {
+   "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
+   "url": "https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/",
+   "source": "CyberScoop",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T22:38:16+00:00",
+   "summary": "Others touted Michael LoSapio as a fit for the job due to his technical credentials as CISO for the company.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "3 More Questions For A Patent Litigator Turned Legal Recruiter (Part I)",
+   "url": "https://abovethelaw.com/2026/11/3-more-questions-for-a-patent-litigator-turned-legal-recruiter-part-i/",
+   "source": "Above the Law",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T22:35:00+00:00",
+   "summary": "A willingness to learn and an open, curious mind are force multipliers in a demanding career such as IP litigation.",
+   "tag": "IP"
+  },
+  {
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
    "source": "BleepingComputer",
    "date": "2026-11-10",
-   "ts": "2026-11-10T19:31:11+00:00",
-   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments.…",
+   "ts": "2026-11-10T22:20:19+00:00",
+   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…",
+   "tag": "AI"
+  },
+  {
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T21:55:03+00:00",
+   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical…",
    "tag": "Cyber"
+  },
+  {
+   "title": "The US wants its quantum lead to turn into factories and supply chains",
+   "url": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
+   "source": "CyberScoop",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T21:50:46+00:00",
+   "summary": "There’s bipartisan support for further investment in the U.S. quantum industry, along with worries that America’s industrial capacity won’t keep up with demand.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "US Army member arrested in UK over allegations of spying for Russia",
+   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+   "source": "The Record",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T21:13:00+00:00",
+   "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
+   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+   "source": "The Record",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T20:55:00+00:00",
+   "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch",
+   "date": "2026-11-10",
+   "ts": "2026-11-10T20:52:13+00:00",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "tag": "AI"
   },
   {
    "title": "AI Can (Mostly) Solve Cyber Regulatory Harmonization and Efficiency",
@@ -33,33 +123,6 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T18:00:07+00:00",
    "summary": "With AI-driven compliance, it has never been less important to fix cyber-regulatory inefficiencies of the “DC-MOB.”",
-   "tag": "AI"
-  },
-  {
-   "title": "Vanderbilt University reels following ransomware attack claimed by BYOD group",
-   "url": "https://cyberscoop.com/vanderbilt-university-ransomware-attack-byod/",
-   "source": "CyberScoop",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T17:46:29+00:00",
-   "summary": "Some services began returning online Tuesday following a ransomware incident detected on Monday across Vanderbilt systems and applications.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Legal Innovators NY – Keynote: Roberto Alarcon, White & Case",
-   "url": "https://www.artificiallawyer.com/2026/11/10/legal-innovators-ny-keynote-roberto-alarcon-white-case/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T16:54:58+00:00",
-   "summary": "Ahead of Legal Innovators New York, which is next week on Nov 17 and 18, at Quorum by Convene in Midtown, the events team spoke...",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-   "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-   "source": "The Record",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T16:08:00+00:00",
-   "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
    "tag": "AI"
   },
   {
@@ -72,24 +135,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Cybercriminals are increasingly infecting regular people with spyware",
-   "url": "https://therecord.media/spyware-cyber-crime-iverify",
-   "source": "The Record",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T15:45:00+00:00",
-   "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Ransomware recovery is now a client retention metric",
-   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T15:01:11+00:00",
-   "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
    "url": "https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html",
    "source": "LawSites",
@@ -97,24 +142,6 @@
    "ts": "2026-11-10T14:18:47+00:00",
    "summary": "Blue J, the Toronto-based tax research and advisory platform, said today that it has raised $176 million in Series E capital to scale its agentic AI and expand into new geographic markets. The round was led by JMI…",
    "tag": "AI"
-  },
-  {
-   "title": "Blue J Follows Legora Alliance With $176m Raise",
-   "url": "https://www.artificiallawyer.com/2026/11/10/blue-j-follows-legora-alliance-with-176m-raise/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T14:02:45+00:00",
-   "summary": "Blue J, the tax research platform, has announced a $176m Series E raise led by JMI Equity, which values the company at $700m. The announcement...",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Spyware attacks trend toward hitting just about anyone",
-   "url": "https://cyberscoop.com/spyware-attacks-trend-everyday-people-iverify-report/",
-   "source": "CyberScoop",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T11:00:00+00:00",
-   "summary": "iVerify’s report Tuesday adds to evidence of spyware’s increasingly indiscriminate targeting.",
-   "tag": "Cyber"
   },
   {
    "title": "Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More",
@@ -135,30 +162,12 @@
    "tag": "Legal tech"
   },
   {
-   "title": "Why Fewer People Are Challenging Bad Patents",
-   "url": "https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents",
-   "source": "EFF",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T21:40:14+00:00",
-   "summary": "The number of petitions being filed at the Patent Trial and Appeal Board (PTAB) has collapsed. That’s not reason for celebration. The PTAB is an important line of defense against low-quality software patents being used…",
-   "tag": "IP"
-  },
-  {
    "title": "Jonathan Kanter is using AI to take on Big Tech",
    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
    "source": "The Verge",
    "date": "2026-11-09",
    "ts": "2026-11-09T14:10:44+00:00",
    "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private…",
-   "tag": "AI"
-  },
-  {
-   "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-   "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-   "source": "Dark Reading",
-   "date": "2026-11-06",
-   "ts": "2026-11-06T21:27:36+00:00",
-   "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
    "tag": "AI"
   },
   {
@@ -169,15 +178,6 @@
    "ts": "2026-11-05T15:24:16+00:00",
    "summary": "As the U.S. population ages, technology developers, health care providers, and policymakers are increasingly interested in “AgeTech”—consumer technologies designed to support older adults and their caregivers. However…",
    "tag": "Privacy"
-  },
-  {
-   "title": "Want to Rent an Internet Address at the White House?",
-   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-   "source": "Krebs on Security",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T04:36:17+00:00",
-   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of…",
-   "tag": "Cyber"
   }
  ]
 }
