@@ -1,29 +1,83 @@
 {
- "fetched": "2026-11-11 10:31 UTC",
+ "fetched": "2026-11-11 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 3",
+  "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 1",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 3"
+  "Above the Law": "ok 2"
  },
  "items": [
   {
-   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
+   "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+   "source": "EFF",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T18:32:37+00:00",
+   "summary": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to evaluate Medicare…",
+   "tag": "AI"
+  },
+  {
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T18:06:01+00:00",
+   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T16:57:00+00:00",
+   "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
    "source": "BleepingComputer",
    "date": "2026-11-11",
-   "ts": "2026-11-11T10:12:08+00:00",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.…",
+   "ts": "2026-11-11T16:24:18+00:00",
+   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T15:12:59+00:00",
+   "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments.…",
+   "tag": "AI"
+  },
+  {
+   "title": "Claren Launches ‘Envoys’ Inhouse Agents",
+   "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T15:00:20+00:00",
+   "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Poland shuts down government services platform ePUAP following cyberattack",
+   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T13:18:00+00:00",
+   "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
    "tag": "Cyber"
   },
   {
@@ -34,15 +88,6 @@
    "ts": "2026-11-11T09:37:15+00:00",
    "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies – all funded by you and me. Leading the charge will...",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Mercedes Lawyer Joins AI Native Compound Law",
-   "url": "https://www.artificiallawyer.com/2026/11/11/mercedes-lawyer-joins-ai-native-compound-law/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T08:16:42+00:00",
-   "summary": "Compound Law, an AI‐native firm based in Berlin, and co-founded by the former General Counsel of Zenjob, has hired Marc Schuba, a White & Case...",
-   "tag": "AI"
   },
   {
    "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
@@ -63,15 +108,6 @@
    "tag": "IP"
   },
   {
-   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T22:20:19+00:00",
-   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…",
-   "tag": "AI"
-  },
-  {
    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
    "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
    "source": "Krebs on Security",
@@ -90,39 +126,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "US Army member arrested in UK over allegations of spying for Russia",
-   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-   "source": "The Record",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T21:13:00+00:00",
-   "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-   "source": "The Record",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T20:55:00+00:00",
-   "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-   "tag": "Cyber"
-  },
-  {
    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
    "source": "TechCrunch",
    "date": "2026-11-10",
    "ts": "2026-11-10T20:52:13+00:00",
    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "tag": "AI"
-  },
-  {
-   "title": "AI Can (Mostly) Solve Cyber Regulatory Harmonization and Efficiency",
-   "url": "https://www.lawfaremedia.org/article/ai-can-(mostly)-solve-cyber-regulatory-harmonization-and-efficiency",
-   "source": "Lawfare",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T18:00:07+00:00",
-   "summary": "With AI-driven compliance, it has never been less important to fix cyber-regulatory inefficiencies of the “DC-MOB.”",
    "tag": "AI"
   },
   {
@@ -151,15 +160,6 @@
    "ts": "2026-11-09T22:34:00+00:00",
    "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
    "tag": "AI"
-  },
-  {
-   "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
-   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-   "source": "EFF",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T22:09:24+00:00",
-   "summary": "Today, along with the ACLU, EFF filed an amicus brief in the Sixth Circuit court of appeals in United States v. Sturdivant, a case where police warrantlessly tracked a suspect’s movements using Automated License Plate…",
-   "tag": "Legal tech"
   },
   {
    "title": "Jonathan Kanter is using AI to take on Big Tech",
