@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-11 20:31 UTC",
+ "fetched": "2026-11-12 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -14,9 +14,54 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "Above the Law": "ok 1"
  },
  "items": [
+  {
+   "title": "Hackers plant GSocket on Linux servers for persistent access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T09:38:00+00:00",
+   "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Is Big Law ‘AI Gaslighting’ Us?",
+   "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T08:46:39+00:00",
+   "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just ‘AI gaslighting’? And...",
+   "tag": "AI"
+  },
+  {
+   "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
+   "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T07:47:31+00:00",
+   "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an...",
+   "tag": "AI"
+  },
+  {
+   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "source": "Dark Reading",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T00:00:00+00:00",
+   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+   "tag": "AI"
+  },
+  {
+   "title": "Baker Tilly notifies clients of data breach at third-party provider",
+   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "source": "BleepingComputer",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T23:01:31+00:00",
+   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents.…",
+   "tag": "Cyber"
+  },
   {
    "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
    "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
@@ -45,33 +90,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T16:24:18+00:00",
-   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T15:12:59+00:00",
-   "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments.…",
-   "tag": "AI"
-  },
-  {
-   "title": "Claren Launches ‘Envoys’ Inhouse Agents",
-   "url": "https://www.artificiallawyer.com/2026/11/11/claren-launches-envoys-inhouse-agents/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T15:00:20+00:00",
-   "summary": "Claren, which has bases in London and California, has launched Envoys: always-on agents that absorb inhouse tasks from email or Slack, run the matter against...",
-   "tag": "Legal tech"
-  },
-  {
    "title": "Poland shuts down government services platform ePUAP following cyberattack",
    "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
    "source": "The Record",
@@ -79,15 +97,6 @@
    "ts": "2026-11-11T13:18:00+00:00",
    "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Legora Targets Public Sector With Ex-Minister",
-   "url": "https://www.artificiallawyer.com/2026/11/11/legora-targets-public-sector-with-ex-minister/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T09:37:15+00:00",
-   "summary": "Legora is looking to bag more revenue by targeting governments and public sector bodies – all funded by you and me. Leading the charge will...",
-   "tag": "Legal tech"
   },
   {
    "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
@@ -150,15 +159,6 @@
    "date": "2026-11-10",
    "ts": "2026-11-10T14:18:47+00:00",
    "summary": "Blue J, the Toronto-based tax research and advisory platform, said today that it has raised $176 million in Series E capital to scale its agentic AI and expand into new geographic markets. The round was led by JMI…",
-   "tag": "AI"
-  },
-  {
-   "title": "Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege & More",
-   "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering-ai-billing-limits-tx-reconsiders-aba-accreditation-council-biglaw-shakeup-ai-privilege-more/",
-   "source": "Above the Law",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T22:34:00+00:00",
-   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
    "tag": "AI"
   },
   {
