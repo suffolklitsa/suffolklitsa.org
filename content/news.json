@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-12 15:45 UTC",
+ "fetched": "2026-11-12 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 1",
+  "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
   "Krebs on Security": "ok 4",
   "CyberScoop": "ok 4",
@@ -12,11 +12,92 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
+  "The Verge": "ok 0",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 1"
+  "Above the Law": "ok 2"
  },
  "items": [
+  {
+   "title": "FPF Launches Roundtable Series on Agentic AI, Privacy, and PETs",
+   "url": "https://fpf.org/blog/fpf-launches-roundtable-series-on-agentic-ai-privacy-and-pets/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:02:55+00:00",
+   "summary": "On October 19, 2026, the FPF Center for Artificial Intelligence launched a four-part virtual roundtable series on Agentic AI. In the first roundtable, Agentic Data Flows: Privacy, Data Minimization, and PETs in Agentic…",
+   "tag": "AI"
+  },
+  {
+   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T19:51:16+00:00",
+   "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "United to block customers from using AI agents, citing cyber threats",
+   "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+   "source": "The Record",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T19:20:00+00:00",
+   "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
+   "tag": "AI"
+  },
+  {
+   "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
+   "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
+   "source": "The Record",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:28:00+00:00",
+   "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Clio Wants To Bring AI To The Judiciary, But 50-State Survey Reveals Policies Differ In Whether They Allow It",
+   "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
+   "source": "Above the Law",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T17:17:00+00:00",
+   "summary": "Are the courthouse doors even open to Clio or any other AI provider? For that matter, are judges even permitted to use AI?",
+   "tag": "AI"
+  },
+  {
+   "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
+   "url": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
+   "source": "CyberScoop",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T17:00:00+00:00",
+   "summary": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "International operation dismantles malware networks, exposes 6.4 million stolen credentials",
+   "url": "https://cyberscoop.com/operation-endgame-malware-takedown-gootloader-stealc-europol/",
+   "source": "CyberScoop",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T16:55:34+00:00",
+   "summary": "The Operation Endgame action dismantled the loaders, remote access trojans and infostealers that give ransomware gangs their way into corporate networks.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+   "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T16:04:00+00:00",
+   "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Legal Innovators NY – Darby Green, Ropes & Gray",
+   "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T16:03:38+00:00",
+   "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby...",
+   "tag": "Legal tech"
+  },
   {
    "title": "Why Report Cyber Incidents Anyway?",
    "url": "https://www.lawfaremedia.org/article/why-report-cyber-incidents-anyway",
@@ -27,15 +108,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T15:07:20+00:00",
-   "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
    "source": "TechCrunch",
@@ -43,33 +115,6 @@
    "ts": "2026-11-12T15:02:28+00:00",
    "summary": "This is Fireworks' second data breach in as many months.",
    "tag": "AI"
-  },
-  {
-   "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-   "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T15:00:10+00:00",
-   "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
-   "url": "https://therecord.media/europe-hoax-email-threats",
-   "source": "The Record",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T14:45:00+00:00",
-   "summary": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Romania says it stopped Russian cyberattack targeting government emails",
-   "url": "https://therecord.media/romania-russia-cyberattack-emails",
-   "source": "The Record",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T13:30:00+00:00",
-   "summary": "Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data.",
-   "tag": "Cyber"
   },
   {
    "title": "Inside an AI Attack Against a US Retailer",
@@ -117,15 +162,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "CISA director pick already drawing concern from Hill Dems over Palantir connection",
-   "url": "https://cyberscoop.com/michael-losapio-cisa-director-nomination-palantir-scrutiny/",
-   "source": "CyberScoop",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T22:38:16+00:00",
-   "summary": "Others touted Michael LoSapio as a fit for the job due to his technical credentials as CISO for the company.",
-   "tag": "Cyber"
-  },
-  {
    "title": "3 More Questions For A Patent Litigator Turned Legal Recruiter (Part I)",
    "url": "https://abovethelaw.com/2026/11/3-more-questions-for-a-patent-litigator-turned-legal-recruiter-part-i/",
    "source": "Above the Law",
@@ -135,24 +171,6 @@
    "tag": "IP"
   },
   {
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T21:55:03+00:00",
-   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "The US wants its quantum lead to turn into factories and supply chains",
-   "url": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
-   "source": "CyberScoop",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T21:50:46+00:00",
-   "summary": "There’s bipartisan support for further investment in the U.S. quantum industry, along with worries that America’s industrial capacity won’t keep up with demand.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?",
    "url": "https://www.lawnext.com/2026/11/ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-after-the-weil-wind-down.html",
    "source": "LawSites",
@@ -160,24 +178,6 @@
    "ts": "2026-11-10T15:47:03+00:00",
    "summary": "Weil’s demise happened quickly and is unfortunate. Since Bloomberg Law reported the news, many have covered the situation. David Lat also offered a detailed analysis. Symptoms and central causes As the dust settles, a…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Jonathan Kanter is using AI to take on Big Tech",
-   "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-   "source": "The Verge",
-   "date": "2026-11-09",
-   "ts": "2026-11-09T14:10:44+00:00",
-   "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private…",
-   "tag": "AI"
-  },
-  {
-   "title": "Bridging State Aging Plans and AgeTech Development",
-   "url": "https://fpf.org/blog/bridging-state-aging-plans-and-agetech-development/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-11-05",
-   "ts": "2026-11-05T15:24:16+00:00",
-   "summary": "As the U.S. population ages, technology developers, health care providers, and policymakers are increasingly interested in “AgeTech”—consumer technologies designed to support older adults and their caregivers. However…",
-   "tag": "Privacy"
   }
  ]
 }
