@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12 10:31 UTC",
+ "fetched": "2026-11-12 15:45 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,7 +10,7 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
   "TechCrunch": "ok 1",
@@ -18,13 +18,67 @@
  },
  "items": [
   {
-   "title": "Hackers plant GSocket on Linux servers for persistent access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "title": "Why Report Cyber Incidents Anyway?",
+   "url": "https://www.lawfaremedia.org/article/why-report-cyber-incidents-anyway",
+   "source": "Lawfare",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T15:18:55+00:00",
+   "summary": "To harmonize cyber reporting, policymakers need this framework tying reporting to public policy purposes.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
    "source": "BleepingComputer",
    "date": "2026-11-12",
-   "ts": "2026-11-12T09:38:00+00:00",
-   "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access.…",
+   "ts": "2026-11-12T15:07:20+00:00",
+   "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations.…",
    "tag": "Cyber"
+  },
+  {
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "source": "TechCrunch",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T15:02:28+00:00",
+   "summary": "This is Fireworks' second data breach in as many months.",
+   "tag": "AI"
+  },
+  {
+   "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+   "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T15:00:10+00:00",
+   "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
+   "url": "https://therecord.media/europe-hoax-email-threats",
+   "source": "The Record",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T14:45:00+00:00",
+   "summary": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Romania says it stopped Russian cyberattack targeting government emails",
+   "url": "https://therecord.media/romania-russia-cyberattack-emails",
+   "source": "The Record",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T13:30:00+00:00",
+   "summary": "Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Inside an AI Attack Against a US Retailer",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+   "source": "Dark Reading",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T11:00:00+00:00",
+   "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
+   "tag": "AI"
   },
   {
    "title": "Is Big Law ‘AI Gaslighting’ Us?",
@@ -36,15 +90,6 @@
    "tag": "AI"
   },
   {
-   "title": "Keeping Legal AI Connected: Why Your Data and Case Should Work Together",
-   "url": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T07:47:31+00:00",
-   "summary": "By Marla Crawford, General Counsel, Cimplifi. There has never been a more exciting time to work in legal technology. There has also never been an...",
-   "tag": "AI"
-  },
-  {
    "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
    "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
    "source": "Dark Reading",
@@ -52,15 +97,6 @@
    "ts": "2026-11-12T00:00:00+00:00",
    "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
    "tag": "AI"
-  },
-  {
-   "title": "Baker Tilly notifies clients of data breach at third-party provider",
-   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-   "source": "BleepingComputer",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T23:01:31+00:00",
-   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents.…",
-   "tag": "Cyber"
   },
   {
    "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
@@ -78,24 +114,6 @@
    "date": "2026-11-11",
    "ts": "2026-11-11T18:06:01+00:00",
    "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
-   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
-   "source": "The Record",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T16:57:00+00:00",
-   "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Poland shuts down government services platform ePUAP following cyberattack",
-   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
-   "source": "The Record",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T13:18:00+00:00",
-   "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
    "tag": "Cyber"
   },
   {
@@ -135,15 +153,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-   "source": "TechCrunch",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T20:52:13+00:00",
-   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-   "tag": "AI"
-  },
-  {
    "title": "Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?",
    "url": "https://www.lawnext.com/2026/11/ken-crutchfield-is-biglaw-too-big-to-fail-are-other-firms-vulnerable-after-the-weil-wind-down.html",
    "source": "LawSites",
@@ -151,15 +160,6 @@
    "ts": "2026-11-10T15:47:03+00:00",
    "summary": "Weil’s demise happened quickly and is unfortunate. Since Bloomberg Law reported the news, many have covered the situation. David Lat also offered a detailed analysis. Symptoms and central causes As the dust settles, a…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets",
-   "url": "https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html",
-   "source": "LawSites",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T14:18:47+00:00",
-   "summary": "Blue J, the Toronto-based tax research and advisory platform, said today that it has raised $176 million in Series E capital to scale its agentic AI and expand into new geographic markets. The round was led by JMI…",
-   "tag": "AI"
   },
   {
    "title": "Jonathan Kanter is using AI to take on Big Tech",
