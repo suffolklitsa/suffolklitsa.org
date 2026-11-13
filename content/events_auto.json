@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-12 15:31 ET",
+ "fetched": "2026-11-13 05:31 ET",
  "status": {
   "coalition": "ok 70",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,42 +8,6 @@
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-12",
-   "time": "4–6pm",
-   "name": "Formlabs: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "22 McGrath Hwy",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/wkltalxi",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "2–6:30pm",
-   "name": "Mass AI Showcase: Founders X Enterprise",
-   "host": "Mass AI Coalition",
-   "venue": "Boston",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/2b4inmb4",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "6:30–9pm",
-   "name": "Robotics Board Game Night @ Tutor",
-   "host": "Mass AI Coalition",
-   "venue": "480 Pleasant St",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/p65baai8",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-16",
    "time": "9am–2pm",

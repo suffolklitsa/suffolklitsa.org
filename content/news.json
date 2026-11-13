@@ -1,12 +1,12 @@
 {
- "fetched": "2026-11-12 20:31 UTC",
+ "fetched": "2026-11-13 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 4",
+  "Krebs on Security": "ok 3",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
@@ -14,9 +14,72 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 0",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Legal Innovators NY Starts Tuesday +",
+   "url": "https://www.artificiallawyer.com/2026/11/13/legal-innovators-ny-starts-tuesday/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T10:31:33+00:00",
+   "summary": "We begin this week’s Wrap with a quick reminder that Legal Innovators New York starts on Tuesday, Nov 17 and continues with inhouse day on...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
+   "url": "https://cyberscoop.com/us-seizes-north-korea-hacking-infrastructure-binance/",
+   "source": "CyberScoop",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T00:32:19+00:00",
+   "summary": "The infrastructure, said to belong to APT38, contained footage used to fool victims over video calls.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "The Next Generation Of Law Students Don’t Trust AI Hype",
+   "url": "https://abovethelaw.com/2026/11/the-next-generation-of-law-students-dont-trust-ai-hype/",
+   "source": "Above the Law",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T22:35:00+00:00",
+   "summary": "Research report finds college students use AI as a research tool, but are more skeptical of the sort of drafting and automation law firms seem to be banking on.",
+   "tag": "AI"
+  },
+  {
+   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "source": "BleepingComputer",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T22:25:30+00:00",
+   "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
+   "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+   "source": "The Record",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T21:42:00+00:00",
+   "summary": "The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Rogue remote-access campaign spread through ScreenConnect add-on, researchers say",
+   "url": "https://cyberscoop.com/connectwise-screenconnect-sckit-attack/",
+   "source": "CyberScoop",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:58:17+00:00",
+   "summary": "ConnectWise disabled five third-party extensions across about 400 partner environments after researchers linked a worm-like toolkit to one of them.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+   "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+   "source": "Dark Reading",
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:09:41+00:00",
+   "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+   "tag": "Cyber"
+  },
   {
    "title": "FPF Launches Roundtable Series on Agentic AI, Privacy, and PETs",
    "url": "https://fpf.org/blog/fpf-launches-roundtable-series-on-agentic-ai-privacy-and-pets/",
@@ -45,15 +108,6 @@
    "tag": "AI"
   },
   {
-   "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-   "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-   "source": "The Record",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T18:28:00+00:00",
-   "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Clio Wants To Bring AI To The Judiciary, But 50-State Survey Reveals Policies Differ In Whether They Allow It",
    "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
    "source": "Above the Law",
@@ -61,33 +115,6 @@
    "ts": "2026-11-12T17:17:00+00:00",
    "summary": "Are the courthouse doors even open to Clio or any other AI provider? For that matter, are judges even permitted to use AI?",
    "tag": "AI"
-  },
-  {
-   "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
-   "url": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
-   "source": "CyberScoop",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T17:00:00+00:00",
-   "summary": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "International operation dismantles malware networks, exposes 6.4 million stolen credentials",
-   "url": "https://cyberscoop.com/operation-endgame-malware-takedown-gootloader-stealc-europol/",
-   "source": "CyberScoop",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T16:55:34+00:00",
-   "summary": "The Operation Endgame action dismantled the loaders, remote access trojans and infostealers that give ransomware gangs their way into corporate networks.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-   "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T16:04:00+00:00",
-   "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges.…",
-   "tag": "Cyber"
   },
   {
    "title": "Legal Innovators NY – Darby Green, Ropes & Gray",
@@ -126,24 +153,6 @@
    "tag": "AI"
   },
   {
-   "title": "Is Big Law ‘AI Gaslighting’ Us?",
-   "url": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T08:46:39+00:00",
-   "summary": "Is the recent spate of grand gestures by some Big Law firms, sometimes involving 100s of millions of dollars or more, just ‘AI gaslighting’? And...",
-   "tag": "AI"
-  },
-  {
-   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-   "source": "Dark Reading",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T00:00:00+00:00",
-   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-   "tag": "AI"
-  },
-  {
    "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
    "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
    "source": "EFF",
@@ -160,15 +169,6 @@
    "ts": "2026-11-11T18:06:01+00:00",
    "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…",
    "tag": "Cyber"
-  },
-  {
-   "title": "3 More Questions For A Patent Litigator Turned Legal Recruiter (Part I)",
-   "url": "https://abovethelaw.com/2026/11/3-more-questions-for-a-patent-litigator-turned-legal-recruiter-part-i/",
-   "source": "Above the Law",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T22:35:00+00:00",
-   "summary": "A willingness to learn and an open, curious mind are force multipliers in a demanding career such as IP litigation.",
-   "tag": "IP"
   },
   {
    "title": "Ken Crutchfield: Is BigLaw Too Big To Fail? Are Other Firms Vulnerable After the Weil Wind-Down?",
