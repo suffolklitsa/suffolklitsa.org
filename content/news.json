@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-13 20:31 UTC",
+ "fetched": "2026-11-14 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -14,9 +14,63 @@
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 0",
   "TechCrunch": "ok 1",
-  "Above the Law": "ok 2"
+  "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Stat(s) Of The Week: An Uneasy Relationship",
+   "url": "https://abovethelaw.com/2026/11/stats-of-the-week-an-uneasy-relationship/",
+   "source": "Above the Law",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T23:16:00+00:00",
+   "summary": "Lawyers may rely on AI, but they don’t quite trust it.",
+   "tag": "AI"
+  },
+  {
+   "title": "AI In Our Courts: Useful Or A Magic 8 Ball?",
+   "url": "https://abovethelaw.com/2026/11/ai-in-our-courts-useful-or-a-magic-8-ball/",
+   "source": "Above the Law",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T22:35:00+00:00",
+   "summary": "The difference between how two judges looked at AI and its use could not be more stark.",
+   "tag": "AI"
+  },
+  {
+   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+   "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+   "source": "The Record",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T21:32:00+00:00",
+   "summary": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Tech Companies Are Trying to Shift the Entire Concept of Privacy (Again)",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "source": "EFF",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T21:29:31+00:00",
+   "summary": "Privacy, which companies were once happy to claim was all about personal choice, is now primed to affect everyone around you even more than it already did. Meta and Google’s smart glasses can record anything the owner…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Researchers continue to find serious vulnerabilities in internet connected refrigerators",
+   "url": "https://cyberscoop.com/copeland-dixell-refrigeration-vulnerabilities/",
+   "source": "CyberScoop",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T21:20:51+00:00",
+   "summary": "VulnCheck disclosed 14 vulnerabilities in Dixell refrigeration units that give an attacker root access, while online honeypots are being flooded with hacks and malicious probes.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Industry guidelines for offensive cyber tools unveiled through international Pall Mall Process",
+   "url": "https://cyberscoop.com/pall-mall-process-commercial-spyware-guidelines/",
+   "source": "CyberScoop",
+   "date": "2026-11-13",
+   "ts": "2026-11-13T20:56:20+00:00",
+   "summary": "The United States this week signed on to an international set of industry standards for commercial offensive cyber tools that human rights groups and other advocates wish had been stronger. The Pall Mall Process…",
+   "tag": "Cyber"
+  },
   {
    "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
    "url": "https://therecord.media/city-of-osaka-japan-email-data-breach",
@@ -27,22 +81,13 @@
    "tag": "Cyber"
   },
   {
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
    "source": "TechCrunch",
    "date": "2026-11-13",
    "ts": "2026-11-13T18:40:30+00:00",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "tag": "AI"
-  },
-  {
-   "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
-   "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
-   "source": "The Record",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T18:35:00+00:00",
-   "summary": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
-   "tag": "Privacy"
   },
   {
    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
@@ -90,24 +135,6 @@
    "tag": "Legal tech"
   },
   {
-   "title": "The Next Generation Of Law Students Don’t Trust AI Hype",
-   "url": "https://abovethelaw.com/2026/11/the-next-generation-of-law-students-dont-trust-ai-hype/",
-   "source": "Above the Law",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T22:35:00+00:00",
-   "summary": "Research report finds college students use AI as a research tool, but are more skeptical of the sort of drafting and automation law firms seem to be banking on.",
-   "tag": "AI"
-  },
-  {
-   "title": "Rogue remote-access campaign spread through ScreenConnect add-on, researchers say",
-   "url": "https://cyberscoop.com/connectwise-screenconnect-sckit-attack/",
-   "source": "CyberScoop",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T20:58:17+00:00",
-   "summary": "ConnectWise disabled five third-party extensions across about 400 partner environments after researchers linked a worm-like toolkit to one of them.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
    "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
    "source": "Dark Reading",
@@ -126,15 +153,6 @@
    "tag": "AI"
   },
   {
-   "title": "Clio Wants To Bring AI To The Judiciary, But 50-State Survey Reveals Policies Differ In Whether They Allow It",
-   "url": "https://www.lawnext.com/2026/11/clio-wants-to-bring-ai-to-the-judiciary-but-50-state-survey-reveals-policies-differ-in-whether-they-allow-it.html",
-   "source": "Above the Law",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T17:17:00+00:00",
-   "summary": "Are the courthouse doors even open to Clio or any other AI provider? For that matter, are judges even permitted to use AI?",
-   "tag": "AI"
-  },
-  {
    "title": "Legal Innovators NY – Darby Green, Ropes & Gray",
    "url": "https://www.artificiallawyer.com/2026/11/12/legal-innovators-ny-darby-green-ropes-gray/",
    "source": "Artificial Lawyer",
@@ -144,30 +162,12 @@
    "tag": "Legal tech"
   },
   {
-   "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
-   "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
-   "source": "EFF",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T18:32:37+00:00",
-   "summary": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to evaluate Medicare…",
-   "tag": "AI"
-  },
-  {
    "title": "Who Runs the Ransomware Group Qilin?",
    "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
    "source": "Krebs on Security",
    "date": "2026-11-11",
    "ts": "2026-11-11T18:06:01+00:00",
    "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "date": "2026-11-10",
-   "ts": "2026-11-10T21:55:03+00:00",
-   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical…",
    "tag": "Cyber"
   },
   {
