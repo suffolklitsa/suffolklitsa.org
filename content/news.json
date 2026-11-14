@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-14 10:31 UTC",
+ "fetched": "2026-11-14 20:31 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,13 +10,22 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 2",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 0",
   "TechCrunch": "ok 1",
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "source": "BleepingComputer",
+   "date": "2026-11-14",
+   "ts": "2026-11-14T17:27:25+00:00",
+   "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.…",
+   "tag": "AI"
+  },
   {
    "title": "Stat(s) Of The Week: An Uneasy Relationship",
    "url": "https://abovethelaw.com/2026/11/stats-of-the-week-an-uneasy-relationship/",
@@ -99,24 +108,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Iranian Hacks With Russian Characteristics",
-   "url": "https://www.lawfaremedia.org/article/iranian-hacks-with-russian-characteristics",
-   "source": "Lawfare",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T15:07:34+00:00",
-   "summary": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Lawfare Daily: Aya Ibrahim on Progressive Priorities for the New Democratic Congress, November 13",
-   "url": "https://www.lawfaremedia.org/article/lawfare-daily--aya-ibrahim-on-progressive-priorities-for-the-new-democratic-congress--november-13",
-   "source": "Lawfare",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T14:00:06+00:00",
-   "summary": "In this episode of the Security Economics podcast series, Peter Harrell and Aya Ibrahim discuss the agenda for the next Congress, AI regulation, and U.S.-China policy.",
-   "tag": "AI"
-  },
-  {
    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
    "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
    "source": "Dark Reading",
@@ -160,6 +151,15 @@
    "ts": "2026-11-12T16:03:38+00:00",
    "summary": "Ahead of Legal Innovators New York on Nov 17 and 18 next week at Quorum by Convene in Midtown, the events team spoke to Darby...",
    "tag": "Legal tech"
+  },
+  {
+   "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
+   "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+   "source": "EFF",
+   "date": "2026-11-11",
+   "ts": "2026-11-11T18:32:37+00:00",
+   "summary": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to evaluate Medicare…",
+   "tag": "AI"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
