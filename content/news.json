@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-15 10:31 UTC",
+ "fetched": "2026-11-15 20:31 UTC",
  "status": {
-  "LawSites": "ok 4",
+  "LawSites": "ok 3",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
-  "Future of Privacy Forum": "ok 2",
+  "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
@@ -18,13 +18,22 @@
  },
  "items": [
   {
-   "title": "Cursor confirms security breach led to malicious Claude Code extension",
-   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
    "source": "BleepingComputer",
-   "date": "2026-11-14",
-   "ts": "2026-11-14T17:27:25+00:00",
-   "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.…",
+   "date": "2026-11-15",
+   "ts": "2026-11-15T18:29:53+00:00",
+   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…",
    "tag": "AI"
+  },
+  {
+   "title": "TSMC employee data breach linked to cloud provider",
+   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+   "source": "BleepingComputer",
+   "date": "2026-11-15",
+   "ts": "2026-11-15T15:23:48+00:00",
+   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction.…",
+   "tag": "Cyber"
   },
   {
    "title": "Stat(s) Of The Week: An Uneasy Relationship",
@@ -97,15 +106,6 @@
    "ts": "2026-11-13T18:40:30+00:00",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "tag": "AI"
-  },
-  {
-   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-   "source": "BleepingComputer",
-   "date": "2026-11-13",
-   "ts": "2026-11-13T16:21:43+00:00",
-   "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts.…",
-   "tag": "Cyber"
   },
   {
    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
