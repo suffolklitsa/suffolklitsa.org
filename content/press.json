@@ -117,8 +117,8 @@
    "title": "Coverage of the LIT Lab's pandemic court-forms work",
    "note": "The eviction-moratorium reporting that put Suffolk's mobile smartforms in front of a national audience.",
    "url": "https://www.nytimes.com/2020/09/02/your-money/eviction-moratorium-covid.html",
-   "checked": false,
-   "page_title": "publisher blocks automated checks",
+   "page_title": "Trump Executive Order: The New Eviction Moratorium - The New York Times",
+   "checked": true,
    "live": true
   },
   {
@@ -182,11 +182,11 @@
   }
  ],
  "dead": [],
- "last_checked": "2026-11-09",
+ "last_checked": "2026-11-16",
  "health": {
   "ok": true,
   "live": 13,
   "dead": 0,
-  "unverified": 1
+  "unverified": 0
  }
 }
