@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17 10:31 UTC",
+ "fetched": "2026-11-17 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -25,6 +25,96 @@
    "ts": "2026-11-18T01:20:00+00:00",
    "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
    "tag": "Cyber"
+  },
+  {
+   "title": "Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says",
+   "url": "https://cyberscoop.com/cisa-nick-andersen-cyber-resilience-outages/",
+   "source": "CyberScoop",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:58:05+00:00",
+   "summary": "Nick Andersen said the AI-fueled “vulnpocalypse” might have overshadowed the need to focus on withstanding all sorts of tech issues.",
+   "tag": "AI"
+  },
+  {
+   "title": "Alito’s Long-Term Plan: Outlast Every Supreme Court Justice In History",
+   "url": "https://abovethelaw.com/2026/11/alitos-long-term-plan-outlast-every-supreme-court-justice-in-history/",
+   "source": "Above the Law",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:42:00+00:00",
+   "summary": "His retirement timeline comes with an AI apocalypse caveat.",
+   "tag": "AI"
+  },
+  {
+   "title": "Kazakh ransomware hacking suspect extradited from Italy",
+   "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+   "source": "The Record",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:09:00+00:00",
+   "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+   "source": "Dark Reading",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T18:38:37+00:00",
+   "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+   "tag": "AI"
+  },
+  {
+   "title": "Study Finds ChatGPT Tracking Tag in 298 Federal Court Cases and 133 SEC Filings",
+   "url": "https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html",
+   "source": "LawSites",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T18:25:47+00:00",
+   "summary": "A study released today found ChatGPT’s link-tracking tag in 298 federal court cases across 71 courts, 133 filings with the U.S. Securities and Exchange Commission, and a host of peer-reviewed papers, government…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Mediation Fails to Resolve Fastcase-Alexi Lawsuit Over Alleged Data Misuse",
+   "url": "https://www.lawnext.com/2026/11/mediation-fails-to-resolve-fastcase-alexi-lawsuit-over-alleged-data-misuse.html",
+   "source": "LawSites",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T16:16:40+00:00",
+   "summary": "As the federal court lawsuit between legal research companies Fastcase, which is now owned by Clio, and Alexi nears it first anniversary, an attempt to resolve the dispute through court-ordered mediation has failed to…",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Privacy's Defenders Podcast: Snowden Exposes NSA’s Lies",
+   "url": "https://www.eff.org/deeplinks/2026/11/privacys-defenders-podcast-snowden-exposes-nsas-lies",
+   "source": "EFF",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T16:00:25+00:00",
+   "summary": "By 2013, EFF had spent seven years arguing in court that the National Security Agency was sweeping up ordinary Americans’ communications, including through the secret room that whistleblower Mark Klein had exposed. The…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Live from Georgetown University: AI Policy in 2027 with Alexandra Reeve Givens",
+   "url": "https://www.lawfaremedia.org/article/live-from-georgetown-university--ai-policy-in-2027-with-alexandra-reeve-givens",
+   "source": "Lawfare",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T15:00:01+00:00",
+   "summary": "The Scaling Laws Roadshow continues at Georgetown University. Alexandra Reeve Givens, CEO of the Center for Democracy & Technology, joins Kevin Frazier, Director of the AI Innovation and Law Program and a Senior Editor…",
+   "tag": "AI"
+  },
+  {
+   "title": "Pakistani hackers are spying on defense workers with fake job sites",
+   "url": "https://cyberscoop.com/pakistani-hackers-defense-workers-fake-job-sites/",
+   "source": "CyberScoop",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T14:00:00+00:00",
+   "summary": "The perpetrators targeted job seekers in India, mostly, but some of the effort could be more broadly targeting defense contractors and military personnel.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Building Legal AI for Public Service Across Borders",
+   "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T11:57:18+00:00",
+   "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
+   "tag": "AI"
   },
   {
    "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
@@ -63,102 +153,12 @@
    "tag": "AI"
   },
   {
-   "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
-   "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/",
-   "source": "CyberScoop",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T22:51:33+00:00",
-   "summary": "Google's Threat Intelligence Group says the tools trade stealth for speed, leaving noisy forensic traces even as they succeed on their own.",
-   "tag": "AI"
-  },
-  {
-   "title": "EFF’s AI Cybersecurity Policy Framework",
-   "url": "https://www.eff.org/deeplinks/2026/11/effs-ai-cybersecurity-policy-framework",
-   "source": "EFF",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T22:50:00+00:00",
-   "summary": "The news has been filled with stories recently of AI breaching the security of websites. And while it may feel like a new problem because of AI’s involvement, it turns out that there are longstanding existing…",
-   "tag": "AI"
-  },
-  {
-   "title": "California sues OpenAI over AI agents’ summer hacking spree",
-   "url": "https://cyberscoop.com/california-ag-rob-bonta-sues-openai/",
-   "source": "CyberScoop",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T22:07:43+00:00",
-   "summary": "California Attorney General Rob Bonta’s lawsuit accuses the frontier AI company of stonewalling state investigations and endangering state and private IT systems.",
-   "tag": "AI"
-  },
-  {
-   "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
-   "url": "https://therecord.media/california-sues-openai-hugging-face",
-   "source": "The Record",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T21:40:00+00:00",
-   "summary": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a…",
-   "tag": "AI"
-  },
-  {
-   "title": "An Interview With David Pogue: AI Will Change A Lot. We’ll Cope.",
-   "url": "https://abovethelaw.com/2026/11/an-interview-with-david-pogue-ai-will-change-a-lot-well-cope/",
-   "source": "Above the Law",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T21:04:00+00:00",
-   "summary": "CSU Law Co-Interim Dean Brian Ray joined in as well.",
-   "tag": "AI"
-  },
-  {
-   "title": "Donate Equity to Support Digital Rights: Stocks, DAFs, and Giving",
-   "url": "https://www.eff.org/deeplinks/2026/11/how-donate-equity-support-digital-rights-stocks-dafs-and-charity",
-   "source": "EFF",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T20:23:12+00:00",
-   "summary": "Do the holidays have you thinking about how you can support your favorite nonprofit? For 35 years, the Electronic Frontier Foundation has been advancing our digital rights, including defending security researchers…",
-   "tag": "Privacy"
-  },
-  {
    "title": "California state AG sues OpenAI over rogue agent incidents",
    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
    "source": "TechCrunch",
    "date": "2026-11-16",
    "ts": "2026-11-16T20:07:13+00:00",
    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-   "tag": "AI"
-  },
-  {
-   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
-   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-   "source": "Dark Reading",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T19:56:05+00:00",
-   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-   "tag": "AI"
-  },
-  {
-   "title": "Exclusive: MinuteBox Launches AI Agent to Turn Its Entity Management Database Into a ‘System of Work’",
-   "url": "https://www.lawnext.com/2026/11/exclusive-minutebox-launches-ai-agent-to-turn-its-entity-management-database-into-a-system-of-work.html",
-   "source": "LawSites",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T16:59:10+00:00",
-   "summary": "In what its CEO says is a complete reshaping of the company and its product, entity-management company MinuteBox today launched a new AI agent that turns its corporate records database into a platform for performing…",
-   "tag": "AI"
-  },
-  {
-   "title": "Posting Through the Singularity: Hacking the Law",
-   "url": "https://www.lawfaremedia.org/article/posting-through-the-singularity--hacking-the-law",
-   "source": "Lawfare",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T15:54:44+00:00",
-   "summary": "Machines that take rules more seriously than their authors can find the loopholes before the lawyers do.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "HSF Kramer Hires 6 Legal Engineers from Norm.AI",
-   "url": "https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T13:00:08+00:00",
-   "summary": "New model, AI native law firms have been stealing headlines for months. Now Big Law has struck back. In a surprising move, HSF Kramer has...",
    "tag": "AI"
   },
   {

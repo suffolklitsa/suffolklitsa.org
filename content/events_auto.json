@@ -1,25 +1,13 @@
 {
- "fetched": "2026-11-17 05:31 ET",
+ "fetched": "2026-11-17 15:31 ET",
  "status": {
-  "coalition": "ok 70",
+  "coalition": "ok 74",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 3",
+  "bba": "ok 2",
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-17",
-   "time": "12–1pm",
-   "name": "BBA Partner Program: Legal AI in Practice: Research, Drafting, and Everyday Skills",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc0000053GyD",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
-  },
   {
    "date": "2026-11-17",
    "time": "3–5pm",
@@ -28,6 +16,18 @@
    "venue": "1 Lincoln St",
    "cost": "Free, approval required",
    "url": "https://luma.com/gfi154ck",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "8:30–10:30am",
+   "name": "Builders & Bagels | Boston Built Week",
+   "host": "Mass AI Coalition",
+   "venue": "The Friendly Toast",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/iizbpz9y",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
@@ -108,6 +108,30 @@
    "source_key": "bba"
   },
   {
+   "date": "2026-12-03",
+   "time": "3:30–4:45pm",
+   "name": "GTM Engineering: Discover an emerging career at the intersection of AI, business, marketing, and technology.",
+   "host": "Mass AI Coalition",
+   "venue": "Venture Development Center",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/1sts0xgz",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "5:30–7:30pm",
+   "name": "Hack the Holidays: Workshop & Build Event Sponsored by Lovable",
+   "host": "Mass AI Coalition",
+   "venue": "24 School St",
+   "cost": "Free",
+   "url": "https://luma.com/a66mv0zw",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
    "date": "2026-12-09",
    "time": "4–6pm",
    "name": "WHOOP: Startup Trek",
@@ -115,6 +139,18 @@
    "venue": "Whoop",
    "cost": "Free, approval required",
    "url": "https://luma.com/6mpyqgvh",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "12–1:30pm",
+   "name": "Becoming AI-First: Context Capture & Starting with the Why",
+   "host": "Mass AI Coalition",
+   "venue": "Venture Development Center",
+   "cost": "Free",
+   "url": "https://luma.com/gzrgw7b0",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
