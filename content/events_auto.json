@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-16 15:31 ET",
+ "fetched": "2026-11-17 05:31 ET",
  "status": {
   "coalition": "ok 70",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,18 +8,6 @@
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-16",
-   "time": "9am–2pm",
-   "name": "The New Era of Cybersecurity: AI and National Security",
-   "host": "Mass AI Coalition",
-   "venue": "Boston",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/gfhlclvl",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-17",
    "time": "12–1pm",
