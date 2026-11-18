@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-17 15:31 ET",
+ "fetched": "2026-11-18 05:32 ET",
  "status": {
   "coalition": "ok 74",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
@@ -8,18 +8,6 @@
   "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-17",
-   "time": "3–5pm",
-   "name": "Lovable: Hackathon x Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "1 Lincoln St",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/gfi154ck",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
   {
    "date": "2026-11-18",
    "time": "8:30–10:30am",
@@ -113,7 +101,7 @@
    "name": "GTM Engineering: Discover an emerging career at the intersection of AI, business, marketing, and technology.",
    "host": "Mass AI Coalition",
    "venue": "Venture Development Center",
-   "cost": "Free, approval required",
+   "cost": "Free",
    "url": "https://luma.com/1sts0xgz",
    "source": "luma",
    "tier": "ai",

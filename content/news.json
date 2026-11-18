@@ -1,56 +1,110 @@
 {
- "fetched": "2026-11-17 20:32 UTC",
+ "fetched": "2026-11-18 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 2",
+  "Krebs on Security": "ok 3",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 1",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 4",
+  "TechCrunch": "ok 1",
   "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "Uber says nearly 150,000 impacted by third-party breach",
-   "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-   "source": "The Record",
+   "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
+   "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box",
+   "source": "EFF",
    "date": "2026-11-18",
-   "ts": "2026-11-18T01:20:00+00:00",
-   "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+   "ts": "2026-11-18T15:00:00+00:00",
+   "summary": "Do automated license plate readers (ALPRs) have any place in our communities? That question has been a hot topic in city council meetings, community conversations, and news coverage around the country for months. This…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T08:24:18+00:00",
+   "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies.…",
    "tag": "Cyber"
   },
   {
-   "title": "Cyberattack or no, parade of tech outages highlight need for resilient systems, CISA acting director says",
-   "url": "https://cyberscoop.com/cisa-nick-andersen-cyber-resilience-outages/",
-   "source": "CyberScoop",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T19:58:05+00:00",
-   "summary": "Nick Andersen said the AI-fueled “vulnpocalypse” might have overshadowed the need to focus on withstanding all sorts of tech issues.",
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T02:52:04+00:00",
+   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+   "url": "https://therecord.media/cisa-issues-java4shell-alert",
+   "source": "The Record",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T00:00:00+00:00",
+   "summary": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to…",
    "tag": "AI"
   },
   {
-   "title": "Alito’s Long-Term Plan: Outlast Every Supreme Court Justice In History",
-   "url": "https://abovethelaw.com/2026/11/alitos-long-term-plan-outlast-every-supreme-court-justice-in-history/",
+   "title": "On LawNext: Live From ClioCon, Jack Newton On Clio’s ‘Refounding,’ Its Push Into The Courts, And Why Data Is The Only Durable Moat",
+   "url": "https://www.lawnext.com/2026/11/on-lawnext-live-from-cliocon-jack-newton-on-clios-refounding-its-push-into-the-courts-and-why-data-is-the-only-durable-moat.html",
    "source": "Above the Law",
    "date": "2026-11-17",
-   "ts": "2026-11-17T19:42:00+00:00",
-   "summary": "His retirement timeline comes with an AI apocalypse caveat.",
+   "ts": "2026-11-17T22:45:00+00:00",
+   "summary": "He compares Clio’s strategy to Apple’s – vertically integrating the business of law, the practice of law, and AI to build products no one else can.",
    "tag": "AI"
   },
   {
-   "title": "Kazakh ransomware hacking suspect extradited from Italy",
-   "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+   "title": "A vulnpocalypse bug worthy of attention: Researchers disclose critical flaw in Java with help of AI",
+   "url": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
+   "source": "CyberScoop",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T22:24:39+00:00",
+   "summary": "Oracle shipped a patch this week for the flaw, which a short string of letters can trigger to corrupt memory in Java and hand attackers control of the servers running it.",
+   "tag": "AI"
+  },
+  {
+   "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+   "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
    "source": "The Record",
    "date": "2026-11-17",
-   "ts": "2026-11-17T19:09:00+00:00",
-   "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+   "ts": "2026-11-17T21:20:00+00:00",
+   "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech",
+   "url": "https://cyberscoop.com/gsa-post-quantum-encryption-piv-cards/",
+   "source": "CyberScoop",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T21:19:45+00:00",
+   "summary": "Agency leaders and federal contractors are mulling over how to best adapt the new protections to older, legacy technology and address gaps in visibility over federal encryption protocols.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "The Justice Department Wants To Give Patent Trolls More Power",
+   "url": "https://www.eff.org/deeplinks/2026/11/justice-department-wants-give-patent-trolls-more-power",
+   "source": "EFF",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T21:08:00+00:00",
+   "summary": "Software patents are mostly vague, hard to define, and widely abused. Most tech patent lawsuits aren’t filed by companies that make real products. They’re filed by patent trolls, companies that acquire patents to…",
+   "tag": "IP"
+  },
+  {
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "source": "BleepingComputer",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T20:51:21+00:00",
+   "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach.…",
    "tag": "Cyber"
   },
   {
@@ -72,24 +126,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "Mediation Fails to Resolve Fastcase-Alexi Lawsuit Over Alleged Data Misuse",
-   "url": "https://www.lawnext.com/2026/11/mediation-fails-to-resolve-fastcase-alexi-lawsuit-over-alleged-data-misuse.html",
-   "source": "LawSites",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T16:16:40+00:00",
-   "summary": "As the federal court lawsuit between legal research companies Fastcase, which is now owned by Clio, and Alexi nears it first anniversary, an attempt to resolve the dispute through court-ordered mediation has failed to…",
-   "tag": "Legal tech"
-  },
-  {
-   "title": "Privacy's Defenders Podcast: Snowden Exposes NSA’s Lies",
-   "url": "https://www.eff.org/deeplinks/2026/11/privacys-defenders-podcast-snowden-exposes-nsas-lies",
-   "source": "EFF",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T16:00:25+00:00",
-   "summary": "By 2013, EFF had spent seven years arguing in court that the National Security Agency was sweeping up ordinary Americans’ communications, including through the secret room that whistleblower Mark Klein had exposed. The…",
-   "tag": "Privacy"
-  },
-  {
    "title": "Live from Georgetown University: AI Policy in 2027 with Alexandra Reeve Givens",
    "url": "https://www.lawfaremedia.org/article/live-from-georgetown-university--ai-policy-in-2027-with-alexandra-reeve-givens",
    "source": "Lawfare",
@@ -99,48 +135,12 @@
    "tag": "AI"
   },
   {
-   "title": "Pakistani hackers are spying on defense workers with fake job sites",
-   "url": "https://cyberscoop.com/pakistani-hackers-defense-workers-fake-job-sites/",
-   "source": "CyberScoop",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T14:00:00+00:00",
-   "summary": "The perpetrators targeted job seekers in India, mostly, but some of the effort could be more broadly targeting defense contractors and military personnel.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Building Legal AI for Public Service Across Borders",
    "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
    "source": "Artificial Lawyer",
    "date": "2026-11-17",
    "ts": "2026-11-17T11:57:18+00:00",
    "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
-   "tag": "AI"
-  },
-  {
-   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T09:44:22+00:00",
-   "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T08:35:42+00:00",
-   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October.…",
-   "tag": "AI"
-  },
-  {
-   "title": "Legal Ethics Roundup: Solo Lawyer Well-Being Paradox, Habba Ethics Complaint, Judge Removed, Plagiarism In Judicial Application, Billable Hour Shake-Up, AI Sanctions & More",
-   "url": "https://abovethelaw.com/2026/11/legal-ethics-roundup-solo-lawyer-well-being-paradox-habba-ethics-complaint-judge-removed-plagiarism-in-judicial-application-billable-hour-shake-up-ai-sanctions-more/",
-   "source": "Above the Law",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T23:32:00+00:00",
-   "summary": "Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson.",
    "tag": "AI"
   },
   {
@@ -153,12 +153,21 @@
    "tag": "AI"
   },
   {
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-   "source": "TechCrunch",
+   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
+   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+   "source": "Dark Reading",
    "date": "2026-11-16",
-   "ts": "2026-11-16T20:07:13+00:00",
-   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+   "ts": "2026-11-16T19:56:05+00:00",
+   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+   "tag": "AI"
+  },
+  {
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge",
+   "date": "2026-11-16",
+   "ts": "2026-11-16T19:23:45+00:00",
+   "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced…",
    "tag": "AI"
   },
   {
@@ -169,15 +178,6 @@
    "ts": "2026-11-12T20:02:55+00:00",
    "summary": "On October 19, 2026, the FPF Center for Artificial Intelligence launched a four-part virtual roundtable series on Agentic AI. In the first roundtable, Agentic Data Flows: Privacy, Data Minimization, and PETs in Agentic…",
    "tag": "AI"
-  },
-  {
-   "title": "Who Runs the Ransomware Group Qilin?",
-   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-   "source": "Krebs on Security",
-   "date": "2026-11-11",
-   "ts": "2026-11-11T18:06:01+00:00",
-   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…",
-   "tag": "Cyber"
   }
  ]
 }
