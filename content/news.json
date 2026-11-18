@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-18 10:32 UTC",
+ "fetched": "2026-11-18 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,7 +10,7 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 1",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
   "TechCrunch": "ok 1",
@@ -18,22 +18,121 @@
  },
  "items": [
   {
-   "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
-   "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box",
+   "title": "Trump administration officials size-up a bad stretch for tech",
+   "url": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
+   "source": "The Record",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:00:00+00:00",
+   "summary": "Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Outage Chaos: When Tech is too Big to Fail",
+   "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
    "source": "EFF",
    "date": "2026-11-18",
-   "ts": "2026-11-18T15:00:00+00:00",
-   "summary": "Do automated license plate readers (ALPRs) have any place in our communities? That question has been a hot topic in city council meetings, community conversations, and news coverage around the country for months. This…",
+   "ts": "2026-11-18T19:52:17+00:00",
+   "summary": "Outages happen, but we deserve a resilient internet where no one outage at one company can put people at risk and disrupt the global economy. We can only get there by addressing an over-reliance on a few cloud…",
    "tag": "Privacy"
   },
   {
-   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
    "source": "BleepingComputer",
    "date": "2026-11-18",
-   "ts": "2026-11-18T08:24:18+00:00",
-   "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies.…",
+   "ts": "2026-11-18T19:39:33+00:00",
+   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland.…",
    "tag": "Cyber"
+  },
+  {
+   "title": "Senate Republicans advance FCC nominee, slate of cyber bills",
+   "url": "https://cyberscoop.com/danielle-thumann-severs-fcc-nomination-tech-bills/",
+   "source": "CyberScoop",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T19:16:11+00:00",
+   "summary": "Confirmation would give Republicans a 3-1 majority on the FCC. Meanwhile, the fates of multiple bipartisan cyber bills are in limbo after Democrats no-showed the markup hearing.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Lawmakers call on White House to develop defensive AI cyber systems",
+   "url": "https://therecord.media/ai-cyber-white-house",
+   "source": "The Record",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T19:00:00+00:00",
+   "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.",
+   "tag": "AI"
+  },
+  {
+   "title": "It’s NGINX’s turn to cause vulnpocalypse headaches",
+   "url": "https://cyberscoop.com/nginx-critical-vulnerabilities-exploits/",
+   "source": "CyberScoop",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T18:54:12+00:00",
+   "summary": "Researchers just dropped five NGINX exploits, including one that chains an HTTP/2 bug with a kernel flaw to seize the machine behind the web server.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results",
+   "url": "https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html",
+   "source": "LawSites",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T18:00:12+00:00",
+   "summary": "In September, OpenAI joined other frontier models that have been moving into the legal field, including Anthropic and Google, and launched Astra for Law, a version of its latest GPT-6 Astra model configured specifically…",
+   "tag": "AI"
+  },
+  {
+   "title": "How AI is Changing Case Research for Corporate Restructuring",
+   "url": "https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html",
+   "source": "LawSites",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T17:44:44+00:00",
+   "summary": "As the pace of corporate restructuring continues to accelerate, getting up to speed quickly is a necessity for providing effective representation. Chapter 11 cases increasingly involve multiple jurisdictions…",
+   "tag": "AI"
+  },
+  {
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "source": "TechCrunch",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T17:32:10+00:00",
+   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+   "tag": "AI"
+  },
+  {
+   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T16:58:42+00:00",
+   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "In-House And AI: You Can’t Demand What You Don’t Understand",
+   "url": "https://abovethelaw.com/2026/11/in-house-and-ai-you-cant-demand-what-you-dont-understand/",
+   "source": "Above the Law",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T15:46:32+00:00",
+   "summary": "If the people paying the bills don't understand what AI can realistically accomplish, how can they know what to demand?",
+   "tag": "AI"
+  },
+  {
+   "title": "Surveillance Isn't Safety: A Comic About Organizing Against Flock and Other Foes",
+   "url": "https://www.eff.org/deeplinks/2026/11/surveillance-isnt-safety-comic-about-organizing-against-surveillance",
+   "source": "EFF",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T15:10:53+00:00",
+   "summary": "In the new comic \"Surveillance Isn't Safety\"—available for free today— cartoonist Bryn Adams explores the growing movement against mass surveillance through their involvement in the community fight against Flock Safety…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "How a Matter Is Staffed Decides AI’s Commercial Value",
+   "url": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T11:54:35+00:00",
+   "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them...",
+   "tag": "AI"
   },
   {
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -45,15 +144,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
-   "url": "https://therecord.media/cisa-issues-java4shell-alert",
-   "source": "The Record",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T00:00:00+00:00",
-   "summary": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to…",
-   "tag": "AI"
-  },
-  {
    "title": "On LawNext: Live From ClioCon, Jack Newton On Clio’s ‘Refounding,’ Its Push Into The Courts, And Why Data Is The Only Durable Moat",
    "url": "https://www.lawnext.com/2026/11/on-lawnext-live-from-cliocon-jack-newton-on-clios-refounding-its-push-into-the-courts-and-why-data-is-the-only-durable-moat.html",
    "source": "Above the Law",
@@ -63,84 +153,12 @@
    "tag": "AI"
   },
   {
-   "title": "A vulnpocalypse bug worthy of attention: Researchers disclose critical flaw in Java with help of AI",
-   "url": "https://cyberscoop.com/java4shell-critical-java-flaw-openjdk/",
-   "source": "CyberScoop",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T22:24:39+00:00",
-   "summary": "Oracle shipped a patch this week for the flaw, which a short string of letters can trigger to corrupt memory in Java and hand attackers control of the servers running it.",
-   "tag": "AI"
-  },
-  {
-   "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
-   "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
-   "source": "The Record",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T21:20:00+00:00",
-   "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "GSA says post-quantum work on PIV cards shows new encryption can work on old tech",
-   "url": "https://cyberscoop.com/gsa-post-quantum-encryption-piv-cards/",
-   "source": "CyberScoop",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T21:19:45+00:00",
-   "summary": "Agency leaders and federal contractors are mulling over how to best adapt the new protections to older, legacy technology and address gaps in visibility over federal encryption protocols.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "The Justice Department Wants To Give Patent Trolls More Power",
-   "url": "https://www.eff.org/deeplinks/2026/11/justice-department-wants-give-patent-trolls-more-power",
-   "source": "EFF",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T21:08:00+00:00",
-   "summary": "Software patents are mostly vague, hard to define, and widely abused. Most tech patent lawsuits aren’t filed by companies that make real products. They’re filed by patent trolls, companies that acquire patents to…",
-   "tag": "IP"
-  },
-  {
-   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T20:51:21+00:00",
-   "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+   "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
    "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
    "source": "Dark Reading",
    "date": "2026-11-17",
    "ts": "2026-11-17T18:38:37+00:00",
    "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "tag": "AI"
-  },
-  {
-   "title": "Study Finds ChatGPT Tracking Tag in 298 Federal Court Cases and 133 SEC Filings",
-   "url": "https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html",
-   "source": "LawSites",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T18:25:47+00:00",
-   "summary": "A study released today found ChatGPT’s link-tracking tag in 298 federal court cases across 71 courts, 133 filings with the U.S. Securities and Exchange Commission, and a host of peer-reviewed papers, government…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Live from Georgetown University: AI Policy in 2027 with Alexandra Reeve Givens",
-   "url": "https://www.lawfaremedia.org/article/live-from-georgetown-university--ai-policy-in-2027-with-alexandra-reeve-givens",
-   "source": "Lawfare",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T15:00:01+00:00",
-   "summary": "The Scaling Laws Roadshow continues at Georgetown University. Alexandra Reeve Givens, CEO of the Center for Democracy & Technology, joins Kevin Frazier, Director of the AI Innovation and Law Program and a Senior Editor…",
-   "tag": "AI"
-  },
-  {
-   "title": "Building Legal AI for Public Service Across Borders",
-   "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T11:57:18+00:00",
-   "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
    "tag": "AI"
   },
   {
@@ -150,24 +168,6 @@
    "date": "2026-11-16",
    "ts": "2026-11-16T23:04:02+00:00",
    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating…",
-   "tag": "AI"
-  },
-  {
-   "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
-   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-   "source": "Dark Reading",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T19:56:05+00:00",
-   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-   "tag": "AI"
-  },
-  {
-   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-   "source": "The Verge",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T19:23:45+00:00",
-   "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced…",
    "tag": "AI"
   },
   {

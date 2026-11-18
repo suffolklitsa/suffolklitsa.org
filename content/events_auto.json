@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-18 05:32 ET",
+ "fetched": "2026-11-18 15:32 ET",
  "status": {
-  "coalition": "ok 74",
+  "coalition": "ok 73",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 2",
-  "berkman": "ok 3"
+  "berkman": "ok 4"
  },
  "events": [
   {
@@ -84,6 +84,19 @@
    "source_key": "berkman"
   },
   {
+   "date": "2026-11-23",
+   "time": "12:20pm",
+   "name": "What is a Botluck?",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "See event page",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/what-botluck",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "Introduction to legal engineering with agent swarms",
+   "source_key": "berkman"
+  },
+  {
    "date": "2026-12-02",
    "time": "12–1:30pm",
    "name": "Working Smarter in IP Practice: Everyday AI Tools and Workflows",
@@ -115,18 +128,6 @@
    "venue": "24 School St",
    "cost": "Free",
    "url": "https://luma.com/a66mv0zw",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-12-09",
-   "time": "4–6pm",
-   "name": "WHOOP: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "Whoop",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/6mpyqgvh",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
