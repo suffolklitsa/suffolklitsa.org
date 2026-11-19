@@ -1,8 +1,8 @@
 {
- "fetched": "2026-11-19 10:31 UTC",
+ "fetched": "2026-11-19 20:33 UTC",
  "status": {
   "LawSites": "ok 4",
-  "Artificial Lawyer": "FAILED (HTTPError); kept 1",
+  "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
@@ -13,26 +13,71 @@
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 1",
+  "TechCrunch": "ok 0",
   "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "title": "As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep Its Case Law Out of Reach",
+   "url": "https://www.lawnext.com/2026/11/as-ross-seeks-to-come-back-from-the-dead-clio-sues-to-keep-its-case-law-out-of-reach.html",
+   "source": "LawSites",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T19:55:19+00:00",
+   "summary": "Ever since ROSS Intelligence shut down in 2021 under the weight of a copyright lawsuit by Thomson Reuters, I have frequently referred to it in my reporting as the “now-shuttered” legal research startup. Now, it appears…",
+   "tag": "IP"
+  },
+  {
+   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+   "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
    "source": "BleepingComputer",
    "date": "2026-11-19",
-   "ts": "2026-11-19T09:23:21+00:00",
-   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site.…",
+   "ts": "2026-11-19T18:20:01+00:00",
+   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.…",
    "tag": "Cyber"
   },
   {
-   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
+   "url": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
+   "source": "The Record",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:25:00+00:00",
+   "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Dems call CISA nominee ‘disqualified’ after nomination hearing",
+   "url": "https://cyberscoop.com/michael-losapio-cisa-confirmation-hearing/",
+   "source": "CyberScoop",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:11:34+00:00",
+   "summary": "Michael LoSapio, the Palantir executive and Trump administration nominee for CISA, sparred with Democrats on the committee over who won the 2020 election, Jan. 6 and more.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
+   "url": "https://therecord.media/cisa-losapio-nomination-trump",
+   "source": "The Record",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:00:00+00:00",
+   "summary": "President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Study Finds ChatGPT Tracking Tag In 298 Federal Court Cases And 133 SEC Filings",
+   "url": "https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html",
+   "source": "Above the Law",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T16:34:00+00:00",
+   "summary": "The tags were most often found in copyright cases (30), followed by other statutory causes of action, civil rights, personal injury, antitrust, and patent.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Five warning signs of ransomware breach before encryption or data theft",
+   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
    "source": "BleepingComputer",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T23:08:33+00:00",
-   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T15:00:10+00:00",
+   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions…",
    "tag": "Cyber"
   },
   {
@@ -41,7 +86,7 @@
    "source": "Dark Reading",
    "date": "2026-11-18",
    "ts": "2026-11-18T21:59:46+00:00",
-   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
    "tag": "Cyber"
   },
   {
@@ -54,30 +99,12 @@
    "tag": "AI"
   },
   {
-   "title": "Judge signs off on sale of Spirit Airlines’ data to Google",
-   "url": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
-   "source": "The Record",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T20:39:00+00:00",
-   "summary": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.",
-   "tag": "AI"
-  },
-  {
    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
    "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
    "source": "Dark Reading",
    "date": "2026-11-18",
    "ts": "2026-11-18T20:38:42+00:00",
    "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Trump administration officials size-up a bad stretch for tech",
-   "url": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
-   "source": "The Record",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T20:00:00+00:00",
-   "summary": "Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect.",
    "tag": "Cyber"
   },
   {
@@ -90,39 +117,12 @@
    "tag": "Privacy"
   },
   {
-   "title": "Senate Republicans advance FCC nominee, slate of cyber bills",
-   "url": "https://cyberscoop.com/danielle-thumann-severs-fcc-nomination-tech-bills/",
-   "source": "CyberScoop",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T19:16:11+00:00",
-   "summary": "Confirmation would give Republicans a 3-1 majority on the FCC. Meanwhile, the fates of multiple bipartisan cyber bills are in limbo after Democrats no-showed the markup hearing.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
    "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
    "source": "The Verge",
    "date": "2026-11-18",
    "ts": "2026-11-18T19:07:29+00:00",
    "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On…",
-   "tag": "AI"
-  },
-  {
-   "title": "OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results",
-   "url": "https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html",
-   "source": "LawSites",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T18:00:12+00:00",
-   "summary": "In September, OpenAI joined other frontier models that have been moving into the legal field, including Anthropic and Google, and launched Astra for Law, a version of its latest GPT-6 Astra model configured specifically…",
-   "tag": "AI"
-  },
-  {
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "source": "TechCrunch",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T17:32:10+00:00",
-   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
    "tag": "AI"
   },
   {
@@ -162,12 +162,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "On LawNext: Live From ClioCon, Jack Newton On Clio’s ‘Refounding,’ Its Push Into The Courts, And Why Data Is The Only Durable Moat",
-   "url": "https://www.lawnext.com/2026/11/on-lawnext-live-from-cliocon-jack-newton-on-clios-refounding-its-push-into-the-courts-and-why-data-is-the-only-durable-moat.html",
-   "source": "Above the Law",
+   "title": "Building Legal AI for Public Service Across Borders",
+   "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
+   "source": "Artificial Lawyer",
    "date": "2026-11-17",
-   "ts": "2026-11-17T22:45:00+00:00",
-   "summary": "He compares Clio’s strategy to Apple’s – vertically integrating the business of law, the practice of law, and AI to build products no one else can.",
+   "ts": "2026-11-17T11:57:18+00:00",
+   "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
    "tag": "AI"
   },
   {

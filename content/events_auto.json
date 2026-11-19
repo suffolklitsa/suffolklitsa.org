@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-19 05:31 ET",
+ "fetched": "2026-11-19 15:33 ET",
  "status": {
   "coalition": "ok 73",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 2",
-  "berkman": "ok 3"
+  "berkman": "ok 2"
  },
  "events": [
   {
@@ -19,19 +19,6 @@
    "source": "bba",
    "tier": "boston",
    "source_key": "bba"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "12:20pm",
-   "name": "AI & Political Freedom",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge and on Zoom",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/ai-political-freedom",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "Anthropic's Matt Botvinick Discusses New Book with Chinmayi Arun of Yale Law School",
-   "source_key": "berkman"
   },
   {
    "date": "2026-11-19",
@@ -74,7 +61,7 @@
   {
    "date": "2026-12-03",
    "time": "3:30–4:45pm",
-   "name": "GTM Engineering: Discover an emerging career at the intersection of AI, business, marketing, and technology.",
+   "name": "GTM Engineering: Building AI-Powered Workflows with Claude & MCP",
    "host": "Mass AI Coalition",
    "venue": "Venture Development Center",
    "cost": "Free",
@@ -98,7 +85,7 @@
   {
    "date": "2026-12-11",
    "time": "12–1:30pm",
-   "name": "Becoming AI-First: Context Capture & Starting with the Why",
+   "name": "Becoming AI-First: Context Engineering, AI Agents & Custom Skills",
    "host": "Mass AI Coalition",
    "venue": "Venture Development Center",
    "cost": "Free",
