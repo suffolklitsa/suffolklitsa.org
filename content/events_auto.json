@@ -1,50 +1,13 @@
 {
- "fetched": "2026-11-18 15:32 ET",
+ "fetched": "2026-11-19 05:31 ET",
  "status": {
   "coalition": "ok 73",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 2",
-  "berkman": "ok 4"
+  "berkman": "ok 3"
  },
  "events": [
-  {
-   "date": "2026-11-18",
-   "time": "8:30–10:30am",
-   "name": "Builders & Bagels | Boston Built Week",
-   "host": "Mass AI Coalition",
-   "venue": "The Friendly Toast",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/iizbpz9y",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-18",
-   "time": "4–6pm",
-   "name": "Enlaye: Startup Trek",
-   "host": "Mass AI Coalition",
-   "venue": "114 Western Ave, Allston, MA",
-   "cost": "Free, approval required",
-   "url": "https://luma.com/4d12mbqu",
-   "source": "luma",
-   "tier": "ai",
-   "source_key": "coalition"
-  },
-  {
-   "date": "2026-11-18",
-   "time": "5:30pm",
-   "name": "Is Your Relationship With AI Healthy?",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "See event page",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/your-relationship-ai-healthy",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "A Workshop on AI, Advice, and the Self",
-   "source_key": "berkman"
-  },
   {
    "date": "2026-11-19",
    "time": "12–6pm",

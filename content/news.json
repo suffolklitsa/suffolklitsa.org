@@ -1,8 +1,8 @@
 {
- "fetched": "2026-11-18 20:32 UTC",
+ "fetched": "2026-11-19 10:31 UTC",
  "status": {
   "LawSites": "ok 4",
-  "Artificial Lawyer": "ok 4",
+  "Artificial Lawyer": "FAILED (HTTPError); kept 1",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 1",
   "The Record": "ok 4",
@@ -12,11 +12,65 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
+  "The Verge": "ok 1",
   "TechCrunch": "ok 1",
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "source": "BleepingComputer",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T09:23:21+00:00",
+   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "source": "BleepingComputer",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T23:08:33+00:00",
+   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "source": "Dark Reading",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:59:46+00:00",
+   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities",
+   "url": "https://cyberscoop.com/tech-outages-ai-vulnerability-patching/",
+   "source": "CyberScoop",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:56:55+00:00",
+   "summary": "But cyberattacks aren’t directly to blame, Trump administration officials said.",
+   "tag": "AI"
+  },
+  {
+   "title": "Judge signs off on sale of Spirit Airlines’ data to Google",
+   "url": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
+   "source": "The Record",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:39:00+00:00",
+   "summary": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.",
+   "tag": "AI"
+  },
+  {
+   "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+   "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+   "source": "Dark Reading",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:38:42+00:00",
+   "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+   "tag": "Cyber"
+  },
   {
    "title": "Trump administration officials size-up a bad stretch for tech",
    "url": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
@@ -36,15 +90,6 @@
    "tag": "Privacy"
   },
   {
-   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T19:39:33+00:00",
-   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland.…",
-   "tag": "Cyber"
-  },
-  {
    "title": "Senate Republicans advance FCC nominee, slate of cyber bills",
    "url": "https://cyberscoop.com/danielle-thumann-severs-fcc-nomination-tech-bills/",
    "source": "CyberScoop",
@@ -54,22 +99,13 @@
    "tag": "Cyber"
   },
   {
-   "title": "Lawmakers call on White House to develop defensive AI cyber systems",
-   "url": "https://therecord.media/ai-cyber-white-house",
-   "source": "The Record",
+   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "source": "The Verge",
    "date": "2026-11-18",
-   "ts": "2026-11-18T19:00:00+00:00",
-   "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.",
+   "ts": "2026-11-18T19:07:29+00:00",
+   "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On…",
    "tag": "AI"
-  },
-  {
-   "title": "It’s NGINX’s turn to cause vulnpocalypse headaches",
-   "url": "https://cyberscoop.com/nginx-critical-vulnerabilities-exploits/",
-   "source": "CyberScoop",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T18:54:12+00:00",
-   "summary": "Researchers just dropped five NGINX exploits, including one that chains an HTTP/2 bug with a kernel flaw to seize the machine behind the web server.",
-   "tag": "Cyber"
   },
   {
    "title": "OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results",
@@ -81,15 +117,6 @@
    "tag": "AI"
   },
   {
-   "title": "How AI is Changing Case Research for Corporate Restructuring",
-   "url": "https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html",
-   "source": "LawSites",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T17:44:44+00:00",
-   "summary": "As the pace of corporate restructuring continues to accelerate, getting up to speed quickly is a necessity for providing effective representation. Chapter 11 cases increasingly involve multiple jurisdictions…",
-   "tag": "AI"
-  },
-  {
    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
    "source": "TechCrunch",
@@ -97,15 +124,6 @@
    "ts": "2026-11-18T17:32:10+00:00",
    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
    "tag": "AI"
-  },
-  {
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-   "source": "BleepingComputer",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T16:58:42+00:00",
-   "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems.…",
-   "tag": "Cyber"
   },
   {
    "title": "In-House And AI: You Can’t Demand What You Don’t Understand",
@@ -150,24 +168,6 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T22:45:00+00:00",
    "summary": "He compares Clio’s strategy to Apple’s – vertically integrating the business of law, the practice of law, and AI to build products no one else can.",
-   "tag": "AI"
-  },
-  {
-   "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-   "source": "Dark Reading",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T18:38:37+00:00",
-   "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "tag": "AI"
-  },
-  {
-   "title": "California sues OpenAI over rogue AI hacking incidents",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-   "source": "The Verge",
-   "date": "2026-11-16",
-   "ts": "2026-11-16T23:04:02+00:00",
-   "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating…",
    "tag": "AI"
   },
   {
