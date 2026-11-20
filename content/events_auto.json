@@ -1,38 +1,13 @@
 {
- "fetched": "2026-11-19 15:33 ET",
+ "fetched": "2026-11-20 05:30 ET",
  "status": {
-  "coalition": "ok 73",
-  "luma:cal-Slf1iP6ecIGwbim": "ok 3",
-  "luma:cal-emQFVlpgfBmiF0S": "ok 1",
-  "bba": "ok 2",
-  "berkman": "ok 2"
+  "coalition": "FAILED (URLError); kept 3 from last run",
+  "luma:cal-Slf1iP6ecIGwbim": "FAILED (URLError); kept 0 from last run",
+  "luma:cal-emQFVlpgfBmiF0S": "FAILED (URLError); kept 0 from last run",
+  "bba": "FAILED (URLError); kept 2 from last run",
+  "berkman": "FAILED (URLError); kept 2 from last run"
  },
  "events": [
-  {
-   "date": "2026-11-19",
-   "time": "12–6pm",
-   "name": "2026 Privacy, Cybersecurity & Digital Law Conference",
-   "host": "Boston Bar Association",
-   "venue": "See event page",
-   "cost": "See event page",
-   "url": "https://bostonbar.my.site.com/LightningMemberPortal/eventapi__router?event=a1YRc000004zWS5",
-   "source": "bba",
-   "tier": "boston",
-   "source_key": "bba"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "5pm",
-   "name": "Crutch or Catalyst? How AI is Changing the Ways We Relate",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "Harvard, Cambridge and on Zoom",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/crutch-or-catalyst-how-ai-changing-ways-we-relate",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "Sherry Turkle, Bridget Todd, Dean Sean Kelly on AI Companionship",
-   "source_key": "berkman"
-  },
   {
    "date": "2026-11-23",
    "time": "12:20pm",
