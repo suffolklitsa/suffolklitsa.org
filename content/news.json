@@ -1,84 +1,138 @@
 {
- "fetched": "2026-11-20 10:30 UTC",
+ "fetched": "2026-11-20 20:32 UTC",
  "status": {
-  "LawSites": "FAILED (URLError); kept 1",
-  "Artificial Lawyer": "FAILED (URLError); kept 2",
-  "EFF": "FAILED (URLError); kept 2",
-  "Future of Privacy Forum": "FAILED (URLError); kept 1",
-  "The Record": "FAILED (URLError); kept 2",
-  "Krebs on Security": "FAILED (URLError); kept 1",
-  "CyberScoop": "FAILED (URLError); kept 2",
-  "BleepingComputer": "FAILED (URLError); kept 2",
-  "Dark Reading": "FAILED (URLError); kept 2",
-  "Lawfare": "FAILED (URLError); kept 0",
-  "FTC": "FAILED (URLError); kept 0",
-  "The Verge": "FAILED (URLError); kept 1",
-  "TechCrunch": "FAILED (URLError); kept 0",
-  "Above the Law": "FAILED (URLError); kept 2"
+  "LawSites": "ok 4",
+  "Artificial Lawyer": "ok 4",
+  "EFF": "ok 4",
+  "Future of Privacy Forum": "ok 2",
+  "The Record": "ok 4",
+  "Krebs on Security": "ok 3",
+  "CyberScoop": "ok 4",
+  "BleepingComputer": "ok 4",
+  "Dark Reading": "ok 4",
+  "Lawfare": "ok 2",
+  "FTC": "FAILED (HTTPError); kept 0",
+  "The Verge": "ok 0",
+  "TechCrunch": "ok 0",
+  "Above the Law": "ok 3"
  },
  "items": [
   {
-   "title": "As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep Its Case Law Out of Reach",
+   "title": "Court Tells Cops That The 4th Amendment Doesn’t Cover AI-Generated ‘Probable Cause’",
+   "url": "https://abovethelaw.com/2026/11/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+   "source": "Above the Law",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T20:13:00+00:00",
+   "summary": "from the remember-that-time-robocop-shot-the-Constitution-in-the-dick dept",
+   "tag": "AI"
+  },
+  {
+   "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app",
+   "url": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
+   "source": "CyberScoop",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T19:54:25+00:00",
+   "summary": "The encrypted messaging app will now block those screenshots by default, following similar steps it took with Microsoft last year.",
+   "tag": "AI"
+  },
+  {
+   "title": "Container Store restores systems after cyberattack",
+   "url": "https://therecord.media/container-store-restores-systems-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T19:32:00+00:00",
+   "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T18:51:43+00:00",
+   "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Firms Want AI To Save Hours, Clients Want AI To Save Dollars — They Aren’t The Same Number",
+   "url": "https://abovethelaw.com/2026/11/firms-want-ai-to-save-hours-clients-want-ai-to-save-dollars-they-arent-the-same-number/",
+   "source": "Above the Law",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T18:01:00+00:00",
+   "summary": "What happens to all the time a lawyer saves? Disagreement over this question plagues the legal working relationship.",
+   "tag": "AI"
+  },
+  {
+   "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+   "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+   "source": "The Record",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T17:30:00+00:00",
+   "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
+   "tag": "AI"
+  },
+  {
+   "title": "The D.C. Circuit Curbed Pro-executive Panels Before. Is Anthropic’s Case Next?",
+   "url": "https://www.lawfaremedia.org/article/the-d.c.-circuit-curbed-pro-executive-panels-before.-is-anthropic-s-case-next",
+   "source": "Lawfare",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T15:00:07+00:00",
+   "summary": "In three major cases since 2018, the D.C. Circuit has reversed rulings that sided with the executive. That record suggests the full court will likely rehear Anthropic’s challenge to its Pentagon blacklisting.",
+   "tag": "AI"
+  },
+  {
+   "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
+   "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
+   "source": "Future of Privacy Forum",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:10:00+00:00",
+   "summary": "WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new infographic analyzing key privacy and data governance…",
+   "tag": "AI"
+  },
+  {
+   "title": "Phew! Some Regulatory Relief for AI Hacks",
+   "url": "https://www.lawfaremedia.org/article/phew!-some-regulatory-relief-for-ai-hacks",
+   "source": "Lawfare",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:00:02+00:00",
+   "summary": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
+   "tag": "AI"
+  },
+  {
+   "title": "Sean Cairncross out as national cyber director",
+   "url": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director/",
+   "source": "CyberScoop",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T01:07:07+00:00",
+   "summary": "During his tenure, he was involved in key administration decisions on AI security and the protection of critical infrastructure.",
+   "tag": "AI"
+  },
+  {
+   "title": "Outage Chaos: Who Turned Off All The Computer?",
+   "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer",
+   "source": "EFF",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T23:30:50+00:00",
+   "summary": "It's been a tough couple of weeks for anyone trying to use email, fly, spend money, use an Apple device *, or do signals intelligence. Technical service outages are nothing new, but why do so many big ones seem to be…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Second Norwegian Energy Company Breached in 2 Days",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "source": "Dark Reading",
+   "date": "2026-11-19",
+   "ts": "2026-11-19T20:14:15+00:00",
+   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep from Having to Resume Its Case Law Feed",
    "url": "https://www.lawnext.com/2026/11/as-ross-seeks-to-come-back-from-the-dead-clio-sues-to-keep-its-case-law-out-of-reach.html",
    "source": "LawSites",
    "date": "2026-11-19",
    "ts": "2026-11-19T19:55:19+00:00",
    "summary": "Ever since ROSS Intelligence shut down in 2021 under the weight of a copyright lawsuit by Thomson Reuters, I have frequently referred to it in my reporting as the “now-shuttered” legal research startup. Now, it appears…",
    "tag": "IP"
-  },
-  {
-   "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-   "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-   "source": "BleepingComputer",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T18:20:01+00:00",
-   "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
-   "url": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-   "source": "The Record",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T17:25:00+00:00",
-   "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Dems call CISA nominee ‘disqualified’ after nomination hearing",
-   "url": "https://cyberscoop.com/michael-losapio-cisa-confirmation-hearing/",
-   "source": "CyberScoop",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T17:11:34+00:00",
-   "summary": "Michael LoSapio, the Palantir executive and Trump administration nominee for CISA, sparred with Democrats on the committee over who won the 2020 election, Jan. 6 and more.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
-   "url": "https://therecord.media/cisa-losapio-nomination-trump",
-   "source": "The Record",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T17:00:00+00:00",
-   "summary": "President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Study Finds ChatGPT Tracking Tag In 298 Federal Court Cases And 133 SEC Filings",
-   "url": "https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html",
-   "source": "Above the Law",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T16:34:00+00:00",
-   "summary": "The tags were most often found in copyright cases (30), followed by other statutory causes of action, civil rights, personal injury, antitrust, and patent.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Five warning signs of ransomware breach before encryption or data theft",
-   "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-   "source": "BleepingComputer",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T15:00:10+00:00",
-   "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions…",
-   "tag": "Cyber"
   },
   {
    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
@@ -90,57 +144,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Consensus mounts that tech outages were fueled by patching of AI-discovered vulnerabilities",
-   "url": "https://cyberscoop.com/tech-outages-ai-vulnerability-patching/",
-   "source": "CyberScoop",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T20:56:55+00:00",
-   "summary": "But cyberattacks aren’t directly to blame, Trump administration officials said.",
-   "tag": "AI"
-  },
-  {
-   "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-   "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-   "source": "Dark Reading",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T20:38:42+00:00",
-   "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-   "tag": "Cyber"
-  },
-  {
    "title": "Outage Chaos: When Tech is too Big to Fail",
    "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
    "source": "EFF",
    "date": "2026-11-18",
    "ts": "2026-11-18T19:52:17+00:00",
    "summary": "Outages happen, but we deserve a resilient internet where no one outage at one company can put people at risk and disrupt the global economy. We can only get there by addressing an over-reliance on a few cloud…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-   "source": "The Verge",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T19:07:29+00:00",
-   "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On…",
-   "tag": "AI"
-  },
-  {
-   "title": "In-House And AI: You Can’t Demand What You Don’t Understand",
-   "url": "https://abovethelaw.com/2026/11/in-house-and-ai-you-cant-demand-what-you-dont-understand/",
-   "source": "Above the Law",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T15:46:32+00:00",
-   "summary": "If the people paying the bills don't understand what AI can realistically accomplish, how can they know what to demand?",
-   "tag": "AI"
-  },
-  {
-   "title": "Surveillance Isn't Safety: A Comic About Organizing Against Flock and Other Foes",
-   "url": "https://www.eff.org/deeplinks/2026/11/surveillance-isnt-safety-comic-about-organizing-against-surveillance",
-   "source": "EFF",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T15:10:53+00:00",
-   "summary": "In the new comic \"Surveillance Isn't Safety\"—available for free today— cartoonist Bryn Adams explores the growing movement against mass surveillance through their involvement in the community fight against Flock Safety…",
    "tag": "Privacy"
   },
   {
@@ -168,15 +177,6 @@
    "date": "2026-11-17",
    "ts": "2026-11-17T11:57:18+00:00",
    "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
-   "tag": "AI"
-  },
-  {
-   "title": "FPF Launches Roundtable Series on Agentic AI, Privacy, and PETs",
-   "url": "https://fpf.org/blog/fpf-launches-roundtable-series-on-agentic-ai-privacy-and-pets/",
-   "source": "Future of Privacy Forum",
-   "date": "2026-11-12",
-   "ts": "2026-11-12T20:02:55+00:00",
-   "summary": "On October 19, 2026, the FPF Center for Artificial Intelligence launched a four-part virtual roundtable series on Agentic AI. In the first roundtable, Agentic Data Flows: Privacy, Data Minimization, and PETs in Agentic…",
    "tag": "AI"
   }
  ]

@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-20 05:30 ET",
+ "fetched": "2026-11-20 15:32 ET",
  "status": {
-  "coalition": "FAILED (URLError); kept 3 from last run",
-  "luma:cal-Slf1iP6ecIGwbim": "FAILED (URLError); kept 0 from last run",
-  "luma:cal-emQFVlpgfBmiF0S": "FAILED (URLError); kept 0 from last run",
-  "bba": "FAILED (URLError); kept 2 from last run",
-  "berkman": "FAILED (URLError); kept 2 from last run"
+  "coalition": "ok 73",
+  "luma:cal-Slf1iP6ecIGwbim": "ok 3",
+  "luma:cal-emQFVlpgfBmiF0S": "ok 1",
+  "bba": "ok 1",
+  "berkman": "ok 1"
  },
  "events": [
   {
