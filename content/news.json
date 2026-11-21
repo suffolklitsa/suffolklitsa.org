@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-20 20:32 UTC",
+ "fetched": "2026-11-21 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,51 @@
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "date": "2026-11-21",
+   "ts": "2026-11-21T00:36:39+00:00",
+   "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "AI Use Guidelines: It’s Complicated. It’s Also Not A Choice",
+   "url": "https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/",
+   "source": "Above the Law",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T23:16:00+00:00",
+   "summary": "Having an AI policy isn't enough unless the firm makes it real.",
+   "tag": "AI"
+  },
+  {
+   "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
+   "url": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
+   "source": "EFF",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T21:52:51+00:00",
+   "summary": "In June 2026, the surveillance authority Section 702 of FISA expired absent a consensus among lawmakers over the terms of its reauthorization. Now, with the program set to truly turn off within the next few months…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+   "url": "https://therecord.media/west-virginia-legislature-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T21:34:36+00:00",
+   "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+   "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+   "source": "The Record",
+   "date": "2026-11-20",
+   "ts": "2026-11-20T20:25:00+00:00",
+   "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+   "tag": "AI"
+  },
   {
    "title": "Court Tells Cops That The 4th Amendment Doesn’t Cover AI-Generated ‘Probable Cause’",
    "url": "https://abovethelaw.com/2026/11/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
@@ -36,15 +81,6 @@
    "tag": "AI"
   },
   {
-   "title": "Container Store restores systems after cyberattack",
-   "url": "https://therecord.media/container-store-restores-systems-cyberattack",
-   "source": "The Record",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T19:32:00+00:00",
-   "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
-   "tag": "Cyber"
-  },
-  {
    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
    "source": "BleepingComputer",
@@ -54,21 +90,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Firms Want AI To Save Hours, Clients Want AI To Save Dollars — They Aren’t The Same Number",
-   "url": "https://abovethelaw.com/2026/11/firms-want-ai-to-save-hours-clients-want-ai-to-save-dollars-they-arent-the-same-number/",
-   "source": "Above the Law",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T18:01:00+00:00",
-   "summary": "What happens to all the time a lawyer saves? Disagreement over this question plagues the legal working relationship.",
-   "tag": "AI"
-  },
-  {
-   "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
-   "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-   "source": "The Record",
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "source": "BleepingComputer",
    "date": "2026-11-20",
    "ts": "2026-11-20T17:30:00+00:00",
-   "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application.…",
    "tag": "AI"
   },
   {
@@ -144,39 +171,12 @@
    "tag": "Cyber"
   },
   {
-   "title": "Outage Chaos: When Tech is too Big to Fail",
-   "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
-   "source": "EFF",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T19:52:17+00:00",
-   "summary": "Outages happen, but we deserve a resilient internet where no one outage at one company can put people at risk and disrupt the global economy. We can only get there by addressing an over-reliance on a few cloud…",
-   "tag": "Privacy"
-  },
-  {
    "title": "How a Matter Is Staffed Decides AI’s Commercial Value",
    "url": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
    "source": "Artificial Lawyer",
    "date": "2026-11-18",
    "ts": "2026-11-18T11:54:35+00:00",
    "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them...",
-   "tag": "AI"
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T02:52:04+00:00",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Building Legal AI for Public Service Across Borders",
-   "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-17",
-   "ts": "2026-11-17T11:57:18+00:00",
-   "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
    "tag": "AI"
   }
  ]
