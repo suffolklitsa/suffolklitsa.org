@@ -1,22 +1,40 @@
 {
- "fetched": "2026-11-21 10:32 UTC",
+ "fetched": "2026-11-21 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
   "EFF": "ok 4",
   "Future of Privacy Forum": "ok 2",
   "The Record": "ok 4",
-  "Krebs on Security": "ok 3",
+  "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 2",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 0",
   "TechCrunch": "ok 0",
   "Above the Law": "ok 3"
  },
  "items": [
+  {
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21",
+   "ts": "2026-11-21T18:01:58+00:00",
+   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21",
+   "ts": "2026-11-21T14:26:04+00:00",
+   "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…",
+   "tag": "Cyber"
+  },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -81,48 +99,12 @@
    "tag": "AI"
   },
   {
-   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-   "source": "BleepingComputer",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T18:51:43+00:00",
-   "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-   "source": "BleepingComputer",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T17:30:00+00:00",
-   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application.…",
-   "tag": "AI"
-  },
-  {
-   "title": "The D.C. Circuit Curbed Pro-executive Panels Before. Is Anthropic’s Case Next?",
-   "url": "https://www.lawfaremedia.org/article/the-d.c.-circuit-curbed-pro-executive-panels-before.-is-anthropic-s-case-next",
-   "source": "Lawfare",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T15:00:07+00:00",
-   "summary": "In three major cases since 2018, the D.C. Circuit has reversed rulings that sided with the executive. That record suggests the full court will likely rehear Anthropic’s challenge to its Pentagon blacklisting.",
-   "tag": "AI"
-  },
-  {
    "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
    "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
    "source": "Future of Privacy Forum",
    "date": "2026-11-20",
    "ts": "2026-11-20T13:10:00+00:00",
    "summary": "WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new infographic analyzing key privacy and data governance…",
-   "tag": "AI"
-  },
-  {
-   "title": "Phew! Some Regulatory Relief for AI Hacks",
-   "url": "https://www.lawfaremedia.org/article/phew!-some-regulatory-relief-for-ai-hacks",
-   "source": "Lawfare",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T13:00:02+00:00",
-   "summary": "The latest edition of the Seriously Risky Business cybersecurity newsletter, now on Lawfare.",
    "tag": "AI"
   },
   {
@@ -177,6 +159,24 @@
    "date": "2026-11-18",
    "ts": "2026-11-18T11:54:35+00:00",
    "summary": "By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them...",
+   "tag": "AI"
+  },
+  {
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "date": "2026-11-18",
+   "ts": "2026-11-18T02:52:04+00:00",
+   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Building Legal AI for Public Service Across Borders",
+   "url": "https://www.artificiallawyer.com/2026/11/17/building-legal-ai-for-public-service-across-borders/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-17",
+   "ts": "2026-11-17T11:57:18+00:00",
+   "summary": "By Joshua McKibben, Head of Trust, Harvey. Harvey is investing in public sector legal teams across jurisdictions. Our recent FedRAMP Class D (High) certification in...",
    "tag": "AI"
   }
  ]
