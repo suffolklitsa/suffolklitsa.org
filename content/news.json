@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23 10:32 UTC",
+ "fetched": "2026-11-23 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,11 +12,101 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 0",
+  "The Verge": "ok 1",
   "TechCrunch": "ok 0",
-  "Above the Law": "ok 3"
+  "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+   "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+   "source": "The Record",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T00:00:00+00:00",
+   "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever",
+   "url": "https://abovethelaw.com/2026/11/sam-alito-jokes-about-ai-brain-upload-staying-on-supreme-court-forever/",
+   "source": "Above the Law",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T19:02:00+00:00",
+   "summary": "The unfunny premise is that he really does see his job as a divine right.",
+   "tag": "AI"
+  },
+  {
+   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:38:40+00:00",
+   "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs.…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Indicted Kosovo credit card theft suspect extradited to US",
+   "url": "https://cyberscoop.com/hektor-avdyli-kosovo-credit-card-fraud-extradition/",
+   "source": "CyberScoop",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:37:00+00:00",
+   "summary": "Authorities say a hard drive in the possession of Hektor Avdyli contained millions of payment card numbers.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+   "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+   "source": "The Record",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:37:00+00:00",
+   "summary": "Google’s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that’s making it increasingly hostile to privacy,\" Signal said.",
+   "tag": "AI"
+  },
+  {
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "source": "The Verge",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:26:47+00:00",
+   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
+   "tag": "AI"
+  },
+  {
+   "title": "The 2027 Law Firm Pulse Report: An In-House View",
+   "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
+   "source": "Above the Law",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:15:00+00:00",
+   "summary": "[Sponsored] 750 legal leaders at $1B+ companies weigh in on law firm rates, AI adoption, and the growth of insourcing.",
+   "tag": "AI"
+  },
+  {
+   "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+   "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+   "source": "Dark Reading",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T17:45:52+00:00",
+   "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Kirsten Davies to become national cyber director nominee, Jay Clayton takes acting director job",
+   "url": "https://cyberscoop.com/kirsten-davies-jay-clayton-national-cyber-director/",
+   "source": "CyberScoop",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T16:59:03+00:00",
+   "summary": "After a brief stint as acting director, Davies will become the pick to succeed Sean Cairncross and National Cyber Director Clayton will do double duty.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+   "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T16:50:01+00:00",
+   "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000.…",
+   "tag": "Cyber"
+  },
   {
    "title": "Is Going AI Native Incompatible with Big Law?",
    "url": "https://www.artificiallawyer.com/2026/11/23/is-going-ai-native-incompatible-with-big-law/",
@@ -25,33 +115,6 @@
    "ts": "2026-11-23T08:54:55+00:00",
    "summary": "Major law firms are embracing legal AI tools at scale, yet where that use gets very deep the goal is often a spinout, or a...",
    "tag": "AI"
-  },
-  {
-   "title": "Right About the Law, Wrong for the Company",
-   "url": "https://www.artificiallawyer.com/2026/11/23/right-about-the-law-wrong-for-the-company/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T07:46:25+00:00",
-   "summary": "By Robb Hern, General Manager, Corporate Legal, LexisNexis. With businesses moving incredibly fast in the age of AI, many questions landing on in-house legal desks...",
-   "tag": "AI"
-  },
-  {
-   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-   "source": "BleepingComputer",
-   "date": "2026-11-22",
-   "ts": "2026-11-22T18:45:37+00:00",
-   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-11-22",
-   "ts": "2026-11-22T15:43:04+00:00",
-   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes.…",
-   "tag": "Cyber"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -63,15 +126,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "AI Use Guidelines: It’s Complicated. It’s Also Not A Choice",
-   "url": "https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/",
-   "source": "Above the Law",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T23:16:00+00:00",
-   "summary": "Having an AI policy isn't enough unless the firm makes it real.",
-   "tag": "AI"
-  },
-  {
    "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
    "url": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
    "source": "EFF",
@@ -81,57 +135,12 @@
    "tag": "Privacy"
   },
   {
-   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
-   "url": "https://therecord.media/west-virginia-legislature-cyberattack",
-   "source": "The Record",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T21:34:36+00:00",
-   "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
-   "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
-   "source": "The Record",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T20:25:00+00:00",
-   "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
-   "tag": "AI"
-  },
-  {
-   "title": "Court Tells Cops That The 4th Amendment Doesn’t Cover AI-Generated ‘Probable Cause’",
-   "url": "https://abovethelaw.com/2026/11/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-   "source": "Above the Law",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T20:13:00+00:00",
-   "summary": "from the remember-that-time-robocop-shot-the-Constitution-in-the-dick dept",
-   "tag": "AI"
-  },
-  {
-   "title": "Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app",
-   "url": "https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/",
-   "source": "CyberScoop",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T19:54:25+00:00",
-   "summary": "The encrypted messaging app will now block those screenshots by default, following similar steps it took with Microsoft last year.",
-   "tag": "AI"
-  },
-  {
    "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
    "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
    "source": "Future of Privacy Forum",
    "date": "2026-11-20",
    "ts": "2026-11-20T13:10:00+00:00",
    "summary": "WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new infographic analyzing key privacy and data governance…",
-   "tag": "AI"
-  },
-  {
-   "title": "Sean Cairncross out as national cyber director",
-   "url": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director/",
-   "source": "CyberScoop",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T01:07:07+00:00",
-   "summary": "During his tenure, he was involved in key administration decisions on AI security and the protection of critical infrastructure.",
    "tag": "AI"
   },
   {
@@ -160,15 +169,6 @@
    "ts": "2026-11-19T19:55:19+00:00",
    "summary": "Ever since ROSS Intelligence shut down in 2021 under the weight of a copyright lawsuit by Thomson Reuters, I have frequently referred to it in my reporting as the “now-shuttered” legal research startup. Now, it appears…",
    "tag": "IP"
-  },
-  {
-   "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-   "source": "Dark Reading",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T21:59:46+00:00",
-   "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-   "tag": "Cyber"
   },
   {
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",

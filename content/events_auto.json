@@ -1,26 +1,13 @@
 {
- "fetched": "2026-11-23 05:32 ET",
+ "fetched": "2026-11-23 15:32 ET",
  "status": {
   "coalition": "ok 73",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 1",
-  "berkman": "ok 1"
+  "berkman": "ok 0"
  },
  "events": [
-  {
-   "date": "2026-11-23",
-   "time": "12:20pm",
-   "name": "What is a Botluck?",
-   "host": "Berkman Klein Center, Harvard",
-   "venue": "See event page",
-   "cost": "Free",
-   "url": "https://cyber.harvard.edu/events/what-botluck",
-   "source": "berkman",
-   "tier": "boston",
-   "note": "Introduction to legal engineering with agent swarms",
-   "source_key": "berkman"
-  },
   {
    "date": "2026-12-02",
    "time": "12–1:30pm",
