@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-23 20:32 UTC",
+ "fetched": "2026-11-24 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -18,12 +18,57 @@
  },
  "items": [
   {
-   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
-   "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+   "title": "OpenAI Held Talks With AI Native Law Firm",
+   "url": "https://www.artificiallawyer.com/2026/11/24/openai-held-talks-with-ai-native-law-firm/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T10:21:15+00:00",
+   "summary": "Artificial Lawyer can reveal that OpenAI has been in talks with an AI native, new model law firm, with the intention of acquiring at least...",
+   "tag": "AI"
+  },
+  {
+   "title": "Catherine Bamford Joins Document Drafter as Evangelist",
+   "url": "https://www.artificiallawyer.com/2026/11/24/catherine-bamford-joins-document-drafter-as-evangelist/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T08:12:23+00:00",
+   "summary": "Document Drafter has hired document automation guru, Catherine Bamford, as an Evangelist to help law firms in their transition into the world of decentralised AI...",
+   "tag": "AI"
+  },
+  {
+   "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+   "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
    "source": "The Record",
    "date": "2026-11-24",
    "ts": "2026-11-24T00:00:00+00:00",
-   "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
+   "summary": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+   "url": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
+   "source": "The Record",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T00:00:00+00:00",
+   "summary": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Virginia, Oregon hit SpaceX with fresh lawsuits over Grok-created CSAM",
+   "url": "https://cyberscoop.com/virginia-oregon-sue-spacex-grok-deepfakes/",
+   "source": "CyberScoop",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T21:32:33+00:00",
+   "summary": "The lawsuit alleges that weak safeguards around nudification were a primary selling point for Musk’s business strategy to differentiate Grok and other competing AI models.",
+   "tag": "AI"
+  },
+  {
+   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23",
+   "ts": "2026-11-23T20:54:51+00:00",
+   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.…",
    "tag": "Cyber"
   },
   {
@@ -54,24 +99,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
-   "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
-   "source": "The Record",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:37:00+00:00",
-   "summary": "Google’s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that’s making it increasingly hostile to privacy,\" Signal said.",
-   "tag": "AI"
-  },
-  {
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "source": "The Verge",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:26:47+00:00",
-   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
-   "tag": "AI"
-  },
-  {
    "title": "The 2027 Law Firm Pulse Report: An In-House View",
    "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
    "source": "Above the Law",
@@ -88,33 +115,6 @@
    "ts": "2026-11-23T17:45:52+00:00",
    "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
    "tag": "Cyber"
-  },
-  {
-   "title": "Kirsten Davies to become national cyber director nominee, Jay Clayton takes acting director job",
-   "url": "https://cyberscoop.com/kirsten-davies-jay-clayton-national-cyber-director/",
-   "source": "CyberScoop",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T16:59:03+00:00",
-   "summary": "After a brief stint as acting director, Davies will become the pick to succeed Sean Cairncross and National Cyber Director Clayton will do double duty.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-   "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-   "source": "BleepingComputer",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T16:50:01+00:00",
-   "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Is Going AI Native Incompatible with Big Law?",
-   "url": "https://www.artificiallawyer.com/2026/11/23/is-going-ai-native-incompatible-with-big-law/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T08:54:55+00:00",
-   "summary": "Major law firms are embracing legal AI tools at scale, yet where that use gets very deep the goal is often a spinout, or a...",
-   "tag": "AI"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",

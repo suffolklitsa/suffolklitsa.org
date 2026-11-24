@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-23 15:32 ET",
+ "fetched": "2026-11-24 05:32 ET",
  "status": {
-  "coalition": "ok 73",
+  "coalition": "ok 74",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 1",
-  "berkman": "ok 0"
+  "berkman": "FAILED (RuntimeError); kept 0 from last run"
  },
  "events": [
   {
@@ -52,6 +52,18 @@
    "venue": "Venture Development Center",
    "cost": "Free",
    "url": "https://luma.com/gzrgw7b0",
+   "source": "luma",
+   "tier": "ai",
+   "source_key": "coalition"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "10am–9pm",
+   "name": "Cursor Hackathon Vienna",
+   "host": "Mass AI Coalition",
+   "venue": "Wien",
+   "cost": "Free, approval required",
+   "url": "https://luma.com/spacexai",
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
