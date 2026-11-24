@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24 10:32 UTC",
+ "fetched": "2026-11-24 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,21 +10,129 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 0",
+  "Lawfare": "ok 2",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 1",
-  "TechCrunch": "ok 0",
+  "TechCrunch": "ok 2",
   "Above the Law": "ok 4"
  },
  "items": [
   {
-   "title": "OpenAI Held Talks With AI Native Law Firm",
-   "url": "https://www.artificiallawyer.com/2026/11/24/openai-held-talks-with-ai-native-law-firm/",
-   "source": "Artificial Lawyer",
+   "title": "Signal Moves to Block AI Agents",
+   "url": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
+   "source": "EFF",
    "date": "2026-11-24",
-   "ts": "2026-11-24T10:21:15+00:00",
-   "summary": "Artificial Lawyer can reveal that OpenAI has been in talks with an AI native, new model law firm, with the intention of acquiring at least...",
+   "ts": "2026-11-24T19:43:49+00:00",
+   "summary": "Signal announced an update to its mobile apps on iOS and Android that seeks to curb issues with AI agents accessing private chats. This is a useful new barrier against a problem we’ve been highlighting this year in our…",
    "tag": "AI"
+  },
+  {
+   "title": "California privacy agency director Kemp to leave after two-year tenure",
+   "url": "https://therecord.media/california-privacy-agency-kemp",
+   "source": "The Record",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T19:30:00+00:00",
+   "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "How LexisNexis Protégé Helps Attorneys Meet Emerging AI Standards",
+   "url": "https://abovethelaw.com/2026/11/how-lexisnexis-protege-helps-attorneys-meet-emerging-ai-standards/",
+   "source": "Above the Law",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T18:48:00+00:00",
+   "summary": "[Sponsored] As expectations for legal AI grow, so does the importance of choosing a partner you can trust.",
+   "tag": "AI"
+  },
+  {
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "source": "TechCrunch",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T18:02:59+00:00",
+   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "tag": "AI"
+  },
+  {
+   "title": "Supreme Court Tries To Skirt State Disclosure Laws Using Your Aunt’s Facebook Privacy Notice",
+   "url": "https://abovethelaw.com/2026/11/supreme-court-tries-to-skirt-state-disclosure-laws-using-your-aunts-facebook-privacy-notice/",
+   "source": "Above the Law",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T18:01:00+00:00",
+   "summary": "One neat trick to pretend transparency never applies to you.",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T17:49:05+00:00",
+   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+   "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+   "source": "The Record",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T17:49:00+00:00",
+   "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Patel mum on FBI crime info database hack, citing ongoing investigation",
+   "url": "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
+   "source": "CyberScoop",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T17:48:34+00:00",
+   "summary": "The breach of the National Crime Information Center was the second in recent months for the bureau.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "UK cyber agency, threat companies tracking rise in AI-assisted hacks",
+   "url": "https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/",
+   "source": "CyberScoop",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T17:27:09+00:00",
+   "summary": "The National Cyber Security Centre said it is observing a “marked” increase in such attacks across sectors, as threat actors increasingly delegate to machines.",
+   "tag": "AI"
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "source": "TechCrunch",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T16:46:00+00:00",
+   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+   "tag": "AI"
+  },
+  {
+   "title": "European Commission confirms data theft in EU Academy breach",
+   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T16:22:44+00:00",
+   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Is the Counter Ransomware Initiative Keeping Up With Ransomware?",
+   "url": "https://www.lawfaremedia.org/article/is-the-counter-ransomware-initiative-keeping-up-with-ransomware",
+   "source": "Lawfare",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T15:38:33+00:00",
+   "summary": "The Counter Ransomware Initiative met quietly in Singapore last month, raising questions about whether it has the momentum to meet an evolving threat.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW’s Annual Pitch Competition",
+   "url": "https://www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html",
+   "source": "LawSites",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T14:36:11+00:00",
+   "summary": "Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening…",
+   "tag": "Legal tech"
   },
   {
    "title": "Catherine Bamford Joins Document Drafter as Evangelist",
@@ -36,75 +144,12 @@
    "tag": "AI"
   },
   {
-   "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
-   "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
-   "source": "The Record",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T00:00:00+00:00",
-   "summary": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
-   "url": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
-   "source": "The Record",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T00:00:00+00:00",
-   "summary": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Virginia, Oregon hit SpaceX with fresh lawsuits over Grok-created CSAM",
-   "url": "https://cyberscoop.com/virginia-oregon-sue-spacex-grok-deepfakes/",
-   "source": "CyberScoop",
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "source": "The Verge",
    "date": "2026-11-23",
-   "ts": "2026-11-23T21:32:33+00:00",
-   "summary": "The lawsuit alleges that weak safeguards around nudification were a primary selling point for Musk’s business strategy to differentiate Grok and other competing AI models.",
-   "tag": "AI"
-  },
-  {
-   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-   "source": "BleepingComputer",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T20:54:51+00:00",
-   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Sam Alito Jokes About AI Brain Upload Staying On Supreme Court Forever",
-   "url": "https://abovethelaw.com/2026/11/sam-alito-jokes-about-ai-brain-upload-staying-on-supreme-court-forever/",
-   "source": "Above the Law",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T19:02:00+00:00",
-   "summary": "The unfunny premise is that he really does see his job as a divine right.",
-   "tag": "AI"
-  },
-  {
-   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-   "source": "BleepingComputer",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:38:40+00:00",
-   "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs.…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Indicted Kosovo credit card theft suspect extradited to US",
-   "url": "https://cyberscoop.com/hektor-avdyli-kosovo-credit-card-fraud-extradition/",
-   "source": "CyberScoop",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:37:00+00:00",
-   "summary": "Authorities say a hard drive in the possession of Hektor Avdyli contained millions of payment card numbers.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "The 2027 Law Firm Pulse Report: An In-House View",
-   "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
-   "source": "Above the Law",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:15:00+00:00",
-   "summary": "[Sponsored] 750 legal leaders at $1B+ companies weigh in on law firm rates, AI adoption, and the growth of insourcing.",
+   "ts": "2026-11-23T18:26:47+00:00",
+   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
    "tag": "AI"
   },
   {
@@ -126,15 +171,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
-   "url": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
-   "source": "EFF",
-   "date": "2026-11-20",
-   "ts": "2026-11-20T21:52:51+00:00",
-   "summary": "In June 2026, the surveillance authority Section 702 of FISA expired absent a consensus among lawmakers over the terms of its reauthorization. Now, with the program set to truly turn off within the next few months…",
-   "tag": "Privacy"
-  },
-  {
    "title": "New FPF Infographic Examines Key Privacy Concerns and Barriers to AgeTech Adoption Among Older Adults",
    "url": "https://fpf.org/press-releases/new-fpf-infographic-examines-key-privacy-concerns-and-barriers-to-agetech-adoption-among-older-adults/",
    "source": "Future of Privacy Forum",
@@ -142,42 +178,6 @@
    "ts": "2026-11-20T13:10:00+00:00",
    "summary": "WASHINGTON, D.C. – The Future of Privacy Forum (FPF), a global non-profit focused on data protection, AI, and emerging technologies, today released a new infographic analyzing key privacy and data governance…",
    "tag": "AI"
-  },
-  {
-   "title": "Outage Chaos: Who Turned Off All The Computer?",
-   "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer",
-   "source": "EFF",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T23:30:50+00:00",
-   "summary": "It's been a tough couple of weeks for anyone trying to use email, fly, spend money, use an Apple device *, or do signals intelligence. Technical service outages are nothing new, but why do so many big ones seem to be…",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Second Norwegian Energy Company Breached in 2 Days",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-   "source": "Dark Reading",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T20:14:15+00:00",
-   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep from Having to Resume Its Case Law Feed",
-   "url": "https://www.lawnext.com/2026/11/as-ross-seeks-to-come-back-from-the-dead-clio-sues-to-keep-its-case-law-out-of-reach.html",
-   "source": "LawSites",
-   "date": "2026-11-19",
-   "ts": "2026-11-19T19:55:19+00:00",
-   "summary": "Ever since ROSS Intelligence shut down in 2021 under the weight of a copyright lawsuit by Thomson Reuters, I have frequently referred to it in my reporting as the “now-shuttered” legal research startup. Now, it appears…",
-   "tag": "IP"
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "date": "2026-11-18",
-   "ts": "2026-11-18T02:52:04+00:00",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…",
-   "tag": "Cyber"
   }
  ]
 }
