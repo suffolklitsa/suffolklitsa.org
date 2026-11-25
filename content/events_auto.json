@@ -1,11 +1,11 @@
 {
- "fetched": "2026-11-25 05:32 ET",
+ "fetched": "2026-11-25 15:32 ET",
  "status": {
   "coalition": "ok 74",
   "luma:cal-Slf1iP6ecIGwbim": "ok 3",
   "luma:cal-emQFVlpgfBmiF0S": "ok 1",
   "bba": "ok 1",
-  "berkman": "FAILED (RuntimeError); kept 0 from last run"
+  "berkman": "ok 1"
  },
  "events": [
   {
@@ -43,6 +43,19 @@
    "source": "luma",
    "tier": "ai",
    "source_key": "coalition"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "5pm",
+   "name": "Sacred and/or Synthetic? AI, Spirituality, and the Search for Meaning",
+   "host": "Berkman Klein Center, Harvard",
+   "venue": "Harvard, Cambridge and on Zoom",
+   "cost": "Free",
+   "url": "https://cyber.harvard.edu/events/sacred-andor-synthetic-ai-spirituality-and-search-meaning",
+   "source": "berkman",
+   "tier": "boston",
+   "note": "Part of the All Too Human 2026-27 Speaker Series",
+   "source_key": "berkman"
   },
   {
    "date": "2026-12-11",

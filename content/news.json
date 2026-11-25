@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25 10:32 UTC",
+ "fetched": "2026-11-25 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -10,13 +10,58 @@
   "CyberScoop": "ok 4",
   "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
-  "Lawfare": "ok 2",
+  "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
   "The Verge": "ok 2",
-  "TechCrunch": "ok 2",
+  "TechCrunch": "ok 3",
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "The 2027 Law Firm Pulse Report: An In-House View",
+   "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
+   "source": "Above the Law",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T18:47:00+00:00",
+   "summary": "[Sponsored] 750 legal leaders at $1B+ companies weigh in on law firm rates, AI adoption, and the growth of insourcing.",
+   "tag": "AI"
+  },
+  {
+   "title": "🎩 Tech Monopolies Make Outages Worse | EFFector 38.21",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-monopolies-make-outages-worse-effector-3820",
+   "source": "EFF",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T18:26:19+00:00",
+   "summary": "Service outages, like the ones we've seen take down everything from airlines to email, seem to be coming faster than ever. Their specific causes might be different, but these wide-scale service disruptions share one…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "source": "TechCrunch",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T18:11:46+00:00",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "tag": "AI"
+  },
+  {
+   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+   "url": "https://therecord.media/ransomware-doj-indictment-recovery",
+   "source": "The Record",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T17:30:00+00:00",
+   "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+   "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+   "source": "The Record",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T17:07:00+00:00",
+   "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause…",
+   "tag": "Cyber"
+  },
   {
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
    "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
@@ -27,6 +72,33 @@
    "tag": "AI"
   },
   {
+   "title": "Huawei found guilty of stealing trade secrets",
+   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+   "source": "The Verge",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T13:19:02+00:00",
+   "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the…",
+   "tag": "IP"
+  },
+  {
+   "title": "FinCEN investigates cybersecurity incident, takes systems offline",
+   "url": "https://cyberscoop.com/fincen-investigates-cybersecurity-incident-systems-offline/",
+   "source": "CyberScoop",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T13:03:24+00:00",
+   "summary": "The Treasury financial intelligence unit said the filing portal remains operational, and deadlines for affected filers have been extended.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Walton Launches ‘Autonomous’ Transaction System",
+   "url": "https://www.artificiallawyer.com/2026/11/25/walton-launches-autonomous-transaction-system/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T12:14:10+00:00",
+   "summary": "New legal AI startup, Walton, has launched what it’s calling an autonomous transaction system, which taps a firm’s past work – along with some human...",
+   "tag": "AI"
+  },
+  {
    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
    "source": "BleepingComputer",
@@ -34,24 +106,6 @@
    "ts": "2026-11-25T10:10:20+00:00",
    "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.…",
    "tag": "Cyber"
-  },
-  {
-   "title": "Simmons & Simmons Launches Lex-Ray Legislation Tool",
-   "url": "https://www.artificiallawyer.com/2026/11/25/simmons-simmons-launches-lex-ray-legislation-tool/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T09:34:16+00:00",
-   "summary": "Simmons & Simmons has launched Lex-Ray, its own AI-powered platform that surfaces UK and EU legislation, along with ‘linking definitions, cross-references, and amendments directly to the...",
-   "tag": "AI"
-  },
-  {
-   "title": "Ex-Goodwin Lawyers Raise $11m For Funds Startup",
-   "url": "https://www.artificiallawyer.com/2026/11/25/ex-goodwin-lawyers-raise-11m-for-funds-startup/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T09:04:42+00:00",
-   "summary": "Two former Goodwin lawyers and their CTO have raised an additional $11m for their funds-focused startup, ProVision, which automates side letter management and handles a...",
-   "tag": "Legal tech"
   },
   {
    "title": "Hackers reportedly breached CIA intelligence analysis system",
@@ -70,24 +124,6 @@
    "ts": "2026-11-25T01:45:35+00:00",
    "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that…",
    "tag": "Cyber"
-  },
-  {
-   "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
-   "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
-   "source": "The Record",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T00:00:00+00:00",
-   "summary": "The Treasury Department has taken some systems offline after a cyberattack after a cybersecurity incident which “resulted in unauthorized access to a limited subset of its systems.”",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets",
-   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-   "source": "The Verge",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T23:01:12+00:00",
-   "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the…",
-   "tag": "IP"
   },
   {
    "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
@@ -114,42 +150,6 @@
    "date": "2026-11-24",
    "ts": "2026-11-24T22:01:23+00:00",
    "summary": "CyberScoop confirmed the incident, with a source saying “no other systems are currently at risk.”",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
-   "url": "https://therecord.media/mycolorado-app-down-data-breach",
-   "source": "The Record",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T20:52:00+00:00",
-   "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Signal Moves to Block AI Agents",
-   "url": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
-   "source": "EFF",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T19:43:49+00:00",
-   "summary": "Signal announced an update to its mobile apps on iOS and Android that seeks to curb issues with AI agents accessing private chats. This is a useful new barrier against a problem we’ve been highlighting this year in our…",
-   "tag": "AI"
-  },
-  {
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "source": "TechCrunch",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T18:02:59+00:00",
-   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-   "tag": "AI"
-  },
-  {
-   "title": "Is the Counter Ransomware Initiative Keeping Up With Ransomware?",
-   "url": "https://www.lawfaremedia.org/article/is-the-counter-ransomware-initiative-keeping-up-with-ransomware",
-   "source": "Lawfare",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T15:38:33+00:00",
-   "summary": "The Counter Ransomware Initiative met quietly in Singapore last month, raising questions about whether it has the momentum to meet an evolving threat.",
    "tag": "Cyber"
   },
   {
