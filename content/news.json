@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-24 20:32 UTC",
+ "fetched": "2026-11-25 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,11 +12,119 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 2",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 1",
+  "The Verge": "ok 2",
   "TechCrunch": "ok 2",
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+   "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+   "source": "Dark Reading",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T15:00:00+00:00",
+   "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model…",
+   "tag": "AI"
+  },
+  {
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T10:10:20+00:00",
+   "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Simmons & Simmons Launches Lex-Ray Legislation Tool",
+   "url": "https://www.artificiallawyer.com/2026/11/25/simmons-simmons-launches-lex-ray-legislation-tool/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T09:34:16+00:00",
+   "summary": "Simmons & Simmons has launched Lex-Ray, its own AI-powered platform that surfaces UK and EU legislation, along with ‘linking definitions, cross-references, and amendments directly to the...",
+   "tag": "AI"
+  },
+  {
+   "title": "Ex-Goodwin Lawyers Raise $11m For Funds Startup",
+   "url": "https://www.artificiallawyer.com/2026/11/25/ex-goodwin-lawyers-raise-11m-for-funds-startup/",
+   "source": "Artificial Lawyer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T09:04:42+00:00",
+   "summary": "Two former Goodwin lawyers and their CTO have raised an additional $11m for their funds-focused startup, ProVision, which automates side letter management and handles a...",
+   "tag": "Legal tech"
+  },
+  {
+   "title": "Hackers reportedly breached CIA intelligence analysis system",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T07:45:03+00:00",
+   "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA)…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+   "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+   "source": "The Verge",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T01:45:35+00:00",
+   "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
+   "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+   "source": "The Record",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T00:00:00+00:00",
+   "summary": "The Treasury Department has taken some systems offline after a cyberattack after a cybersecurity incident which “resulted in unauthorized access to a limited subset of its systems.”",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets",
+   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+   "source": "The Verge",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T23:01:12+00:00",
+   "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the…",
+   "tag": "IP"
+  },
+  {
+   "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
+   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+   "source": "EFF",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T22:35:05+00:00",
+   "summary": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "3 More Questions For A Patent Litigator Turned Legal Recruiter (Part II)",
+   "url": "https://abovethelaw.com/2026/11/3-more-questions-for-a-patent-litigator-turned-legal-recruiter-part-ii/",
+   "source": "Above the Law",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T22:34:00+00:00",
+   "summary": "Khurram Naik is providing real help to our industry, all informed by his thoughtful and forward-looking approach.",
+   "tag": "IP"
+  },
+  {
+   "title": "Unclassified intel system hit by hackers, affecting CIA, ODNI",
+   "url": "https://cyberscoop.com/cia-odni-osint-data-breach/",
+   "source": "CyberScoop",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T22:01:23+00:00",
+   "summary": "CyberScoop confirmed the incident, with a source saying “no other systems are currently at risk.”",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+   "url": "https://therecord.media/mycolorado-app-down-data-breach",
+   "source": "The Record",
+   "date": "2026-11-24",
+   "ts": "2026-11-24T20:52:00+00:00",
+   "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
+   "tag": "Cyber"
+  },
   {
    "title": "Signal Moves to Block AI Agents",
    "url": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
@@ -27,24 +135,6 @@
    "tag": "AI"
   },
   {
-   "title": "California privacy agency director Kemp to leave after two-year tenure",
-   "url": "https://therecord.media/california-privacy-agency-kemp",
-   "source": "The Record",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T19:30:00+00:00",
-   "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "How LexisNexis Protégé Helps Attorneys Meet Emerging AI Standards",
-   "url": "https://abovethelaw.com/2026/11/how-lexisnexis-protege-helps-attorneys-meet-emerging-ai-standards/",
-   "source": "Above the Law",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T18:48:00+00:00",
-   "summary": "[Sponsored] As expectations for legal AI grow, so does the importance of choosing a partner you can trust.",
-   "tag": "AI"
-  },
-  {
    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
    "source": "TechCrunch",
@@ -52,69 +142,6 @@
    "ts": "2026-11-24T18:02:59+00:00",
    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
    "tag": "AI"
-  },
-  {
-   "title": "Supreme Court Tries To Skirt State Disclosure Laws Using Your Aunt’s Facebook Privacy Notice",
-   "url": "https://abovethelaw.com/2026/11/supreme-court-tries-to-skirt-state-disclosure-laws-using-your-aunts-facebook-privacy-notice/",
-   "source": "Above the Law",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T18:01:00+00:00",
-   "summary": "One neat trick to pretend transparency never applies to you.",
-   "tag": "Privacy"
-  },
-  {
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "source": "BleepingComputer",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T17:49:05+00:00",
-   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-   "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-   "source": "The Record",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T17:49:00+00:00",
-   "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Patel mum on FBI crime info database hack, citing ongoing investigation",
-   "url": "https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/",
-   "source": "CyberScoop",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T17:48:34+00:00",
-   "summary": "The breach of the National Crime Information Center was the second in recent months for the bureau.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "UK cyber agency, threat companies tracking rise in AI-assisted hacks",
-   "url": "https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/",
-   "source": "CyberScoop",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T17:27:09+00:00",
-   "summary": "The National Cyber Security Centre said it is observing a “marked” increase in such attacks across sectors, as threat actors increasingly delegate to machines.",
-   "tag": "AI"
-  },
-  {
-   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-   "source": "TechCrunch",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T16:46:00+00:00",
-   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-   "tag": "AI"
-  },
-  {
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T16:22:44+00:00",
-   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.…",
-   "tag": "Privacy"
   },
   {
    "title": "Is the Counter Ransomware Initiative Keeping Up With Ransomware?",
@@ -133,33 +160,6 @@
    "ts": "2026-11-24T14:36:11+00:00",
    "summary": "Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening…",
    "tag": "Legal tech"
-  },
-  {
-   "title": "Catherine Bamford Joins Document Drafter as Evangelist",
-   "url": "https://www.artificiallawyer.com/2026/11/24/catherine-bamford-joins-document-drafter-as-evangelist/",
-   "source": "Artificial Lawyer",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T08:12:23+00:00",
-   "summary": "Document Drafter has hired document automation guru, Catherine Bamford, as an Evangelist to help law firms in their transition into the world of decentralised AI...",
-   "tag": "AI"
-  },
-  {
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "source": "The Verge",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T18:26:47+00:00",
-   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
-   "tag": "AI"
-  },
-  {
-   "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-   "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-   "source": "Dark Reading",
-   "date": "2026-11-23",
-   "ts": "2026-11-23T17:45:52+00:00",
-   "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
-   "tag": "Cyber"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
