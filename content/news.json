@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26 10:32 UTC",
+ "fetched": "2026-11-26 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -12,11 +12,29 @@
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
-  "The Verge": "ok 2",
-  "TechCrunch": "ok 3",
+  "The Verge": "ok 4",
+  "TechCrunch": "ok 2",
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Android app developers will soon have to share their address publicly",
+   "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+   "source": "The Verge",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T18:19:32+00:00",
+   "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to…",
+   "tag": "Privacy"
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T09:54:40+00:00",
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs…",
+   "tag": "AI"
+  },
   {
    "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
    "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
@@ -24,6 +42,15 @@
    "date": "2026-11-26",
    "ts": "2026-11-26T08:00:00+00:00",
    "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+   "url": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+   "source": "The Record",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T00:00:00+00:00",
+   "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
    "tag": "Cyber"
   },
   {
@@ -52,15 +79,6 @@
    "ts": "2026-11-25T21:00:00+00:00",
    "summary": "Alternative fee arrangements are gaining ground at the largest of law firms.",
    "tag": "AI"
-  },
-  {
-   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
-   "url": "https://therecord.media/fifa-data-breach-limited",
-   "source": "The Record",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T20:40:00+00:00",
-   "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
-   "tag": "Cyber"
   },
   {
    "title": "The 2027 Law Firm Pulse Report: An In-House View",
@@ -99,15 +117,6 @@
    "tag": "AI"
   },
   {
-   "title": "Huawei found guilty of stealing trade secrets",
-   "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-   "source": "The Verge",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T13:19:02+00:00",
-   "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the…",
-   "tag": "IP"
-  },
-  {
    "title": "FinCEN investigates cybersecurity incident, takes systems offline",
    "url": "https://cyberscoop.com/fincen-investigates-cybersecurity-incident-systems-offline/",
    "source": "CyberScoop",
@@ -132,15 +141,6 @@
    "date": "2026-11-25",
    "ts": "2026-11-25T10:10:20+00:00",
    "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-   "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-   "source": "The Verge",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T01:45:35+00:00",
-   "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that…",
    "tag": "Cyber"
   },
   {
