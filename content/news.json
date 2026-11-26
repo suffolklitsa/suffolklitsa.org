@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-25 20:32 UTC",
+ "fetched": "2026-11-26 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -17,6 +17,51 @@
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+   "source": "Dark Reading",
+   "date": "2026-11-26",
+   "ts": "2026-11-26T08:00:00+00:00",
+   "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "1Password customer data stolen after employee GitHub account breach",
+   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T21:33:33+00:00",
+   "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "source": "The Record",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T21:18:00+00:00",
+   "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+   "tag": "AI"
+  },
+  {
+   "title": "Biglaw’s AI Shift Is Changing How Legal Work Gets Priced",
+   "url": "https://abovethelaw.com/2026/11/biglaws-ai-shift-is-changing-how-legal-work-gets-priced/",
+   "source": "Above the Law",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T21:00:00+00:00",
+   "summary": "Alternative fee arrangements are gaining ground at the largest of law firms.",
+   "tag": "AI"
+  },
+  {
+   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+   "url": "https://therecord.media/fifa-data-breach-limited",
+   "source": "The Record",
+   "date": "2026-11-25",
+   "ts": "2026-11-25T20:40:00+00:00",
+   "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
+   "tag": "Cyber"
+  },
   {
    "title": "The 2027 Law Firm Pulse Report: An In-House View",
    "url": "https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/",
@@ -43,24 +88,6 @@
    "ts": "2026-11-25T18:11:46+00:00",
    "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
    "tag": "AI"
-  },
-  {
-   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
-   "url": "https://therecord.media/ransomware-doj-indictment-recovery",
-   "source": "The Record",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T17:30:00+00:00",
-   "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
-   "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
-   "source": "The Record",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T17:07:00+00:00",
-   "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause…",
-   "tag": "Cyber"
   },
   {
    "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
@@ -108,15 +135,6 @@
    "tag": "Cyber"
   },
   {
-   "title": "Hackers reportedly breached CIA intelligence analysis system",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-   "source": "BleepingComputer",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T07:45:03+00:00",
-   "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA)…",
-   "tag": "Cyber"
-  },
-  {
    "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
    "source": "The Verge",
@@ -133,24 +151,6 @@
    "ts": "2026-11-24T22:35:05+00:00",
    "summary": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on…",
    "tag": "Privacy"
-  },
-  {
-   "title": "3 More Questions For A Patent Litigator Turned Legal Recruiter (Part II)",
-   "url": "https://abovethelaw.com/2026/11/3-more-questions-for-a-patent-litigator-turned-legal-recruiter-part-ii/",
-   "source": "Above the Law",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T22:34:00+00:00",
-   "summary": "Khurram Naik is providing real help to our industry, all informed by his thoughtful and forward-looking approach.",
-   "tag": "IP"
-  },
-  {
-   "title": "Unclassified intel system hit by hackers, affecting CIA, ODNI",
-   "url": "https://cyberscoop.com/cia-odni-osint-data-breach/",
-   "source": "CyberScoop",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T22:01:23+00:00",
-   "summary": "CyberScoop confirmed the incident, with a source saying “no other systems are currently at risk.”",
-   "tag": "Cyber"
   },
   {
    "title": "Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW’s Annual Pitch Competition",
