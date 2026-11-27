@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-26 20:32 UTC",
+ "fetched": "2026-11-27 10:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -8,7 +8,7 @@
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 4",
+  "BleepingComputer": "ok 2",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
@@ -17,6 +17,24 @@
   "Above the Law": "ok 4"
  },
  "items": [
+  {
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27",
+   "ts": "2026-11-27T10:10:15+00:00",
+   "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Rad Gifts That Fund the Fight: EFF's Holiday Merch Guide for 2026",
+   "url": "https://www.eff.org/deeplinks/2026/11/rad-gifts-fund-fight-effs-holiday-merch-guide-2026",
+   "source": "EFF",
+   "date": "2026-11-27",
+   "ts": "2026-11-27T08:00:01+00:00",
+   "summary": "EFF supporters are why our lawyers can sue the government when it spies on you and chills your free speech. EFF members make it possible for our technologists to build the tools to protect privacy on the streets and…",
+   "tag": "Privacy"
+  },
   {
    "title": "Android app developers will soon have to share their address publicly",
    "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
@@ -133,24 +151,6 @@
    "ts": "2026-11-25T12:14:10+00:00",
    "summary": "New legal AI startup, Walton, has launched what it’s calling an autonomous transaction system, which taps a firm’s past work – along with some human...",
    "tag": "AI"
-  },
-  {
-   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-   "source": "BleepingComputer",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T10:10:20+00:00",
-   "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
-   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-   "source": "EFF",
-   "date": "2026-11-24",
-   "ts": "2026-11-24T22:35:05+00:00",
-   "summary": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on…",
-   "tag": "Privacy"
   },
   {
    "title": "Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW’s Annual Pitch Competition",
