@@ -1,5 +1,5 @@
 {
- "fetched": "2026-11-27 10:32 UTC",
+ "fetched": "2026-11-27 20:32 UTC",
  "status": {
   "LawSites": "ok 4",
   "Artificial Lawyer": "ok 4",
@@ -8,7 +8,7 @@
   "The Record": "ok 4",
   "Krebs on Security": "ok 2",
   "CyberScoop": "ok 4",
-  "BleepingComputer": "ok 2",
+  "BleepingComputer": "ok 4",
   "Dark Reading": "ok 4",
   "Lawfare": "ok 0",
   "FTC": "FAILED (HTTPError); kept 0",
@@ -18,12 +18,39 @@
  },
  "items": [
   {
-   "title": "Drupal warns of new site takeover flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
    "source": "BleepingComputer",
    "date": "2026-11-27",
-   "ts": "2026-11-27T10:10:15+00:00",
-   "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites.…",
+   "ts": "2026-11-27T19:26:04+00:00",
+   "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27",
+   "ts": "2026-11-27T18:57:42+00:00",
+   "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm.…",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Japan’s education ministry discloses breach of government procurement system",
+   "url": "https://therecord.media/japan-education-ministry-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-27",
+   "ts": "2026-11-27T14:15:00+00:00",
+   "summary": "Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.",
+   "tag": "Cyber"
+  },
+  {
+   "title": "Software giant SAP confirms cyber incident amid reports of source code breach",
+   "url": "https://therecord.media/sap-germany-cyberattack-github",
+   "source": "The Record",
+   "date": "2026-11-27",
+   "ts": "2026-11-27T13:15:00+00:00",
+   "summary": "German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.",
    "tag": "Cyber"
   },
   {
@@ -61,33 +88,6 @@
    "ts": "2026-11-26T08:00:00+00:00",
    "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
    "tag": "Cyber"
-  },
-  {
-   "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
-   "url": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
-   "source": "The Record",
-   "date": "2026-11-26",
-   "ts": "2026-11-26T00:00:00+00:00",
-   "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
-   "tag": "Cyber"
-  },
-  {
-   "title": "1Password customer data stolen after employee GitHub account breach",
-   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T21:33:33+00:00",
-   "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.…",
-   "tag": "Cyber"
-  },
-  {
-   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
-   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-   "source": "The Record",
-   "date": "2026-11-25",
-   "ts": "2026-11-25T21:18:00+00:00",
-   "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
-   "tag": "AI"
   },
   {
    "title": "Biglaw’s AI Shift Is Changing How Legal Work Gets Priced",
